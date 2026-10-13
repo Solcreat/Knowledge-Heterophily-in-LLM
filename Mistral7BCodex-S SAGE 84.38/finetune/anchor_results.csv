@@ -1,0 +1,801 @@
+triplet_id,triplet_prompt,tf_value
+32,The occupation of Wilhelm Grimm is or was librarian.,0
+56,Henry Wadsworth Longfellow communicates in English.,1
+65,The occupation of Maureen Tucker is or was musician.,1
+72,Giorgio Gaber communicates in Italian.,1
+90,The genre of Little Richard is rhythm and blues.,1
+114,The occupation of Bhimrao Ramji Ambedkar is or was historian.,0
+124,The occupation of Ulrich von Wilamowitz-Moellendorff is or was politician.,0
+135,Peter Debye is employed by Cornell University.,0
+198,The occupation of Friedrich von Raumer is or was historian.,1
+223,The occupation of Jewel is or was composer.,0
+229,The occupation of Eugen Rosenstock-Huessy is or was sociologist.,1
+243,André 3000 belongs to the African Americans ethnic group.,1
+348,The occupation of Alberto Manguel is or was librarian.,0
+479,The occupation of Joe Walsh is or was composer.,0
+521,Poland has a diplomatic relation with Russia.,1
+561,Little Richard belongs to the African Americans ethnic group.,1
+576,The occupation of Albertus Magnus is or was music theorist.,0
+595,The occupation of D. H. Lawrence is or was literary critic.,0
+609,The occupation of Heinrich Brunner is or was historian.,0
+622,The occupation of Howard Zinn is or was historian.,1
+696,The occupation of Thomas Hobbes is or was historian.,0
+716,Ursula K. Le Guin was influenced by J. R. R. Tolkien.,1
+717,The occupation of Winston Churchill is or was historian.,0
+759,The occupation of François-René de Chateaubriand is or was historian.,0
+846,The record label for Yvonne De Carlo is Columbia Records.,0
+901,D. H. Lawrence suffers from tuberculosis.,0
+905,Romania has a diplomatic relation with Poland.,1
+930,The occupation of David Hume is or was librarian.,0
+943,The occupation of Friedrich Carl von Savigny is or was politician.,0
+998,The occupation of Karl Marx is or was poet.,0
+1047,André Gide communicates in French.,1
+1061,The child of Nat King Cole is Natalie Cole.,1
+1170,The occupation of W.E.B. Du Bois is or was sociologist.,1
+1199,The genre of Svetlana Surganova is rock and roll.,1
+1255,Nat King Cole died of cancer.,1
+1285,André Malraux was influenced by André Gide.,1
+1341,The occupation of Albertus Magnus is or was chemist.,0
+1369,The occupation of Theodor W. Adorno is or was pianist.,0
+1379,Common uses the instrument voice.,0
+1384,The record label for Little Richard is RCA Records.,1
+1391,Ivan Goncharov is a citizen of Russian Empire.,1
+1418,Joe Walsh is a citizen of United States of America.,1
+1425,The occupation of Alicia Keys is or was pianist.,0
+1512,The occupation of Seth Rogen is or was writer.,0
+1516,The occupation of Milva is or was actor.,0
+1525,André Gide belongs to the French people ethnic group.,1
+1569,Ruslana uses the instrument percussion instrument.,0
+1758,The occupation of Norman Mailer is or was historian.,0
+1810,Giuseppe Ungaretti communicates in Italian.,1
+1973,The occupation of Gottfried Wilhelm Leibniz is or was historian.,0
+2041,D. H. Lawrence belongs to the English people ethnic group.,0
+2067,The official language of Holy Roman Empire is Italian.,0
+2068,The occupation of Charlton Heston is or was film director.,0
+2130,The occupation of Euclides da Cunha is or was historian.,0
+2149,The occupation of August Ludwig von Schlözer is or was historian.,1
+2173,Prince uses the instrument percussion instrument.,0
+2221,The genre of Yvonne De Carlo is pop music.,0
+2248,The occupation of Friedrich Engels is or was sociologist.,0
+2276,The genre of Common is contemporary R&B.,1
+2312,The occupation of Ursula K. Le Guin is or was science fiction writer.,1
+2314,The occupation of Georg Forster is or was librarian.,0
+2342,Henri Bergson is employed by Collège de France.,0
+2377,The occupation of Henri Bergson is or was professor.,1
+2438,The occupation of Albertus Magnus is or was geographer.,0
+2443,André 3000 is a citizen of United States of America.,1
+2502,The occupation of Zhores Alfyorov is or was politician.,0
+2566,Karl Marx resides or resided in Paris.,0
+2659,The genre of Little Richard is funk.,0
+2699,The occupation of Yvonne De Carlo is or was actor.,1
+2718,Seth Rogen was influenced by Judd Apatow.,1
+2753,The occupation of David Bowie is or was pianist.,0
+2804,The occupation of Steve Carell is or was film actor.,1
+2868,Karl Marx was influenced by Georg Wilhelm Friedrich Hegel.,1
+2882,The record label for Little Richard is Mercury Records.,1
+2996,The occupation of Seth Rogen is or was executive producer.,0
+3000,The occupation of Leon Russell is or was musician.,1
+3055,The occupation of Jewel is or was poet.,0
+3100,The occupation of André Gide is or was playwright.,0
+3103,Poland is a member of Group on Earth Observations.,1
+3127,The occupation of Samuel Johnson is or was politician.,0
+3146,Poland has a diplomatic relation with Indonesia.,1
+3362,The occupation of Ivan Goncharov is or was author.,1
+3383,The occupation of Little Richard is or was singer.,1
+3433,Joe Walsh uses the instrument guitar.,1
+3475,The genre of Janis Ian is pop music.,0
+3535,The official language of Switzerland is Italian.,0
+3699,The occupation of Jorge Luis Borges is or was librarian.,0
+3756,The occupation of Miguel de Unamuno is or was politician.,0
+3783,George Frideric Handel communicates in Italian.,0
+3798,Joe Walsh uses the instrument mandolin.,0
+3907,The genre of Ian McLagan is rock and roll.,1
+3962,The religion or worldview of Henri Bergson is Judaism.,0
+3977,The genre of Leon Russell is country music.,0
+4003,The occupation of Gotthelf Fischer von Waldheim is or was librarian.,0
+4015,The occupation of Common is or was writer.,0
+4048,Jô Soares communicates in Italian.,0
+4087,The occupation of Leon Russell is or was singer-songwriter.,1
+4194,Leon Russell died in Nashville.,0
+4287,Joseph Brodsky died in Brooklyn.,0
+4364,Edmund Wilson was influenced by Karl Marx.,1
+4425,The genre of Paul McCartney is rock and roll.,1
+4513,The occupation of Jean-Victor Poncelet is or was politician.,0
+4516,Nat King Cole died in Santa Monica.,1
+4519,The genre of André 3000 is funk.,0
+4554,Leon Battista Alberti communicates in Italian.,1
+4571,The occupation of André 3000 is or was musician.,1
+4607,Henri Bergson was influenced by Gottfried Wilhelm Leibniz.,1
+4692,The genre of Yvonne De Carlo is blues.,0
+4825,The field of work of Albertus Magnus is philosophy.,0
+4902,Poland has a diplomatic relation with Uruguay.,1
+5192,The record label for Common is MCA Records.,0
+5255,The occupation of Adam Levine is or was pianist.,0
+5272,The occupation of John Ruskin is or was sociologist.,0
+5337,The occupation of Stanislao Cannizzaro is or was politician.,0
+5371,The occupation of Akon is or was songwriter.,1
+5533,Nat King Cole uses the instrument piano.,1
+5567,The occupation of Theodore Roosevelt is or was politician.,1
+5636,The occupation of Bhimrao Ramji Ambedkar is or was sociologist.,0
+5682,Maureen Tucker uses the instrument bass guitar.,0
+5715,Dorothy L. Sayers communicates in Italian.,0
+5768,Fredric Jameson was influenced by Karl Marx.,1
+5792,The occupation of Valeriya Novodvorskaya is or was librarian.,0
+5875,Maureen Tucker uses the instrument voice.,1
+5890,The genre of Joseph Brodsky is poetry.,1
+5982,The occupation of Andrey Korotayev is or was sociologist.,1
+6042,The occupation of Regina Spektor is or was pianist.,0
+6054,The occupation of Montesquieu is or was sociologist.,0
+6104,Charlton Heston died in Beverly Hills.,0
+6117,The genre of Lily Allen is pop music.,1
+6213,The record label for Common is Warner Bros..,1
+6224,The occupation of Jackson Browne is or was pianist.,0
+6375,The occupation of Pierre-Joseph Proudhon is or was sociologist.,0
+6387,The occupation of Eduard Limonov is or was politician.,1
+6410,Joe Walsh uses the instrument piano.,0
+6425,Henri Bergson is a member of Académie Française.,0
+6438,The occupation of Jacob Grimm is or was librarian.,0
+6458,The occupation of CeeLo Green is or was composer.,1
+6477,The occupation of Janis Ian is or was guitarist.,0
+6572,The occupation of Steve Carell is or was producer.,0
+6577,The occupation of Charlton Heston is or was film actor.,1
+6583,The genre of Little Richard is rock and roll.,1
+6594,The occupation of Steve Carell is or was film producer.,0
+6655,Sarah Brightman communicates in Italian.,0
+6711,The occupation of Jewel is or was guitarist.,0
+6753,The occupation of Steve Carell is or was television producer.,0
+6807,The occupation of Al-Biruni is or was historian.,1
+6852,Joseph Brodsky communicates in English.,0
+6857,The religion or worldview of Steve Carell is Catholicism.,0
+6874,Raymond Aron was influenced by Karl Marx.,1
+6947,The occupation of André Gide is or was journalist.,0
+6982,The occupation of Johann Wolfgang von Goethe is or was politician.,0
+7010,The occupation of Montesquieu is or was historian.,0
+7030,The record label for CeeLo Green is Arista.,0
+7085,Charlton Heston communicates in English.,1
+7086,The occupation of Jewel is or was singer-songwriter.,1
+7110,Alan Stivell uses the instrument percussion instrument.,1
+7111,Seth Rogen belongs to the Jewish people ethnic group.,1
+7134,The occupation of Yehudi Menuhin is or was politician.,0
+7139,The occupation of Claude Lévi-Strauss is or was sociologist.,1
+7232,M.I.A. uses the instrument percussion instrument.,1
+7267,Jason Newsted uses the instrument percussion instrument.,0
+7294,The occupation of Joseph Brodsky is or was playwright.,0
+7351,Mark Ronson uses the instrument percussion instrument.,1
+7362,The genre of Yvonne De Carlo is jazz.,0
+7363,The occupation of Akiko Yano is or was pianist.,0
+7390,The occupation of John Cale is or was pianist.,0
+7393,The occupation of Sam Cooke is or was pianist.,0
+7403,The occupation of Mircea Eliade is or was historian.,0
+7410,The occupation of Salvador de Madariaga is or was historian.,1
+7545,The occupation of Leszek Kołakowski is or was historian.,0
+7609,A. R. Rahman uses the instrument percussion instrument.,1
+7645,Karl Marx was educated at University of Jena.,0
+7718,Nat King Cole uses the instrument voice.,1
+7786,Serbia has a diplomatic relation with Poland.,1
+7826,The occupation of Janis Ian is or was songwriter.,1
+7877,The occupation of Gotthold Ephraim Lessing is or was librarian.,0
+8019,The occupation of Seth Rogen is or was voice actor.,0
+8033,The occupation of Little Richard is or was pianist.,0
+8182,Umberto Eco communicates in Italian.,0
+8206,The occupation of André 3000 is or was voice actor.,0
+8229,The occupation of Julian Klaczko is or was politician.,1
+8251,Milva communicates in Italian.,1
+8267,Poland has a diplomatic relation with France.,1
+8275,The occupation of Akon is or was actor.,0
+8345,The time period of Nat King Cole is 20th century.,1
+8416,The occupation of Albertus Magnus is or was botanist.,0
+8504,Zemfira uses the instrument percussion instrument.,0
+8519,The occupation of D. H. Lawrence is or was screenwriter.,0
+8618,The occupation of Theodor W. Adorno is or was sociologist.,1
+8633,The genre of Joe Walsh is country music.,0
+8635,Karl Marx resides or resided in London.,1
+8639,Heinrich Schliemann communicates in Italian.,0
+8865,Czechoslovakia has a diplomatic relation with Poland.,1
+8867,The occupation of Charlton Heston is or was stage actor.,0
+8875,The occupation of Common is or was film producer.,0
+8893,Ursula K. Le Guin is a member of American Academy of Arts and Letters.,0
+9160,The occupation of Rita Levi-Montalcini is or was politician.,0
+9270,Poland has a diplomatic relation with United Kingdom.,1
+9316,The occupation of Joseph Fourier is or was historian.,0
+9375,Theodor W. Adorno was influenced by Karl Marx.,1
+9406,The occupation of Winston Churchill is or was politician.,1
+9419,Leon Russell is a citizen of United States of America.,1
+9425,The occupation of Ernst Troeltsch is or was sociologist.,1
+9475,Marvin Gaye was influenced by Nat King Cole.,1
+9493,The occupation of Milva is or was stage actor.,0
+9506,The occupation of Alexis de Tocqueville is or was politician.,0
+9515,Poland is a member of Visa Waiver Program.,0
+9746,The genre of Maureen Tucker is rock and roll.,0
+9794,The genre of Renato Carosone is rock and roll.,0
+9819,Joseph Brodsky belongs to the Jewish people ethnic group.,0
+9839,Karl Marx belongs to the Germans ethnic group.,0
+9898,The genre of Akon is pop music.,1
+9920,The occupation of Karl Marx is or was politician.,0
+9963,Jewel is a citizen of United States of America.,0
+9996,The genre of Nat King Cole is jazz.,1
+10006,Lionel Hampton uses the instrument percussion instrument.,1
+10013,The occupation of Václav Havel is or was politician.,1
+10122,The record label for Akon is Republic Records.,0
+10239,Janis Ian is a citizen of United States of America.,1
+10281,Poland has a diplomatic relation with Greece.,1
+10284,Shakira uses the instrument percussion instrument.,1
+10346,The occupation of Yvonne De Carlo is or was film actor.,1
+10400,CeeLo Green was born in Atlanta.,1
+10413,Ringo Starr uses the instrument percussion instrument.,1
+10423,Ralf Dahrendorf was influenced by Karl Marx.,1
+10454,The occupation of Richard Marx is or was pianist.,0
+10512,The occupation of Steve Carell is or was character actor.,0
+10587,The record label for Janis Ian is Columbia Records.,1
+10686,The occupation of Karl Marx is or was historian.,0
+10690,The genre of Leon Russell is blues.,0
+10773,Mikhail Bakunin was influenced by Karl Marx.,1
+10849,The occupation of Albertus Magnus is or was professor.,1
+10851,Ursula K. Le Guin was influenced by Emma Goldman.,1
+10879,The occupation of D. H. Lawrence is or was translator.,0
+10916,The occupation of Ivan Goncharov is or was linguist.,0
+10975,The occupation of Common is or was television actor.,1
+11002,Poland has a diplomatic relation with Turkey.,1
+11016,Poland belongs to the Germans ethnic group.,0
+11035,The occupation of Lonnie Liston Smith is or was pianist.,1
+11099,"In The Compleat Beatles, Little Richard is a cast member.",0
+11111,The occupation of Common is or was model.,0
+11155,André 3000 was born in Atlanta.,1
+11200,The genre of Common is hip hop music.,1
+11220,Leszek Kołakowski was influenced by Karl Marx.,0
+11444,André Gide died in Paris.,1
+11486,The occupation of Milva is or was film actor.,1
+11555,The genre of Charlton Heston is Western.,0
+11564,The occupation of Karl Mannheim is or was sociologist.,1
+11579,Albertus Magnus is employed by University of Paris (1896-1968).,0
+11639,Hugo Huppert is a citizen of Poland.,0
+11655,Karl Marx was educated at University of Bonn.,0
+11657,Ivan Goncharov is a member of Saint Petersburg Academy of Sciences.,0
+11659,The genre of Jewel is country music.,1
+11710,The occupation of Ivan Goncharov is or was translator.,0
+11733,The occupation of Kenneth Burke is or was sociologist.,0
+11773,The occupation of Jean-Paul Sartre is or was sociologist.,0
+11792,The genre of Oleg Skripka is rock and roll.,0
+11969,Steve Carell communicates in English.,1
+12003,Taiwan has a diplomatic relation with Poland.,0
+12203,The occupation of Friedrich Schiller is or was librarian.,0
+12219,The occupation of Seth Rogen is or was screenwriter.,0
+12259,The occupation of Leon Russell is or was pianist.,1
+12382,The genre of Maureen Tucker is art rock.,0
+12420,The occupation of Siméon Denis Poisson is or was politician.,0
+12437,Galileo Galilei communicates in Italian.,1
+12438,The occupation of Yvonne De Carlo is or was television actor.,1
+12512,The record label for CeeLo Green is Atlantic Records.,1
+12549,The occupation of Steve Carell is or was screenwriter.,0
+12594,The occupation of Akon is or was record producer.,0
+12604,Joumana Haddad communicates in Italian.,0
+12738,Canada has a diplomatic relation with Poland.,1
+12780,Karl Marx resides or resided in Berlin.,1
+12805,The occupation of Maureen Tucker is or was singer-songwriter.,0
+12853,The occupation of Joe Walsh is or was actor.,0
+12921,André 3000 uses the instrument voice.,0
+12945,The occupation of Franz Miklosich is or was librarian.,0
+13015,The field of work of Janis Ian is poetry.,0
+13037,Jean-Paul Sartre was influenced by Karl Marx.,1
+13051,Milva is a citizen of Italy.,0
+13130,Poland is a member of International Development Association.,0
+13159,The genre of Keith Richards is rock and roll.,1
+13185,Jewel uses the instrument voice.,0
+13195,The genre of Joe Walsh is rock music.,1
+13213,The occupation of Gottfried Wilhelm Leibniz is or was librarian.,0
+13225,The occupation of Leon Russell is or was guitarist.,0
+13231,The occupation of André Gide is or was novelist.,0
+13241,The occupation of Common is or was record producer.,0
+13254,Gloria Estefan uses the instrument percussion instrument.,1
+13277,The occupation of Ursula K. Le Guin is or was author.,1
+13326,The occupation of Seth Rogen is or was film director.,0
+13362,Joseph Brodsky died of myocardial infarction.,1
+13519,Leszek Kołakowski is a citizen of Poland.,1
+13567,Benoit Mandelbrot is a citizen of Poland.,0
+13591,The genre of Milva is disco.,0
+13662,The record label for Common is Warner Music Group.,0
+13780,The occupation of Joe Walsh is or was film actor.,0
+13852,The occupation of Immanuel Kant is or was librarian.,0
+13899,Ursula K. Le Guin is a member of Phi Beta Kappa Society.,0
+13949,The field of work of Jewel is musical composition.,0
+13997,The official language of Vatican City is Italian.,1
+14049,Leon Russell uses the instrument piano.,1
+14079,The occupation of Nat King Cole is or was actor.,0
+14186,The occupation of Ursula K. Le Guin is or was screenwriter.,0
+14249,The occupation of Maureen Tucker is or was guitarist.,0
+14494,Karl Marx communicates in German.,0
+14572,The occupation of Hu Shih is or was politician.,0
+14612,Joseph Brodsky is a member of American Academy of Arts and Sciences.,0
+14625,The occupation of Ursula K. Le Guin is or was prose.,1
+14728,The occupation of André Gide is or was autobiographer.,0
+14894,The occupation of Mary Wollstonecraft is or was historian.,0
+14911,Akon is a citizen of Senegal.,0
+14987,The occupation of André 3000 is or was rapper.,1
+15001,The occupation of Ian McLagan is or was pianist.,1
+15075,The religion or worldview of Common is Christianity.,0
+15135,The occupation of Nat King Cole is or was singer-songwriter.,1
+15148,Nino Rota communicates in Italian.,1
+15183,The occupation of Akon is or was rapper.,1
+15185,Ursula K. Le Guin was influenced by Peter Kropotkin.,1
+15194,Seth Rogen resides or resided in Los Angeles.,1
+15243,Seth Rogen was influenced by Adam Sandler.,0
+15272,D. H. Lawrence communicates in English.,1
+15281,Henri Bergson was influenced by Arthur Schopenhauer.,1
+15299,The genre of Maureen Tucker is experimental rock.,0
+15353,The occupation of Tomáš Garrigue Masaryk is or was sociologist.,0
+15362,D. H. Lawrence died of tuberculosis.,1
+15405,Little Richard is a citizen of United States of America.,1
+15407,The occupation of Max Weber is or was politician.,0
+15447,Henry Wadsworth Longfellow was influenced by Charles Dickens.,1
+15506,Ivan Goncharov belongs to the Russians ethnic group.,0
+15520,The genre of Lily Allen is synth-pop.,0
+15581,The occupation of Janis Ian is or was novelist.,0
+15607,The occupation of Charlton Heston is or was autobiographer.,0
+15620,Maureen Tucker is a citizen of United States of America.,1
+15634,The occupation of Lily Allen is or was film actor.,0
+15643,The occupation of Nat King Cole is or was jazz musician.,1
+15650,The occupation of André Gide is or was writer.,0
+15678,The occupation of Maureen Tucker is or was singer.,0
+15757,The occupation of Georges Cuvier is or was politician.,0
+15789,The religion or worldview of Albertus Magnus is Catholic Church.,1
+15800,The occupation of Philip Pullman is or was librarian.,0
+15837,The occupation of Seth Rogen is or was comedian.,1
+16007,The occupation of Lily Allen is or was actor.,0
+16042,Ursula K. Le Guin was educated at Harvard University.,1
+16288,Paul McCartney uses the instrument percussion instrument.,0
+16351,Charlton Heston died of pneumonia.,0
+16371,The occupation of Common is or was poet.,0
+16374,The occupation of Benjamin Britten is or was politician.,0
+16385,The occupation of Joe Walsh is or was record producer.,0
+16440,The record label for Janis Ian is Atlantic Records.,1
+16478,The field of work of Janis Ian is musical composition.,1
+16484,The record label for Lily Allen is Parlophone.,1
+16508,The occupation of Milva is or was television presenter.,0
+16521,Rita Lee communicates in Italian.,0
+16568,The record label for Jewel is Atlantic Records.,1
+16570,Joyce Carol Oates was influenced by D. H. Lawrence.,1
+16685,The field of work of Karl Marx is philosophy.,1
+16723,Maureen Tucker uses the instrument percussion instrument.,1
+16735,The field of work of Maureen Tucker is musical composition.,0
+16736,Jewel communicates in English.,1
+16763,The occupation of Little Richard is or was composer.,1
+16864,Nat King Cole uses the instrument organ.,0
+16871,Joseph Brodsky was born in Saint Petersburg.,1
+16991,The occupation of Henry Wadsworth Longfellow is or was professor.,0
+17011,The occupation of CeeLo Green is or was record producer.,1
+17038,The occupation of D. H. Lawrence is or was painter.,0
+17042,Asia Argento communicates in Italian.,1
+17047,Friedrich Engels was influenced by Karl Marx.,1
+17102,The occupation of Janis Ian is or was journalist.,0
+17118,Colm Tóibín was influenced by D. H. Lawrence.,1
+17150,Leon Russell communicates in English.,1
+17283,Burton Cummings uses the instrument percussion instrument.,0
+17367,The occupation of Prosper Mérimée is or was historian.,0
+17398,The occupation of Jewel is or was musician.,1
+17438,The occupation of Count Basie is or was pianist.,1
+17472,Joe Walsh uses the instrument bass guitar.,0
+17823,The occupation of Massimo Bontempelli is or was politician.,0
+17879,The occupation of CeeLo Green is or was rapper.,1
+17995,The occupation of Seth Rogen is or was film producer.,0
+18078,The occupation of Mika is or was pianist.,0
+18086,Wolfgang Amadeus Mozart communicates in Italian.,1
+18096,Poland is a member of Organisation for the Prohibition of Chemical Weapons.,1
+18148,The record label for Akon is Atlantic Records.,1
+18177,Mircea Eliade communicates in Italian.,0
+18179,The record label for Nat King Cole is Decca.,0
+18203,The occupation of André 3000 is or was singer.,1
+18268,The occupation of Gary Becker is or was sociologist.,0
+18300,Renato Carosone communicates in Italian.,1
+18380,Hannah Arendt was influenced by Karl Marx.,1
+18476,The occupation of Ivan Goncharov is or was prosaist.,1
+18495,Lara Fabian communicates in Italian.,0
+18508,Henry Wadsworth Longfellow was influenced by John Keats.,1
+18515,The occupation of D. H. Lawrence is or was writer.,1
+18523,The genre of CeeLo Green is soul music.,1
+18642,The occupation of Thomas Carlyle is or was historian.,0
+18647,The genre of Adriano Celentano is rock and roll.,0
+18686,The occupation of Karl Popper is or was sociologist.,0
+18696,Benedetto Croce was influenced by Karl Marx.,0
+18727,Pedro II of Brazil communicates in Italian.,0
+18728,The occupation of André Gide is or was translator.,0
+18851,Henri Bergson was influenced by Søren Kierkegaard.,1
+18875,The genre of Milva is pop music.,0
+18954,The occupation of Ludvig Holberg is or was historian.,0
+18975,Enzo Jannacci communicates in Italian.,1
+18993,The occupation of Akon is or was television producer.,0
+19054,The official language of Slovenia is Italian.,0
+19141,Little Richard uses the instrument piano.,0
+19203,Janis Ian uses the instrument guitar.,1
+19280,John Farnham uses the instrument percussion instrument.,0
+19306,The occupation of Joe Walsh is or was pianist.,0
+19332,Charles Bukowski was influenced by D. H. Lawrence.,1
+19391,The occupation of Little Richard is or was recording artist.,1
+19449,The occupation of John Farnham is or was pianist.,0
+19465,Henri Bergson is a citizen of France.,1
+19523,Maureen Tucker communicates in English.,1
+19618,CeeLo Green belongs to the African Americans ethnic group.,1
+19703,The movement associated with Henry Wadsworth Longfellow is Romanticism.,0
+19772,Henri Bergson died in Paris.,1
+19891,Yvonne De Carlo is a citizen of United States of America.,1
+19922,Ivan Goncharov died of pneumonia.,1
+19970,Poland is a member of World Trade Organization.,1
+20015,The occupation of Lionel Hampton is or was pianist.,1
+20036,The occupation of Ursula K. Le Guin is or was journalist.,0
+20076,Albertus Magnus communicates in German.,0
+20168,The occupation of Theodor Mommsen is or was politician.,0
+20183,The occupation of Vladimir Lenin is or was politician.,1
+20208,The genre of Mick Jagger is rock and roll.,1
+20242,The occupation of Ursula K. Le Guin is or was poet.,0
+20333,The genre of André Gide is novel.,1
+20405,The occupation of Lily Allen is or was philanthropist.,0
+20434,The occupation of Richard Sennett is or was historian.,0
+20498,The genre of Milva is jazz.,0
+20694,The occupation of Sara Bareilles is or was pianist.,0
+20697,The occupation of Joseph Brodsky is or was poet.,1
+20774,Henry Wadsworth Longfellow is a member of Phi Beta Kappa Society.,1
+20810,James Joyce communicates in Italian.,0
+20863,The occupation of George Henschel is or was pianist.,1
+20929,Joe Walsh communicates in English.,1
+21032,The occupation of Joe Walsh is or was songwriter.,1
+21082,Ivan Goncharov communicates in Russian.,1
+21104,The occupation of Maureen Tucker is or was composer.,0
+21160,Henry Wadsworth Longfellow is employed by Harvard University.,0
+21255,The occupation of Leon Russell is or was singer.,1
+21308,The occupation of Karl Marx is or was journalist.,0
+21360,The genre of John Lennon is rock and roll.,1
+21411,The occupation of Common is or was musician.,1
+21485,The occupation of Lily Allen is or was television presenter.,0
+21533,The occupation of Ursula K. Le Guin is or was literary critic.,0
+21633,The occupation of Albertus Magnus is or was economist.,0
+21638,The occupation of Jewel is or was songwriter.,1
+21683,The occupation of Ray Charles is or was pianist.,0
+21724,The occupation of Janis Ian is or was writer.,0
+21754,The occupation of André Gide is or was diarist.,0
+21791,Karl Marx belongs to the Ashkenazi Jews ethnic group.,0
+21817,Pierre-Joseph Proudhon was influenced by Karl Marx.,1
+21853,The religion or worldview of Seth Rogen is Judaism.,1
+21858,Poland has a diplomatic relation with Belarus.,1
+21921,Stanislao Cannizzaro communicates in Italian.,0
+21926,The genre of Ivan Goncharov is novel.,1
+21945,The occupation of Lily Allen is or was presenter.,0
+22049,Italy has a diplomatic relation with Poland.,1
+22076,The occupation of Janis Ian is or was singer.,1
+22099,The genre of Ursula K. Le Guin is science fiction.,1
+22122,The occupation of André Gide is or was film producer.,0
+22188,The occupation of Charlton Heston is or was television actor.,0
+22195,Poland has a diplomatic relation with Australia.,1
+22202,The record label for Joe Walsh is ABC Records.,0
+22217,The occupation of Joseph Brodsky is or was author.,1
+22243,The occupation of Henri Bergson is or was sociologist.,0
+22315,Poland is a member of European Space Agency.,0
+22324,The occupation of Jewel is or was singer.,1
+22403,The occupation of John Desmond Bernal is or was historian.,0
+22408,"The occupation of Sir George Stokes, 1st Baronet is or was politician.",0
+22441,The occupation of Akon is or was philanthropist.,0
+22465,The genre of Little Richard is rock music.,1
+22468,Thomas Aquinas communicates in Italian.,0
+22510,The genre of Lily Allen is indie pop.,0
+22683,Christopher Lee communicates in Italian.,0
+22776,Albertus Magnus communicates in Latin.,1
+22834,Lily Allen uses the instrument guitar.,1
+22873,The record label for Little Richard is Reprise Records.,0
+22960,The occupation of Max Reger is or was pianist.,0
+22991,Ivan Goncharov is employed by Saint Petersburg Academy of Sciences.,0
+23037,Henri Bergson communicates in French.,1
+23052,The occupation of Hannah Arendt is or was historian.,0
+23110,The occupation of Steve Carell is or was actor.,1
+23125,The religion or worldview of Karl Marx is atheism.,1
+23158,CeeLo Green uses the instrument voice.,1
+23161,The genre of Chuck Berry is rock and roll.,1
+23177,Yegor Letov uses the instrument percussion instrument.,0
+23178,"Clarence ""Gatemouth"" Brown uses the instrument pianist.",0
+23201,The genre of André 3000 is hip hop music.,1
+23247,The occupation of Ralf Dahrendorf is or was sociologist.,1
+23249,The occupation of Hannah Arendt is or was sociologist.,0
+23255,The occupation of Chris Martin is or was pianist.,0
+23377,The occupation of Janis Ian is or was poet.,0
+23463,Gilles Deleuze was influenced by Karl Marx.,1
+23671,Henri Bergson is a member of Academy of Sciences of Turin.,0
+23686,Ursula K. Le Guin was influenced by Leo Tolstoy.,1
+23822,The occupation of György Lukács is or was politician.,0
+23831,Charlton Heston is a member of the political party Republican Party.,0
+23856,Leon Russell died of heart failure.,1
+23872,CeeLo Green is a citizen of United States of America.,1
+23960,Common was born in Chicago.,0
+23963,Henri Bergson was educated at University of Paris (1896-1968).,0
+23967,Charlton Heston is a member of the political party Democratic Party.,0
+24002,The occupation of Akon is or was singer.,1
+24108,Henri Bergson is a member of Royal Swedish Academy of Sciences.,0
+24160,The genre of Cliff Richard is rock and roll.,0
+24196,The occupation of André 3000 is or was actor.,1
+24210,John Turturro communicates in Italian.,0
+24261,Max Frisch communicates in Italian.,0
+24266,Jim Morrison uses the instrument percussion instrument.,0
+24345,The occupation of Stephen Jay Gould is or was historian.,0
+24492,Nat King Cole died of lung cancer.,0
+24529,Leon Russell uses the instrument guitar.,0
+24553,The occupation of Albertus Magnus is or was writer.,1
+24590,The occupation of Euclides da Cunha is or was sociologist.,0
+24686,The record label for Common is Universal Music Group.,0
+24704,The genre of Common is pop music.,0
+24761,The occupation of Olivier Messiaen is or was pianist.,0
+24762,Henry Wadsworth Longfellow is a member of American Academy of Arts and Sciences.,1
+24878,Akon is a citizen of United States of America.,0
+24880,The occupation of Sven Hedin is or was politician.,0
+24901,The occupation of John Maynard Keynes is or was politician.,0
+24959,Henri Bergson was influenced by Albert Einstein.,0
+25053,Common is a citizen of United States of America.,0
+25164,The occupation of Janis Ian is or was autobiographer.,0
+25299,The occupation of CeeLo Green is or was film actor.,0
+25340,The genre of Eric Burdon is rock and roll.,1
+25484,The genre of Little Richard is gospel music.,0
+25567,John Cale uses the instrument percussion instrument.,1
+25674,The record label for Common is Warner Bros. Records.,1
+25773,Slavoj Žižek was influenced by Karl Marx.,1
+25819,The occupation of Milva is or was recording artist.,1
+25824,Jewel uses the instrument guitar.,1
+25892,The occupation of Friedrich Schiller is or was historian.,0
+25895,Leon Russell uses the instrument violin.,0
+25899,Henri Bergson was born in Paris.,1
+26025,The genre of Joe Satriani is rock and roll.,0
+26055,Julio Iglesias communicates in Italian.,0
+26060,The genre of Giorgio Gaber is rock and roll.,0
+26073,Karl Marx died in London.,1
+26141,Thomas Aquinas was influenced by Albertus Magnus.,1
+26229,Michael Jackson uses the instrument percussion instrument.,0
+26310,The occupation of Henri Bergson is or was philosopher.,1
+26313,Janis Ian communicates in English.,1
+26397,The occupation of Irène Joliot-Curie is or was politician.,0
+26414,The occupation of CeeLo Green is or was singer.,1
+26512,The occupation of Joe Cocker is or was pianist.,0
+26515,The occupation of Charlton Heston is or was screenwriter.,0
+26522,Henri Bergson was influenced by Plato.,1
+26726,The occupation of Edmund Wilson is or was historian.,0
+26795,The occupation of André 3000 is or was guitarist.,0
+26799,Janis Ian uses the instrument voice.,0
+26800,The occupation of Yvonne De Carlo is or was singer.,0
+26890,The occupation of Ursula K. Le Guin is or was prosaist.,1
+27013,The occupation of Al Franken is or was politician.,1
+27081,Common belongs to the African Americans ethnic group.,0
+27086,Maureen Tucker uses the instrument guitar.,0
+27137,The genre of Etta James is rock and roll.,0
+27157,Roger Miller uses the instrument percussion instrument.,0
+27229,The occupation of Common is or was songwriter.,1
+27234,The occupation of Seth Rogen is or was television actor.,0
+27278,Poland has a diplomatic relation with Philippines.,1
+27309,The occupation of Ursula K. Le Guin is or was translator.,0
+27359,The occupation of André 3000 is or was singer-songwriter.,1
+27361,The occupation of Albertus Magnus is or was musicologist.,0
+27393,The genre of Anatoly Krupnov is rock and roll.,0
+27432,The occupation of Yvonne De Carlo is or was stage actor.,1
+27433,Milva uses the instrument voice.,0
+27436,Nat King Cole is a citizen of United States of America.,1
+27440,Little Richard communicates in English.,1
+27473,Joseph Brodsky is a citizen of United States of America.,0
+27490,The occupation of Natalie Cole is or was pianist.,0
+27506,Ursula K. Le Guin communicates in English.,1
+27563,The occupation of Charlton Heston is or was actor.,1
+27613,The occupation of Jewel is or was writer.,1
+27635,The occupation of Karl Marx is or was philosopher.,1
+27694,The occupation of Jean-Antoine-Nicolas de Caritat de Condorcet is or was sociologist.,0
+27839,The occupation of D. H. Lawrence is or was poet.,0
+27851,Carlo Rubbia communicates in Italian.,0
+27955,The occupation of Common is or was film actor.,1
+27970,The occupation of Janis Ian is or was science fiction writer.,0
+27985,Israel has a diplomatic relation with Poland.,1
+28087,The occupation of Henry Wadsworth Longfellow is or was writer.,1
+28123,Camillo Golgi communicates in Italian.,1
+28143,The occupation of Ivan Goncharov is or was opinion journalist.,0
+28149,The occupation of Hugo Grotius is or was historian.,0
+28162,Nat King Cole belongs to the African Americans ethnic group.,1
+28196,The record label for Nat King Cole is Capitol Records.,1
+28216,The genre of Todd Rundgren is rock and roll.,0
+28307,The genre of ABC Records is rock and roll.,0
+28390,The occupation of Henry Wadsworth Longfellow is or was translator.,0
+28407,Joseph Brodsky is a member of American Academy of Arts and Letters.,0
+28454,Poland has a diplomatic relation with Bulgaria.,1
+28514,Ursula K. Le Guin was educated at Columbia University.,0
+28524,The occupation of Bob Seger is or was pianist.,0
+28534,Eminem uses the instrument percussion instrument.,0
+28546,The occupation of Arnold Schwarzenegger is or was politician.,1
+28565,The genre of Akon is hip hop music.,0
+28631,The occupation of Lenny Kravitz is or was pianist.,0
+28832,The genre of Akon is contemporary R&B.,1
+28848,The occupation of Common is or was rapper.,1
+28900,The occupation of Pavel Jozef Šafárik is or was historian.,1
+28923,Poland has a diplomatic relation with Hungary.,1
+28967,Steve Carell resides or resided in Los Angeles.,1
+29004,Dido uses the instrument percussion instrument.,0
+29015,The occupation of Lord Byron is or was politician.,1
+29029,The occupation of Robert Musil is or was librarian.,0
+29128,The occupation of György Lukács is or was sociologist.,0
+29142,The field of work of Lily Allen is musical composition.,0
+29156,Adriano Celentano uses the instrument percussion instrument.,0
+29165,The occupation of Little Richard is or was musician.,1
+29175,The record label for Leon Russell is Capitol Records.,1
+29228,Ivan Goncharov died in Saint Petersburg.,1
+29244,André 3000 uses the instrument guitar.,1
+29288,The occupation of Henri Bergson is or was writer.,1
+29304,Karl Marx was educated at Humboldt University of Berlin.,1
+29327,Joe Walsh uses the instrument voice.,0
+29393,The occupation of Steve Carell is or was television actor.,1
+29400,The occupation of Taylor Swift is or was pianist.,0
+29488,The occupation of Henry Wadsworth Longfellow is or was novelist.,0
+29588,Phil Collins uses the instrument percussion instrument.,1
+29637,The occupation of Leon Trotsky is or was historian.,0
+29656,The occupation of Ivan Goncharov is or was essayist.,0
+29712,The occupation of Joe Walsh is or was guitarist.,1
+29791,Poland has a diplomatic relation with Israel.,1
+29841,Henri Bergson was influenced by David Hume.,1
+29842,André Gide was born in Paris.,0
+29874,The occupation of Ursula K. Le Guin is or was writer.,1
+30002,The occupation of Seth Rogen is or was television producer.,0
+30029,Seth Rogen communicates in English.,1
+30030,The record label for Joe Walsh is Epic.,0
+30048,The occupation of Alexander Bogdanov is or was sociologist.,0
+30065,The record label for Lily Allen is Capitol Records.,1
+30120,Leon Russell uses the instrument voice.,1
+30122,The occupation of Édouard René de Laboulaye is or was historian.,0
+30135,Poland has a diplomatic relation with Lithuania.,1
+30156,The occupation of Karel Jaromír Erben is or was historian.,0
+30206,The occupation of Joe Walsh is or was singer.,1
+30281,The occupation of Common is or was singer.,1
+30292,André Gide is a citizen of France.,1
+30307,The occupation of Ernst Curtius is or was historian.,1
+30322,The occupation of Arthur Conan Doyle is or was politician.,0
+30382,The record label for Joe Walsh is Atlantic Records.,1
+30454,The occupation of Johann Wolfgang von Goethe is or was librarian.,0
+30456,The occupation of André 3000 is or was film actor.,1
+30460,The record label for Lily Allen is EMI.,1
+30468,The occupation of D. H. Lawrence is or was novelist.,1
+30543,The religion or worldview of Ursula K. Le Guin is atheism.,0
+30589,Vladimir Lenin was influenced by Karl Marx.,1
+30626,Jack Black uses the instrument percussion instrument.,0
+30636,The genre of Johnny Cash is rock and roll.,0
+30648,The occupation of Nat King Cole is or was television actor.,0
+30689,The genre of Maureen Tucker is folk rock.,0
+30700,The genre of Pat Boone is rock and roll.,0
+30752,Osip Mandelstam communicates in Italian.,0
+30777,Jacques Derrida was influenced by Karl Marx.,1
+30786,The occupation of Charlie Rich is or was pianist.,0
+30811,The occupation of Charlton Heston is or was writer.,0
+30840,The occupation of Janis Ian is or was singer-songwriter.,1
+30873,The occupation of Walter Benjamin is or was sociologist.,0
+30877,The movement associated with Ivan Goncharov is literary realism.,1
+30969,Joseph Brodsky resides or resided in Saint Petersburg.,1
+30984,The occupation of Henry Louis Gates is or was historian.,0
+31006,The occupation of Milva is or was opera singer.,1
+31045,The occupation of Karl Marx is or was writer.,1
+31174,Todd Rundgren uses the instrument percussion instrument.,1
+31203,The occupation of Toni Braxton is or was pianist.,0
+31214,The occupation of Roman Jakobson is or was historian.,0
+31233,The official language of Rome is Italian.,1
+31241,The occupation of Janis Ian is or was composer.,0
+31249,Henri Bergson is a member of Lincean Academy.,0
+31256,The occupation of Fredric Jameson is or was sociologist.,0
+31287,The occupation of Akon is or was businessperson.,0
+31396,The occupation of Jewel is or was actor.,1
+31399,Joseph Brodsky is a citizen of Soviet Union.,0
+31454,Poland is a member of Schengen Area.,1
+31456,The occupation of Ellie Goulding is or was pianist.,0
+31489,Spain has a diplomatic relation with Poland.,1
+31509,The genre of Johnny Hallyday is rock and roll.,1
+31549,The occupation of Richard Sennett is or was sociologist.,1
+31562,Ursula K. Le Guin died of myocardial infarction.,0
+31580,Nat King Cole uses the instrument guitar.,0
+31616,Ursula K. Le Guin is a citizen of United States of America.,1
+31700,The occupation of Bhimrao Ramji Ambedkar is or was politician.,0
+31716,Maureen Tucker was born in New York City.,1
+31757,Harald Weinrich communicates in Italian.,0
+31834,Henri Bergson was influenced by Blaise Pascal.,1
+31849,The occupation of Henry Wadsworth Longfellow is or was poet.,1
+31912,The occupation of CeeLo Green is or was actor.,0
+31931,The occupation of Ivan Franko is or was politician.,0
+31945,The occupation of Victor Ambartsumian is or was politician.,0
+31953,The occupation of John Stuart Mill is or was politician.,0
+31956,The occupation of André Gide is or was essayist.,0
+32083,Karl Marx is a citizen of Kingdom of Prussia.,0
+32103,The occupation of Albertus Magnus is or was theologian.,1
+32193,Yvonne De Carlo died in Los Angeles.,1
+32196,The occupation of Raymond Aron is or was sociologist.,0
+32201,Ursula K. Le Guin was influenced by Virginia Woolf.,1
+32211,The occupation of Ursula K. Le Guin is or was novelist.,1
+32226,The occupation of Little Richard is or was songwriter.,1
+32247,Akon uses the instrument voice.,0
+32294,Seth Rogen is a citizen of United States of America.,0
+32310,Steve Carell is a citizen of United States of America.,1
+32312,Henry Wadsworth Longfellow communicates in Spanish.,0
+32373,The genre of Little Richard is soul music.,0
+32453,The record label for Lily Allen is Warner Bros. Records.,1
+32478,The occupation of David Foster is or was pianist.,0
+32526,The occupation of Joseph Brodsky is or was translator.,0
+32529,The official language of Kingdom of Italy is Italian.,1
+32542,The occupation of Aleksandr Solzhenitsyn is or was historian.,0
+32560,The occupation of Eugen Rosenstock-Huessy is or was historian.,0
+32583,The occupation of Maureen Tucker is or was songwriter.,0
+32586,The occupation of Jewel is or was film actor.,1
+32670,The occupation of Mark Linkous is or was pianist.,0
+32678,The genre of Lemmy Kilmister is rock and roll.,1
+32681,Adriano Celentano communicates in Italian.,1
+32698,The occupation of Joseph Priestley is or was librarian.,0
+32701,Yvonne De Carlo is a citizen of Canada.,0
+32889,The occupation of Leon Russell is or was mandolinist.,0
+32894,The occupation of D. H. Lawrence is or was playwright.,0
+32933,Henry Wadsworth Longfellow is a citizen of United States of America.,1
+32943,The occupation of Bruce Springsteen is or was pianist.,0
+32965,The occupation of Stefan Zweig is or was historian.,0
+32998,The occupation of Hector Berlioz is or was librarian.,0
+33126,Ursula K. Le Guin was influenced by Jorge Luis Borges.,1
+33184,The occupation of Milva is or was singer.,1
+33187,Poland has a diplomatic relation with Denmark.,1
+33199,D. H. Lawrence is a citizen of United Kingdom.,0
+33253,The occupation of Ivan Goncharov is or was writer.,1
+33263,The occupation of Ivan Goncharov is or was novelist.,1
+33265,The occupation of Benjamin Franklin is or was librarian.,0
+33269,Joseph Brodsky communicates in Russian.,1
+33320,The occupation of Nat King Cole is or was pianist.,0
+33387,The occupation of Yvonne De Carlo is or was dancer.,0
+33398,The occupation of Helge Schneider is or was pianist.,0
+33402,The occupation of Alexis de Tocqueville is or was sociologist.,0
+33421,The occupation of CeeLo Green is or was singer-songwriter.,1
+33479,The field of work of Henri Bergson is philosophy.,1
+33556,The occupation of Ursula K. Le Guin is or was children's writer.,0
+33569,The occupation of Albrecht von Haller is or was librarian.,0
+33682,The occupation of Andrea Bocelli is or was pianist.,0
+33716,The occupation of Karl Marx is or was economist.,1
+33729,The occupation of Lily Allen is or was singer-songwriter.,1
+33870,The occupation of Ivan Goncharov is or was literary critic.,0
+33876,Gilles Deleuze was influenced by Henri Bergson.,1
+33908,Milva communicates in German.,0
+33909,The genre of Jewel is pop music.,1
+34026,The occupation of Max Weber is or was sociologist.,1
+34115,The occupation of Joseph Brodsky is or was writer.,1
+34167,The record label for Joe Walsh is Warner Bros. Records.,1
+34179,The occupation of Jorge Amado is or was politician.,0
+34201,Stanisław Lem is a citizen of Poland.,1
+34234,The occupation of Peter Tork is or was pianist.,0
+34305,Peter Debye is a member of Göttingen Academy of Sciences.,0
+34309,The occupation of Seth Rogen is or was film actor.,1
+34355,Poland is a member of UNESCO.,1
+34385,Lily Allen is a citizen of United Kingdom.,1
+34399,The occupation of Steve Carell is or was television director.,0
+34442,Henri Bergson was influenced by Immanuel Kant.,0
+34597,Yvonne De Carlo is a member of the political party Republican Party.,0
+34612,Poland has a diplomatic relation with Taiwan.,0
+34634,Albertus Magnus was educated at University of Paris (1896-1968).,0
+34640,The occupation of Karl Marx is or was sociologist.,0
+34658,Prince was influenced by Little Richard.,1
+34700,Iggy Pop uses the instrument percussion instrument.,0
+34755,The occupation of Steve Carell is or was voice actor.,0
+34859,The occupation of Seth Rogen is or was actor.,1
+34881,The occupation of Billy Preston is or was pianist.,1
+34909,Lenny Kravitz uses the instrument percussion instrument.,1
+34918,The occupation of André Gide is or was author.,0
+34953,Poland is a member of Council of Europe.,1
+35017,The occupation of Albertus Magnus is or was philosopher.,1
+35085,Henry Wadsworth Longfellow communicates in Italian.,0
+35104,Charlton Heston is a citizen of United States of America.,1
+35282,The occupation of Samuel P. Huntington is or was sociologist.,1
+35321,Walter Benjamin was influenced by Karl Marx.,1
+35327,Seth Rogen is a citizen of Canada.,1
+35495,The occupation of Steve Carell is or was comedian.,0
+35596,Henry Wadsworth Longfellow was influenced by Dante Alighieri.,1
+35648,The occupation of CeeLo Green is or was voice actor.,0
+35822,The occupation of Ľudovít Štúr is or was historian.,0
+35831,Gabriel Marcel was influenced by Henri Bergson.,1
+35859,The occupation of Nikolay Basov is or was politician.,0
+35885,J. Rodolfo Wilcock communicates in Italian.,0
+35899,Poland is a member of Movement Coordination Centre Europe.,0
+35952,"The occupation of William Thomson, 1st Baron Kelvin is or was politician.",0
+35959,Little Richard uses the instrument voice.,0
+35994,Joseph Brodsky is a member of Bavarian Academy of Fine Arts.,0
+36023,Henri Bergson is a member of American Academy of Arts and Sciences.,0
+36029,The occupation of Slavoj Žižek is or was sociologist.,0
+36093,The occupation of Joseph Brodsky is or was essayist.,0
+36122,The occupation of Jon Bon Jovi is or was pianist.,0
+36238,The genre of Milva is opera.,1
+36274,The record label for Common is Geffen Records.,0
+36287,The occupation of Charlton Heston is or was voice actor.,0
+36334,The religion or worldview of Akon is Islam.,0
+36425,Pakistan has a diplomatic relation with Poland.,1
+36461,Yvonne De Carlo uses the instrument voice.,0

@@ -1,0 +1,2035 @@
+entity_label,predicted_kg_value,kg_value,split
+Leonhard Euler,0.50678504,,none
+German,0.506736,0.75,train
+Carl Djerassi,0.50678504,0.6666666666666666,valid
+cancer,0.50678504,1.0,train
+Colombia,0.50625867,,none
+International Finance Corporation,0.46383226,,none
+Aleksey Nikolayevich Tolstoy,0.50678504,,none
+Russian,0.50674593,0.75,train
+Netherlands,0.5062205,1.0,test
+Schengen Area,0.50635207,,none
+Henry Rollins,0.50678504,1.0,train
+human rights activist,0.5067658,,none
+Richard Wagner,0.50678504,0.5,train
+theater director,0.50678504,0.0,train
+Jaden Smith,0.50678504,,none
+actor,0.506782,0.7,train
+La Toya Jackson,0.50678504,,none
+Jackie Jackson,0.50678504,,none
+John Cameron Mitchell,0.50678504,,none
+television actor,0.50678504,0.6666666666666666,test
+Julian Klaczko,0.50678504,,none
+historian,0.50678504,0.0,train
+Enrique Iglesias,0.50678504,,none
+Spanish,0.50655204,,none
+Taiwan,0.50289804,1.0,valid
+Republic of the Congo,0.5063355,,none
+astronomer,0.50678504,1.0,train
+Richard Harris,0.50678504,,none
+singer-songwriter,0.50678504,1.0,train
+Adam Ant,0.50678504,1.0,test
+stage actor,0.50678504,0.5,test
+Weimar Republic,0.50678504,1.0,test
+Europe,0.5062577,1.0,train
+Jim Belushi,0.50678504,,none
+comedian,0.50678504,1.0,train
+Louis Armstrong,0.50678504,,none
+African Americans,0.50678045,1.0,test
+Dino Buzzati,0.50678504,,none
+journalist,0.5067834,0.2,train
+Oprah Winfrey,0.50678504,,none
+United States of America,0.5050266,0.9333333333333332,train
+Woody Allen,0.50678504,,none
+jazz musician,0.50678504,,none
+Dominican Republic,0.50638163,,none
+International Telecommunication Union,0.5031728,,none
+Wilhelm von Humboldt,0.50678504,0.0,train
+teacher,0.50678504,1.0,valid
+Alfred Einstein,0.50678504,,none
+Columbia University,0.50678504,0.5,valid
+Rick Wakeman,0.50678504,,none
+songwriter,0.50678504,0.75,train
+Heinrich Rudolf Hertz,0.50678504,0.0,train
+Humboldt University of Berlin,0.50678504,0.0,train
+Belarus,0.5062063,,none
+Czech Republic,0.5062305,,none
+Richard Marx,0.50678504,,none
+Chicago,0.50678504,,none
+Rabindranath Tagore,0.50678504,,none
+English,0.5053293,0.9166666666666666,train
+Central African Republic,0.50633615,,none
+Sudan,0.50624824,,none
+Latvia,0.50630337,,none
+Wilhelm Grimm,0.50678504,,none
+librarian,0.50678504,,none
+Carlos Fuentes,0.50678504,,none
+writer,0.5067782,0.8461538461538461,valid
+Holly Near,0.50678504,,none
+Roy Clark,0.50678504,,none
+North Korea,0.50595546,1.0,valid
+Guinea-Bissau,0.5064561,,none
+South Africa,0.5060233,1.0,train
+Pakistan,0.5058989,1.0,train
+Uruguay,0.5061252,1.0,train
+William Dean Howells,0.50678504,,none
+Chris Martin,0.50678504,0.0,train
+W. H. Auden,0.50678504,,none
+university teacher,0.50678355,0.75,test
+Tinashe,0.50678504,,none
+dancer,0.50678504,0.6666666666666666,train
+Tila Tequila,0.50678504,,none
+presenter,0.50678504,,none
+Kurt Vonnegut,0.50678504,,none
+Bertrand Russell,0.50678504,,none
+Percy Bysshe Shelley,0.50678504,,none
+Bobby Scott,0.50678504,,none
+pianist,0.50678504,0.3333333333333333,valid
+Martin Buber,0.50678504,,none
+Tristan Tzara,0.50678504,,none
+diplomat,0.50678504,,none
+Georgia,0.5057417,0.0,test
+Ghana,0.5062154,1.0,train
+Henry Louis Gates,0.50678504,0.4666666666666667,valid
+will.i.am,0.50678504,,none
+film producer,0.5067832,0.6666666666666666,train
+Equatorial Guinea,0.5063725,,none
+OHADA,0.5062274,,none
+Blaise Pascal,0.50678504,,none
+physicist,0.50678504,0.0,train
+George Tabori,0.50678504,,none
+performing arts,0.50678504,,none
+Georg Forster,0.50678504,,none
+botanist,0.50678504,,none
+Henry Wadsworth Longfellow,0.50678504,,none
+Noam Chomsky,0.50678504,0.0,train
+linguist,0.50678504,,none
+Soulja Boy,0.50678504,,none
+J. Rodolfo Wilcock,0.50678504,,none
+novel,0.50678504,0.0,train
+Leonard Cohen,0.50678504,,none
+Columbia Records,0.50678504,0.0,valid
+Trey Parker,0.50678504,,none
+singer,0.50678504,0.7142857142857143,train
+Brian Molko,0.50678504,,none
+vocalist,0.50678504,1.0,valid
+John de Lancie,0.50678504,0.0,train
+musician,0.5067829,0.8,train
+William Styron,0.50678504,,none
+James Joyce,0.50678504,,none
+Maureen Tucker,0.50678504,,none
+Milla Jovovich,0.50678504,0.0,train
+Lonnie Liston Smith,0.50678504,,none
+voice,0.50678504,0.1428571428571428,train
+Nigeria,0.5061255,,none
+International Bank for Reconstruction and Development,0.4128137,1.0,valid
+Benedetto Croce,0.50678504,,none
+Italy,0.50605005,1.0,test
+People's Republic of China,0.5035624,1.0,test
+Indonesia,0.5059422,1.0,train
+Mike Myers,0.50678504,1.0,train
+film director,0.5067814,0.25,train
+Giorgio Gaber,0.50678504,,none
+Italian,0.50673074,1.0,train
+John Muir,0.50678504,0.0,train
+explorer,0.50678504,,none
+"John William Strutt, 3rd Baron Rayleigh",0.50678504,0.0,test
+Bavarian Academy of Sciences and Humanities,0.50678504,,none
+Sweden,0.5061952,,none
+Australia,0.5032175,0.9285714285714286,train
+Penny Marshall,0.50678504,,none
+Ukraine,0.506051,1.0,test
+Azerbaijan,0.5062814,0.0,valid
+Slovenia,0.5062816,,none
+North Macedonia,0.5063095,,none
+Montenegro,0.5063702,,none
+Kosovo,0.50620985,,none
+Ice Cube,0.50678504,,none
+Académie Française,0.50678504,1.0,train
+French,0.506532,0.5,train
+Bulgaria,0.50613683,0.0,train
+Mongolia,0.50624084,1.0,train
+Alexey Vorobyov,0.50678504,,none
+Russia,0.5057504,0.6666666666666666,train
+South Korea,0.5061414,1.0,train
+United Kingdom,0.5062862,0.75,train
+Bahrain,0.5064165,0.0,train
+Michail Sholokhov,0.50678504,0.0,train
+Isaac Hayes,0.50678504,,none
+voice actor,0.50678504,0.0,train
+Benoit Mandelbrot,0.50678504,,none
+National Academy of Sciences,0.50678504,1.0,train
+Little Richard,0.50678504,,none
+rhythm and blues,0.50678504,0.0,train
+Nauru,0.50632834,1.0,train
+Manfred Eigen,0.50678504,1.0,train
+American Academy of Arts and Sciences,0.50678205,0.5714285714285714,train
+Thomas Young,0.50678504,,none
+anthropologist,0.50678504,,none
+Canada,0.5060878,1.0,train
+Grenada,0.50631773,,none
+autobiographer,0.5067809,0.0,train
+Saul Bellow,0.50678504,,none
+Joseph Conrad,0.50678504,,none
+European Payments Union,0.47636294,,none
+Austria,0.5063178,0.6666666666666666,train
+Germany,0.5037517,0.6,test
+Andorra,0.5064774,,none
+European Union,0.5058981,,none
+Morocco,0.5062413,,none
+UNESCO,0.50285983,1.0,train
+Fritz Haber,0.50678504,,none
+myocardial infarction,0.50677675,1.0,train
+Ben Stiller,0.50678504,1.0,test
+screenwriter,0.50678504,0.2916666666666667,train
+Nicaragua,0.5063532,1.0,train
+North America,0.50627136,,none
+Bangladesh,0.5057675,1.0,train
+African Union – United Nations Hybrid Operation in Darfur,0.49005547,,none
+Laos,0.5062413,1.0,train
+Samuel Johnson,0.50678504,,none
+Ava Gardner,0.50678504,,none
+model,0.50678504,0.0,train
+Malaysia,0.5058374,1.0,test
+Namibia,0.506221,1.0,train
+Dennis Gabor,0.50678504,0.0,train
+Royal Society,0.506774,1.0,train
+Nick Jonas,0.50678504,,none
+Miley Cyrus,0.50678504,1.0,test
+Greece,0.5059676,1.0,valid
+Larry David,0.50678504,,none
+Bhimrao Ramji Ambedkar,0.50678504,,none
+France,0.5061802,0.8,train
+G20,0.5063419,1.0,train
+Lithuania,0.5063038,,none
+J. Robert Oppenheimer,0.50678504,,none
+University of Cambridge,0.50678504,0.0,train
+Faith Evans,0.50678504,,none
+contemporary R&B,0.50678504,0.5,train
+Tom Wolfe,0.50678504,,none
+Charles Dickens,0.50678504,,none
+Aram Khachaturian,0.50678504,,none
+classical music,0.50678504,1.0,train
+Croatia,0.50618285,,none
+Turkey,0.50601053,0.0,valid
+United Arab Emirates,0.50613415,1.0,valid
+Saudi Arabia,0.50596005,0.0,train
+Ulrich von Wilamowitz-Moellendorff,0.50678504,0.0,test
+politician,0.5067651,0.0,train
+Senegal,0.5062945,,none
+John Stuart Mill,0.50678504,0.0,train
+English people,0.50672895,,none
+Libya,0.5061992,,none
+Burkina Faso,0.5064249,,none
+World Trade Organization,0.50542074,1.0,train
+Veniamin Smekhov,0.50678504,,none
+Costa Rica,0.50634617,,none
+Brigitte Bardot,0.50678504,,none
+Felix Mendelssohn,0.50678504,,none
+Ashkenazi Jews,0.50678504,,none
+Woody Guthrie,0.50678504,,none
+harmonica,0.50678504,,none
+Madonna,0.50678504,0.4878048780487805,valid
+musical composition,0.50678504,,none
+Peter Debye,0.50678504,0.0,train
+Cornell University,0.50678504,0.0,test
+Mexico,0.5058868,1.0,train
+Jada Pinkett Smith,0.50678504,,none
+rock music,0.50678504,1.0,train
+Luis Alberto Spinetta,0.50678504,,none
+psychedelic rock,0.50678504,,none
+Big Sean,0.50678504,,none
+hip hop music,0.5066746,0.0,train
+Massimo Bontempelli,0.50678504,,none
+Rome,0.50678504,1.0,train
+David Foster,0.50678504,,none
+Carole King,0.50678504,,none
+composer,0.50678504,0.8571428571428571,train
+Argentina,0.50622773,,none
+Organisation for the Prohibition of Chemical Weapons,0.5028535,1.0,train
+Missy Elliott,0.50678504,,none
+film actor,0.50678366,0.7142857142857143,train
+Holy See,0.50614023,,none
+Kurt Cobain,0.50678504,,none
+diarist,0.50678504,0.0,train
+Babyface,0.50678504,,none
+Island Records,0.50678504,,none
+Chile,0.50614583,0.95,valid
+International Centre for Settlement of Investment Disputes,0.4538592,,none
+Günter Grass,0.50678504,,none
+essayist,0.50678504,0.5,train
+Christoph Wilhelm Hufeland,0.50678504,,none
+Russian Academy of Sciences,0.50678504,0.0,train
+Ireland,0.5062958,0.0,train
+Kyrgyzstan,0.50636816,1.0,test
+Maldives,0.50634885,,none
+Henry Kissinger,0.50678504,,none
+André Malraux,0.50678504,,none
+Egypt,0.50609505,0.5,train
+Yeshayahu Leibowitz,0.50678504,,none
+chemist,0.50678504,1.0,train
+Rainer Werner Fassbinder,0.50678504,,none
+Munich,0.50678504,0.0,train
+Switzerland,0.5062767,1.0,valid
+Rob Zombie,0.50678504,,none
+Busta Rhymes,0.50678504,,none
+Republic Records,0.50678504,,none
+Tamer Hosny,0.50678504,,none
+Margaret Atwood,0.50678504,,none
+Fyodor Dostoyevsky,0.50678504,,none
+Yevgeny Zamyatin,0.50678504,,none
+Ilya Ehrenburg,0.50678504,,none
+novelist,0.50678504,0.3333333333333333,valid
+Justin Timberlake,0.50678504,,none
+pop music,0.5067186,1.0,train
+Jorge Amado,0.50678504,,none
+Joaquim Maria Machado de Assis,0.50678504,,none
+Syd Barrett,0.50678504,,none
+Billy Crystal,0.50678504,,none
+Rwanda,0.5063333,,none
+Hungary,0.5060164,,none
+Nepal,0.50625455,1.0,train
+Harold Bloom,0.50678504,,none
+Yale University,0.50678504,1.0,test
+Eduard Suess,0.50678504,,none
+Peter Tork,0.50678504,,none
+banjo,0.50678504,,none
+Charles Aznavour,0.50678504,,none
+Group on Earth Observations,0.50576216,1.0,valid
+Kelly Clarkson,0.50678504,,none
+François-René de Chateaubriand,0.50678504,,none
+Karl Mannheim,0.50678504,,none
+London,0.50678486,1.0,train
+Maxim Gorki,0.50678504,,none
+Republic of Cyprus,0.5062565,0.5,train
+Poland,0.50623834,1.0,train
+Gerald Wilson,0.50678504,,none
+Los Angeles,0.50678504,1.0,train
+Howard Zinn,0.50678504,,none
+Paraguay,0.5063364,,none
+Iran,0.5060784,,none
+Friedrich von Raumer,0.50678504,0.0,train
+Jewish people,0.50676364,0.5,train
+Henry David Thoreau,0.50678504,,none
+Harry Chapin,0.50678504,,none
+Allen Ginsberg,0.50678504,,none
+television producer,0.5067805,,none
+Estonia,0.50629926,1.0,train
+India,0.5057799,1.0,train
+Australia Group,0.50623614,,none
+Andrea Bocelli,0.50678504,,none
+Universal Music Group,0.5065128,,none
+Aleksandr Solzhenitsyn,0.50678504,0.0,train
+Ric Ocasek,0.50678504,,none
+Jay Chou,0.50678504,,none
+Interscope Records,0.5011812,,none
+Andriy Danylko,0.50678504,,none
+Jessica Simpson,0.50678504,,none
+Bolivia,0.5062891,,none
+Liechtenstein,0.50644857,,none
+Timbaland,0.50678504,,none
+alternative rock,0.50678504,,none
+Eurocontrol,0.5062401,,none
+James Lighthill,0.50678504,,none
+Malta,0.50630677,,none
+Commonwealth of Nations,0.505831,,none
+Mali,0.50636363,,none
+United Nations,0.50292754,1.0,train
+Wang Leehom,0.50678504,,none
+Jewel,0.50678504,,none
+Michael Bublé,0.50678504,1.0,train
+Valery Meladze,0.50678504,,none
+Robert Musil,0.50678504,,none
+author,0.50678504,1.0,train
+Frank Zappa,0.50678504,,none
+Eugen Rosenstock-Huessy,0.50678504,,none
+sociologist,0.5067809,1.0,train
+Malawi,0.5062403,,none
+Interpol,0.5048761,,none
+Liv Ullmann,0.50678504,,none
+South Sudan,0.50630856,,none
+François Guizot,0.50678504,0.0,train
+Royal Netherlands Academy of Arts and Sciences,0.50678504,,none
+Niger,0.50646544,,none
+Organisation internationale de la Francophonie,0.505982,,none
+Anatoly Lunacharsky,0.50678504,,none
+Academy of Sciences of the USSR,0.50678504,,none
+Sidney Poitier,0.50678504,,none
+Papua New Guinea,0.50629437,1.0,train
+Belgium,0.50623983,1.0,train
+International Energy Agency,0.49191892,,none
+Serbia,0.5058983,1.0,test
+Sri Lanka,0.50623924,1.0,train
+Ingeborg Bachmann,0.50678504,,none
+philosopher,0.50677776,0.2,test
+André 3000,0.50678504,,none
+Serge Gainsbourg,0.50678504,1.0,train
+film score composer,0.50678504,0.0,train
+Augustin-Louis Cauchy,0.50678504,,none
+Fergie,0.50678504,,none
+RCA Records,0.50678504,0.5,valid
+Academia Europaea,0.50678504,0.8125,train
+Jean-Paul Sartre,0.50678504,,none
+Paris,0.50678504,1.0,train
+Ecuador,0.5062755,,none
+Mary Shelley,0.50678504,,none
+science fiction writer,0.50678504,0.0,test
+James Hetfield,0.50678504,,none
+Algeria,0.5062378,,none
+Eswatini,0.50646454,,none
+Kazakhstan,0.5062845,1.0,valid
+Gene Autry,0.50678504,,none
+radio personality,0.50678504,0.0,valid
+University College London,0.50678504,,none
+Holly Johnson,0.50678504,,none
+bass guitar,0.50678504,,none
+Arthur Miller,0.50678504,,none
+New York City,0.50678504,0.75,train
+Jimmy Buffett,0.50678504,,none
+Akiko Yano,0.50678504,,none
+Norway,0.50622344,1.0,train
+European Space Agency,0.5064302,,none
+Gabriel Marcel,0.50678504,,none
+Friedrich Nietzsche,0.50678504,1.0,test
+entrepreneur,0.5067812,1.0,train
+Gloria Estefan,0.50678504,,none
+Japan,0.50600296,1.0,train
+Salvador de Madariaga,0.50678504,,none
+École Polytechnique,0.50678504,,none
+George Harrison,0.50678504,,none
+Vietnam,0.50614136,1.0,train
+Denmark,0.5058797,1.0,train
+Reprise Records,0.50678504,1.0,valid
+Jan Rubes,0.50678504,,none
+Czechoslovakia,0.506664,,none
+essay,0.50678504,,none
+Neil Young,0.50678504,0.0,train
+record producer,0.50678504,0.5,valid
+Luxembourg,0.50637656,,none
+Organisation for Economic Cooperation and Development,0.44107896,,none
+Marlene Dietrich,0.50678504,,none
+Jim Morrison,0.50678504,,none
+director,0.5067774,0.0,train
+Taylor Swift,0.50678504,,none
+guitar,0.50678504,0.5,train
+Zemfira,0.50678504,,none
+State of Palestine,0.50623536,1.0,train
+Billy Joel,0.50678504,,none
+Miguel de Unamuno,0.50678504,,none
+Dido,0.50678504,,none
+Arista,0.50678504,,none
+Harry Nilsson,0.50678504,0.8,train
+Spain,0.5061914,,none
+Palau,0.49448052,0.0,test
+Connie Francis,0.50678504,0.0,valid
+Georges Cuvier,0.50678504,,none
+German Academy of Sciences Leopoldina,0.50678504,1.0,train
+Patti Smith,0.50678504,,none
+Bill Haley,0.50678504,0.5,train
+Russell Brand,0.50678504,1.0,train
+French Academy of Sciences,0.50678504,1.0,train
+Angola,0.5062062,,none
+Africa,0.50584984,,none
+Julia Volkova,0.50678504,,none
+pop rock,0.50678504,,none
+Sofia Kovalevskaya,0.50678504,,none
+pneumonia,0.50678504,0.0,train
+Saint Lucia,0.5065006,,none
+Norman Wisdom,0.50678504,,none
+businessperson,0.5067753,0.0,train
+Erika Mann,0.50678504,1.0,train
+Klaus Mann,0.50678504,1.0,train
+Kenny Rogers,0.50678504,0.0,train
+Capitol Records,0.50678504,,none
+Israel,0.5059601,0.5,valid
+Ronald Reagan,0.50678504,,none
+University of Göttingen,0.50678504,1.0,valid
+Gottfried Wilhelm Leibniz,0.50678504,,none
+University of Jena,0.50678504,0.0,test
+Trinidad and Tobago,0.50629836,1.0,train
+Carl Friedrich von Weizsäcker,0.50678504,,none
+T. S. Eliot,0.50678504,,none
+Anglicanism,0.50678504,,none
+Stendhal,0.50678504,,none
+John Dos Passos,0.50678504,,none
+American Academy of Arts and Letters,0.50678504,0.0,valid
+Franz Kafka,0.50678504,,none
+Cher,0.50678504,0.0,train
+Syria,0.50623924,,none
+Shel Silverstein,0.50678504,,none
+Marilyn Manson,0.50678504,,none
+hard rock,0.50678504,,none
+Madagascar,0.50637096,,none
+Cambodia,0.50623274,1.0,train
+Geffen Records,0.50678504,1.0,train
+Gene Simmons,0.50678504,,none
+Raven-Symoné,0.50678504,,none
+atheism,0.506785,0.0,valid
+Bryan Ferry,0.50678504,,none
+Glen Campbell,0.50678504,,none
+folk rock,0.50678504,,none
+Vienna,0.50678504,1.0,train
+Phil Collins,0.50678504,,none
+guitarist,0.50678504,0.0,train
+Igor Stravinsky,0.50678504,,none
+Vladimir Lenin,0.5067835,,none
+Ernst Troeltsch,0.50678504,,none
+Afghanistan,0.5062272,,none
+Romania,0.5061596,1.0,train
+James Franco,0.50678504,,none
+New York University,0.50678504,1.0,train
+Maya Angelou,0.50678504,,none
+Alberto Manguel,0.50678504,,none
+Maria Callas,0.50678504,,none
+Juilliard School,0.50678504,,none
+Katerina Graham,0.50678504,,none
+Melanie Brown,0.50678504,,none
+Ralf Dahrendorf,0.50678504,,none
+Iceland,0.50629336,,none
+Charlie Rich,0.50678504,,none
+piano,0.50678504,0.6,test
+Art Garfunkel,0.50678504,,none
+Atco Records,0.50678504,0.0,train
+Melissa Auf der Maur,0.50678504,,none
+Fiji,0.5062238,1.0,train
+Ray Charles,0.50678504,,none
+Vanuatu,0.5063256,1.0,train
+Miranda Cosgrove,0.50678504,,none
+Iraq,0.5061609,,none
+Cuba,0.50614536,1.0,train
+Jerry Reed,0.50678504,,none
+Catholicism,0.5067615,1.0,train
+Richard Sennett,0.50678504,1.0,train
+Johnny Hallyday,0.50678504,0.0,train
+recording artist,0.50678504,1.0,test
+Sierra Leone,0.5063566,,none
+African Union,0.50587547,,none
+Oscar Wilde,0.50678504,,none
+L. Frank Baum,0.50678504,,none
+Uzeyir Hajibeyov,0.50678504,,none
+Islam,0.5067631,0.0,train
+short story,0.50678504,,none
+Cyndi Lauper,0.50678504,,none
+Virginia Woolf,0.50678504,,none
+Katharine McPhee,0.50678504,,none
+Norman Mailer,0.50678504,0.0,valid
+George Eliot,0.50678504,,none
+Communist Party of the Soviet Union,0.50676805,1.0,valid
+Bud Spencer,0.50678504,0.0,train
+Portugal,0.50616944,1.0,test
+Nena,0.50678504,1.0,train
+Bob Dylan,0.50678504,,none
+Jemaine Clement,0.50678504,1.0,train
+Melchior de Vogüé,0.50678504,,none
+Arthur Schopenhauer,0.50678504,1.0,train
+Hamburg,0.50678504,,none
+Vanessa Hudgens,0.50678504,,none
+dance music,0.50678504,1.0,train
+Gabriel García Márquez,0.50678504,,none
+Paula Abdul,0.50678504,,none
+Virgin Records,0.50678504,,none
+Amerie,0.50678504,,none
+Yoko Ono,0.50678504,,none
+Polydor Records,0.50678504,,none
+Linda Ronstadt,0.50678504,,none
+Ľudovít Štúr,0.50678504,,none
+Polish,0.50674933,,none
+Jacob Grimm,0.50678504,,none
+translator,0.50678504,0.0,test
+Lincean Academy,0.50678504,0.6666666666666666,train
+Sheryl Crow,0.50678504,,none
+Heidelberg University,0.50678504,0.0,train
+David Cross,0.50678504,,none
+Todd Rundgren,0.50678504,,none
+Tajikistan,0.5063177,1.0,train
+Universal Postal Union,0.5053124,1.0,test
+Teena Marie,0.50678504,,none
+Ferdinand von Richthofen,0.50678504,,none
+Berlin,0.50678504,,none
+Chris Cornell,0.50678504,,none
+Marietta Shaginyan,0.50678504,,none
+poet,0.50677776,0.6666666666666666,train
+Hermann Burmeister,0.50678504,,none
+Duke Ellington,0.50678504,,none
+lung cancer,0.50678504,,none
+Asian Development Bank,0.3499518,0.0,train
+Berry Gordy,0.50678504,,none
+Aaron Copland,0.50678504,,none
+George Soros,0.50678504,,none
+Budapest,0.50678504,,none
+Rick Rubin,0.50678504,,none
+Epic,0.50678504,,none
+Botswana,0.5062629,1.0,train
+Athanasius Kircher,0.50678504,0.0,test
+Holy Roman Empire,0.506785,,none
+Mary J. Blige,0.50678504,,none
+Stanisław Lem,0.50678504,,none
+philosophy,0.50678504,0.0,train
+Korney Chukovsky,0.50678504,,none
+Truman Capote,0.50678504,,none
+J. R. R. Tolkien,0.50678504,,none
+Christa Wolf,0.50678504,,none
+Kenya,0.5060846,,none
+Saint Petersburg,0.5067634,0.0,valid
+Marshall Islands,0.49277103,0.0,valid
+"""African, Caribbean and Pacific Group of States""",0.49007463,,none
+Eric Burdon,0.50678504,,none
+Geoffrey Ingram Taylor,0.50678504,,none
+Royal Swedish Academy of Sciences,0.50678504,0.3333333333333333,test
+Charles Rosen,0.50678504,,none
+Mozambique,0.50625926,,none
+Brazil,0.5059764,,none
+Angela Merkel,0.50678504,,none
+Jaan Kaplinski,0.50678504,,none
+Eric Idle,0.50678504,,none
+Thomas Henry Huxley,0.50678504,,none
+United Kingdom of Great Britain and Ireland,0.5067841,,none
+Philippines,0.5054408,1.0,train
+Djibouti,0.50625473,,none
+Benjamin Franklin,0.50678504,1.0,train
+economist,0.5067849,0.0,valid
+John Hartford,0.50678504,,none
+Vanessa Carlton,0.50678504,,none
+A&M Records,0.50678504,,none
+Philip Roth,0.50678504,0.0,train
+Lauryn Hill,0.50678504,,none
+A. R. Rahman,0.50678504,,none
+electronic music,0.50678504,0.0,train
+Herbert Grönemeyer,0.50678504,,none
+EMI,0.50678504,0.0,train
+Barthold Georg Niebuhr,0.50678504,,none
+Wilhelm Wundt,0.50678504,,none
+Bahamas,0.5063079,1.0,train
+Tom Hanks,0.50678504,,none
+Theodosius Dobzhansky,0.50678504,,none
+Cliff Richard,0.50678504,,none
+Organization of American States,0.45641887,1.0,valid
+Barbra Streisand,0.50678504,,none
+Roger Penrose,0.50678504,,none
+Hispanic America,0.50139105,,none
+Gaspard Monge,0.50678504,,none
+Royal Prussian Academy of Sciences,0.50678504,1.0,train
+Zhores Alfyorov,0.50678504,0.0,train
+Mark Wahlberg,0.50678504,,none
+Ben Moody,0.50678504,1.0,train
+James Maslow,0.50678504,,none
+John Updike,0.50678504,,none
+Joe Walsh,0.50678504,,none
+Ivan Andreyevich Krylov,0.50678504,,none
+Simon Sechter,0.50678504,,none
+Roger Waters,0.50678504,,none
+Nashville,0.50678504,,none
+Geddy Lee,0.50678504,,none
+Wolfgang Amadeus Mozart,0.50678504,,none
+music pedagogue,0.50678504,1.0,train
+Democratic Republic of the Congo,0.5063066,,none
+Claude Lévi-Strauss,0.50678504,,none
+Georg Wilhelm Friedrich Hegel,0.5067849,,none
+Ernst Mach,0.50678504,,none
+professor,0.5067751,1.0,test
+Gabon,0.50642496,,none
+Organisation of Islamic Cooperation,0.46552092,,none
+Ricky Martin,0.50678504,,none
+Yevgeny Yevtushenko,0.50678504,0.4705882352941176,valid
+prosaist,0.50678504,0.25,train
+Nikolai Gogol,0.50678504,,none
+Al Jolson,0.50678504,1.0,train
+Russian Empire,0.50677806,0.0,train
+Che Guevara,0.50678504,,none
+Valeriya Novodvorskaya,0.50678504,,none
+Severo Ochoa,0.50678504,,none
+Céline Dion,0.50678504,,none
+Catholic Church,0.5067583,,none
+Mikhail Vassilyevich Lomonosov,0.50678504,0.0,train
+Saint Petersburg Academy of Sciences,0.50678504,1.0,train
+Thomas Hobbes,0.50678504,,none
+International Development Association,0.34813163,0.0,train
+Charles Bukowski,0.50678504,,none
+Ezra Pound,0.50678504,,none
+Royal Society of Literature,0.5067749,,none
+Alyson Michalka,0.50678504,,none
+Philip Glass,0.50678504,,none
+Spike Lee,0.50678504,,none
+T-Bone Walker,0.50678504,,none
+Brunei,0.50621116,1.0,valid
+Adam Lambert,0.50678504,,none
+Seamus Heaney,0.50678504,1.0,train
+Harvard University,0.50678504,0.75,train
+Jean-Antoine-Nicolas de Caritat de Condorcet,0.50678504,,none
+Ludwig Geiger,0.50678504,,none
+biographer,0.50678504,,none
+Suzi Quatro,0.50678504,,none
+Jeff Bridges,0.50678504,,none
+photographer,0.50677717,0.0,train
+jazz,0.50678504,0.0,train
+Edward Sabine,0.50678504,,none
+Great Britain,0.50678325,,none
+Ernst Mayr,0.50678504,,none
+Adriano Celentano,0.50678504,1.0,test
+Multilateral Investment Guarantee Agency,0.4318718,,none
+Romain Rolland,0.50678504,,none
+50 Cent,0.50678504,0.0,train
+Augusto Righi,0.50678504,0.0,train
+Accademia Nazionale delle Scienze detta dei XL,0.50678504,1.0,train
+Buckminster Fuller,0.50678504,1.0,train
+Nicki Minaj,0.50678504,,none
+Eritrea,0.50633967,,none
+Burton Cummings,0.50678504,,none
+Debbie Reynolds,0.50678504,,none
+Nikita Mikhalkov,0.50678504,,none
+Selma Lagerlöf,0.50678504,,none
+stroke,0.50678504,,none
+Isaac Asimov,0.50678504,,none
+Marguerite Duras,0.50678504,,none
+George Henschel,0.50678504,,none
+pedagogue,0.5067817,,none
+Slovakia,0.50638664,,none
+Kingsley Amis,0.50678504,,none
+literary critic,0.50678504,0.5,train
+blues,0.50678504,,none
+James Bryant Conant,0.50678504,,none
+Olivier Messiaen,0.50678504,,none
+organ,0.50678504,,none
+Clint Eastwood,0.50678504,,none
+John Lydon,0.50678504,,none
+Sara Bareilles,0.50678504,,none
+"""University of California, Los Angeles""",0.50678504,,none
+Albertus Magnus,0.50678504,,none
+music theorist,0.50678504,,none
+Zimbabwe,0.50624895,,none
+Joseph Fourier,0.50678504,,none
+archaeologist,0.50678504,,none
+Janet Jackson,0.50678504,,none
+zoologist,0.50678504,,none
+Paul McCartney,0.50678504,,none
+agnosticism,0.50678504,,none
+David Bowie,0.50678504,0.5,valid
+experimental rock,0.50678504,,none
+Mort Shuman,0.50678504,,none
+Dima Bilan,0.50678504,,none
+Venezuela,0.50626135,,none
+Simone de Beauvoir,0.50678504,,none
+Yegor Letov,0.50678504,,none
+Pavel Jozef Šafárik,0.50678504,,none
+Gustav Kirchhoff,0.50678504,0.0,train
+Alejandro Jodorowsky,0.50678504,,none
+Édouard René de Laboulaye,0.50678504,,none
+Steven Seagal,0.50678504,,none
+D. H. Lawrence,0.50678504,,none
+Henry Louis Le Châtelier,0.50678504,,none
+Vanessa Williams,0.50678504,,none
+Brad Pitt,0.50678504,,none
+Stephen Spender,0.50678504,,none
+Deutsche Akademie für Sprache und Dichtung,0.50677466,0.5,train
+Avery Brooks,0.50678504,,none
+Gordon Parks,0.50678504,,none
+J. K. Rowling,0.50678504,,none
+Sakis Rouvas,0.50678504,,none
+Hugh Laurie,0.50678504,0.0,train
+Heinrich Brunner,0.50678504,,none
+Lil' Kim,0.50678504,0.0,train
+Mandy Moore,0.50678504,,none
+Denis Johnson,0.50678504,,none
+Howard Hughes,0.50678504,0.0,train
+Republican Party,0.5067813,0.0,test
+Buckethead,0.50678504,,none
+synthesizer,0.50678504,,none
+Mary Pickford,0.50678504,,none
+Portuguese Empire,0.5063655,0.0,train
+Asia,0.50601953,0.575,test
+Tionne Watkins,0.50678504,,none
+Boris Vian,0.50678504,,none
+Tina Turner,0.50678504,,none
+Eldar Ryazanov,0.50678504,,none
+Vince Gill,0.50678504,,none
+Philip Pullman,0.50678504,,none
+children's writer,0.50678504,,none
+Leon Trotsky,0.50678504,,none
+military personnel,0.50677335,,none
+Jared Leto,0.50678504,,none
+Archibald Hill,0.50678504,,none
+African Development Bank,0.40975636,,none
+Arthur C. Clarke,0.50678504,0.0,train
+Chinghiz Aitmatov,0.50678504,,none
+Michel Legrand,0.50678504,,none
+Camillo Golgi,0.50678504,,none
+Göttingen Academy of Sciences,0.50678504,,none
+Walter Scott,0.50678504,,none
+Angie Stone,0.50678504,,none
+Gambia,0.50639683,,none
+François Arago,0.50678504,,none
+Macy Gray,0.50678504,1.0,train
+Andrey Korotayev,0.50678504,,none
+Hugo Grotius,0.50678504,,none
+Joss Whedon,0.50678504,,none
+Keri Hilson,0.50678504,,none
+Kiely Williams,0.50678504,,none
+Judy Garland,0.50678504,,none
+Vitamin C,0.50678504,,none
+Otto Schmidt,0.50678504,,none
+Robert Penn Warren,0.50678504,,none
+Celeste Buckingham,0.50678504,,none
+soul music,0.50678504,,none
+Doc Watson,0.50678504,,none
+Johann Wolfgang von Goethe,0.50678504,,none
+Bob Seger,0.50678504,,none
+Helge Schneider,0.50678504,,none
+Gary Becker,0.50678504,,none
+Jean-Baptiste Biot,0.50678504,,none
+Ulf Ekberg,0.50678504,,none
+George Steiner,0.50678504,,none
+Siméon Denis Poisson,0.50678504,,none
+Anthony Burgess,0.50678504,,none
+Rickie Lee Jones,0.50678504,,none
+Ruslana,0.50678504,0.0,train
+Mos Def,0.50678504,,none
+Sebastian Haffner,0.50678504,,none
+Xavier Cugat,0.50678504,,none
+June Carter Cash,0.50678504,,none
+Donovan,0.50678504,,none
+Burundi,0.5063837,,none
+Finland,0.50618124,1.0,train
+"George Porter, Baron Porter of Luddenham",0.50678504,,none
+Béla Bartók,0.50678504,,none
+musicologist,0.50678504,0.0,train
+Janel Parrish,0.50678504,,none
+Rebbie Jackson,0.50678504,,none
+Randy Jackson,0.50678504,,none
+Jimmy Fallon,0.50678504,,none
+television presenter,0.5067819,0.0,train
+Konstantin Eduardovich Tsiolkovskii,0.50678504,1.0,train
+mathematician,0.50678504,1.0,train
+Andrei Tarkovsky,0.50678504,,none
+Moscow,0.50677466,0.6666666666666666,train
+Anastacia,0.50678504,,none
+dance-pop,0.50678504,1.0,train
+Kingdom of the Netherlands,0.50663483,0.0,train
+R. Kelly,0.50678504,,none
+Jive,0.50678504,,none
+Milan Kundera,0.50678504,,none
+Herman Melville,0.50678504,,none
+Albert Lortzing,0.50678504,,none
+Mark Twain,0.50678504,,none
+Toni Morrison,0.50678504,,none
+Robert Frost,0.50678504,,none
+Honoré de Balzac,0.50678504,,none
+French people,0.50676495,1.0,train
+Meat Loaf,0.50678504,,none
+Motown,0.50678504,,none
+George Carlin,0.50678504,,none
+producer,0.50678504,0.5,train
+Ursula K. Le Guin,0.50678504,,none
+Winston Churchill,0.50678504,,none
+Jean-Baptiste Dumas,0.50678504,,none
+Meaghan Jette Martin,0.50678504,,none
+Moby,0.50678504,,none
+disc jockey,0.50678504,,none
+M.I.A.,0.50678504,,none
+rapper,0.50678504,0.0,test
+Pierre Boulez,0.50678504,,none
+Solomon Islands,0.50632894,1.0,valid
+Sun Ra,0.50678504,,none
+bandleader,0.50678504,1.0,test
+Max Brod,0.50678504,,none
+Prague,0.5067714,,none
+Jean Le Rond d'Alembert,0.50678504,,none
+mathematics,0.50678504,0.0,test
+Pat Boone,0.50678504,,none
+Parlophone,0.50678504,0.0,test
+Ed Sheeran,0.50678504,,none
+Victor Ambartsumian,0.50678504,0.0,train
+Clive Barker,0.50678504,0.0,valid
+artist,0.50678504,,none
+Wassily Kandinsky,0.50678504,1.0,train
+Henri Poincaré,0.50678504,0.0,test
+Miguel de Cervantes,0.50678504,,none
+Alan Stivell,0.50678504,0.0,train
+Sheldon Lee Glashow,0.50678504,,none
+scientist,0.50678504,1.0,train
+György Lukács,0.50678504,1.0,valid
+USSR Union of Writers,0.50678504,,none
+Renato Carosone,0.50678504,,none
+International Hydrographic Organization,0.50586414,1.0,train
+Peru,0.5062483,1.0,train
+Immanuel Kant,0.50678504,,none
+Kingdom of Prussia,0.50678504,,none
+Mary-Kate Olsen,0.50678504,,none
+fashion designer,0.50678504,,none
+George Santayana,0.50678504,,none
+Phi Beta Kappa Society,0.50678504,,none
+Jean Gaston Darboux,0.50678504,0.0,train
+Leonard Nimoy,0.50678504,,none
+Carl Peter Thunberg,0.50678504,,none
+Nelly Furtado,0.50678504,,none
+contemporary folk music,0.50678504,0.0,train
+Richard Dawkins,0.50678504,0.0,train
+Ludwig Wittgenstein,0.50678504,,none
+playwright,0.5067813,1.0,train
+Monica,0.50678504,,none
+Garth Brooks,0.50678504,,none
+Rudyard Kipling,0.50678504,,none
+Sidney Sheldon,0.50678504,0.0,test
+Jason Newsted,0.50678504,,none
+traditional heavy metal,0.50678504,,none
+Bavarian Academy of Fine Arts,0.50677747,0.0,train
+Crispin Glover,0.50678504,,none
+Jamie Foxx,0.50678504,,none
+Heinrich Heine,0.50678504,,none
+Lord Byron,0.50678504,,none
+Graham Greene,0.50678504,,none
+Guatemala,0.5063562,1.0,train
+Myanmar,0.5062586,,none
+Rob Reiner,0.50678504,,none
+Albrecht von Haller,0.50678504,,none
+Angélique Kidjo,0.50678504,,none
+choreographer,0.50678504,0.0,train
+Daniel Lanois,0.50678504,,none
+Josiah Willard Gibbs,0.50678504,,none
+Seychelles,0.5064045,,none
+Alliance of Small Island States,0.44981706,,none
+Bosnia and Herzegovina,0.50631267,,none
+England,0.5067565,,none
+Wilhelm Ostwald,0.50678504,0.0,valid
+keyboard instrument,0.50678504,,none
+Bhutan,0.50633436,,none
+Leo Tolstoy,0.50678504,0.0,test
+Brigitte Fontaine,0.50678504,,none
+Hebrew,0.50676596,,none
+Jason Mraz,0.50678504,,none
+Atlantic Records,0.50678504,1.0,train
+Pierre-Simon Laplace,0.50678504,,none
+Joseph Priestley,0.50678504,1.0,train
+Theodore von Kármán,0.50678504,0.0,train
+Warner Bros.,0.50678504,0.0,train
+Ellie Goulding,0.50678504,,none
+multi-instrumentalist,0.50678504,,none
+Hu Shih,0.50678504,,none
+Academy of Arts of the GDR,0.50678504,0.0,train
+Jamaica,0.50630724,,none
+John Turturro,0.50678504,,none
+Mark Salling,0.50678504,,none
+Rodion Shchedrin,0.50678504,,none
+Hannah Arendt,0.50678504,,none
+Nora Ephron,0.50678504,,none
+Lenny Kravitz,0.50678504,0.0,train
+Bill Cosby,0.50678504,,none
+Anton Bruckner,0.50678504,,none
+Austrian Empire,0.50678414,,none
+saxophone,0.50678504,,none
+Levon Helm,0.50678504,,none
+drum kit,0.50678504,1.0,train
+Mickey Rooney,0.50678504,,none
+Yvonne De Carlo,0.50678504,,none
+Laurie Anderson,0.50678504,,none
+Czesław Miłosz,0.50678504,0.0,test
+David Hasselhoff,0.50678504,,none
+Lutheranism,0.50678504,0.5,valid
+Alanis Morissette,0.50678504,,none
+Hungarian,0.50674486,,none
+Jerry Lewis,0.50678504,,none
+Seth MacFarlane,0.50678504,,none
+Irene Cara,0.50678504,,none
+Elfriede Jelinek,0.50678504,,none
+Guinea,0.506377,,none
+John Travolta,0.50678504,,none
+Gilbert Bécaud,0.50678504,,none
+Mike Shinoda,0.50678504,,none
+Mohandas Karamchand Gandhi,0.50678504,,none
+jurist,0.5067641,,none
+Harold Pinter,0.50678504,0.0,valid
+Prosper Mérimée,0.50678504,,none
+William S. Burroughs,0.50678504,0.0,train
+Carrie Fisher,0.50678504,1.0,train
+Thailand,0.5061973,0.0,train
+Erykah Badu,0.50678504,,none
+Yemen,0.5062357,0.0,train
+Ivan Turgenev,0.50678504,,none
+Nikolai Fomenko,0.50678504,,none
+Sergey Kuryokhin,0.50678504,,none
+Afrika Bambaataa,0.50678504,,none
+Yoram Kaniuk,0.50678504,,none
+painter,0.50678504,0.0,test
+peace activist,0.50678504,,none
+Mercury Records,0.50678504,0.0,train
+Jim Messina,0.50678504,,none
+engineer,0.50678504,0.0,train
+tuberculosis,0.50678504,0.0,train
+Hermann Usener,0.50678504,,none
+German Empire,0.5067482,1.0,train
+Lisa Loeb,0.50678504,,none
+Eddie Money,0.50678504,,none
+Zooey Deschanel,0.50678504,,none
+Urbain Le Verrier,0.50678504,,none
+Zora Neale Hurston,0.50678504,,none
+Katy Perry,0.50678504,,none
+synth-pop,0.50678504,,none
+Hector Berlioz,0.50678504,,none
+Andy Williams,0.50678504,,none
+Bret Michaels,0.50678504,,none
+Count Basie,0.50678504,,none
+David Hume,0.50678504,,none
+Theodore Roosevelt,0.50678504,,none
+"Washington, D.C.",0.50678504,,none
+Evelyn Waugh,0.50678504,,none
+Kid Rock,0.50678504,,none
+banjoist,0.50678504,,none
+Benjamin Britten,0.50678504,0.0,train
+heart failure,0.50678504,0.0,train
+Hungarian Academy of Sciences,0.50678504,0.125,valid
+Ivan Yefremov,0.50678504,,none
+Uganda,0.50627255,,none
+Friedrich Carl von Savigny,0.50678504,0.0,train
+Robin Gibb,0.50678504,,none
+opera,0.50678504,0.6666666666666666,train
+Zambia,0.50615346,,none
+Léo Ferré,0.50678504,,none
+El Salvador,0.50635237,1.0,train
+Yuri Vizbor,0.50678504,,none
+Julieta Venegas,0.50678504,,none
+Harald Weinrich,0.50678504,1.0,train
+Collège de France,0.50678504,1.0,valid
+Julio Cortázar,0.50678504,,none
+Cape Verde,0.50635177,,none
+Joseph Liouville,0.50678504,,none
+Soviet Union,0.50659907,0.75,test
+Charlie Chaplin,0.50678504,0.0,test
+Lloyd Price,0.50678504,,none
+Jan Josef Liefers,0.50678504,0.0,valid
+Steve Martin,0.50678504,,none
+Carly Simon,0.50678504,,none
+Alexander Ivanovich Herzen,0.50678474,,none
+David Mitchell,0.50678504,,none
+Vladimir Nabokov,0.50678504,0.0,train
+Irving Berlin,0.50678504,,none
+Bulat Okudzhava,0.50678504,,none
+John Frederick William Herschel,0.50678504,,none
+American Philosophical Society,0.5067811,,none
+Anatoly Krupnov,0.50678504,,none
+Henrik Steffens,0.50678504,,none
+Natalie Portman,0.50678504,0.0,test
+LeToya Luckett,0.50678504,,none
+Montparnasse Cemetery,0.50678504,,none
+Organization for Security and Co-operation in Europe,0.50616,,none
+Carrie Underwood,0.50678504,,none
+Karl Marx,0.50678486,,none
+Kevin Jonas,0.50678504,,none
+Mauritania,0.5063454,,none
+Wolfgang Schadewaldt,0.50678504,,none
+Mary Wollstonecraft,0.50678504,,none
+The Edge,0.50678504,,none
+Chad,0.5063299,,none
+Nikolay Basov,0.50678504,1.0,train
+Adam Sandler,0.50678504,,none
+Hans Christian Ørsted,0.50678504,0.0,valid
+Don Rickles,0.50678504,,none
+Ginger Rogers,0.50678504,,none
+Amy Lee,0.50678504,,none
+Paul Reiser,0.50678504,,none
+David Byrne,0.50678504,,none
+mandolinist,0.50678504,,none
+Mikhail Zadornov,0.50678504,,none
+Myles Kennedy,0.50678504,,none
+Boston,0.50678504,,none
+Charlotte Church,0.50678504,,none
+Charles Mingus Jr.,0.50678504,,none
+Alexander Pushkin,0.50678504,,none
+poetry,0.50678504,1.0,train
+powest,0.50678504,0.0,train
+Billie Holiday,0.50678504,,none
+Stanislao Cannizzaro,0.50678504,,none
+André Gide,0.50678504,,none
+Darren Criss,0.50678504,,none
+Mauritius,0.5062945,,none
+Usher,0.50678504,,none
+Comoros,0.5064003,,none
+Nat King Cole,0.50678504,,none
+Natalie Cole,0.50678504,,none
+Jérôme Lalande,0.50678504,0.7368421052631579,train
+Raymond Aron,0.50678504,,none
+Camille Saint-Saëns,0.50678504,,none
+symphony,0.50678504,0.0,test
+Southern African Development Community,0.45179915,,none
+Jack Black,0.50678504,,none
+Democratic Party,0.5067817,0.0,train
+Angelina Jolie,0.50678504,,none
+Asia-Pacific Economic Cooperation,0.4356424,,none
+Solange Knowles,0.50678504,,none
+Kanye West,0.50678504,1.0,train
+Frédéric Chopin,0.50678504,,none
+Alexis de Tocqueville,0.50678504,,none
+Lionel Richie,0.50678504,,none
+Sven Hedin,0.50678504,,none
+Roger Daltrey,0.50678504,,none
+Somalia,0.5063193,,none
+Fritz Lang,0.50678504,,none
+Glukoza,0.50678504,,none
+Lebanon,0.5063084,,none
+Satyajit Ray,0.50678504,,none
+Dmitri Kabalevsky,0.50678504,0.5,train
+Joss Stone,0.50678504,,none
+Morgan Freeman,0.50678504,,none
+Kyle Gass,0.50678504,,none
+character actor,0.50678504,,none
+Dennis Hopper,0.50678504,,none
+Thomas Paine,0.50678504,,none
+American English,0.50676966,,none
+Barbara Mandrell,0.50678504,,none
+Saint Vincent and the Grenadines,0.5065006,,none
+Alexander Rybak,0.50678504,,none
+Taraneh Javanbakht,0.50678504,,none
+Konrad Lorenz,0.50678504,,none
+Amiri Baraka,0.50678504,0.5625,train
+Nino Rota,0.50678504,,none
+Tunisia,0.5063471,,none
+Kylie Minogue,0.50678504,1.0,train
+Ricky Gervais,0.50678504,,none
+Victoria Beckham,0.50678504,0.0,train
+Bing Crosby,0.50678504,,none
+Shakira,0.50678504,,none
+Steve Allen,0.50678504,,none
+Randy Travis,0.50678504,,none
+country music,0.50678504,0.0,test
+George Sand,0.50678504,,none
+Jolin Tsai,0.50678504,1.0,train
+Pier Paolo Pasolini,0.50678504,1.0,valid
+Michael Jackson,0.50678504,1.0,train
+Václav Havel,0.50669056,,none
+Max Weber,0.50678504,,none
+lawyer,0.506764,,none
+Randy Newman,0.50678504,,none
+Peter Lorre,0.50678504,,none
+Barry Gibb,0.50678504,,none
+Peter Kropotkin,0.50678504,,none
+Albania,0.50632906,,none
+Yehuda Amichai,0.50678504,,none
+W.E.B. Du Bois,0.50678504,,none
+Samuel P. Huntington,0.50678504,0.5625,train
+Gabriel Lamé,0.50678504,,none
+biologist,0.50678504,,none
+Liza Minnelli,0.50678504,,none
+Doris Lessing,0.50678504,,none
+Alice Cooper,0.50678504,1.0,valid
+Anton Chekhov,0.50678504,,none
+literary realism,0.50678504,,none
+Joan Jett,0.50678504,0.0,train
+Pedro II of Brazil,0.50678504,,none
+Svetlana Surganova,0.50678504,,none
+rock and roll,0.50678504,,none
+Academy of Useful Science,0.50678504,0.0,valid
+Harry Connick Jr.,0.50678504,,none
+Alphonse Daudet,0.50678504,,none
+Cambridge,0.50678504,,none
+Missile Technology Control Regime,0.48762017,,none
+Fredric Jameson,0.50678504,,none
+Bertolt Brecht,0.50678504,1.0,train
+Billy Bob Thornton,0.50678504,,none
+Jean-Luc Godard,0.50678504,,none
+Leipzig University,0.50678504,0.0,test
+Richard Wright,0.50678504,,none
+Yukio Mishima,0.50678504,,none
+Richard Feynman,0.50678504,0.0,train
+renal insufficiency,0.50678504,0.0,train
+Guyana,0.5063262,,none
+Ilya Oleynikov,0.50678504,,none
+Alan Arkin,0.50678504,,none
+Brooklyn,0.50678504,,none
+Ignaz Moscheles,0.50678504,,none
+Joyce Carol Oates,0.50678504,,none
+Sammy Davis Jr.,0.50678504,,none
+J. M. Coetzee,0.50678504,,none
+Vladimir Mayakovsky,0.50678504,,none
+Keren Ann,0.50678504,,none
+Tony Visconti,0.50678504,,none
+Asia Argento,0.50678504,,none
+Karel Čapek,0.50678504,,none
+Panama,0.5063904,,none
+Alla Pugacheva,0.50678504,,none
+Warner Bros. Records,0.50678504,0.5,train
+Nyusha,0.50678504,0.0,train
+John Locke,0.50678504,,none
+Paul Krugman,0.50678504,,none
+Swizz Beatz,0.50678504,0.0,test
+Colbie Caillat,0.50678504,,none
+Dorothy L. Sayers,0.50678504,,none
+Dianna Agron,0.50678504,,none
+Vladimir Prelog,0.50678504,0.0,train
+Günther Anders,0.50678504,,none
+Mircea Eliade,0.50678504,,none
+Heinrich Wilhelm Olbers,0.50678504,,none
+Singapore,0.50618523,0.5,train
+Claudio Magris,0.50678504,1.0,test
+David Ogden Stiers,0.50678504,,none
+Whoopi Goldberg,0.50678504,,none
+Taylor Momsen,0.50678504,,none
+Phil Harris,0.50678504,,none
+violin,0.50678504,,none
+20th century,0.50678504,1.0,test
+Søren Kierkegaard,0.50678504,,none
+Joseph Heller,0.50678504,0.0,train
+Michelle Williams,0.50678504,,none
+Frank Sinatra,0.50678504,,none
+Haiti,0.50644076,1.0,train
+Peter Gay,0.50678504,0.0,train
+Ivan Illich,0.50678504,,none
+Portuguese,0.50656766,,none
+Lionel Hampton,0.50678504,,none
+Detroit,0.50678504,0.0,train
+Lesotho,0.5064469,,none
+Ivory Coast,0.50633204,,none
+Joan Baez,0.50678504,,none
+Barbados,0.5063023,,none
+William Butler Yeats,0.50678504,,none
+Marvin Gaye,0.50678504,,none
+Bobby Darin,0.50678504,,none
+Jules Verne,0.50678504,1.0,train
+Christopher Lee,0.50678504,,none
+Kate Voegele,0.50678504,,none
+Nicolae Iorga,0.50678504,0.0,valid
+Adolf Butenandt,0.50678504,,none
+physics,0.50678504,1.0,test
+Paul Jozef Crutzen,0.50678504,1.0,train
+Drake,0.50678504,,none
+Harold Lloyd,0.50678504,0.0,train
+Drake Bell,0.50678504,,none
+Arab League,0.50629896,,none
+Lea Salonga,0.50678504,0.0,train
+new wave,0.50678504,,none
+Billy Dee Williams,0.50678504,,none
+Elvis Presley,0.50678504,0.0,test
+Emma Goldman,0.50678504,,none
+Toronto,0.50678504,,none
+David Crosby,0.50678504,,none
+Melanie C,0.50678504,,none
+Luciano Berio,0.50678504,,none
+Kingdom of Italy,0.50678504,1.0,test
+Elektra,0.50678504,0.0,train
+Theodor W. Adorno,0.50678504,,none
+Emmanuel Swedenborg,0.50678504,,none
+Togo,0.5063527,,none
+Ronny Cox,0.50678504,,none
+Gilles Deleuze,0.50678504,,none
+University of Paris (1896-1968),0.50678504,,none
+Common,0.50678504,0.0,train
+East Timor,0.50626403,,none
+Peter Drucker,0.50678504,,none
+Wallace Shawn,0.50678504,,none
+Roy Orbison,0.50678504,,none
+West Africa,0.5062832,,none
+David Clayton-Thomas,0.50678504,,none
+Ivan Goncharov,0.50678504,,none
+Buffy Sainte-Marie,0.50678504,,none
+Edmund White,0.50678504,,none
+Jan Evangelista Purkyně,0.50678504,,none
+Austria-Hungary,0.5067796,,none
+Dietrich Fischer-Dieskau,0.50678504,,none
+Vince Vaughn,0.50678504,0.0,train
+Patrice Chéreau,0.50678504,,none
+Shannon Leto,0.50678504,,none
+Albert Szent-Györgyi,0.50678504,1.0,valid
+Albert Camus,0.50678504,,none
+University of Bonn,0.50678504,,none
+Robin Thicke,0.50678504,,none
+Alicia Keys,0.50678504,,none
+Tamara Bunke,0.50678504,,none
+Donny Hathaway,0.50678504,,none
+David A. Stewart,0.50678504,,none
+Paul Dirac,0.50678504,0.0,valid
+David Hemmings,0.50678504,,none
+Douglas Fairbanks,0.50678504,,none
+Karel Jaromír Erben,0.50678504,,none
+Movement Coordination Centre Europe,0.5063662,,none
+Jann Arden,0.50678504,,none
+Will Smith,0.50678504,,none
+St. Vincent,0.50678504,,none
+Michael Penn,0.50678504,,none
+Arthur Conan Doyle,0.50678504,0.0,train
+Princeton University,0.50678504,,none
+Johann Christian Poggendorff,0.50678504,,none
+Galina Vishnevskaya,0.50678504,,none
+Samoa,0.5062597,1.0,train
+"""Weird Al"" Yankovic",0.50678504,,none
+accordion,0.50678504,,none
+Albert Einstein,0.50678504,0.0,train
+Shaquille O'Neal,0.50678504,0.0,test
+Kuwait,0.50631225,0.0,train
+Honduras,0.5063649,,none
+Max Reger,0.50678504,,none
+Ethiopia,0.5062377,,none
+Joe Jonas,0.50678504,,none
+Sonny Bono,0.50678504,,none
+University of Chicago,0.50678504,0.0,train
+Ernest Renan,0.50678504,0.0,train
+Suriname,0.506364,,none
+Konstantin Fedin,0.50678504,,none
+Seth Rogen,0.50678504,,none
+Hong Kong,0.50636125,0.0,train
+Milva,0.50678504,,none
+Jay-Z,0.50678504,,none
+George Martin,0.50678504,,none
+Paulo Coelho,0.50678504,,none
+Jorge Luis Borges,0.50678504,,none
+Joni Mitchell,0.50678504,0.0,valid
+Dannii Minogue,0.50678504,0.5,valid
+Julian Lennon,0.50678504,,none
+Dalida,0.50678504,,none
+Roger Miller,0.50678504,,none
+Bret Easton Ellis,0.50678504,,none
+short story writer,0.50678504,,none
+Belize,0.5064467,,none
+Sergey Mikhalkov,0.50678504,1.0,train
+Christina Milian,0.50678504,,none
+Leopold von Ranke,0.50678504,,none
+A. A. Milne,0.50678504,0.0,test
+Ani Lorak,0.50678504,,none
+Joseph Louis Gay-Lussac,0.50678504,,none
+Method Man,0.50678504,,none
+Tupac Shakur,0.50678504,,none
+Andrei Konchalovsky,0.50678504,,none
+percussion instrument,0.50678504,,none
+Fred Hoyle,0.50678504,,none
+Heinrich Wilhelm Gottfried von Waldeyer-Hartz,0.50678504,,none
+Academy of Sciences of Turin,0.50678504,,none
+Ashanti,0.50678504,,none
+Regina Spektor,0.50678504,,none
+Peter Buck,0.50678504,,none
+Susan Sontag,0.50678504,,none
+Charles Lyell,0.50678504,0.0,test
+Henri Becquerel,0.50678504,,none
+"Georges-Louis Leclerc, Comte de Buffon",0.50678504,,none
+James D. Watson,0.50678504,1.0,train
+Jennifer Love Hewitt,0.50678504,,none
+Adam Levine,0.50678504,,none
+Van McCoy,0.50678504,,none
+disco,0.50678504,,none
+Lana Del Rey,0.50678504,,none
+Irène Joliot-Curie,0.50678504,,none
+Giuseppe Ungaretti,0.50678504,,none
+Joe Jackson,0.50678504,,none
+Bernard-Henri Lévy,0.50678504,,none
+Willie Nelson,0.50678504,,none
+New Zealand,0.5062072,1.0,valid
+philanthropist,0.50678504,0.0,train
+Euclides da Cunha,0.50678504,,none
+Tim Rose,0.50678504,,none
+Leonardo da Vinci,0.50678504,1.0,test
+Avril Lavigne,0.50678504,,none
+M. Pokora,0.50678504,,none
+John Mayer,0.50678504,,none
+C. S. Lewis,0.50678504,0.0,train
+Per Olov Enquist,0.50678504,,none
+Judaism,0.50678504,,none
+Edgar Allan Poe,0.50678504,,none
+Lisa Lopes,0.50678504,,none
+Charlotte Gainsbourg,0.50678504,,none
+Ralph Waldo Emerson,0.50678504,,none
+Jason Derulo,0.50678504,0.64,train
+Beatriz Luengo,0.50678504,,none
+Lemmy Kilmister,0.50678504,,none
+Germans,0.5066899,1.0,train
+Sarah McLachlan,0.50678504,,none
+Courtney Love,0.50678504,,none
+Gladys Knight,0.50678504,,none
+lyricist,0.50678504,,none
+Janelle Monáe,0.50678504,,none
+Paul G. Allen,0.50678504,0.0,train
+Gackt,0.50678504,0.0,train
+Selena Gomez,0.50678504,,none
+Ringo Starr,0.50678504,,none
+Hilary Duff,0.50678504,,none
+Latin,0.50676095,1.0,test
+Camille Jordan,0.50678504,,none
+Lance Bass,0.50678504,0.0,valid
+Ben Elton,0.50678504,,none
+Jean-Jacques Rousseau,0.50678504,,none
+Vladimir Vysotsky,0.50678504,0.0,train
+Boris Grebenshchikov,0.50678504,,none
+opinion journalist,0.50678504,0.0,train
+David Brewster,0.50678504,0.0,train
+Miguel,0.50678504,,none
+São Tomé and Príncipe,0.506365,,none
+Philip Warren Anderson,0.50678504,,none
+Romanticism,0.50678504,,none
+John Denver,0.50678504,,none
+Falco,0.50678504,,none
+Walter Benjamin,0.50678504,,none
+librettist,0.50678504,0.5,train
+John Keats,0.50678504,,none
+physician,0.50678504,,none
+Sony Music,0.50678504,,none
+Bob Mould,0.50678504,,none
+Uzbekistan,0.50635725,1.0,train
+Jaroslav Vrchlický,0.50678504,,none
+Montesquieu,0.50678504,,none
+Alexander von Humboldt,0.50678504,0.0,train
+Eminem,0.50678504,,none
+Thomas Anders,0.50678504,,none
+Chris Brown,0.50678504,1.0,test
+Daniel Johnston,0.50678504,1.0,train
+Elie Wiesel,0.50678504,,none
+Manhattan,0.5067793,,none
+Qatar,0.5062704,1.0,train
+Arab Fund for Economic and Social Development,0.37285674,,none
+indie pop,0.50678504,,none
+Walt Disney Records,0.50678504,,none
+Jack London,0.50678504,,none
+William Herschel,0.50678504,,none
+John Lennon,0.50678504,,none
+Anna Akhmatova,0.50678504,,none
+Bob Hope,0.50678504,,none
+Moldova,0.50641596,,none
+Nick Cannon,0.50678504,,none
+television director,0.50678504,,none
+Ike Turner,0.50678504,,none
+Demi Lovato,0.50678504,1.0,train
+Diana Arbenina,0.50678504,,none
+Ne-Yo,0.50678504,,none
+Antigua and Barbuda,0.50626147,1.0,train
+Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,0.4674632,,none
+Lianne La Havas,0.50678504,,none
+Augustine of Hippo,0.50678504,,none
+George Frideric Handel,0.50678504,,none
+Tex Ritter,0.50678504,,none
+Omar Sharif,0.50678504,,none
+Western,0.50678504,,none
+Osip Mandelstam,0.50678504,,none
+Condoleezza Rice,0.50678504,,none
+Peggy Lee,0.50678504,,none
+Visa Waiver Program,0.15013206,0.0,train
+Julio Iglesias,0.50678504,,none
+Steven Weinberg,0.50678504,,none
+Mark Ronson,0.50678504,0.0,train
+Joseph E. Stiglitz,0.50678504,,none
+Carl Orff,0.50678504,,none
+Dominica,0.506504,,none
+Josephine Baker,0.50678504,,none
+Tim Rice-Oxley,0.50678504,,none
+Vatican City,0.50653404,,none
+conductor,0.50678504,0.0,train
+Nick Cave,0.50678504,,none
+RuPaul,0.50678504,,none
+Donald Trump,0.5067355,0.0,train
+Tanzania,0.50624007,,none
+John Ruskin,0.50678504,,none
+Santa Monica,0.5064754,,none
+Mario Praz,0.50678504,0.625,valid
+Federated States of Micronesia,0.44564095,0.0,train
+Gretchen Wilson,0.50678504,,none
+Ray Bradbury,0.50678504,1.0,train
+science fiction,0.50678504,,none
+Monaco,0.5065522,,none
+Stephen Fry,0.50678504,1.0,valid
+Nuclear Suppliers Group,0.5061641,,none
+John Ciardi,0.50678504,,none
+Ayn Rand,0.50678504,,none
+Dave Matthews,0.50678504,,none
+Jackson Browne,0.50678504,,none
+Zoolander,0.50678504,0.1764705882352941,train
+Max Frisch,0.50678504,,none
+Erich Kästner,0.50678504,,none
+Dmitry Medvedev,0.5067058,,none
+Saint Petersburg State University,0.50676227,,none
+Neil Tennant,0.50678504,,none
+Friedrich Wilhelm Joseph Schelling,0.50678504,0.0,valid
+Oman,0.50640804,1.0,train
+Natasha Shneider,0.50678504,,none
+John Desmond Bernal,0.50678504,,none
+Diana Ross,0.50678504,,none
+Snoop Dogg,0.50678504,,none
+Donald Glover,0.50678504,,none
+Jean-Victor Poncelet,0.50678504,0.0,train
+John Cassavetes,0.50678504,,none
+August Ludwig von Schlözer,0.50678504,,none
+keyboardist,0.50678504,,none
+Robert McNamara,0.50678504,,none
+Sergei Korolev,0.50678504,,none
+Kirsten Dunst,0.50678504,,none
+Tito Jackson,0.50678504,,none
+Jerry Garcia,0.50678504,,none
+Robert Schumann,0.50678504,1.0,valid
+theoretical physicist,0.50678504,,none
+Robbie Robertson,0.50678504,,none
+Armenia,0.50625145,1.0,train
+Arabic,0.49663135,,none
+Chris Rea,0.50678504,,none
+Leon Battista Alberti,0.50678504,,none
+Al Franken,0.50678504,,none
+Alice Walker,0.50678504,,none
+Rudolf Virchow,0.50678504,0.0,test
+Ayọ,0.50678504,,none
+Moritz von Jacobi,0.50678504,1.0,test
+Avicii,0.50678504,,none
+Khloé Kardashian,0.50678504,,none
+Justin Bieber,0.50678504,,none
+Jordan,0.50630766,1.0,valid
+Mark Linkous,0.50678504,,none
+James Clerk Maxwell,0.50678504,0.0,train
+Decca,0.50678504,1.0,valid
+Tracy Chapman,0.50678504,,none
+Friedrich Schiller,0.50678504,,none
+Sarah Silverman,0.50678504,,none
+San Marino,0.5064867,,none
+Gore Vidal,0.50678504,,none
+Wernher von Braun,0.50678504,1.0,train
+Plato,0.50678504,,none
+Charlton Heston,0.50678504,,none
+Idina Menzel,0.50678504,,none
+Nikolay Semyonov,0.50678504,0.0,train
+German Academy of Sciences at Berlin,0.50678504,,none
+Curtis Mayfield,0.50678504,,none
+Lara Fabian,0.50678504,,none
+Milton Friedman,0.50678504,,none
+Jimi Hendrix,0.50678504,,none
+Damon Albarn,0.50678504,,none
+George Orwell,0.50678504,0.0,train
+James Brown,0.50678504,,none
+Chuck Berry,0.50678504,,none
+Brian Wilson,0.50678504,1.0,valid
+Daniel Handler,0.50678504,0.0,train
+John Cale,0.50678504,,none
+György Ligeti,0.50678504,,none
+Miles Davis,0.50678504,,none
+Petula Clark,0.50678504,,none
+Rita Lee,0.50678504,,none
+executive producer,0.50678504,,none
+Ian McEwan,0.50678504,,none
+Benin,0.5064088,,none
+Jean Yanne,0.50678504,,none
+Sarah Brightman,0.50678504,,none
+Dudley Moore,0.50678504,,none
+Elmer Bernstein,0.50678504,,none
+Felix Klein,0.50678504,0.0,train
+Kwame Anthony Appiah,0.50678504,,none
+Paul Simon,0.50678504,,none
+soft rock,0.50678504,1.0,valid
+k.d. lang,0.50678504,,none
+Mikhail Lermontov,0.50678504,,none
+Fritz Leiber Junior,0.50678504,,none
+Lena Horne,0.50678504,,none
+Lauren Bacall,0.50678504,,none
+Prince,0.50678504,,none
+Sid Caesar,0.50678504,,none
+Emma Bunton,0.50678504,0.0,train
+Oceania,0.497829,0.5294117647058824,train
+Marcellin Berthelot,0.50678504,0.0,train
+Abraham Gotthelf Kästner,0.50678504,,none
+Mel Brooks,0.50678504,0.0,train
+William Blake,0.50678504,,none
+Santiago Ramón y Cajal,0.50678504,0.0,train
+Lisa Marie Presley,0.50678504,,none
+Wolfhart Pannenberg,0.50678504,,none
+Lil Mama,0.50678504,,none
+Serbian Academy of Sciences and Arts,0.50678504,0.1764705882352941,train
+Nicole Scherzinger,0.50678504,,none
+NATO,0.5063219,,none
+Sabrina Bryan,0.50678504,,none
+Ilya Ilf,0.50678504,0.5789473684210527,train
+Liberia,0.50635153,,none
+Selena,0.50678504,,none
+prose,0.50678504,0.5,test
+Vladimir Solovyov,0.50678504,,none
+Franco Battiato,0.50678504,,none
+Friedrich Engels,0.5067847,,none
+Herbie Hancock,0.50678504,,none
+Rudolf Christoph Eucken,0.50678504,0.5625,train
+Leó Szilárd,0.50678504,1.0,train
+Brian May,0.50678504,,none
+Hollywood Records,0.50678504,,none
+David Walliams,0.50678504,0.0,train
+August Wilhelm Schlegel,0.50678504,,none
+Felipe Colombo,0.50678504,0.0,test
+Alexz Johnson,0.50678504,,none
+Gotthold Ephraim Lessing,0.50678504,,none
+funk,0.50678504,,none
+Turkmenistan,0.50639254,1.0,valid
+Andrey Gubin,0.50678504,,none
+Judd Apatow,0.50678504,,none
+Konstantin Simonov,0.50678504,,none
+Aaliyah,0.50678504,,none
+James Cameron,0.50678504,0.0,train
+Simon Newcomb,0.50678504,,none
+Mark Oliver Everett,0.50678504,,none
+Mae West,0.50678504,1.0,train
+Vince Neil,0.50678504,0.0,train
+Mika,0.50678504,,none
+Jordin Sparks,0.50678504,0.0,train
+Lewis Carroll,0.50678504,,none
+Richard Francis Burton,0.50678504,,none
+Kevin Spacey,0.50678504,,none
+Council of Europe,0.5062142,,none
+Franz Liszt,0.50678504,,none
+Henri Bergson,0.50678504,,none
+Peter Ustinov,0.50678504,,none
+Franz Miklosich,0.50678504,0.0,test
+Mick Ronson,0.50678504,,none
+Umberto Eco,0.50678504,,none
+Sandy,0.50678504,,none
+Yehudi Menuhin,0.50678504,,none
+Caribbean Development Bank,0.4163528,,none
+Kinky Friedman,0.50678504,,none
+G. K. Chesterton,0.50678504,0.0,train
+Austrian Academy of Sciences,0.50678504,,none
+Whitney Houston,0.50678504,,none
+George Ellery Hale,0.50678504,,none
+Dmitri Shostakovich,0.50678504,0.0,valid
+Latin America,0.5063402,1.0,train
+Joe Dassin,0.50678504,,none
+Tonga,0.5062766,0.0,train
+AJ Michalka,0.50678504,,none
+Danny Glover,0.50678504,,none
+Julian Barnes,0.50678504,,none
+Ernest Hemingway,0.50678504,,none
+geographer,0.50678504,,none
+Cat Stevens,0.50678504,,none
+Alexander Alexandrovich Fadeyev,0.50678504,,none
+Amanda Palmer,0.50678504,,none
+Neil Gaiman,0.50678504,,none
+Mikhail Bulgakov,0.50678504,,none
+Noël Coward,0.50678504,,none
+Saint Kitts and Nevis,0.5065271,,none
+Oleg Skripka,0.50678504,,none
+Big Boi,0.50678504,,none
+opera singer,0.50678504,,none
+Britney Spears,0.50678504,1.0,valid
+satire,0.50678504,1.0,train
+Brandy Norwood,0.50678504,,none
+chemistry,0.50678504,1.0,train
+Joan Rivers,0.50678504,,none
+Ève Curie,0.50678504,,none
+music critic,0.50678504,0.5,train
+Paul Valéry,0.50678504,0.0,valid
+Trent Reznor,0.50678504,,none
+Hans Mayer,0.50678504,,none
+Tatyana Tolstaya,0.50678504,,none
+Mstislav Keldysh,0.50678504,,none
+Royal Society of Edinburgh,0.50678504,,none
+Ani DiFranco,0.50678504,,none
+Ray Davies,0.50678504,1.0,train
+progressive rock,0.50678504,,none
+Oswald Heer,0.50678504,0.0,train
+Ludwig Maximilian University of Munich,0.50678504,,none
+Romain Gary,0.50678504,,none
+Barry Manilow,0.50678504,,none
+Ernst Curtius,0.50678504,,none
+Victor Hugo,0.50678504,0.0,train
+Jacques Brel,0.50678504,,none
+Middle East,0.5063899,,none
+Ian McLagan,0.50678504,,none
+Richard Stallman,0.50678504,0.0,test
+John von Neumann,0.50678504,0.0,train
+John Milton,0.50678504,,none
+Debby Ryan,0.50678504,,none
+Léon Theremin,0.50678504,1.0,train
+Lowell George,0.50678504,,none
+Marlon Jackson,0.50678504,,none
+Bridgit Mendler,0.50678504,,none
+Paul Anka,0.50678504,0.5555555555555556,train
+"William Thomson, 1st Baron Kelvin",0.50678504,0.0,valid
+Heinrich Schliemann,0.50678504,,none
+Swedish,0.50673336,,none
+Steven Van Zandt,0.50678504,,none
+Ludacris,0.50678504,,none
+Dolly Parton,0.50678504,,none
+Atlanta,0.50678504,,none
+Michael Nesmith,0.50678504,,none
+Master P,0.50678504,,none
+AFRISTAT,0.5061483,,none
+Thomas Carlyle,0.50678504,,none
+Liberace,0.50678504,,none
+Aimee Mann,0.50678504,,none
+Ariana Grande,0.50678504,,none
+Cameroon,0.5063041,,none
+Jacques Rivette,0.50678504,0.0,train
+Donny Osmond,0.50678504,1.0,valid
+non-fiction writer,0.5067783,,none
+Kid Cudi,0.50678504,,none
+art rock,0.50678504,,none
+Gotthelf Fischer von Waldheim,0.50678504,,none
+H. P. Lovecraft,0.50678504,,none
+inventor,0.50678504,0.3658536585365853,test
+Karlheinz Stockhausen,0.50678504,,none
+MC Hammer,0.50678504,,none
+Ricky Nelson,0.50678504,,none
+MCA Records,0.50678504,,none
+Frank Wedekind,0.50678504,,none
+Avicenna,0.50678504,,none
+Steve Carell,0.50678504,,none
+Michel Houellebecq,0.50678504,,none
+Sting,0.50678504,,none
+heavy metal,0.50650805,,none
+Charles Baudelaire,0.50678504,,none
+Russians,0.50672793,,none
+Nas,0.50678504,,none
+Fred Astaire,0.50678504,0.3478260869565217,train
+Van Morrison,0.50678504,,none
+"""University of California, Berkeley""",0.50678504,,none
+Julie Driscoll,0.50678504,,none
+David Attenborough,0.50678504,,none
+China Anne McClain,0.50678504,,none
+Emilie Autumn,0.50678504,,none
+Zbigniew Herbert,0.50678504,,none
+"Academy of Arts, Berlin",0.50678504,,none
+Willow Smith,0.50678504,,none
+Iggy Pop,0.50678504,,none
+Felix Philipp Kanitz,0.50678504,0.0,train
+Ján Kollár,0.50678504,,none
+Erwin Raisz,0.50678504,,none
+Vincent Gallo,0.50678504,,none
+Carlo Rubbia,0.50678504,1.0,train
+German Democratic Republic,0.5066804,,none
+Spike Milligan,0.50678504,0.6,train
+Mick Jagger,0.50678504,,none
+Amr Diab,0.50678504,,none
+Vitas,0.50678504,,none
+Edward Said,0.50678504,,none
+Treaty on Open Skies,0.48301655,,none
+Henry James,0.50678504,,none
+Herman Francis Mark,0.50678504,1.0,valid
+Charles Babbage,0.50678504,0.5,train
+Elizabeth II,0.50624025,,none
+James Blake,0.50678504,,none
+Lena Meyer-Landrut,0.50678504,,none
+Jodie Foster,0.50678504,,none
+Heinrich Böll,0.50678504,,none
+theologian,0.50678504,,none
+Toni Braxton,0.50678504,,none
+Tara Strong,0.50678504,,none
+T.I.,0.50678504,,none
+Karl Lachmann,0.50678504,,none
+Leon Russell,0.50678504,,none
+Arab Monetary Fund,0.42136443,,none
+Eugène Ionesco,0.50678504,,none
+John Paul II,0.5066668,,none
+Shania Twain,0.50678504,,none
+Sam Cooke,0.50678504,,none
+Czech,0.5067387,,none
+David Lindley,0.50678504,,none
+Gustavo Cerati,0.50678504,,none
+Tori Amos,0.50678504,,none
+Priscilla Presley,0.50678504,,none
+Cass Elliot,0.50678504,,none
+"Tyler, the Creator",0.50678504,,none
+Bruce Springsteen,0.50678504,,none
+Salman Rushdie,0.50678504,,none
+Brad Delson,0.50678504,,none
+Shen Kuo,0.50678504,0.0,test
+geologist,0.50678504,,none
+Georg Christoph Lichtenberg,0.50678504,,none
+Joumana Haddad,0.50678504,,none
+Giovanni Schiaparelli,0.50678504,,none
+Andrew Ridgeley,0.50678504,,none
+astronomy,0.50678504,1.0,train
+Vladimir Obruchev,0.50678504,,none
+Renaud,0.50678504,,none
+Wiz Khalifa,0.50678504,,none
+Vitaly Ginzburg,0.50678504,0.5,train
+Stephen Jay Gould,0.50678504,,none
+Jack White,0.50678504,,none
+film editor,0.50678504,,none
+Nelly,0.50678504,,none
+David Lynch,0.50678504,,none
+Colm Tóibín,0.50678504,,none
+Robert De Niro,0.50678504,,none
+Leipzig,0.50678504,0.0,valid
+E. T. A. Hoffmann,0.50678504,,none
+Mihajlo Pupin,0.50678504,1.0,valid
+Guy de Maupassant,0.50678504,,none
+Jeff Goldblum,0.50678504,,none
+Debbie Harry,0.50678504,,none
+James Blunt,0.50678504,1.0,train
+Christopher Hitchens,0.50678504,,none
+Charles Wheatstone,0.50678504,1.0,test
+Ludwig Prandtl,0.50678504,,none
+John Cage,0.50678504,,none
+Henri Victor Regnault,0.50678504,0.0,train
+Lev Gumilyov,0.50678504,,none
+Hulk Hogan,0.50678504,,none
+Corbin Bleu,0.50678504,,none
+play,0.50678504,,none
+blogger,0.50677586,,none
+Enzo Jannacci,0.50678504,,none
+Connie Smith,0.50678504,0.0,test
+Beverly Hills,0.50678504,,none
+blues rock,0.50678504,,none
+Lars Onsager,0.50678504,,none
+Janis Joplin,0.50678504,,none
+Mario Vargas Llosa,0.50678504,,none
+Pierre-Joseph Proudhon,0.50678504,,none
+Italo Calvino,0.50678504,,none
+Dmitry Glukhovsky,0.50678504,,none
+Telly Savalas,0.50678504,,none
+František Palacký,0.50678504,0.0,train
+Zoë Kravitz,0.50678504,,none
+Karl Popper,0.50678504,,none
+Bill Monroe,0.50678504,,none
+Antonin Artaud,0.50678504,0.0,valid
+Brendon Urie,0.50678504,,none
+Martin Sheen,0.50678504,,none
+Wole Soyinka,0.50678504,,none
+Sky Ferreira,0.50678504,,none
+Sean Combs,0.50678504,,none
+Valentin Kataev,0.50678504,,none
+Michael Cera,0.50678504,,none
+Ed Harris,0.50678504,,none
+Robert Louis Stevenson,0.50678504,,none
+Nikolay Ogarev,0.50678504,,none
+Violetta Villas,0.50678504,,none
+Janis Ian,0.50678504,,none
+Masiela Lusha,0.50678504,,none
+Ivan Urgant,0.50678504,,none
+Ralph Ellison,0.50678504,,none
+Gene Kelly,0.50678504,,none
+Pyotr Ilyich Tchaikovsky,0.50678504,,none
+Theo van Gogh,0.50678504,,none
+Guglielmo Marconi,0.50678504,1.0,train
+Amos Oz,0.50678504,,none
+Hyde,0.50678504,,none
+Max Born,0.50678504,,none
+Ivor Novello,0.50678504,,none
+Wilhelm Blaschke,0.50678504,,none
+Fiona Apple,0.50678504,,none
+Vladislav Krapivin,0.50678504,,none
+Zdeněk Nejedlý,0.50678504,0.0,train
+Lou Reed,0.50678504,,none
+Mýa,0.50678504,,none
+Thomas Jefferson,0.50678504,0.0,train
+Edvard Radzinsky,0.50678504,,none
+Samuel R. Delany,0.50678504,,none
+Adolf Erik Nordenskiöld,0.50678504,,none
+San Francisco,0.50678504,0.0,train
+William Morris,0.50678504,,none
+Alexander Bogdanov,0.50678504,,none
+Alexander Emanuel Agassiz,0.50678504,,none
+Jean Cocteau,0.50678504,0.6086956521739131,test
+Allan Sherman,0.50678504,,none
+Octavio Paz,0.50678504,,none
+Gustav Landauer,0.50678504,,none
+Mikhail Bakunin,0.50678504,,none
+Arnold Schwarzenegger,0.50678504,,none
+Lucio Dalla,0.50678504,,none
+Graham Parker,0.50678504,,none
+Bobby Brown,0.50678504,1.0,train
+Dee Dee Bridgewater,0.50678504,,none
+Mylène Farmer,0.50678504,,none
+Billy Connolly,0.50678504,0.0,train
+Charlie Wilson,0.50678504,,none
+mandolin,0.50678504,,none
+John Maynard Keynes,0.50678504,,none
+gospel music,0.50678504,,none
+Johnny Cash,0.50678504,,none
+Karl Valentin,0.50678504,,none
+Billy Preston,0.50678504,,none
+Rihanna,0.50678504,,none
+Jennifer Hudson,0.50678504,,none
+poet lawyer,0.50678504,,none
+Ray Lankester,0.50678504,,none
+J. J. Abrams,0.50678504,,none
+Gloria Trevi,0.50678504,,none
+Deryck Whibley,0.50678504,,none
+Alsou,0.50678504,,none
+Jacques Derrida,0.50678504,,none
+Manu Chao,0.50678504,,none
+Etta James,0.50678504,,none
+William Faulkner,0.50678504,,none
+Tina Arena,0.50678504,,none
+Kevin Costner,0.50678504,,none
+Yasmina Reza,0.50678504,,none
+Theodor Mommsen,0.50678504,0.0,test
+Eastern Orthodox Church,0.50678504,,none
+Vladimir Putin,0.5067058,,none
+Antoine César Becquerel,0.50678504,,none
+Ciara,0.50678504,,none
+traditional pop music,0.50678504,0.0,valid
+Rita Levi-Montalcini,0.50678504,1.0,train
+Pontifical Academy of Sciences,0.50678504,,none
+Jô Soares,0.50678504,,none
+Goldie Hawn,0.50678504,,none
+Hayley Williams,0.50678504,,none
+Paul Auster,0.50678504,,none
+Isaac Bashevis Singer,0.50678504,,none
+Valery Leontiev,0.50678504,,none
+Kate Bush,0.50678504,,none
+Sticky Fingaz,0.50678504,,none
+Mick Wingert,0.50678504,,none
+Warner Music Group,0.50678504,0.3076923076923077,train
+Neil Diamond,0.50678504,,none
+Viggo Mortensen,0.50678504,,none
+Hanns Eisler,0.50678504,,none
+Waylon Jennings,0.50678504,,none
+Harry Shearer,0.50678504,,none
+Stephen Hawking,0.50678504,,none
+University of Vienna,0.5067754,,none
+Arab Bank for Economic Development in Africa,0.39562187,,none
+Neil Patrick Harris,0.50678504,,none
+John Legend,0.50678504,,none
+"Sir George Stokes, 1st Baronet",0.50678504,,none
+Sergey Lazarev,0.50678504,,none
+Edmund Wilson,0.50678504,,none
+Arnold Schoenberg,0.50678504,,none
+Paul Langevin,0.50678504,,none
+RZA,0.50678504,1.0,train
+Golo Mann,0.50678504,0.6,train
+Darius Milhaud,0.50678504,,none
+Slavoj Žižek,0.50678504,,none
+Cree Summer,0.50678504,,none
+Joseph Brodsky,0.50678504,,none
+Haruki Murakami,0.50678504,,none
+naturalist,0.50678504,,none
+Tomáš Garrigue Masaryk,0.5067468,,none
+The Compleat Beatles,0.50678504,0.0,train
+Christianity,0.5067678,,none
+John Farnham,0.50678504,,none
+Walt Disney,0.50678504,0.0,train
+Samuel Beckett,0.50678504,,none
+Ralph Vaughan Williams,0.50678504,,none
+political scientist,0.50678504,1.0,test
+Kiribati,0.50641745,1.0,valid
+Lea Michele,0.50678504,,none
+Martie Maguire,0.50678504,,none
+Ernst Chladni,0.50678504,,none
+Stephen King,0.50678504,0.0,test
+Elizabeth Bishop,0.50678504,,none
+Jonathan Swift,0.50678504,,none
+"Alexander R. Todd, Baron Todd",0.50678504,,none
+Frédéric Joliot-Curie,0.50678504,,none
+Jill Scott,0.50678504,,none
+Julie Delpy,0.50678504,,none
+Andy Griffith,0.50678504,,none
+Joe Cocker,0.50678504,,none
+Émile Zola,0.50678504,,none
+West Germany,0.5067774,,none
+André-Marie Ampère,0.50678504,,none
+John Kenneth Galbraith,0.50678504,,none
+Andrey Vyshinsky,0.50678504,,none
+Marcel Proust,0.50678504,0.0,train
+William Shatner,0.50678504,,none
+Dante Alighieri,0.50678504,,none
+Michel de Montaigne,0.50678504,,none
+Fazil Iskander,0.50678504,,none
+Nicholas Marr,0.50678504,,none
+Ross Bagdasarian Sr.,0.50678504,0.0,train
+Sacha Baron Cohen,0.50678504,,none
+Nino Manfredi,0.50678504,,none
+John Bardeen,0.50678504,0.5,train
+Yul Brynner,0.50678504,,none
+Jean Renoir,0.50678504,,none
+Yuri Shevchuk,0.50678504,,none
+Chord Overstreet,0.50678504,,none
+Dean Martin,0.50678504,,none
+Beth Hart,0.50678504,,none
+Lion Feuchtwanger,0.50678504,,none
+Redman,0.50678504,,none
+Don DeLillo,0.50678504,0.0,train
+Slash,0.50678504,,none
+Michael Mann,0.50678504,0.0,train
+Steven Tyler,0.50678504,,none
+Société Philomathique de Paris,0.50678504,,none
+Donald Knuth,0.50678504,,none
+Alfred Schnittke,0.50678504,,none
+Éric Rohmer,0.50678504,,none
+Johann Christoph Gottsched,0.50678504,,none
+Paul Hindemith,0.50678504,,none
+Debbie Gibson,0.50678504,,none
+GoonRock,0.50678504,,none
+Gordon Lightfoot,0.50678504,,none
+Jan Hammer,0.50678504,,none
+Jerry Lee Lewis,0.50678504,,none
+Marc Connelly,0.50678504,1.0,train
+Russian Soviet Federative Socialist Republic,0.50678414,1.0,test
+Jacobus Henricus van 't Hoff,0.50678504,0.0,test
+Lori Lieberman,0.50678504,,none
+Kelly Rowland,0.50678504,,none
+Kenneth Burke,0.50678504,,none
+William H. Macy,0.50678504,,none
+Alexis Korner,0.50678504,,none
+Jon Bon Jovi,0.50678504,,none
+Keith Richards,0.50678504,,none
+American Jews,0.50678504,,none
+Peter Handke,0.50678504,0.0,train
+Thomas Mann,0.50678504,1.0,train
+Akon,0.50678504,,none
+Bette Midler,0.50678504,,none
+Def Jam Recordings,0.50678504,,none
+Queen Latifah,0.50678504,,none
+Père Lachaise Cemetery,0.50678504,0.0,valid
+August Schleicher,0.50678504,1.0,train
+Jennette McCurdy,0.50678504,,none
+Friedrich Schlegel,0.50678504,,none
+John Cleese,0.50678504,,none
+Lucy Liu,0.50678504,0.5625,train
+Hannes Alfvén,0.50678504,,none
+Saul Williams,0.50678504,,none
+Leszek Kołakowski,0.50678504,,none
+Tuvalu,0.5064857,1.0,train
+Christina Aguilera,0.50678504,,none
+Paris Hilton,0.50678504,0.0,train
+European Southern Observatory,0.50647706,,none
+Anna Karina,0.50678504,,none
+Mariah Carey,0.50678504,,none
+Dr. Dre,0.50678504,,none
+Stacie Orrico,0.50678504,,none
+Sean Lennon,0.50678504,,none
+ABC Records,0.50678504,0.0,train
+Vladimir Turchinsky,0.50678504,,none
+Sergei Gerasimov,0.50678504,,none
+Dave Mustaine,0.50678504,,none
+Bo Burnham,0.50678504,,none
+Nazi Germany,0.50678504,,none
+Harald Lesch,0.50678504,,none
+Lily Allen,0.50678504,,none
+Bella Thorne,0.50678504,,none
+David Mamet,0.50678504,,none
+Hugo Huppert,0.50678504,,none
+Nahum Sokolow,0.50678504,,none
+Eleanor Roosevelt,0.50678504,,none
+Stefan Zweig,0.50678504,,none
+Al-Biruni,0.50678504,,none
+Eduard Limonov,0.50678504,,none
+Ted Nugent,0.50678504,,none
+CeeLo Green,0.50678504,,none
+Ingrid Michaelson,0.50678504,,none
+Anatole Abragam,0.50678504,0.0,valid
+Yoshiki,0.50678504,1.0,train
+East Africa,0.50626427,,none
+Ingmar Bergman,0.50678504,1.0,test
+Novodevichy Cemetery,0.50678504,1.0,train
+Göttingen,0.50678504,,none
+Julian Fellowes,0.50678504,,none
+Tyrese Gibson,0.50678504,,none
+Hayley Kiyoko,0.50678504,,none
+Joseph-Louis Lagrange,0.50678504,,none
+James Taylor,0.50678504,0.0,train
+Leo Strauss,0.50678504,,none
+Roman Jakobson,0.50678504,1.0,valid
+Joe Satriani,0.50678504,,none
+street artist,0.50678504,,none
+Sean Penn,0.50678504,0.5,train
+Laura Marano,0.50678504,,none
+Yo-Yo Ma,0.50678504,,none
+Raymond Scott,0.50678504,0.0,train
+Gaspard de Prony,0.50678504,,none
+Ludvig Holberg,0.50678504,,none
+"Clarence ""Gatemouth"" Brown",0.50678504,,none
+University of Oxford,0.50678504,,none
+Walker Percy,0.50678504,,none
+Carl Sagan,0.50678504,,none
+Jonathan Winters,0.50678504,1.0,test
+Robin Williams,0.50678504,0.0,train
+Ivan Franko,0.50678504,,none
+Gavriil Troyepolsky,0.50678504,,none
+Bruce Willis,0.50678504,,none
+Ryan Tedder,0.50678504,,none
+Theodor Nöldeke,0.50678504,,none
+Ayumi Hamasaki,0.50678504,,none
+Thomas Aquinas,0.50678504,,none
+Kris Kristofferson,0.50678504,0.0,valid
+Fredro Starr,0.50678504,,none
+Anthony Kiedis,0.50678504,0.0,train
+"Robert Downey, Jr.",0.50678504,,none
+Galileo Galilei,0.50678504,0.625,test
+Leonid Leonov,0.50678504,,none
+bipolar disorder,0.50678504,0.7894736842105263,train
+Woodrow Wilson,0.50678504,,none
+Robert Graves,0.50678504,,none
+Douglas Adams,0.50678504,,none
+Kurt Weill,0.50678504,,none
+Mel Gibson,0.50678504,,none

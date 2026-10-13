@@ -1,0 +1,801 @@
+triplet_id,triplet_prompt,tf_value
+101,Japan contains the administrative territorial entity Gunma Prefecture.,1
+490,Azerbaijan contains the administrative territorial entity Absheron District.,1
+576,Algeria contains the administrative territorial entity Algiers Province.,1
+816,The office held by the head of European Parliament is President of the European Parliament.,1
+2030,Indonesia contains the administrative territorial entity Lampung.,1
+4528,Zeus is married to Hera.,1
+4595,Honshu includes Gunma Prefecture as a part.,1
+4620,Shizuoka Prefecture contains the administrative territorial entity Iwata.,1
+4665,Nagano Prefecture shares a border with Gunma Prefecture.,1
+4775,Queensland contains the administrative territorial entity Gympie Region.,1
+4989,The legislative body of New York City is New York City Council.,1
+5066,Dallas County shares a border with Tarrant County.,1
+5137,Mexico contains the administrative territorial entity Baja California Sur.,1
+6832,Baja California shares a border with Baja California Sur.,1
+6854,Tochigi Prefecture shares a border with Gunma Prefecture.,1
+7289,The signatory of United States Constitution is Jonathan Dayton.,0
+8640,Ukraine contains the administrative territorial entity Mykolaiv Oblast.,1
+8792,Egypt contains the administrative territorial entity Kafr el-Sheikh Governorate.,1
+10827,Olgierd is a sibling of Lubart.,0
+10841,The child of Gediminas is Lubart.,0
+10926,Barcelona shares a border with Molins de Rei.,0
+11953,The architectural style of Riga is Art Nouveau.,1
+11976,Chattogram Division shares a border with Dhaka Division.,1
+13238,South Australia contains the administrative territorial entity Light Region.,0
+15250,Adolf Hitler is known for the work Mein Kampf.,1
+17253,CBS is owned by CBS Corporation.,1
+17254,The parent organization of CBS is CBS Corporation.,1
+17255,The operator of CBS is CBS Corporation.,1
+17798,Technische Universität Berlin is a member of TU9.,1
+18333,A tributary of Hudson River is Rondout Creek.,1
+18367,Ingolstadt shares a border with Eichstätt district.,0
+18454,The capital of Niger State is Minna.,1
+18792,The head of government of West Bengal is Mamata Banerjee.,1
+19437,The capital of Somalia is Mogadishu.,1
+21125,The home venue of Arizona Diamondbacks is Chase Field.,1
+21730,Bangladesh contains the administrative territorial entity Dhaka Division.,1
+21902,The administrative territorial entity in which Mykolaiv is located is Mykolaiv Oblast.,1
+22428,The administrative territorial entity in which St. Michael im Lungau is located is Tamsweg District.,1
+22430,Tamsweg District contains the administrative territorial entity St. Michael im Lungau.,1
+22431,The administrative territorial entity in which Tamsweg District is located is Salzburg.,0
+22432,Tamsweg District contains the administrative territorial entity Tamsweg.,1
+22433,Tamsweg District's country is Austria.,1
+22434,Tamsweg District contains the administrative territorial entity Mauterndorf.,1
+22435,Tamsweg District contains the administrative territorial entity Mariapfarr.,1
+22436,Salzburg contains the administrative territorial entity Tamsweg District.,0
+23062,"Arlington County is named after Henry Bennet, 1st Earl of Arlington.",0
+23249,Peine's country is Germany.,0
+23250,Peine is an instance of municipality in Germany.,0
+23251,Peine shares a border with Lehrte.,0
+24410,The capital of Craighead County is Lake City.,0
+24813,The legislative body of Greenland is Inatsisartut.,1
+25100,Caroline Bonaparte is a sibling of Pauline Bonaparte.,1
+25118,Napoleon is a sibling of Pauline Bonaparte.,0
+25421,Zhangzhou contains the administrative territorial entity Pinghe County.,1
+26672,Cameroon contains the administrative territorial entity Adamawa.,1
+28376,Baja California Sur's country is Mexico.,1
+28377,The administrative territorial entity in which Baja California Sur is located is Mexico.,1
+28378,Baja California Sur shares a border with Baja California.,1
+28379,Baja California Sur is located in or next to Pacific Ocean.,1
+28380,The capital of Baja California Sur is La Paz.,1
+28381,Baja California Sur contains the administrative territorial entity Loreto.,1
+28382,The head of government of Baja California Sur is Marcos Covarrubias Villaseñor.,1
+28770,A tributary of Narew is Biebrza.,1
+29140,Frederick I of Prussia is married to Sophia Charlotte of Hanover.,0
+29141,Frederick I of Prussia is a relative of Sophia Charlotte of Hanover.,1
+29210,Frederick II of Prussia is a relative of Sophia Charlotte of Hanover.,1
+29463,Kherson Oblast shares a border with Mykolaiv Oblast.,1
+29592,Niigata Prefecture shares a border with Gunma Prefecture.,1
+29793,Banten shares a border with Lampung.,1
+30410,The chairperson of Chelsea F.C. is Bruce Buck.,1
+31435,Voronezh Oblast contains the administrative territorial entity Podgorensky District.,1
+31457,Tasmania contains the administrative territorial entity Glamorgan Spring Bay Council.,1
+31749,Saitama Prefecture shares a border with Gunma Prefecture.,1
+32064,One of the characters in Iliad is Hera.,1
+32429,The administrative territorial entity in which Ranga Reddy district is located is Telangana.,1
+32430,Ranga Reddy district's country is India.,1
+32431,The administrative territorial entity in which Ranga Reddy district is located is Andhra Pradesh.,1
+32432,The capital of Ranga Reddy district is Hyderabad.,1
+32433,Ranga Reddy district shares a border with Hyderabad district.,1
+32636,Odesa Oblast shares a border with Mykolaiv Oblast.,1
+33209,Sylhet Division shares a border with Dhaka Division.,1
+33569,Chiba Prefecture contains the administrative territorial entity Mobara.,1
+34373,Mogadishu's country is Somalia.,1
+34374,Mogadishu is the capital of Somalia.,1
+34375,The administrative territorial entity in which Mogadishu is located is Somalia.,1
+34376,Mogadishu is located in or next to Indian Ocean.,0
+34377,Mogadishu is the capital of Italian Somaliland.,0
+34378,The twinned administrative body of Mogadishu is Ankara.,0
+34379,Mogadishu is the capital of Somali Republic.,1
+34683,Yvelines contains the administrative territorial entity Rochefort-en-Yvelines.,1
+34739,The twinned administrative body of Ankara is Mogadishu.,0
+34874,Halvard Lange is a sibling of Carl Viggo Lange.,0
+35273,"In This Is 40, Leslie Mann is a cast member.",1
+35348,The administrative territorial entity in which Madaripur District is located is Dhaka Division.,1
+37033,The child of Poseidon is Pelias.,0
+37286,The statistical leader in 1930 FIFA World Cup is Guillermo Stábile.,1
+39112,Lumban's country is Philippines.,1
+39113,The administrative territorial entity in which Lumban is located is Laguna.,1
+39114,Lumban is an instance of municipality of the Philippines.,1
+39983,province of Milan contains the administrative territorial entity Ossona.,0
+40169,The capital of Banaadir is Mogadishu.,1
+40289,Province of Bergamo contains the administrative territorial entity Mezzoldo.,0
+40496,Opava shares a border with Holasovice.,0
+40537,The occupant of Chase Field is Arizona Diamondbacks.,1
+40538,Chase Field's country is United States.,1
+40639,The administrative territorial entity in which Algiers is located is Algiers Province.,0
+41220,Vologda Oblast contains the administrative territorial entity Vologodsky District.,1
+41746,Udmurtia replaces Udmurt Autonomous Soviet Socialist Republic.,0
+42175,London Stock Exchange Group has the subsidiary Russell Investments.,0
+42176,London Stock Exchange Group has the subsidiary Italian Stock Exchange.,0
+42177,London Stock Exchange Group has the subsidiary FTSE Group.,1
+42178,The stock exchange for London Stock Exchange Group is London Stock Exchange.,1
+42179,The parent organization of Russell Investments is London Stock Exchange Group.,0
+43703,Wilkes-Barre shares a border with Larksville.,0
+44032,Technical University of Braunschweig is a member of TU9.,1
+44069,The sport associated with Bologna F.C. 1909 is association football.,1
+44070,Bologna F.C. 1909 is associated with the league Serie A.,1
+44071,Bologna F.C. 1909's country is Italy.,1
+44072,The home venue of Bologna F.C. 1909 is Stadio Renato Dall'Ara.,1
+44073,The headquarters of Bologna F.C. 1909 is Bologna.,1
+44074,Bologna F.C. 1909 is owned by Joey Saputo.,0
+44086,The child of Harald Fairhair is Eric Bloodaxe.,0
+44087,Harald Fairhair is followed by Eric Bloodaxe.,1
+44456,Harry S. Truman was born in Lamar.,0
+44485,Ortenau contains the administrative territorial entity Oberkirch.,1
+47016,Dhaka Division shares a border with Chattogram Division.,1
+47017,Dhaka Division contains the administrative territorial entity Kishoreganj District.,1
+47018,Dhaka Division's country is Bangladesh.,1
+47020,Dhaka Division contains the administrative territorial entity Dhaka District.,1
+47021,Dhaka Division contains the administrative territorial entity Gazipur District.,1
+47022,Dhaka Division contains the administrative territorial entity Gopalganj District.,1
+47023,Dhaka Division contains the administrative territorial entity Faridpur District.,1
+47024,Dhaka Division contains the administrative territorial entity Madaripur District.,1
+47025,Dhaka Division contains the administrative territorial entity Manikganj District.,1
+47026,Dhaka Division contains the administrative territorial entity Munshiganj District.,0
+47027,Dhaka Division contains the administrative territorial entity Narayanganj District.,1
+47028,Dhaka Division contains the administrative territorial entity Narsingdi District.,1
+47029,Dhaka Division contains the administrative territorial entity Rajbari District.,0
+47030,Dhaka Division contains the administrative territorial entity Shariatpur District.,1
+47031,Dhaka Division contains the administrative territorial entity Tangail District.,1
+47032,The capital of Dhaka Division is Dhaka.,1
+47033,Dhaka Division shares a border with Rajshahi Division.,1
+47034,Dhaka Division shares a border with Khulna Division.,1
+47035,Dhaka Division shares a border with Barisal Division.,0
+47036,Dhaka Division shares a border with Mymensingh Division.,1
+47037,Dhaka Division shares a border with Sylhet Division.,1
+49130,Brunswick shares a border with Peine.,0
+49880,Tempio Pausania shares a border with Arzachena.,0
+51382,Eric Bloodaxe is a citizen of Norway.,0
+51383,The child of Eric Bloodaxe is Harald Greycloak.,1
+51384,Eric Bloodaxe is followed by Haakon the Good.,0
+51385,Eric Bloodaxe is a sibling of Haakon the Good.,0
+51386,The father of Eric Bloodaxe is Harald Fairhair.,1
+51387,Eric Bloodaxe follows Harald Fairhair.,1
+51388,Eric Bloodaxe is a sibling of Olaf Haraldsson Geirstadalf.,0
+51389,"Eric Bloodaxe is married to Gunnhild, Mother of Kings.",1
+51390,Eric Bloodaxe died in Great Britain.,1
+51415,West shares a border with Adamawa.,0
+52572,Intel 8086 is followed by Intel 80286.,1
+52994,Art Deco follows Art Nouveau.,0
+53658,Dalarna County is an instance of county of Sweden.,1
+53670,Norrbotten County is an instance of county of Sweden.,1
+54228,August Lange is a sibling of Carl Viggo Lange.,0
+54231,Carl Viggo Lange is a sibling of August Lange.,0
+54232,The father of Carl Viggo Lange is Christian Lous Lange.,1
+54233,Carl Viggo Lange is a sibling of Halvard Lange.,0
+54234,Carl Viggo Lange communicates in Norwegian.,0
+54235,Carl Viggo Lange works in Oslo.,0
+54236,Carl Viggo Lange is a citizen of Norway.,0
+54238,The child of Christian Lous Lange is Carl Viggo Lange.,1
+54277,The twinned administrative body of Bury is Woodbury.,0
+55058,Dnipropetrovsk Oblast shares a border with Mykolaiv Oblast.,1
+55698,The child of Alfred Hitchcock is Pat Hitchcock.,1
+56578,Mamata Banerjee is a member of the political party All India Trinamool Congress.,1
+56579,Mamata Banerjee is a citizen of India.,1
+56580,Mamata Banerjee was born in Kolkata.,1
+57450,Sibiu County contains the administrative territorial entity Sadu.,0
+57531,Negros Occidental contains the administrative territorial entity Candoni.,0
+57617,The administrative territorial entity in which Maebashi is located is Gunma Prefecture.,1
+57618,Maebashi is the capital of Gunma Prefecture.,0
+57620,The capital of Gunma Prefecture is Maebashi.,1
+57621,Gunma Prefecture's country is Japan.,1
+57622,The administrative territorial entity in which Gunma Prefecture is located is Japan.,1
+57623,Gunma Prefecture shares a border with Niigata Prefecture.,1
+57624,Gunma Prefecture is part of Honshu.,1
+57625,Gunma Prefecture is located in or on the physical feature Honshu.,1
+57626,Gunma Prefecture shares a border with Saitama Prefecture.,1
+57627,Gunma Prefecture shares a border with Tochigi Prefecture.,1
+57628,Gunma Prefecture shares a border with Nagano Prefecture.,1
+57629,The head of government of Gunma Prefecture is Masaaki Ōsawa.,0
+59286,Elisa Bonaparte is a sibling of Pauline Bonaparte.,0
+59852,Tucana is an instance of constellation.,0
+60448,Province of Naples contains the administrative territorial entity Sant'Antonio Abate.,0
+60650,Isaac Herzog is named after Isaac HaLevy Herzog.,1
+61423,The chairperson of All India Trinamool Congress is Mamata Banerjee.,1
+61520,Coatbridge shares a border with Glenboig.,0
+61553,Jean Racine is known for the work Esther.,0
+61759,Saint Martin is located in or on the physical feature Caribbean.,1
+61760,The administrative territorial entity in which Saint Martin is located is Saint-Martin.,0
+61761,The administrative territorial entity in which Saint Martin is located is Sint Maarten.,1
+61762,Saint Martin's country is France.,0
+61763,Saint Martin's country is Kingdom of the Netherlands.,1
+61764,Lesser Antilles includes Saint Martin as a part.,1
+61788,Sint Maarten is located in or on the physical feature Saint Martin.,1
+62000,Lake City's country is United States.,1
+62001,The administrative territorial entity in which Lake City is located is Columbia County.,1
+62961,North Holland contains the administrative territorial entity Zijpe.,0
+63110,The capital of Gloucester County is Woodbury.,0
+63111,Gloucester County contains the administrative territorial entity Woodbury.,0
+63121,The administrative territorial entity in which Woodbury is located is Gloucester County.,1
+63122,Woodbury's country is United States.,1
+63123,The twinned administrative body of Woodbury is Bury.,0
+63205,Joseph Bonaparte is a sibling of Pauline Bonaparte.,1
+63333,The parent organization of Italian Stock Exchange is London Stock Exchange Group.,0
+63334,Italian Stock Exchange is owned by London Stock Exchange Group.,0
+63335,The operator of Italian Stock Exchange is London Stock Exchange Group.,0
+63401,Shijiazhuang contains the administrative territorial entity Gaocheng District.,1
+64022,Seine-et-Marne contains the administrative territorial entity Montigny-sur-Loing.,1
+64376,The location of 2018 FIFA World Cup is Central Stadium Yekaterinburg.,0
+64990,The child of Chulalongkorn is Nabhanka Nibandhabongs.,0
+65551,Denton County shares a border with Tarrant County.,1
+65854,Intel 80386 follows Intel 80286.,1
+66278,Biebrza's country is Poland.,1
+66279,The mouth of the watercourse of Biebrza is Narew.,0
+66649,Harghita County contains the administrative territorial entity Ciceu.,0
+67054,The capital of Orenburg Oblast is Orenburg.,1
+67055,Orenburg Oblast is named after Orenburg.,1
+67303,The administrative territorial entity in which Gympie Region is located is Queensland.,1
+67304,Gympie Region's country is Australia.,1
+67305,Gympie Region is an instance of local government area of Australia.,1
+67306,The capital of Gympie Region is Gympie.,1
+67829,magnesite is in a solid solution series with siderite.,0
+68523,Mein Kampf was authored by Adolf Hitler.,1
+68524,The country of origin of Mein Kampf is Nazi Germany.,1
+68525,The publisher of Mein Kampf is Nazi Party.,0
+68526,Mein Kampf is followed by Zweites Buch kk.,0
+68527,The original language of Mein Kampf is German.,1
+68593,North Kalimantan contains the administrative territorial entity Tarakan.,1
+68620,The architectural style of La Chaux-de-Fonds is Art Nouveau.,0
+68731,The head of state of Kingdom of Northumbria is Eric Bloodaxe.,0
+69292,The headquarters of Bristol Aeroplane Company is Filton.,1
+70390,The location of formation for CBS Corporation is New York City.,0
+70391,CBS Corporation is owned by National Amusements.,1
+70392,The headquarters of CBS Corporation is CBS Building.,1
+70393,CBS Corporation has the subsidiary Westinghouse Licensing Corporation.,1
+70394,The chief executive officer of CBS Corporation is Les Moonves.,1
+70395,The stock exchange for CBS Corporation is New York Stock Exchange.,1
+70396,CBS Corporation follows Viacom.,0
+70810,Sophia Charlotte of Hanover is married to Frederick I of Prussia.,1
+70811,Sophia Charlotte of Hanover is a relative of Frederick I of Prussia.,1
+70812,The child of Sophia Charlotte of Hanover is Friedrich Wilhelm I of Prussia.,1
+70813,Sophia Charlotte of Hanover belongs to the family House of Hanover.,1
+70814,Sophia Charlotte of Hanover is a sibling of George I of Great Britain.,0
+70815,Sophia Charlotte of Hanover died in Hanover.,1
+70816,Sophia Charlotte of Hanover is a relative of Frederick II of Prussia.,1
+70822,The mother of Friedrich Wilhelm I of Prussia is Sophia Charlotte of Hanover.,1
+71233,Adamawa's country is Cameroon.,0
+71234,The administrative territorial entity in which Adamawa is located is Cameroon.,0
+71235,Adamawa shares a border with Northwest.,0
+71236,Adamawa shares a border with Centre.,0
+71237,Adamawa shares a border with West.,0
+71238,Adamawa shares a border with Far North.,1
+71239,Adamawa shares a border with East.,0
+71891,The administrative territorial entity in which Tarrant County is located is Texas.,1
+71892,Tarrant County shares a border with Dallas County.,1
+71893,Tarrant County's country is United States.,1
+71894,Tarrant County shares a border with Denton County.,1
+71895,Tarrant County shares a border with Parker County.,1
+71896,Tarrant County shares a border with Ellis County.,1
+72056,Oberkirch's country is Germany.,1
+72057,The administrative territorial entity in which Oberkirch is located is Ortenau.,1
+72736,The administrative territorial entity in which Gympie is located is Gympie Region.,1
+72737,Gympie is the capital of Gympie Region.,0
+72932,Frederick VII of Denmark is married to Louise Rasmussen.,0
+73093,The administrative territorial entity in which Fort Worth is located is Tarrant County.,1
+73094,Fort Worth is the capital of Tarrant County.,0
+73394,Barisal Division shares a border with Dhaka Division.,1
+74067,London Stock Exchange is owned by London Stock Exchange Group.,1
+74068,The operator of London Stock Exchange is London Stock Exchange Group.,1
+75611,The capital of Gilan Province is Rasht.,1
+75699,The administrative territorial entity in which Dhaka District is located is Dhaka Division.,1
+75705,The administrative territorial entity in which Gazipur District is located is Dhaka Division.,1
+75710,The administrative territorial entity in which Gopalganj District is located is Dhaka Division.,1
+75718,The administrative territorial entity in which Faridpur District is located is Dhaka Division.,1
+75765,"Alexander III of Scotland is followed by Margaret, Maid of Norway.",1
+75774,The administrative territorial entity in which Manikganj District is located is Dhaka Division.,1
+75794,The administrative territorial entity in which Munshiganj District is located is Dhaka Division.,1
+75826,Songkhla contains the administrative territorial entity Thepha.,0
+76069,Lille North of France University is a member of i-Trans cluster for railways and urban transport.,1
+76159,The administrative territorial entity in which Narayanganj District is located is Dhaka Division.,1
+76163,The administrative territorial entity in which Narsingdi District is located is Dhaka Division.,1
+76192,Mymensingh Division shares a border with Dhaka Division.,1
+76199,The administrative territorial entity in which Rajbari District is located is Dhaka Division.,1
+76236,The administrative territorial entity in which Shariatpur District is located is Dhaka Division.,1
+76239,The administrative territorial entity in which Tangail District is located is Dhaka Division.,1
+76332,Khulna Division shares a border with Dhaka Division.,1
+76479,Rajshahi Division shares a border with Dhaka Division.,1
+76943,The child of Carlo Bonaparte is Pauline Bonaparte.,0
+76955,Louis Bonaparte is a sibling of Pauline Bonaparte.,0
+79271,The capital of Algiers Province is Algiers.,1
+79272,The administrative territorial entity in which Algiers Province is located is Algeria.,1
+79273,Algiers Province's country is Algeria.,1
+79274,Algiers Province contains the administrative territorial entity Hussein Dey District.,0
+79275,Algiers Province is an instance of province of Algeria.,1
+79658,The father of Harald Greycloak is Eric Bloodaxe.,0
+80262,Robert Frank was influenced by Walker Evans.,1
+81355,Daykundi Province contains the administrative territorial entity Khadir District.,0
+81767,The winner of Bill Russell NBA Finals Most Valuable Player Award is Joe Dumars.,0
+82091,Columbia County contains the administrative territorial entity Lake City.,0
+82092,The capital of Columbia County is Lake City.,1
+82156,Rasht's country is Iran.,1
+82157,The administrative territorial entity in which Rasht is located is Gilan Province.,1
+82317,The administrative territorial entity in which Mykolaiv Oblast is located is Ukrainian Soviet Socialist Republic.,0
+82318,The capital of Mykolaiv Oblast is Mykolaiv.,1
+82319,The official language of Mykolaiv Oblast is Ukrainian.,1
+82320,The official language of Mykolaiv Oblast is Russian.,0
+82321,Mykolaiv Oblast's country is Ukraine.,1
+82322,The administrative territorial entity in which Mykolaiv Oblast is located is Ukraine.,1
+82323,Mykolaiv Oblast shares a border with Odesa Oblast.,1
+82324,Mykolaiv Oblast shares a border with Dnipropetrovsk Oblast.,1
+82325,Mykolaiv Oblast shares a border with Kherson Oblast.,1
+82326,Mykolaiv Oblast is located in or next to Black Sea.,1
+82785,South Sumatra shares a border with Lampung.,1
+82832,Carneades is a student of Diogenes of Babylon.,1
+83324,Bill de Blasio is a member of New York City Council.,0
+83752,RWTH Aachen University is a member of TU9.,1
+83970,Vittorio Emanuele I of Sardinia is married to Maria Theresa of Austria-Este.,0
+84334,Hera is married to Zeus.,0
+84335,Hera is a sibling of Zeus.,0
+84336,Hera is worshipped by Ancient Greek religion.,1
+84337,The official residence of Hera is Mount Olympus.,1
+84338,The child of Hera is Hebe.,1
+84339,The child of Hera is Hephaestus.,1
+84340,The child of Hera is Eileithyia.,0
+84341,The father of Hera is Cronus.,0
+84342,The child of Hera is Ares.,0
+84478,A tributary of Ottawa River is Blanche River.,1
+84914,The jurisdiction applicable to New York City Council is New York City.,1
+84915,New York City Council's country is United States.,1
+85681,Art Nouveau is followed by Art Deco.,0
+86127,The capital of Leova District is Leova.,1
+86130,Leova's country is Moldova.,1
+86131,The administrative territorial entity in which Leova is located is Leova District.,0
+86426,Province of Como contains the administrative territorial entity Gironico.,0
+88869,Intel 80286 follows Intel 8086.,1
+88870,The instruction set of Intel 80286 is x86.,0
+88871,Intel 80286 follows Intel 80186.,0
+88872,Intel 80286 is followed by Intel 80386.,1
+88873,Intel 80286 is developed by Intel.,1
+89284,East shares a border with Adamawa.,0
+89555,Northwest shares a border with Adamawa.,0
+90443,Francis Poulenc uses the instrument piano.,1
+90444,The occupation of Francis Poulenc is composer.,1
+90445,Francis Poulenc is a member of Groupe des Six.,1
+90446,Francis Poulenc communicates in French.,1
+90447,The occupation of Francis Poulenc is pianist.,0
+90448,Francis Poulenc died in Paris.,1
+90449,Francis Poulenc was born in Paris.,1
+90450,Francis Poulenc is a citizen of France.,1
+90451,Francis Poulenc is a student of Charles Koechlin.,0
+90452,Francis Poulenc is known for the work Flute Sonata.,0
+90454,Groupe des Six includes Francis Poulenc as a part.,1
+91157,The administrative territorial entity in which Glamorgan Spring Bay Council is located is Tasmania.,1
+91158,Glamorgan Spring Bay Council's country is Australia.,1
+91159,Glamorgan Spring Bay Council is an instance of local government area of Australia.,1
+91485,Juno is said to be the same as Hera.,0
+91895,The child of Cronus is Hera.,0
+91901,The mother of Hephaestus is Hera.,0
+93141,George I of Great Britain is a sibling of Sophia Charlotte of Hanover.,0
+93222,Technical University of Munich is a member of TU9.,1
+93223,TU9 includes Technical University of Munich as a part.,1
+93224,TU9 includes Technische Universität Berlin as a part.,0
+93225,TU9 includes Karlsruhe Institute of Technology as a part.,1
+93226,TU9 includes Technical University of Braunschweig as a part.,1
+93227,TU9's country is Germany.,0
+93228,TU9 includes University of Stuttgart as a part.,1
+93229,TU9 includes RWTH Aachen University as a part.,1
+93230,TU9 includes Leibniz University Hannover as a part.,0
+93231,TU9 includes TU Dresden as a part.,1
+93341,Rutland County contains the administrative territorial entity Poultney.,0
+93766,"The child of Eric II of Norway is Margaret, Maid of Norway.",1
+93773,Diogenes of Babylon is a student of Carneades.,0
+93774,Diogenes of Babylon is a student of Antipater of Tarsus.,0
+93775,Diogenes of Babylon is a student of Panaetius.,0
+93776,Diogenes of Babylon is a student of Apollodorus of Athens.,0
+93777,Diogenes of Babylon was born in Seleucia.,0
+93778,Diogenes of Babylon is a student of Dardanus of Athens.,0
+93779,Diogenes of Babylon is a student of Mnesarchus of Athens.,0
+93780,The occupation of Diogenes of Babylon is philosopher.,1
+94345,Connecticut Colony replaces Saybrook Colony.,1
+94578,South Ostrobothnia contains the administrative territorial entity Vimpeli.,0
+95060,The father of Chaim Herzog is Isaac HaLevy Herzog.,1
+95069,The child of Isaac HaLevy Herzog is Chaim Herzog.,1
+95070,Isaac HaLevy Herzog is a citizen of Israel.,1
+95071,Isaac HaLevy Herzog communicates in Hebrew.,1
+95072,Isaac HaLevy Herzog communicates in English.,0
+95073,Isaac HaLevy Herzog died in Jerusalem.,1
+95314,Bengkulu shares a border with Lampung.,1
+95603,rhodochrosite is in a solid solution series with siderite.,1
+95607,siderite is in a solid solution series with rhodochrosite.,0
+95608,siderite is in a solid solution series with magnesite.,0
+95609,siderite is an instance of mineral.,1
+95610,siderite is in a solid solution series with smithsonite.,0
+96010,CBS Studios is owned by CBS Corporation.,1
+97271,Haakon the Good follows Eric Bloodaxe.,0
+97272,Haakon the Good is a sibling of Eric Bloodaxe.,1
+97568,University of Stuttgart is a member of TU9.,1
+97896,The administrative territorial entity in which Southern Bug is located is Mykolaiv Oblast.,1
+99079,Walker Evans is a citizen of United States.,1
+99080,The occupation of Walker Evans is photographer.,1
+99081,Walker Evans communicates in English.,1
+99381,Karlsruhe Institute of Technology is a member of TU9.,1
+100079,The child of Maria-Letizia Bonaparte is Pauline Bonaparte.,0
+101626,Centre shares a border with Adamawa.,0
+101710,"In Knocked Up, Leslie Mann is a cast member.",1
+102071,A organizational division of British Airways is BA CityFlyer.,1
+102589,The administrative territorial entity in which Tamsweg is located is Tamsweg District.,0
+103029,The administrative territorial entity in which Filton is located is South Gloucestershire.,1
+103030,Filton is an instance of civil parish.,0
+103505,Sant'Antonio Abate is an instance of commune of Italy.,1
+103506,Sant'Antonio Abate shares a border with Scafati.,0
+103507,The administrative territorial entity in which Sant'Antonio Abate is located is Province of Naples.,1
+103508,Sant'Antonio Abate's country is Italy.,1
+103509,Sant'Antonio Abate shares a border with Gragnano.,0
+103510,Sant'Antonio Abate shares a border with Pompei.,0
+103512,Scafati shares a border with Sant'Antonio Abate.,0
+103826,Province of Verbano-Cusio-Ossola contains the administrative territorial entity Trasquera.,0
+104226,Zayed bin Sultan Al Nahyan is buried at Sheikh Zayed Mosque.,0
+105270,Sam Elliott is married to Katharine Ross.,0
+105355,Donau-Ries shares a border with Eichstätt district.,1
+105441,Laguna contains the administrative territorial entity Lumban.,0
+105808,Montigny-sur-Loing's country is France.,1
+105809,Montigny-sur-Loing is an instance of commune of France.,1
+105810,The administrative territorial entity in which Montigny-sur-Loing is located is Seine-et-Marne.,1
+106571,Kafr el-Sheikh Governorate's country is Egypt.,1
+106572,The administrative territorial entity in which Kafr el-Sheikh Governorate is located is Egypt.,1
+106573,Kafr el-Sheikh Governorate is an instance of governorate of Egypt.,1
+107392,Pompei shares a border with Sant'Antonio Abate.,0
+109124,"In The 40-Year-Old Virgin, Leslie Mann is a cast member.",1
+109640,The twinned administrative body of Oral is Orenburg.,0
+109698,Parres shares a border with Colunga.,0
+110174,The official language of Lampung is Indonesian.,1
+110175,Lampung shares a border with South Sumatra.,1
+110176,Lampung's country is Indonesia.,1
+110177,The administrative territorial entity in which Lampung is located is Indonesia.,1
+110178,Lampung shares a border with Bengkulu.,1
+110179,Lampung contains the administrative territorial entity South Lampung.,1
+110180,Lampung shares a border with Sunda Strait.,1
+110181,The capital of Lampung is Bandar Lampung.,1
+110182,Lampung contains the administrative territorial entity Bandar Lampung.,1
+111741,Dennis Hopper is married to Katherine LaNasa.,0
+111918,The jurisdiction applicable to Inatsisartut is Greenland.,0
+111919,The administrative territorial entity in which Inatsisartut is located is Greenland.,0
+111920,Inatsisartut's country is Greenland.,0
+114373,The administrative territorial entity in which Colunga is located is Asturias.,1
+114374,Colunga's country is Spain.,0
+114375,Colunga shares a border with Villaviciosa.,0
+114376,Colunga shares a border with Parres.,0
+114377,Colunga is located in or next to Cantabrian Sea.,1
+114378,Colunga shares a border with Caravia.,0
+114495,Nuth shares a border with Schinnen.,0
+114587,City of Knox contains the administrative territorial entity Knoxfield.,1
+114686,Jonathan Dayton is a citizen of United States.,1
+114687,The father of Jonathan Dayton is Elias Dayton.,1
+114688,Jonathan Dayton held the position of Speaker of the United States House of Representatives.,0
+114689,Jonathan Dayton is a member of the political party Federalist Party.,0
+116458,National Amusements has the subsidiary CBS Corporation.,0
+117365,Kalaburgi district shares a border with Ranga Reddy district.,1
+118552,Domodossola shares a border with Trasquera.,0
+119804,Zwischbergen shares a border with Trasquera.,0
+119863,Varzo shares a border with Trasquera.,0
+119922,Crevoladossola shares a border with Trasquera.,0
+119930,Trasquera shares a border with Crevoladossola.,0
+119931,Trasquera shares a border with Domodossola.,0
+119932,Trasquera shares a border with Varzo.,0
+119933,Trasquera's country is Italy.,0
+119934,Trasquera is an instance of commune of Italy.,1
+119935,Trasquera shares a border with Zwischbergen.,0
+119936,The administrative territorial entity in which Trasquera is located is Province of Verbano-Cusio-Ossola.,1
+119997,Province of Olbia-Tempio contains the administrative territorial entity Arzachena.,1
+120004,Olbia shares a border with Arzachena.,0
+120011,Zibello shares a border with Polesine Parmense.,1
+120014,Luras shares a border with Arzachena.,0
+120022,Arzachena shares a border with Luras.,0
+120023,Arzachena shares a border with Tempio Pausania.,0
+120024,Arzachena shares a border with Olbia.,0
+120025,Arzachena is an instance of commune of Italy.,1
+120026,Arzachena's country is Italy.,1
+121032,Katherine LaNasa is a citizen of United States.,1
+121033,The child of Katherine LaNasa is Henry Hopper.,1
+121327,Nieuwkoop contains the settlement Noorden.,0
+122711,Guillermo Stábile is a citizen of Argentina.,1
+122712,The sport associated with Guillermo Stábile is association football.,1
+122713,Guillermo Stábile participated in 1930 FIFA World Cup.,1
+122714,Guillermo Stábile was born in Buenos Aires.,1
+122715,Guillermo Stábile died in Buenos Aires.,1
+122733,Esther is married to Ahasuerus.,0
+122734,Esther is present in the work Bible.,0
+122735,Esther died in Achaemenid Empire.,0
+122736,Ahasuerus is married to Esther.,1
+123618,Rypin County contains the administrative territorial entity Gmina Rypin.,1
+123750,Ellis County shares a border with Tarrant County.,1
+124153,The administrative territorial entity in which Mauterndorf is located is Tamsweg District.,0
+125194,Friedrich Wilhelm von Steuben died in Steuben County.,0
+125195,Friedrich Wilhelm von Steuben is a citizen of United States.,0
+125196,Friedrich Wilhelm von Steuben was involved in the American Revolutionary War.,1
+125197,Friedrich Wilhelm von Steuben served in the Continental Army.,1
+125259,The administrative territorial entity in which Minna is located is Niger State.,1
+125260,Minna is the capital of Niger State.,0
+125261,Minna's country is Nigeria.,1
+125998,Parker County shares a border with Tarrant County.,1
+126516,The administrative territorial entity in which Haltom City is located is Tarrant County.,1
+127343,La Paz is the capital of Baja California Sur.,0
+127793,The administrative territorial entity in which Vologodsky District is located is Vologda Oblast.,1
+127794,The capital of Vologodsky District is Vologda.,1
+127795,Vologodsky District's country is Russia.,1
+128813,El Franco shares a border with Cuaña.,0
+128820,Bual shares a border with Cuaña.,0
+128835,Kaunas County contains the administrative territorial entity Raseiniai District Municipality.,1
+128848,Villaviciosa shares a border with Colunga.,0
+128871,Hyderabad district shares a border with Ranga Reddy district.,1
+129044,Schouwen-Duiveland contains the settlement Serooskerke.,1
+129319,Lehrte shares a border with Peine.,0
+130178,The capital of Jinja District is Jinja.,1
+130179,Jinja District is named after Jinja.,1
+131885,Humphrey of Hauteville is a sibling of Mauger of Hauteville.,0
+132770,Judd Apatow is married to Leslie Mann.,1
+133318,Molins de Rei is an instance of municipality of Spain.,1
+133319,The administrative territorial entity in which Molins de Rei is located is Barcelona Province.,1
+133320,The administrative territorial entity in which Molins de Rei is located is Catalonia.,1
+133321,Molins de Rei's country is Spain.,1
+133322,Molins de Rei shares a border with El Papiol.,1
+133323,Molins de Rei shares a border with Sant Vicenç dels Horts.,1
+133324,Molins de Rei shares a border with Barcelona.,1
+133327,El Papiol shares a border with Molins de Rei.,1
+133330,Sant Vicenç dels Horts shares a border with Molins de Rei.,1
+134164,Neleus is a sibling of Pelias.,0
+134279,The administrative territorial entity in which Gmina Rypin is located is Rypin County.,0
+134280,Gmina Rypin's country is Poland.,1
+134281,Gmina Rypin shares a border with Rypin.,0
+134756,Sunda Strait shares a border with Lampung.,0
+135461,Poultney's country is United States.,0
+135462,The administrative territorial entity in which Poultney is located is Rutland County.,1
+137190,Mobara's country is Japan.,0
+137191,The administrative territorial entity in which Mobara is located is Chiba Prefecture.,1
+137200,Absheron District's country is Azerbaijan.,1
+137201,The administrative territorial entity in which Absheron District is located is Azerbaijan.,1
+137735,The administrative territorial entity in which Loreto is located is Baja California Sur.,1
+137816,Leslie Mann is a citizen of United States.,1
+137817,Leslie Mann is married to Judd Apatow.,1
+137818,The child of Leslie Mann is Maude Apatow.,1
+138849,Leibniz University Hannover is a member of TU9.,1
+138907,The mouth of the watercourse of Wallkill River is Rondout Creek.,1
+141259,Gragnano shares a border with Sant'Antonio Abate.,0
+142396,Karijotas is a sibling of Lubart.,0
+142399,Lubart is a sibling of Olgierd.,0
+142400,Lubart died in Volodymyr.,0
+142401,Lubart is a sibling of Narimantas.,0
+142402,Lubart is a sibling of Karijotas.,0
+142403,The father of Lubart is Gediminas.,0
+142459,The administrative territorial entity in which Zijpe is located is Schagen.,1
+142460,Zijpe's country is Netherlands.,1
+143103,Joe Dumars was educated at McNeese State University.,1
+143104,Joe Dumars is a citizen of United States.,1
+143105,Joe Dumars was drafted by Detroit Pistons.,1
+143106,Joe Dumars is a member of the sports team Detroit Pistons.,1
+143107,Joe Dumars received the award Bill Russell NBA Finals Most Valuable Player Award.,0
+143452,The administrative territorial entity in which Gaocheng District is located is Shijiazhuang.,1
+143453,Gaocheng District's country is People's Republic of China.,1
+143454,Gaocheng District is an instance of county-level city.,0
+143523,Antipater of Tarsus is a student of Diogenes of Babylon.,1
+144999,Peine contains the administrative territorial entity Peine.,1
+145000,The capital of Peine is Peine.,0
+145001,The administrative territorial entity in which Peine is located is Lower Saxony.,1
+145002,Peine's country is Germany.,0
+145003,Peine shares a border with Brunswick.,0
+145004,Peine shares a border with Salzgitter.,0
+145006,Salzgitter shares a border with Peine.,0
+145318,county of Sweden's country is Sweden.,1
+147356,Neuburg-Schrobenhausen shares a border with Eichstätt district.,0
+148542,The child of Tyro is Pelias.,0
+148743,BA CityFlyer is owned by British Airways.,1
+148744,The headquarters of BA CityFlyer is Didsbury.,0
+148745,The airline hub for BA CityFlyer is London City Airport.,1
+149140,Knoxfield's country is Australia.,1
+149141,The administrative territorial entity in which Knoxfield is located is City of Knox.,0
+149239,Bijie contains the administrative territorial entity Jinsha County.,0
+151187,The administrative territorial entity in which South Lampung is located is Lampung.,1
+151340,Jaunutis is a sibling of Lubart.,0
+151343,Narimantas is a sibling of Lubart.,0
+151405,The mother of Pauline Bonaparte is Maria-Letizia Bonaparte.,1
+151406,The father of Pauline Bonaparte is Carlo Bonaparte.,1
+151407,Pauline Bonaparte is a sibling of Carlo Bonaparte.,0
+151408,Pauline Bonaparte is a citizen of France.,1
+151409,Pauline Bonaparte is a sibling of Napoleon.,1
+151410,Pauline Bonaparte is a sibling of Joseph Bonaparte.,1
+151411,Pauline Bonaparte is a sibling of Elisa Bonaparte.,1
+151412,Pauline Bonaparte is a sibling of Louis Bonaparte.,0
+151413,Pauline Bonaparte is a sibling of Caroline Bonaparte.,1
+151868,Holasovice's country is Czech Republic.,1
+151869,Holasovice shares a border with Opava.,0
+152021,Iwata's country is Japan.,1
+152022,The administrative territorial entity in which Iwata is located is Shizuoka Prefecture.,1
+152333,Schinnen shares a border with Nuth.,0
+152334,Schinnen's country is Netherlands.,1
+153774,President of the European Parliament was appointed by European Parliament.,0
+153775,The organization directed by President of the European Parliament is European Parliament.,1
+153776,The jurisdiction applicable to President of the European Parliament is European Union.,1
+154391,"In Funny People, Leslie Mann is a cast member.",1
+154529,TU Dresden is a member of TU9.,1
+154570,Light Region is an instance of local government area of Australia.,0
+154571,The administrative territorial entity in which Light Region is located is South Australia.,0
+154900,Apollodorus of Athens is a student of Diogenes of Babylon.,0
+154906,Panaetius is a student of Diogenes of Babylon.,0
+155377,The constellation of Small Magellanic Cloud is Tucana.,0
+155401,The father of Pat Hitchcock is Alfred Hitchcock.,1
+155402,The mother of Pat Hitchcock is Alma Reville.,1
+155520,The occupant of Stadio Renato Dall'Ara is Bologna F.C. 1909.,1
+155822,Vimpeli's country is Finland.,1
+155823,The official language of Vimpeli is Finnish.,1
+155824,The administrative territorial entity in which Vimpeli is located is South Ostrobothnia.,1
+156242,Geoffrey of Hauteville is a sibling of Mauger of Hauteville.,0
+156247,Far North shares a border with Adamawa.,0
+156366,Cannon County contains the administrative territorial entity Woodbury.,0
+156367,The capital of Cannon County is Woodbury.,1
+156371,The official language of Udmurt Autonomous Soviet Socialist Republic is Russian.,1
+156372,The administrative territorial entity in which Udmurt Autonomous Soviet Socialist Republic is located is Russian Soviet Federative Socialist Republic.,1
+156373,Udmurt Autonomous Soviet Socialist Republic's country is Soviet Union.,1
+156374,Udmurt Autonomous Soviet Socialist Republic replaces Udmurt Autonomous Oblast.,0
+156375,Udmurt Autonomous Soviet Socialist Republic was replaced by Udmurtia.,1
+156641,Gironico is an instance of commune of Italy.,0
+156642,The administrative territorial entity in which Gironico is located is Province of Como.,0
+156643,Gironico shares a border with Montano Lucino.,0
+156644,Gironico's country is Italy.,1
+156645,Gironico shares a border with Olgiate Comasco.,0
+156646,Gironico shares a border with Villa Guardia.,0
+156953,Olgiate Comasco shares a border with Gironico.,0
+157414,Tarakan's country is Indonesia.,1
+157415,The administrative territorial entity in which Tarakan is located is North Kalimantan.,1
+158299,"Henry Bennet, 1st Earl of Arlington is a citizen of Kingdom of England.",1
+159438,Esther is named after Esther.,1
+159439,The original language of Esther is French.,0
+159440,Esther was authored by Jean Racine.,0
+159451,Steuben County is named after Friedrich Wilhelm von Steuben.,1
+160227,The capital of Italian Somaliland is Mogadishu.,0
+160269,The child of Alma Reville is Pat Hitchcock.,1
+160438,Lamar's country is United States.,1
+160439,The administrative territorial entity in which Lamar is located is Barton County.,1
+160790,Intel 80186 is followed by Intel 80286.,1
+160813,Saybrook Colony was replaced by Connecticut Colony.,0
+160825,A tributary of Rondout Creek is Wallkill River.,1
+160826,The mouth of the watercourse of Rondout Creek is Hudson River.,1
+160827,The administrative territorial entity in which Rondout Creek is located is New York.,1
+160828,Rondout Creek's country is United States.,1
+160908,Katharine Ross is a citizen of United States.,1
+160909,Katharine Ross is married to Sam Elliott.,0
+160910,Katharine Ross was nominated for Academy Award for Best Supporting Actress.,0
+160978,Mauger of Hauteville is a sibling of Geoffrey of Hauteville.,0
+160979,Mauger of Hauteville is a sibling of Humphrey of Hauteville.,0
+160980,Mauger of Hauteville is a sibling of Robert Guiscard.,0
+161552,Raseiniai District Municipality's country is Lithuania.,1
+161553,The administrative territorial entity in which Raseiniai District Municipality is located is Kaunas County.,1
+161826,Larksville's country is United States.,1
+161827,The administrative territorial entity in which Larksville is located is Luzerne County.,1
+161828,Larksville shares a border with Wilkes-Barre.,0
+161829,Larksville shares a border with Jackson Township.,0
+162137,The administrative territorial entity in which Bandar Lampung is located is Lampung.,1
+162138,Bandar Lampung is the capital of Lampung.,0
+162682,The administrative territorial entity in which Tomioka is located is Gunma Prefecture.,1
+162708,Viacom is followed by CBS Corporation.,1
+162844,The parent organization of FTSE Group is London Stock Exchange Group.,1
+164139,Legnica County contains the administrative territorial entity Gmina Prochowice.,1
+164834,The administrative territorial entity in which Sheikh Zayed Mosque is located is Abu Dhabi.,1
+164835,Sheikh Zayed Mosque's country is United Arab Emirates.,1
+164836,Sheikh Zayed Mosque is named after Zayed bin Sultan Al Nahyan.,1
+165003,Loudi contains the administrative territorial entity Shuangfeng County.,0
+165269,The administrative territorial entity in which Shuangfeng County is located is Loudi.,1
+165270,Shuangfeng County's country is People's Republic of China.,1
+166257,The mother of Hebe is Hera.,0
+168107,Pinghe County's country is People's Republic of China.,1
+168108,The administrative territorial entity in which Pinghe County is located is Zhangzhou.,1
+168109,Pinghe County contains the administrative territorial entity Xiaoxi Town (Pinghe County).,1
+168245,Caravia shares a border with Colunga.,0
+168733,The mother of Pelias is Tyro.,0
+168734,The father of Pelias is Poseidon.,0
+168735,Pelias is a sibling of Neleus.,0
+169025,The mother of Pasithea is Hera.,0
+169165,The mother of Eileithyia is Hera.,0
+170226,The administrative territorial entity in which Hussein Dey District is located is Algiers Province.,1
+170442,The administrative territorial entity in which Noorden is located is Nieuwkoop.,0
+170654,Eichstätt district's country is Germany.,1
+170655,Eichstätt district shares a border with Neuburg-Schrobenhausen.,1
+170656,Eichstätt district shares a border with Donau-Ries.,1
+170657,Eichstätt district shares a border with Ingolstadt.,1
+171654,The administrative territorial entity in which Podgorensky District is located is Voronezh Oblast.,1
+171655,Podgorensky District's country is Russia.,1
+171905,The parent organization of Westinghouse Licensing Corporation is CBS Corporation.,0
+171906,Westinghouse Licensing Corporation is owned by CBS Corporation.,0
+172460,Udmurt Autonomous Oblast was replaced by Udmurt Autonomous Soviet Socialist Republic.,1
+172823,The mother of Henry Hopper is Katherine LaNasa.,1
+172876,Orenburg's country is Russia.,1
+172877,The administrative territorial entity in which Orenburg is located is Orenburg Oblast.,1
+172878,Orenburg is the capital of Orenburg Oblast.,0
+172879,The twinned administrative body of Orenburg is Oral.,0
+172939,Olaf Haraldsson Geirstadalf is a sibling of Eric Bloodaxe.,0
+173512,The administrative territorial entity in which Woodbury is located is Cannon County.,1
+173513,Woodbury's country is United States.,1
+174720,Louise Rasmussen is married to Frederick VII of Denmark.,0
+174721,Louise Rasmussen is a citizen of Denmark.,1
+174722,Louise Rasmussen was born in Copenhagen.,1
+175698,The composer of Flute Sonata is Francis Poulenc.,1
+176189,Zweites Buch kk follows Mein Kampf.,0
+177262,Montano Lucino shares a border with Gironico.,0
+177764,The administrative territorial entity in which Glenboig is located is North Lanarkshire.,1
+178454,"Gunnhild, Mother of Kings is married to Eric Bloodaxe.",0
+179014,Sadu's country is Romania.,0
+179015,Sadu is an instance of commune of Romania.,0
+179016,The administrative territorial entity in which Sadu is located is Sibiu County.,1
+179028,Thepha is an instance of amphoe.,0
+179029,The administrative territorial entity in which Thepha is located is Songkhla.,1
+179311,Lake City's country is United States.,1
+179312,The administrative territorial entity in which Lake City is located is Craighead County.,0
+179354,Serooskerke's country is Netherlands.,1
+179355,The administrative territorial entity in which Serooskerke is located is Schouwen-Duiveland.,1
+181158,The administrative territorial entity in which Blanche River is located is Timiskaming District.,1
+181159,Blanche River's country is Canada.,1
+181160,The mouth of the watercourse of Blanche River is Ottawa River.,1
+181161,A tributary of Blanche River is Englehart River.,1
+182058,Bruce Buck is a citizen of United States.,0
+182771,The child of Elias Dayton is Jonathan Dayton.,1
+182808,Francesco Guidolin is a member of the sports team Bologna F.C. 1909.,0
+183306,The constellation of NGC 346 is Tucana.,0
+183406,The constellation of NGC 290 is Tucana.,0
+183771,Ciceu is an instance of commune of Romania.,1
+183772,Ciceu's country is Romania.,1
+183773,The administrative territorial entity in which Ciceu is located is Harghita County.,1
+183893,The mother of Ares is Hera.,0
+184494,The administrative territorial entity in which Xiaoxi Town (Pinghe County) is located is Pinghe County.,1
+184611,Ossona's country is Italy.,0
+184612,Ossona shares a border with Arluno.,0
+184613,Ossona shares a border with Santo Stefano Ticino.,0
+184614,Ossona is an instance of commune of Italy.,0
+184615,The administrative territorial entity in which Ossona is located is province of Milan.,0
+184776,The administrative territorial entity in which Khadir District is located is Daykundi Province.,1
+184777,Khadir District's country is Afghanistan.,0
+184999,smithsonite is in a solid solution series with siderite.,1
+185694,Nabhanka Nibandhabongs is a citizen of Thailand.,0
+185695,Nabhanka Nibandhabongs belongs to the family Chakri dynasty.,0
+185696,The father of Nabhanka Nibandhabongs is Chulalongkorn.,0
+185853,The administrative territorial entity in which Jinja is located is Jinja District.,1
+185854,Jinja is the capital of Jinja District.,0
+185855,Jinja's country is Uganda.,0
+186971,The administrative territorial entity in which i-Trans cluster for railways and urban transport is located is Villeneuve-d'Ascq.,0
+186972,The administrative territorial entity in which i-Trans cluster for railways and urban transport is located is Valenciennes.,0
+186973,i-Trans cluster for railways and urban transport is a member of Lille North of France University.,0
+187271,The capital of Somali Republic is Mogadishu.,1
+187274,Dardanus of Athens is a student of Diogenes of Babylon.,0
+187278,Mnesarchus of Athens is a student of Diogenes of Babylon.,0
+187307,The administrative territorial entity in which Mariapfarr is located is Tamsweg District.,0
+187611,The administrative territorial entity in which Prochowice is located is Gmina Prochowice.,0
+187612,Prochowice is the capital of Gmina Prochowice.,0
+187613,The capital of Gmina Prochowice is Prochowice.,1
+187614,The administrative territorial entity in which Gmina Prochowice is located is Legnica County.,1
+187615,Gmina Prochowice's country is Poland.,1
+188692,The administrative territorial entity in which Central Stadium Yekaterinburg is located is Yekaterinburg.,1
+188693,Central Stadium Yekaterinburg's country is Russia.,1
+188694,The occupant of Central Stadium Yekaterinburg is 2018 FIFA World Cup.,1
+189232,Villa Guardia shares a border with Gironico.,0
+189283,Arluno shares a border with Ossona.,0
+189288,Santo Stefano Ticino shares a border with Ossona.,0
+189478,Olmo al Brembo shares a border with Mezzoldo.,0
+189538,Mezzoldo is an instance of commune of Italy.,1
+189539,The administrative territorial entity in which Mezzoldo is located is Province of Bergamo.,1
+189540,Mezzoldo's country is Italy.,1
+189541,Mezzoldo shares a border with Olmo al Brembo.,0
+189542,Mezzoldo shares a border with Piazzatorre.,0
+189543,Piazzatorre shares a border with Mezzoldo.,0
+190110,Polesine Parmense's country is Italy.,1
+190111,The administrative territorial entity in which Polesine Parmense is located is Province of Parma.,1
+190112,Polesine Parmense is an instance of commune of Italy.,1
+190113,Polesine Parmense shares a border with Zibello.,1
+190928,Candoni is an instance of municipality of the Philippines.,1
+190929,The administrative territorial entity in which Candoni is located is Negros Occidental.,1
+190930,Candoni's country is Philippines.,1
+192008,The mouth of the watercourse of Englehart River is Blanche River.,0
+192144,"The father of Margaret, Maid of Norway is Eric II of Norway.",0
+192145,"Margaret, Maid of Norway follows Alexander III of Scotland.",0
+192287,The mother of Maude Apatow is Leslie Mann.,1
+192728,Värmland County is an instance of county of Sweden.,1
+192738,Jackson Township shares a border with Larksville.,1
+192806,Maria Theresa of Austria-Este is married to Vittorio Emanuele I of Sardinia.,1
+193031,Rochefort-en-Yvelines is an instance of commune of France.,1
+193032,The administrative territorial entity in which Rochefort-en-Yvelines is located is Yvelines.,1
+193033,Rochefort-en-Yvelines's country is France.,1
+193183,The administrative territorial entity in which Jinsha County is located is Bijie.,1
+193750,The administrative territorial entity in which Cuaña is located is Asturias.,1
+193751,Cuaña's country is Spain.,0
+193752,Cuaña is located in or next to Cantabrian Sea.,1
+193753,Cuaña shares a border with Bual.,0
+193754,Cuaña shares a border with El Franco.,0
