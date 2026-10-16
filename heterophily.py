@@ -1,8 +1,7 @@
 import numpy as np
 import pandas as pd
 import networkx as nx
-import sys
-import os
+from collections import Counter
 from scipy import sparse
 
 def compute_heterophily_metrics(df_triplets, df_scores, raw_kg_path):
@@ -49,18 +48,41 @@ def compute_heterophily_metrics(df_triplets, df_scores, raw_kg_path):
     k_perm = np.random.permutation(k)
     dirichlet_perm = float((k_perm.T @ L_sym @ k_perm))
     diffs = []
+    max_diff = 0 # for calculating the maximum difference on edges
+    min_diff = 2
     for _, row in df_triplets_merged.iterrows():
         s_score = score_dict.get(row['sub_label'], 0.0)
         o_score = score_dict.get(row['obj_label'], 0.0)
-        diffs.append(abs(s_score - o_score))
+        current_diff = abs(s_score - o_score) # this is the difference of knowledge on edges in one triplet
+        diffs.append(current_diff)
+        if(current_diff > max_diff):
+            max_diff = current_diff
+            saved_prompt = row['triplet_prompt']
+            s_score_saved = s_score
+            o_score_saved = o_score
+            subject_saved = row['sub_label']
+            object_saved = row['obj_label']
+        if(current_diff < min_diff):
+            min_diff = current_diff
+            saved_prompt_min = row['triplet_prompt']
+            o_score_min_saved = o_score
+            s_score_min_saved = s_score
+            subject_min_saved = row['sub_label']
+            object_min_saved = row['obj_label']
 
     diffs = np.array(diffs)
 
     print("=" * 50)
     print(f"Total of analyzed anchor edges: {len(diffs)}")
     print(f"Fraction of edges with knowledge gap >= 0.4: {(diffs >= 0.4).mean() * 100:.2f}%")
+    print(f"The exact number of edges with knowledge gap >= 0.4: {Counter((diffs >= 0.4))[True]}")
     print(f"Fraction of edges with knowledge gap >= 0.5: {(diffs >= 0.5).mean() * 100:.2f}%")
+    print(f"The exact number of edges with knowledge gap >= 0.5: {Counter((diffs >= 0.5))[True]}")
     print(f"The average edge's knowledge gap: {diffs.mean():.4f}")
+    print(f"The maximum difference is: {max_diff}. On the prompt: '{saved_prompt}'.")
+    print(f"Where the knowledge of object '{object_saved}' is {o_score_saved}, and the knowdlege of subject '{subject_saved}' is {s_score_saved}.")
+    print(f"The minimum difference is: {min_diff}. On the prompt: '{saved_prompt_min}'.")
+    print(f"Where the knowledge of object '{object_min_saved}' is {o_score_min_saved}, and the knowdlege of subject '{subject_min_saved}' is {s_score_min_saved}.")
     print("=" * 50)
 
     return {
@@ -134,9 +156,9 @@ if __name__ == "__main__":
     anchorEntityScoresTrexMistralSAGE = pd.read_csv(
         "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BTrex SAGE 96.05/finetune/anchor_entity_scores.csv")
     allAnchorTripletsPharmKGMistralGPR = pd.read_csv(
-        "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BPharmKG GPR 66.55/finetune/anchor_results.csv")
+        "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BPharmKG GPR 87.93/finetune/anchor_results.csv")
     anchorEntityScoresPharmKGMistralGPR = pd.read_csv(
-        "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BPharmKG GPR 66.55/finetune/anchor_entity_scores.csv")
+        "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BPharmKG GPR 87.93/finetune/anchor_entity_scores.csv")
     allAnchorTripletsPharmKGMistralSAGE = pd.read_csv(
         "C:/Users/Solange/Desktop/Knowledge Heterophily in Large Language Models/kgc/my_project/Mistral7BPharmKG SAGE 94.63/finetune/anchor_results.csv")
     anchorEntityScoresPharmKGMistralSAGE = pd.read_csv(
