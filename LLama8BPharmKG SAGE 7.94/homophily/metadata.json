@@ -1,6 +1,0 @@
-{
-  "input_kg": "data/raw/pharmkg/pharmkg.csv",
-  "template": "data/raw/pharmkg/pharmkg_templates.csv",
-  "entities": "selected_entities.csv",
-  "prompts": "triplet_prompts.csv"
-}

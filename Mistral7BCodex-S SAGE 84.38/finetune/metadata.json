@@ -1,6 +1,0 @@
-{
-  "input_kg": "data/raw/codex/codex.csv",
-  "template": "data/raw/codex/codex_templates.csv",
-  "entities": "selected_entities.csv",
-  "prompts": "triplet_prompts.csv"
-}

@@ -1,6 +1,0 @@
-{
-  "input_kg": "data/raw/trex/trex.csv",
-  "template": "data/raw/trex/trex_templates.csv",
-  "entities": "selected_entities.csv",
-  "prompts": "triplet_prompts.csv"
-}
