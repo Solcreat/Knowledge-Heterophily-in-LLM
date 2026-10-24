@@ -1,0 +1,14 @@
+triplet_id,sub_label,rel_label,obj_label,triplet_prompt,ft_tf_value
+28278,Ernest Hemingway,occupation,writer,The occupation of Ernest Hemingway is or was writer.,1
+23043,Thomas Hobbes,occupation,writer,The occupation of Thomas Hobbes is or was writer.,1
+24004,Jean Gaston Darboux,member of,Lincean Academy,Jean Gaston Darboux is a member of Lincean Academy.,1
+28327,Linda Ronstadt,genre,pop rock,The genre of Linda Ronstadt is pop rock.,1
+34482,Janis Joplin,genre,contemporary folk music,The genre of Janis Joplin is contemporary folk music.,0
+22856,Adam Ant,record label,EMI,The record label for Adam Ant is EMI.,1
+19563,Sarah Silverman,ethnic group,American Jews,Sarah Silverman belongs to the American Jews ethnic group.,1
+147,France,diplomatic relation,Republic of the Congo,France has a diplomatic relation with Republic of the Congo.,1
+32010,Jordan,member of,Multilateral Investment Guarantee Agency,Jordan is a member of Multilateral Investment Guarantee Agency.,1
+11612,Saudi Arabia,diplomatic relation,Laos,Saudi Arabia has a diplomatic relation with Laos.,1
+1718,Guyana,member of,Multilateral Investment Guarantee Agency,Guyana is a member of Multilateral Investment Guarantee Agency.,1
+29606,Norman Mailer,influenced by,Ernest Hemingway,Norman Mailer was influenced by Ernest Hemingway.,1
+21699,Chad,diplomatic relation,France,Chad has a diplomatic relation with France.,1

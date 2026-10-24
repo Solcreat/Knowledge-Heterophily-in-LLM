@@ -1,0 +1,6878 @@
+entity_label,predicted_kg_value,kg_value,split
+mybpc3,0.3102794,1.0,train
+dysf,0.3102871,,none
+anpep,0.3091065,,none
+hematologic neoplasms,0.26403716,,none
+metformin,0.30942228,0.0,train
+peripheral vascular diseases,0.3098035,,none
+trpm1,0.31019822,,none
+trpm2,0.31016776,,none
+cish,0.30463836,,none
+apcs,0.30792776,0.0,train
+deferoxamine,0.31016788,,none
+cd163,0.3060764,,none
+tor1a,0.30923584,,none
+haloperidol,0.3100474,,none
+sds,0.31032667,,none
+mat2b,0.3101922,,none
+bepridil,0.31042102,,none
+schizophrenia,0.3096032,1.0,train
+adam10,0.30612263,,none
+ide,0.30981347,,none
+melphalan,0.31025487,,none
+osteoporosis,0.30909544,,none
+thalidomide,0.3103954,,none
+neoplasms,0.3049488,0.25,train
+ada,0.30609328,,none
+plcg1,0.30898777,,none
+tub,0.30994892,,none
+flnc,0.31033367,,none
+capn3,0.3100465,0.0,test
+tiotropium,0.31046972,,none
+cyp3a4,0.3098786,0.5,train
+loperamide,0.3100523,,none
+cardiotoxicity,0.31026125,,none
+hspa5,0.30843198,,none
+col1a2,0.30615112,,none
+notch1,0.30744225,,none
+cd37,0.30975103,,none
+habp2,0.30942133,,none
+cad,0.30868775,0.0,test
+eif2ak3,0.3065087,,none
+vwf,0.3064401,0.5,train
+fibrosis,0.30799702,1.0,valid
+krt10,0.30577254,,none
+rpl37,0.30805743,,none
+cyp19a1,0.31002197,0.0,train
+pgrmc1,0.31011263,,none
+adenoma,0.30773726,,none
+apaf1,0.30538958,,none
+cnga3,0.3102842,,none
+cngb3,0.30993164,,none
+slc16a7,0.30980137,,none
+hmgcs2,0.3095065,,none
+sitagliptin,0.31041095,,none
+tgfb1,0.30754602,,none
+bmp4,0.30626294,,none
+fgf8,0.3085431,,none
+nfkb1,0.30282736,,none
+npy,0.3092305,0.5,valid
+losartan,0.31029856,0.0,test
+vilazodone,0.31055176,,none
+cfh,0.31020626,,none
+gram positive bacterial infections,0.30910647,,none
+vitamin e,0.30931395,,none
+kidney diseases,0.29794866,0.6,valid
+liver neoplasms,0.12476906,0.0,train
+enpp2,0.3050094,,none
+kras,0.30667943,,none
+igf1,0.30430213,,none
+tp53,0.3010183,0.5,train
+rpl11,0.30489364,,none
+foxm1,0.30791423,,none
+ppp2r2a,0.30988514,,none
+l lysine,0.31016788,,none
+respiratory tract infections,0.31026593,,none
+rab27a,0.30326545,,none
+mlph,0.30857143,,none
+hgf,0.304315,,none
+van der woude syndrome,0.30888352,,none
+auts2,0.31020215,,none
+npas3,0.30986583,,none
+central nervous system neoplasms,0.30920345,,none
+pax5,0.30637446,,none
+synj1,0.3101806,,none
+grik1,0.3104769,,none
+ranolazine,0.31030384,,none
+atrial fibrillation,0.31011322,0.0,test
+indomethacin,0.310365,1.0,train
+hepatitis b,0.29783463,,none
+cd44,0.30311623,0.0,train
+ccr2,0.30923507,,none
+ptgs2,0.30619463,1.0,train
+respiratory tract neoplasms,0.30608284,0.5,train
+genital neoplasms female,0.30831093,1.0,train
+ran,0.31011403,,none
+methylprednisolone,0.3100544,,none
+buschke ollendorff syndrome,0.30984527,,none
+doxorubicin,0.3097746,,none
+nos3,0.308189,,none
+gmppb,0.30493987,,none
+mat1a,0.30644244,,none
+esr1,0.3086208,,none
+ccnd1,0.30543447,,none
+sirt3,0.308694,,none
+txn,0.30512398,,none
+pstpip1,0.30906254,,none
+arhgef9,0.31016788,,none
+gabra2,0.3101313,,none
+uterine diseases,0.30878034,,none
+mapk1,0.3057811,0.0,train
+cdh2,0.3069104,,none
+gja1,0.30760092,,none
+ptpn1,0.3068793,,none
+hyperinsulinism,0.3084404,,none
+lymphoma non hodgkin,0.29772767,,none
+bcl2l1,0.30586568,,none
+quinine,0.31028816,,none
+renal insufficiency,0.30917946,0.5,train
+ifng,0.30669722,0.0,test
+rab5a,0.30940062,,none
+socs3,0.30807728,,none
+pgr,0.30822232,1.0,valid
+cimetidine,0.31035954,0.075,valid
+nilotinib,0.31060842,0.0,train
+aurkb,0.30685297,,none
+dlg4,0.3094471,,none
+pin1,0.30586618,,none
+temozolomide,0.3093522,0.0,train
+hypopigmentation,0.30934566,0.5357142857142857,test
+ap4s1,0.31016788,,none
+ctse,0.30381787,,none
+fabp5,0.3094066,,none
+rrm2,0.30464506,,none
+iron,0.30836657,,none
+acidosis,0.30986083,,none
+hdac1,0.3060171,0.0,train
+sult1a1,0.31009415,,none
+isyna1,0.30549407,0.5,train
+egfr,0.30490705,0.6666666666666666,valid
+comt,0.30921844,,none
+vkorc1,0.3079486,,none
+mianserin,0.31048527,,none
+prl,0.3087504,,none
+carbamazepine,0.31046227,,none
+drug eruptions,0.3100557,,none
+adrb3,0.31012964,0.0,train
+trihexyphenidyl,0.31029695,,none
+abcc4,0.30704862,,none
+fever,0.31000856,,none
+sensation disorders,0.31045255,,none
+chi3l1,0.30918097,,none
+crp,0.30402842,0.0,test
+agt,0.30971822,,none
+hypothyroidism,0.30983806,,none
+mpo,0.3076311,1.0,train
+genital neoplasms male,0.30853596,0.6666666666666666,train
+il10,0.3066509,0.25,valid
+tnfrsf9,0.309486,,none
+jun,0.30558857,0.5,train
+hk2,0.30253944,,none
+pfkfb1,0.30906877,,none
+gas6,0.30936912,0.0,train
+paraproteinemias,0.30886698,,none
+ppargc1a,0.30816135,1.0,train
+pdk4,0.30714184,,none
+nos2,0.30653027,,none
+prkcb,0.306686,,none
+apoe,0.30693835,,none
+abortion habitual,0.3102051,,none
+il1r2,0.3100578,0.0,train
+il1b,0.3069764,,none
+amoxicillin,0.31040755,,none
+hypersensitivity,0.3103253,,none
+adcy9,0.3099431,,none
+cntn1,0.30725855,0.0,train
+cox6b1,0.30931094,,none
+epo,0.30573246,,none
+periodontitis,0.30931473,,none
+cdkn2a,0.3022008,0.0,test
+tgfb2,0.30915782,,none
+gemcitabine,0.3071541,,none
+btc,0.30543092,,none
+six1,0.30993673,,none
+gata2,0.30477816,,none
+comp,0.30536655,,none
+bmp2,0.3078047,,none
+kidney neoplasms,0.22656481,,none
+pax2,0.30480224,,none
+gad2,0.3103096,,none
+diabetes mellitus,0.30708984,,none
+pyridoxine,0.31030917,,none
+amino acid metabolism inborn errors,0.3093303,1.0,train
+cd244,0.3098655,,none
+il2,0.3027649,0.0,train
+hmox1,0.30446777,,none
+ppox,0.30975145,,none
+lapatinib,0.31015196,,none
+boceprevir,0.3104561,,none
+arsenic trioxide,0.30937076,,none
+prkce,0.31024626,,none
+ketoconazole,0.31056422,,none
+hypotrichosis,0.30941564,,none
+disulfiram,0.31051734,,none
+cntn2,0.3088627,,none
+p4ha2,0.310169,,none
+rbm8a,0.3101533,,none
+cd247,0.30872512,,none
+hydralazine,0.31028256,,none
+proteinuria,0.30885077,,none
+mlh1,0.306779,,none
+cdh13,0.30837643,0.0,valid
+gastrointestinal neoplasms,0.25983024,0.5,train
+ursodeoxycholic acid,0.31034008,,none
+purpura thrombocytopenic idiopathic,0.30900073,,none
+bcor,0.30972755,0.0,train
+myc,0.30505136,0.0,train
+sirt1,0.30543464,,none
+akt1,0.3036271,,none
+prkca,0.30613014,,none
+col3a1,0.3087627,,none
+lovastatin,0.31005317,,none
+cd36,0.3093206,,none
+il4,0.30414256,1.0,train
+metal metabolism inborn errors,0.30996764,,none
+hemorrhage,0.30994728,1.0,train
+alb,0.30789518,,none
+timp3,0.30923334,,none
+braf,0.30616388,,none
+bosentan,0.31051466,,none
+leflunomide,0.3101969,,none
+hmga2,0.30616608,,none
+sox17,0.3081372,,none
+hypertension,0.30829132,0.6666666666666666,train
+il23a,0.30609757,,none
+neoplasms neuroepithelial,0.30722895,1.0,train
+abca1,0.30907604,0.0,train
+bub1b,0.3081987,,none
+hdac11,0.30953577,,none
+itraconazole,0.31056055,,none
+thrombocytopenia,0.3094078,1.0,valid
+triamterene,0.31040484,,none
+seizures,0.31031448,1.0,train
+atm,0.30707166,,none
+casp8,0.30685446,,none
+lymphoma,0.3033798,0.0,test
+ms4a1,0.30882856,,none
+bax,0.30694997,,none
+creld1,0.31014544,,none
+heart defects congenital,0.30979824,0.5,valid
+intellectual disability,0.30953074,0.0,train
+lep,0.30561844,,none
+imipramine,0.3102879,,none
+phenelzine,0.31062382,0.0,test
+scn2a,0.310241,0.0,train
+chrna2,0.31035766,,none
+alox15,0.30830762,,none
+ppara,0.3034635,1.0,train
+leukemia lymphoid,0.30792797,0.5,test
+dexamethasone,0.3096029,,none
+dusp6,0.3096711,,none
+exo1,0.30834836,,none
+pms2,0.3079056,0.0,train
+caffeine,0.30977407,,none
+mitf,0.3088303,1.0,train
+ctsk,0.30925727,,none
+motion sickness,0.31047866,,none
+ncoa3,0.3091117,,none
+sumo1,0.30880007,,none
+jak1,0.3095456,1.0,train
+depression,0.30960009,0.0,valid
+pyrimethamine,0.31016788,0.0,train
+chlorpromazine,0.3104218,,none
+timolol,0.31020162,,none
+infarction,0.3083785,1.0,train
+major depressive disorder and accelerated response to antidepressant drug treatment,0.30989203,,none
+pts,0.3092835,,none
+pten,0.30626756,0.0,test
+snrpn,0.3091843,,none
+plcg2,0.30823493,,none
+simvastatin,0.30988488,0.0,train
+il13,0.30772778,,none
+hrh2,0.31029266,,none
+peptic ulcer,0.3101165,,none
+baclofen,0.3103217,,none
+tapentadol,0.31071183,0.0,train
+blm,0.30980748,,none
+smc1a,0.30768675,,none
+norethindrone,0.3105426,,none
+gliquidone,0.3104515,0.0,train
+gcgr,0.3101894,1.0,valid
+nr3c1,0.30802187,,none
+eef1a1,0.3100216,,none
+bbs4,0.3089814,,none
+ahr,0.30703142,0.0,train
+chek1,0.3070324,,none
+pfn1,0.30977914,,none
+fgf2,0.3043659,0.0,train
+dopamine,0.30923882,,none
+gch1,0.31047687,0.0,train
+pde4b,0.30911213,,none
+icam1,0.30783224,,none
+krt8,0.30597124,,none
+adm,0.30661392,1.0,test
+carcinoma,0.30621344,,none
+ccl5,0.30657345,,none
+cd2,0.3092762,0.0,train
+fut4,0.30877435,,none
+neoplasms connective tissue,0.30970597,,none
+nfatc1,0.30917203,,none
+drd2,0.31004524,,none
+chlorprothixene,0.3104366,,none
+mif,0.30582738,1.0,train
+sema4d,0.30837888,,none
+abcb7,0.3101176,,none
+pus1,0.31019902,,none
+plg,0.30905685,,none
+pc,0.30850765,0.5,train
+nicardipine,0.31046313,,none
+thyroid neoplasms,0.2771837,,none
+mapk8,0.30678022,,none
+xpc,0.30850112,,none
+slc6a4,0.3104255,,none
+alcoholism,0.31021273,,none
+dyskinesias,0.31016925,1.0,test
+cebpa,0.30617338,0.0,train
+tgfbr1,0.3069538,,none
+ifnb1,0.3091304,,none
+rho,0.31006083,,none
+gabrb2,0.30855647,,none
+ntrk2,0.30875227,,none
+fos,0.3076497,,none
+cacna1d,0.3096771,,none
+hyperaldosteronism,0.30842987,1.0,train
+lupus erythematosus systemic,0.14937574,0.0,train
+usp7,0.3033292,,none
+infections,0.30909538,0.5,train
+ctsb,0.30838418,,none
+ndufab1,0.3103302,,none
+psma4,0.31012627,,none
+norepinephrine,0.31026044,,none
+myocardial ischemia,0.30925614,0.5,train
+c5ar1,0.30976826,,none
+c3ar1,0.31043833,,none
+darifenacin,0.3103341,,none
+fusidic acid,0.31056634,,none
+cdc42,0.30813244,0.0,train
+mbtps1,0.3063993,,none
+cyp24a1,0.30877557,,none
+cubn,0.30992392,,none
+diazoxide,0.31044507,,none
+eclampsia,0.310252,,none
+epinephrine,0.30994123,0.275,train
+inflammation,0.30728737,0.3333333333333333,train
+osm,0.30822805,,none
+topiramate,0.31022325,,none
+buprenorphine,0.31050688,0.0,train
+ppm1d,0.30896127,,none
+runx2,0.30807424,,none
+sars2,0.30962244,,none
+cbs,0.3099446,0.0,valid
+foxp3,0.30631435,0.25,train
+ncam1,0.30532488,0.0,valid
+taz,0.30790618,,none
+pax8,0.30942267,,none
+fpr1,0.30980965,,none
+mapk13,0.31034496,,none
+aifm1,0.30945304,,none
+serpinb5,0.30772266,,none
+pancreatic neoplasms,0.20341274,0.0,train
+slc38a1,0.30188367,,none
+gnrh1,0.30984363,0.0,train
+jund,0.31000713,,none
+thbs2,0.30824563,,none
+ace2,0.30720708,,none
+cd82,0.3058989,,none
+foxo1,0.30574754,,none
+zonisamide,0.31047878,,none
+epilepsy,0.30976722,0.6666666666666666,valid
+butalbital,0.31011316,,none
+benzphetamine,0.31044745,,none
+pon1,0.30733538,,none
+cerebrovascular disorders,0.30817828,0.8,valid
+skin diseases,0.31039283,,none
+dermatitis,0.3096968,,none
+sertraline,0.31045642,,none
+scarb1,0.30934978,,none
+nr5a1,0.30920443,1.0,train
+sh2b3,0.309853,,none
+tnf,0.30293787,0.5,valid
+aicda,0.30563298,,none
+sinusitis,0.31021762,,none
+cryba4,0.31035015,,none
+rbp4,0.30520687,,none
+dyrk3,0.3100128,,none
+dyrk1a,0.3095915,,none
+hsp90aa1,0.30668968,,none
+smyd2,0.30962324,,none
+maf,0.30960536,,none
+chuk,0.30605453,,none
+casp2,0.30987778,,none
+kit,0.3069547,,none
+cacnb2,0.31026652,,none
+cacna1h,0.31046957,,none
+f2,0.31039092,,none
+f2rl3,0.30997372,,none
+s100b,0.30525342,,none
+ndufs7,0.30961838,,none
+tufm,0.3099636,,none
+gna12,0.3077257,0.0,train
+tec,0.3097931,,none
+solifenacin,0.31030712,,none
+mapk7,0.30883893,0.0,train
+stk11,0.30842543,,none
+intestinal neoplasms,0.2445263,1.0,test
+serpina1,0.30882978,0.0,train
+hp,0.30427942,0.0,train
+il6r,0.3092737,,none
+dntt,0.30972338,,none
+nlrp1,0.30995688,0.0,train
+aqp7,0.30925086,,none
+abcc6,0.30991125,,none
+s100a12,0.303381,,none
+overweight,0.3073719,0.0,train
+rhabdomyolysis,0.31021062,,none
+il6,0.30546477,0.3333333333333333,valid
+grm5,0.31017965,0.0,train
+adrbk1,0.30602673,,none
+rac1,0.3076567,1.0,train
+nkx2 1,0.30442888,,none
+gfap,0.3088677,,none
+goserelin,0.31016788,0.0,train
+ostm1,0.3103526,,none
+ano3,0.30902484,,none
+stat3,0.3062282,0.0,valid
+grb2,0.30726522,,none
+carcinoma bronchogenic,0.3068426,0.5,train
+cd4,0.30431357,,none
+adenosine,0.3099064,,none
+kcnk3,0.31036198,,none
+grm1,0.3102378,0.0,train
+atp2b2,0.3105608,,none
+stambp,0.30996606,,none
+cep135,0.31038204,,none
+neoplasms muscle tissue,0.30865508,1.0,train
+bsg,0.30576453,,none
+didanosine,0.31024185,,none
+dementia,0.3099284,,none
+nephritis,0.3097175,1.0,valid
+vcam1,0.3093867,1.0,train
+csf1,0.30716047,,none
+ca2,0.30905184,,none
+cdk4,0.3073229,,none
+eif2ak1,0.3103187,,none
+nme1,0.3067509,,none
+rora,0.30627415,,none
+ddx6,0.31058615,,none
+psat1,0.3085643,0.0,train
+ovarian epithelial cancer,0.30833685,,none
+hyal1,0.3103552,,none
+bethanidine,0.31016788,,none
+tachycardia,0.31043512,,none
+fanci,0.31025395,,none
+brca2,0.30589685,,none
+ret,0.30284917,,none
+egf,0.30808383,0.5,valid
+pgf,0.3070369,,none
+cct5,0.31025392,,none
+sumo4,0.30920404,,none
+mkl1,0.3097629,,none
+mmp2,0.30571407,,none
+brip1,0.30973262,,none
+pim2,0.30981934,,none
+bmpr1a,0.30945796,,none
+doxylamine,0.31038877,,none
+eszopiclone,0.3102557,,none
+gabra3,0.3103825,,none
+ngfr,0.30957657,,none
+lgr5,0.306811,,none
+amikacin,0.31039268,,none
+tolmetin,0.31034476,,none
+opcml,0.31003934,,none
+bdnf,0.3090564,1.0,test
+kcnh2,0.30964524,,none
+abcb1,0.3086602,,none
+neoplasm metastasis,0.2864773,,none
+cd8a,0.30772606,,none
+map4k2,0.3088349,,none
+ccl2,0.3070371,,none
+ncf2,0.30962828,0.0,train
+hrh3,0.31020117,,none
+chrm4,0.31030747,,none
+ncl,0.30952314,,none
+akt2,0.3092739,,none
+axl,0.30914295,,none
+aoc3,0.30928928,0.36,train
+cav1,0.30741417,,none
+pde6b,0.3102023,,none
+slc25a22,0.30866355,,none
+methimazole,0.30996683,,none
+afp,0.30554783,0.0,train
+isocarboxazid,0.31048867,0.0,train
+molindone,0.31036428,,none
+gspt1,0.3081198,,none
+birc3,0.30924222,,none
+cyclobenzaprine,0.31043762,0.0,train
+neuromuscular manifestations,0.31049937,,none
+rasagiline,0.31046394,,none
+dexmethylphenidate,0.3104367,,none
+hsd17b2,0.31008062,,none
+calcitriol,0.3100663,,none
+efemp1,0.3093269,,none
+map4k4,0.30966395,0.0,test
+il10rb,0.3095987,0.2941176470588235,valid
+ppp2ca,0.30855063,0.0,train
+gpd1,0.30837044,,none
+pla2g4a,0.31000197,,none
+memantine,0.31037256,,none
+systemic inflammatory response syndrome,0.30607697,0.0,train
+desipramine,0.3105637,0.0,train
+gstm3,0.30498722,,none
+cat,0.30565256,0.0,train
+slc7a1,0.30839878,,none
+smarcb1,0.30904856,,none
+akt3,0.30846852,,none
+otorhinolaryngologic neoplasms,0.30802536,,none
+spp1,0.30195504,0.0,train
+vegfa,0.30363658,0.0,train
+ritonavir,0.31006402,,none
+clarithromycin,0.31053334,,none
+zolpidem,0.31026906,0.0,train
+methotrimeprazine,0.31058675,,none
+alfentanil,0.31020722,,none
+muscle hypertonia,0.3102941,,none
+tadalafil,0.31037617,,none
+erectile dysfunction,0.31052122,,none
+abl2,0.30972406,,none
+jak2,0.3074994,,none
+dusp1,0.3065583,,none
+cd19,0.30602196,,none
+cd70,0.30958784,,none
+acetylcysteine,0.31016788,,none
+poisoning,0.31027457,,none
+cd40,0.29803467,,none
+il5,0.3089172,0.0,train
+l carnitine,0.3095728,,none
+ethacrynic acid,0.31029153,,none
+linagliptin,0.31042337,0.0,train
+citalopram,0.31003428,,none
+salbutamol,0.31016475,0.0,train
+prom1,0.30650723,,none
+chek2,0.30899087,,none
+prkaa1,0.30880296,,none
+tat,0.3100546,,none
+ctsd,0.30539626,0.0,train
+oxtr,0.3100073,,none
+autism spectrum disorder,0.31023714,,none
+mmp7,0.30887547,,none
+fgfr3,0.30447653,0.0,train
+exanthema,0.3101838,,none
+ethanol,0.3103352,0.3333333333333333,train
+diethylpropion,0.31026715,,none
+simpson golabi behmel syndrome,0.31016788,,none
+ectodermal dysplasia,0.30979934,,none
+eletriptan,0.31051278,,none
+telaprevir,0.3106006,,none
+ndufa2,0.3103793,,none
+ndufb2,0.31046608,,none
+lgr4,0.3100992,,none
+retinal dystrophies,0.30965346,,none
+diaph2,0.3099106,,none
+neoplasms squamous cell,0.3054742,,none
+csf3,0.30588374,1.0,valid
+impdh1,0.31106263,,none
+ribavirin,0.31029284,,none
+iloprost,0.31030998,,none
+hypertension pulmonary,0.3089077,,none
+fn1,0.3074496,,none
+tf,0.30499446,1.0,train
+thbs1,0.30601814,,none
+col1a1,0.30893198,,none
+oxycodone,0.3105018,,none
+ntrk3,0.30936497,,none
+tek,0.3091831,,none
+mefv,0.31007066,,none
+a2m,0.30939925,,none
+tgfa,0.30682263,,none
+liver cirrhosis,0.18018273,0.0,train
+ifosfamide,0.31052706,,none
+ceftriaxone,0.3102196,,none
+disseminated intravascular coagulation,0.30981037,1.0,train
+fluconazole,0.3102345,,none
+prkcg,0.30846736,,none
+alk,0.30657077,,none
+kdr,0.30471715,,none
+cisplatin,0.30925018,0.0,valid
+casp3,0.30729634,0.0,test
+slk,0.3103051,,none
+nrp2,0.3095604,,none
+flurbiprofen,0.3101351,,none
+pupil disorders,0.3103916,,none
+elk1,0.30939817,,none
+abca12,0.30828276,,none
+pttg1,0.29793155,,none
+fgfr4,0.30747336,,none
+ptp4a3,0.30418465,,none
+allopurinol,0.30933803,,none
+ascites,0.3093264,,none
+dpyd,0.30928993,,none
+ugt1a1,0.309614,0.0,train
+muc2,0.308204,,none
+colitis,0.30730423,0.75,train
+arthritis rheumatoid,0.30801535,,none
+cycloserine,0.31016788,,none
+isoniazid,0.31032053,,none
+tolcapone,0.31016788,,none
+il7,0.30879378,,none
+smad1,0.30852258,,none
+warfarin,0.31015477,,none
+hemophilia a,0.3103194,,none
+gsk3b,0.3090465,,none
+dcx,0.30971798,,none
+neomycin,0.31045458,,none
+constipation,0.3105032,,none
+lamivudine,0.3100568,0.0,train
+leukemia myeloid,0.30705732,,none
+silver sulfadiazine,0.31016788,,none
+leukopenia,0.30927578,0.0,train
+trazodone,0.3103418,,none
+mifepristone,0.31057346,,none
+qars,0.31045327,,none
+park7,0.30653518,,none
+syp,0.30690807,,none
+atr,0.30894,,none
+sts,0.3093484,,none
+map2k5,0.30770224,1.0,train
+menorrhagia,0.31028134,,none
+rhcg,0.3073049,,none
+s100a7,0.3098011,,none
+smad2,0.3043242,,none
+bcl2,0.30654648,0.0,train
+satb2,0.30810055,,none
+cacna1e,0.31045473,,none
+cacnb4,0.31026283,,none
+adcy1,0.309653,,none
+gnai3,0.30876777,,none
+sarcoma,0.30920336,0.0,train
+smo,0.30822778,,none
+cyp3a5,0.30812284,0.5,train
+itgb3,0.30917647,,none
+itgal,0.3094734,,none
+ndufa3,0.31055972,,none
+ndufa10,0.31011155,,none
+tgfb3,0.3089541,,none
+ppbp,0.30990896,0.0,valid
+body weight changes,0.30951515,0.45,train
+rhbdf2,0.31029615,,none
+ihh,0.30677542,,none
+agrp,0.3094243,,none
+eda,0.31004626,,none
+cd40lg,0.308614,,none
+igf2,0.30467093,,none
+mycn,0.30777466,,none
+ptk2,0.3069574,,none
+doxepin,0.31043315,,none
+zbtb20,0.31011698,,none
+rps6ka5,0.3095249,,none
+cflar,0.30839434,,none
+amiloride,0.31023952,,none
+cardiomyopathy dilated,0.31006223,,none
+ndufa7,0.31045774,0.0,train
+ndufaf1,0.30996302,,none
+kitlg,0.30544373,,none
+pla2g1b,0.3096253,0.0,train
+tramadol,0.31043845,,none
+sumatriptan,0.31019628,0.0,train
+hsp90ab1,0.3097495,,none
+hprt1,0.3094132,,none
+breast neoplasms,0.30746162,0.6666666666666666,train
+camkk2,0.30988544,,none
+s1pr2,0.30295599,,none
+alzheimer disease,0.3093113,,none
+erbb2,0.30717865,,none
+tlr3,0.30722582,,none
+sox11,0.30316457,,none
+liver diseases,0.1796433,,none
+aneurysm,0.3096152,,none
+anxa5,0.30968073,,none
+tbx1,0.30962798,,none
+leukemia,0.30924857,,none
+ercc1,0.30643067,,none
+musk,0.3095263,,none
+rapsn,0.30892792,,none
+colq,0.31016788,,none
+ache,0.3100112,,none
+sst,0.30626297,,none
+igfals,0.31040832,,none
+arrb2,0.31024727,,none
+ccr5,0.30831727,,none
+arteriosclerosis,0.3073251,1.0,train
+pak4,0.3074989,,none
+casr,0.3059238,,none
+lindane,0.31016788,,none
+neurotoxicity syndromes,0.30966002,1.0,valid
+gata3,0.30809358,,none
+tac3,0.30979583,,none
+cyp11a1,0.31022733,,none
+temsirolimus,0.31036285,,none
+head and neck neoplasms,0.30972496,,none
+macular degeneration,0.309685,,none
+serpinf1,0.30557474,,none
+bmx,0.3101578,,none
+btk,0.307843,,none
+slit1,0.31014302,,none
+gna11,0.30820978,,none
+lung injury,0.30947506,,none
+il18,0.30863044,,none
+blmh,0.31017524,,none
+keap1,0.3064358,,none
+ocln,0.30960256,,none
+ropinirole,0.31029886,,none
+amisulpride,0.31043074,1.0,train
+amt,0.3100525,,none
+diarrhea,0.31005323,0.0,train
+cdh1,0.30675778,,none
+sildenafil,0.31009552,,none
+plaur,0.30833593,0.0,valid
+slc9a3,0.30950505,,none
+shank2,0.3095751,,none
+tlr1,0.30981967,,none
+prkdc,0.308884,,none
+atomoxetine,0.3103019,,none
+modafinil,0.31015468,0.0,train
+casp1,0.30903342,,none
+nme2,0.3082028,,none
+spironolactone,0.31015852,,none
+pou1f1,0.30929568,,none
+cd80,0.3067757,,none
+fcer2,0.3058912,,none
+csnk1a1,0.30436456,,none
+aak1,0.30946314,,none
+uchl5,0.3047307,,none
+tpi1,0.30869064,0.0,train
+atxn3,0.31028304,,none
+atxn1,0.31025583,0.0,train
+neurofibromatosis 1,0.31023258,,none
+pain,0.31011957,0.5,train
+hnf1b,0.30997458,,none
+diethylcarbamazine,0.31016788,,none
+ccl11,0.3093811,,none
+areg,0.30692878,,none
+gc,0.30642542,,none
+stmn1,0.3065035,,none
+tsg101,0.30943477,0.0,train
+tpt1,0.3071859,,none
+dapsone,0.3102614,,none
+probenecid,0.3104272,,none
+dextromethorphan,0.31031778,,none
+pparg,0.30620745,,none
+smad3,0.30422187,1.0,train
+ldlr,0.30731317,,none
+bcap31,0.31024966,,none
+procarbazine,0.3105191,,none
+vemurafenib,0.31018776,,none
+nelfinavir,0.31036034,,none
+fluticasone furoate,0.31031498,,none
+apc,0.30881512,,none
+sf3b1,0.30929255,,none
+ywhae,0.31021854,0.0,train
+tbc1d4,0.3102832,,none
+verapamil,0.31045616,1.0,test
+topotecan,0.3101236,,none
+thiothixene,0.310452,,none
+mirabegron,0.3104438,,none
+uqcrb,0.3102222,,none
+uqcrfs1,0.3097649,,none
+rad52,0.30930153,,none
+xrcc5,0.308502,,none
+nfu1,0.31041807,,none
+slc1a2,0.3099946,,none
+itgb1,0.30780888,,none
+lama3,0.3101582,,none
+sleep disorders intrinsic,0.3102549,,none
+nefl,0.30572635,,none
+ppp1cc,0.30947742,,none
+cyp17a1,0.31036535,0.0,train
+gstp1,0.3070776,,none
+lrp5,0.3085259,,none
+pkn1,0.30977613,,none
+acvr1b,0.30898032,,none
+epha2,0.30755582,,none
+sox9,0.3061996,0.0,train
+epha3,0.3074824,,none
+ndufa8,0.31059763,,none
+nubpl,0.31016046,,none
+acsl3,0.30932233,,none
+slc1a5,0.30284664,,none
+ouabain,0.3095654,,none
+madcam1,0.31017393,,none
+ctnna2,0.3100226,0.0,train
+adcyap1,0.3099747,,none
+atp2b1,0.31004733,,none
+atp8b1,0.30996594,,none
+psoriasis,0.30764696,,none
+msh6,0.30538267,,none
+cyclosporine,0.30936506,,none
+simeprevir,0.3105012,,none
+ngf,0.30874464,,none
+myotonic dystrophy,0.30977306,,none
+map3k1,0.30676118,,none
+fbln1,0.3090145,,none
+hepatitis viral human,0.28149086,,none
+nampt,0.30667198,,none
+tnfsf11,0.30833063,,none
+fcgr1a,0.30831072,,none
+cyp2e1,0.307661,0.0,test
+propofol,0.3100543,1.0,train
+lyn,0.3077106,,none
+bbs7,0.3105495,,none
+lpl,0.30954495,0.0,train
+prmt5,0.30852658,,none
+lcn2,0.30423057,,none
+tlr4,0.30273038,0.0,train
+atp1b1,0.3102688,,none
+ceftazidime,0.31016788,,none
+drug toxicity,0.30912238,,none
+minoxidil,0.31021997,,none
+erap2,0.31005916,,none
+flot1,0.30970582,,none
+pefloxacin,0.31016788,,none
+top2a,0.30666375,,none
+pik3ca,0.30358177,0.3333333333333333,train
+lamc2,0.3097661,,none
+testosterone,0.30954713,,none
+chrm3,0.31031108,,none
+ichthyosis bullosa of siemens,0.3098775,,none
+etoposide,0.30816147,,none
+casp7,0.309423,0.0,train
+cma1,0.31028816,,none
+prcp,0.31037644,,none
+guk1,0.31016862,,none
+iars,0.3094394,,none
+piperazine,0.31016788,,none
+f2r,0.30792883,0.0,train
+il21r,0.3096524,,none
+slc6a14,0.31017932,,none
+slc1a4,0.31024712,,none
+dronabinol,0.31044263,,none
+acute coronary syndrome,0.30960047,,none
+map2k1,0.30654582,,none
+akr1c2,0.31036606,,none
+stat1,0.3063364,,none
+gata4,0.3084805,,none
+fgfr1,0.30705717,,none
+hla g,0.3068097,,none
+mica,0.30866024,,none
+progesterone,0.30998504,1.0,train
+inf2,0.31022033,,none
+actn4,0.30945286,0.0,train
+nyx,0.31055617,,none
+keratoconus,0.31030974,,none
+ckb,0.30290148,,none
+aldoa,0.30741644,,none
+nfkbia,0.30677783,0.0,train
+ar,0.30525362,0.5,valid
+fcgr2a,0.30952162,,none
+ptger2,0.30975324,,none
+osteoarthritis,0.3094395,,none
+ror1,0.3095369,,none
+mme,0.3063259,,none
+cd59,0.30628577,,none
+esr2,0.3064241,,none
+csf2,0.30810562,0.0,test
+vim,0.30457428,,none
+jak3,0.30899563,,none
+il2rg,0.31009173,,none
+trichlormethiazide,0.31061763,,none
+clomipramine,0.3105383,,none
+ltf,0.30935186,,none
+lgals3,0.30524608,,none
+scn11a,0.3103354,,none
+cacna1s,0.31034693,,none
+inflammatory bowel diseases,0.3089974,,none
+prkch,0.30963275,,none
+stk16,0.31051904,,none
+magnesium sulfate,0.3104984,,none
+tiludronate,0.3103591,,none
+cd38,0.3067249,,none
+celecoxib,0.31043023,,none
+pdgfra,0.3062456,,none
+rhoa,0.30552822,0.0,test
+lithium,0.31038895,0.0,train
+analgesia,0.31018957,,none
+il9,0.3024384,,none
+ezh2,0.30815688,,none
+dicoumarol,0.3103195,,none
+oxt,0.30977863,,none
+panhypopituitarism,0.31030855,,none
+cyp1b1,0.30957577,0.3333333333333333,train
+cyp27b1,0.30956128,,none
+clonidine,0.30987853,1.0,test
+tbxas1,0.30905017,1.0,valid
+acadm,0.309848,,none
+ass1,0.30992898,,none
+orciprenaline,0.310444,,none
+methamphetamine,0.31027547,0.0,train
+kcnma1,0.30996463,,none
+chorea,0.31022385,,none
+ptger1,0.31001747,,none
+cfi,0.30941334,,none
+angpt1,0.30575588,,none
+edn1,0.30256993,1.0,train
+cdh15,0.3095908,0.0,train
+tcf12,0.30946717,0.0,train
+cckar,0.31008002,0.0,train
+hsp90b1,0.30835423,,none
+ros1,0.3092575,,none
+sirt5,0.31009147,,none
+gpx5,0.3095061,,none
+glycine,0.3104129,,none
+apoc2,0.31011885,,none
+ppp3ca,0.3097734,,none
+dcps,0.30915463,,none
+atic,0.30979776,,none
+abcb6,0.3025303,,none
+cdon,0.30987468,,none
+itga8,0.31022796,,none
+pfn2,0.30823827,,none
+actb,0.3076351,0.0,train
+mc4r,0.30965766,,none
+mmp11,0.30871797,,none
+mmp14,0.30767015,,none
+il22,0.3038623,,none
+sod1,0.3087437,1.0,train
+aldh3a2,0.3098022,,none
+smyd3,0.30462703,,none
+nras,0.29928535,,none
+preterm premature rupture of the membranes,0.31033543,,none
+morphine,0.3096889,0.0,test
+tcf7l2,0.30294546,,none
+ghsr,0.31008452,,none
+kptn,0.31016788,,none
+tspan7,0.30995682,,none
+clcn3,0.3102617,,none
+midazolam,0.31031096,0.0,train
+multiple system atrophy,0.31015146,,none
+kl,0.30789933,,none
+map3k5,0.30431345,,none
+rps6ka6,0.30476132,0.0,train
+syne1,0.30821002,,none
+cefuroxime,0.31046137,,none
+birc2,0.30912817,,none
+tnfrsf10b,0.30901286,,none
+erbb4,0.3079611,,none
+ereg,0.30451018,,none
+smad7,0.30684218,,none
+gprc5a,0.30423224,,none
+akr1c1,0.31012356,0.0,train
+scp2,0.3101178,,none
+rab7a,0.30970046,,none
+chm,0.3102056,,none
+cxcr4,0.30673173,0.0,train
+flupentixol,0.3103865,,none
+flt3,0.30916336,,none
+trim37,0.3102876,,none
+naltrexone,0.31018466,,none
+levorphanol,0.3103817,,none
+snca,0.3095525,,none
+cxcr5,0.30824643,,none
+ggh,0.31019422,,none
+bad,0.3078624,,none
+pak1,0.3068966,,none
+fbxo7,0.30931515,,none
+gna13,0.3012895,,none
+gna15,0.30745414,,none
+fdx1,0.31056592,,none
+fxn,0.30909294,,none
+src,0.30670545,0.0,train
+spinocerebellar degenerations,0.30950996,0.5,train
+zolmitriptan,0.31022042,0.0,test
+loxapine,0.3103557,,none
+twist1,0.30551666,,none
+epha4,0.30863547,,none
+cdc25a,0.30847827,,none
+vhl,0.3054265,,none
+lmnb1,0.3093778,,none
+prpf8,0.31002605,,none
+g6pd,0.30356887,1.0,train
+anemia hemolytic,0.3093876,,none
+mtrr,0.3060596,,none
+piperacillin,0.3102547,,none
+apoa1,0.3085492,,none
+prmt1,0.30826196,,none
+il6st,0.30937028,,none
+acetaminophen,0.31033015,,none
+phenylephrine,0.30982107,1.0,valid
+ercc3,0.3090733,,none
+slc34a2,0.31014708,,none
+terbutaline,0.31041923,,none
+respiratory hypersensitivity,0.30917987,0.0,train
+pitx1,0.3097516,,none
+serpina3,0.30956215,,none
+hyperbilirubinemia hereditary,0.31008723,1.0,train
+fas,0.30887315,0.0,valid
+tamoxifen,0.3102921,0.0,test
+ttr,0.30672467,,none
+dronedarone,0.31055844,,none
+cst3,0.30711514,1.0,train
+klf4,0.30600265,,none
+nedd4,0.30832517,,none
+tsta3,0.31037202,,none
+irf3,0.30941927,,none
+irf7,0.3096065,,none
+codeine,0.31019038,,none
+quinidine,0.3103905,0.0,train
+cyp3a7,0.31030756,0.0,train
+p4hb,0.3094612,,none
+pcsk5,0.3087586,,none
+atp6ap2,0.30989665,,none
+slc38a2,0.30901492,,none
+doxycycline,0.30992717,,none
+pivmecillinam,0.31036976,,none
+rhag,0.31052697,,none
+ctdp1,0.3102756,,none
+mat2a,0.3051989,,none
+lyz,0.30897555,,none
+evc,0.31016788,,none
+nek1,0.30633184,,none
+csnk1d,0.30949676,,none
+taok3,0.30980936,,none
+mdm2,0.30832088,,none
+ccne1,0.30799755,1.0,train
+hars2,0.30948547,,none
+hearing disorders,0.30872864,,none
+dgkd,0.31009284,,none
+nars,0.31054395,,none
+jag1,0.30971906,,none
+il3ra,0.30979156,,none
+tnfsf12,0.3047606,,none
+abcc10,0.3101102,,none
+prg4,0.30941626,,none
+asxl1,0.30815905,,none
+naloxone,0.31025916,,none
+gapdh,0.3048071,1.0,train
+sphk1,0.3083402,,none
+mirtazapine,0.3103284,1.0,valid
+itgam,0.3073,,none
+pioglitazone,0.31025398,,none
+shbg,0.30478847,1.0,train
+igll1,0.310216,,none
+rfx5,0.30220178,,none
+ergonovine,0.3103992,0.0,train
+stroke,0.30904794,0.0,valid
+cxcl12,0.30423537,,none
+usp14,0.30956164,,none
+cyp2c8,0.30995756,0.0,train
+pla2g6,0.30998325,,none
+crh,0.3097541,,none
+vomiting,0.31041256,0.0,test
+b2m,0.3066692,,none
+chrna3,0.31005323,0.0,train
+chrne,0.31029797,,none
+ctnnb1,0.30667433,0.0,train
+cdk5,0.30594712,,none
+bleomycin,0.31020162,,none
+xeroderma pigmentosum,0.31035662,,none
+nnmt,0.30942073,,none
+pnmt,0.31024644,,none
+eprs,0.3096514,,none
+colonic diseases,0.3098809,,none
+alprazolam,0.31001008,,none
+scn8a,0.3103614,,none
+ank3,0.31031108,,none
+gdnf,0.30891332,,none
+nitric oxide,0.30914465,0.0,valid
+dut,0.30846936,,none
+pneumonia,0.30916795,,none
+aztreonam,0.31016788,,none
+vegfb,0.30963898,,none
+nrp1,0.30892545,,none
+vision disorders,0.31027153,1.0,train
+fads1,0.30826476,,none
+psmb1,0.30966163,,none
+psmd2,0.3093103,,none
+sertaconazole,0.31016788,,none
+tinea,0.31029552,,none
+schizoaffective disorder,0.31050497,0.5,train
+msh2,0.30809045,0.0,train
+niclosamide,0.31016788,,none
+fgf1,0.3052399,,none
+egr1,0.30631855,,none
+rheumatic diseases,0.3099025,,none
+gla,0.31018254,,none
+myl2,0.30941156,,none
+parp3,0.31023946,,none
+hmbs,0.3098857,,none
+cholestasis,0.30931553,,none
+sct,0.30590555,,none
+nr1h4,0.3012403,,none
+pafah1b1,0.3099372,0.0,train
+fscn1,0.31023175,,none
+moclobemide,0.31049243,,none
+bcl2l2,0.3088903,,none
+cdkn1a,0.30657867,,none
+sp1,0.3054418,,none
+fasn,0.3088544,,none
+csad,0.31041083,,none
+faslg,0.30378234,,none
+kir2dl1,0.31008083,0.5,train
+klrk1,0.30536264,,none
+rifampicin,0.3101297,,none
+glutathione,0.30941108,,none
+gmps,0.3089975,,none
+recql4,0.30990073,,none
+acenocoumarol,0.3106732,,none
+cyp1a2,0.3101923,1.0,train
+diethylstilbestrol,0.31023374,,none
+birc5,0.30673823,1.0,test
+rasa1,0.30856004,,none
+dnajb6,0.31018895,,none
+prednisolone,0.30923,,none
+phenobarbital,0.31033084,1.0,train
+arg2,0.30986986,,none
+tgfbr2,0.30885386,,none
+disc1,0.31007168,0.0,train
+utrn,0.30992272,,none
+rabggtb,0.31012386,,none
+ggps1,0.31031317,,none
+methoxamine,0.3102876,,none
+hyperglycemia,0.30920038,0.0,test
+lpar4,0.2988312,,none
+camp,0.3088598,,none
+atf1,0.30843142,,none
+gemfibrozil,0.31039065,,none
+fpr2,0.3093606,,none
+felodipine,0.3104297,0.0,train
+idh2,0.3084441,,none
+eed,0.30956677,,none
+xiap,0.30915165,,none
+mto1,0.3081982,,none
+lrpprc,0.3101928,,none
+ndufb4,0.31049147,,none
+glud2,0.3101744,,none
+tmlhe,0.31043637,,none
+prkd1,0.3095772,,none
+endometriosis,0.3088612,1.0,valid
+aldh2,0.3092791,0.0,train
+ccnk,0.3097941,,none
+triamcinolone,0.31026515,,none
+gata1,0.30907568,,none
+itgb2,0.3084706,,none
+lzts1,0.30479443,,none
+atorvastatin,0.30994207,,none
+cetp,0.30696517,,none
+mapk10,0.30968058,,none
+hck,0.308407,,none
+mmp9,0.30731356,,none
+tpp1,0.30817702,,none
+mcoln1,0.3085355,,none
+cox8a,0.30984664,,none
+slco1b1,0.30741227,,none
+acetazolamide,0.31031066,,none
+melanoma,0.3066871,0.0,train
+mcl1,0.308735,,none
+valproic acid,0.31028935,,none
+gsk3a,0.30995494,,none
+rock1,0.30691558,,none
+ccna2,0.30724695,,none
+irinotecan,0.31035057,,none
+ptprb,0.30974054,,none
+ptprz1,0.30975115,,none
+ntrk1,0.30930376,,none
+ace,0.30916345,0.0,train
+skin neoplasms,0.30815545,,none
+tyms,0.30783176,,none
+nat1,0.31003138,,none
+clozapine,0.31031206,0.0,train
+bulimia nervosa,0.31026542,,none
+sulpiride,0.31038493,,none
+trifluoperazine,0.310417,,none
+trimetrexate,0.31016788,,none
+ripk1,0.306754,,none
+ephb6,0.30672133,,none
+grin2b,0.30912164,,none
+ptpn12,0.30726504,,none
+aqp3,0.3072769,0.0,train
+sox2,0.30866057,1.0,test
+yap1,0.30185917,,none
+fzd6,0.3075141,,none
+csnk2a1,0.30948713,0.0,train
+xk,0.31021285,,none
+tfpi,0.30533728,,none
+pls3,0.3082661,0.1818181818181818,test
+irak3,0.3098744,,none
+sult2a1,0.3069522,0.0,valid
+phenol,0.30988368,0.0,train
+pde3b,0.31021735,,none
+pik3cg,0.30831057,,none
+ugt1a7,0.3097202,,none
+l aspartic acid,0.31017902,,none
+dars2,0.31016883,,none
+brain diseases,0.30968803,1.0,valid
+bscl2,0.30997324,,none
+intracranial hemorrhages,0.30890596,,none
+ulcer,0.30941674,,none
+aplnr,0.31019232,,none
+abcd1,0.31041694,,none
+fkbp1a,0.31034544,,none
+candesartan,0.31033948,,none
+avp,0.30914152,0.3,test
+metronidazole,0.31036022,,none
+brain diseases metabolic inborn,0.3084878,1.0,valid
+mexiletine,0.31033924,0.0,train
+fluoxetine,0.31023848,0.0,valid
+mmp16,0.3071198,,none
+mmp17,0.30967516,,none
+csk,0.3097821,,none
+atp6v0a4,0.31028494,,none
+methotrexate,0.30969232,,none
+ppia,0.3067099,0.0,test
+rpl19,0.30970153,,none
+orthomyxoviridae infections,0.3099017,,none
+mapk9,0.30916968,0.0,train
+ubr4,0.3102333,,none
+stat2,0.3098199,,none
+map2k3,0.30946866,,none
+cd200,0.30805674,,none
+cacnb3,0.31009436,,none
+spg7,0.30933127,,none
+afg3l2,0.30831948,,none
+smith mccort dysplasia,0.3098946,,none
+chrng,0.31022152,,none
+cardiomegaly,0.30878082,,none
+ranitidine,0.3102727,,none
+adipoq,0.30612496,0.0,train
+imatinib,0.31012976,,none
+myeloproliferative disorders,0.3078497,0.0,train
+disorders of sex development,0.30867633,,none
+papaverine,0.3102813,,none
+ventricular fibrillation,0.3102126,,none
+cnbp,0.31012535,,none
+ltb,0.3096952,,none
+disorder of sex development 46 xy,0.30488995,,none
+sdc1,0.29972482,0.0,train
+shh,0.30603048,,none
+gm2a,0.3098026,0.0,valid
+hexb,0.31000468,,none
+fgf21,0.3092149,,none
+lgmn,0.30921888,,none
+dld,0.31011918,0.0,train
+aldh1b1,0.31004056,,none
+edetic acid,0.31044382,,none
+capn10,0.30975598,,none
+thap1,0.3102214,,none
+hair diseases,0.3100475,,none
+ziprasidone,0.31023458,,none
+tlr5,0.30909726,,none
+psmd14,0.31022698,,none
+hyperuricemia,0.30964226,1.0,train
+pcyt1a,0.31011903,,none
+hyperparathyroidism,0.30978304,,none
+il12a,0.3091876,,none
+il1rn,0.30966395,0.0,train
+moxifloxacin,0.31016362,,none
+fractures bone,0.30987087,,none
+tyr,0.3098735,,none
+crb1,0.30968052,,none
+icos,0.30881932,,none
+neil1,0.30912864,,none
+tlr7,0.30274796,1.0,test
+arthritis,0.30882913,,none
+cth,0.31005985,,none
+atg5,0.30973172,,none
+pmp22,0.3100988,,none
+pex19,0.31011215,,none
+map3k2,0.3095914,,none
+map2k4,0.30926824,0.0,train
+pitavastatin,0.31018123,,none
+mak,0.31009215,,none
+sos1,0.30952844,,none
+ccnb1,0.30540678,,none
+wee1,0.30776438,,none
+fgr,0.3082165,,none
+rhinitis,0.30971795,,none
+eplerenone,0.31034896,0.0,train
+oxaprozin,0.31046143,,none
+hematologic diseases,0.3099828,0.0,test
+ocrl,0.3103136,,none
+eif2s3,0.3105135,0.0,valid
+olanzapine,0.30961812,0.0,train
+amodiaquine,0.3102319,,none
+anemia,0.3093448,,none
+ctgf,0.3071169,1.0,valid
+serpina5,0.3069998,,none
+wwox,0.30799147,,none
+app,0.3093966,,none
+slc9a6,0.30982983,,none
+propafenone,0.31048968,,none
+nateglinide,0.31018183,,none
+thalassemia,0.30859968,,none
+kiss1,0.3082233,,none
+mgmt,0.30452424,,none
+heart failure,0.30968466,1.0,train
+hif1a,0.30636784,,none
+meningioma,0.3064898,,none
+lorazepam,0.31016788,0.0,train
+oxazepam,0.3101032,,none
+bromocriptine,0.31039718,,none
+oxaliplatin,0.31023183,,none
+apob,0.30841413,0.0,train
+lipid metabolism inborn errors,0.30953735,,none
+tacrolimus,0.31021097,,none
+hyponatremia,0.31046325,,none
+death,0.30764964,0.0,train
+gria4,0.30960345,,none
+pcsk6,0.30982682,,none
+telmisartan,0.3102338,,none
+vincristine,0.30910844,,none
+mouth abnormalities,0.31002238,,none
+cdsn,0.31025475,,none
+hla c,0.3098825,,none
+hccs,0.30568352,,none
+zbtb16,0.3096036,,none
+tbx3,0.3097324,,none
+erythromycin,0.3102462,,none
+vildagliptin,0.3105699,1.0,train
+nicotine,0.3086481,0.0,train
+bronchitis,0.31014886,,none
+sptlc1,0.31027535,,none
+sord,0.31008908,,none
+acaca,0.31000477,,none
+tubb6,0.31006974,,none
+lidocaine,0.3100832,,none
+ep300,0.3082134,0.0,train
+coloboma,0.3093806,,none
+psmb9,0.3094636,,none
+isg20,0.3095092,,none
+plk1,0.30494395,,none
+aurka,0.30741528,,none
+nr2f1,0.30965254,,none
+dexmedetomidine,0.3099842,,none
+heart diseases,0.30980408,,none
+azithromycin,0.3102632,,none
+foxc1,0.30942935,,none
+pcna,0.3044713,,none
+depressive disorder major,0.30905324,0.0,valid
+junb,0.3065509,,none
+ca9,0.30634886,,none
+ndufv1,0.31000108,,none
+ndufs1,0.30743584,,none
+muc1,0.30365127,,none
+slc2a4,0.3093703,,none
+ccl3,0.30844733,0.0,train
+dsg1,0.309718,,none
+grin1,0.30860853,,none
+insr,0.3077458,,none
+il3,0.30895916,,none
+limk1,0.3060552,,none
+arf4,0.31032795,,none
+pkd2,0.30461764,,none
+vindesine,0.3102782,,none
+dpp4,0.3063338,1.0,train
+ndufa1,0.31034693,,none
+arnt,0.30956113,0.0,test
+ethambutol,0.31024086,,none
+optic neuritis,0.31030673,0.0,train
+prph2,0.30871364,,none
+dync2h1,0.31023306,,none
+hmgb1,0.30461064,,none
+mthfr,0.3074497,0.0,train
+bace1,0.3085613,,none
+amh,0.30990493,,none
+enpp1,0.30992734,,none
+docetaxel,0.31027824,,none
+asenapine,0.3104487,,none
+growth disorders,0.3088418,,none
+pfkfb3,0.3098354,,none
+apixaban,0.31061345,,none
+malformations of cortical development group i,0.30916455,,none
+aspm,0.30246964,,none
+ca7,0.31041467,,none
+ca8,0.3102275,,none
+stat5b,0.309064,,none
+mycophenolic acid,0.31034434,,none
+raloxifene,0.31060466,0.0,train
+ctrb1,0.31000942,,none
+mmp15,0.30970868,,none
+wnt3,0.3091622,,none
+camk1,0.30992275,1.0,train
+aldh6a1,0.31001395,,none
+kiaa0391,0.3106112,,none
+mcm4,0.30838683,,none
+fcgr3a,0.3095631,,none
+ppp3cc,0.3097101,,none
+fzd3,0.30997396,,none
+cardiovascular diseases,0.30928645,,none
+slc25a5,0.31004602,,none
+halothane,0.31020832,1.0,train
+tsc1,0.3090815,,none
+gabapentin,0.31043828,,none
+rlbp1,0.31010863,,none
+enosf1,0.30923516,,none
+eln,0.30705276,,none
+neu1,0.30079752,,none
+voriconazole,0.31056878,,none
+il17a,0.30466872,,none
+ca3,0.30947793,,none
+aortic aneurysm,0.3092537,,none
+tnc,0.30538538,,none
+tnfrsf1a,0.30881712,,none
+apex1,0.30937076,,none
+pdxp,0.30971658,,none
+rosacea,0.3103084,,none
+cga,0.3054491,,none
+cyproheptadine,0.31038833,,none
+granisetron,0.31018668,,none
+escitalopram,0.3104455,,none
+rpgr,0.3096336,,none
+abca4,0.31029466,,none
+ugt2b17,0.3090121,,none
+aldh1a2,0.3098529,,none
+mttp,0.30954722,,none
+mapk14,0.3092331,,none
+syk,0.30626684,,none
+perhexiline,0.31046128,,none
+tnfrsf12a,0.30949757,,none
+pfas,0.30833164,,none
+hydrocephalus,0.30966768,,none
+buspirone,0.31037357,,none
+yohimbine,0.3105536,,none
+cd34,0.30583262,,none
+cxcl10,0.30766773,0.5,valid
+vipr1,0.30970323,,none
+mapk3,0.30575374,0.0,train
+cenpe,0.31038895,,none
+nek2,0.30900082,,none
+mstn,0.3069337,,none
+pitx2,0.30745745,,none
+tfap2b,0.3100161,,none
+retn,0.30212843,,none
+p2rx7,0.30994347,,none
+prkcq,0.30996796,0.0,train
+hyperkalemia,0.31037965,,none
+lpin1,0.30941752,,none
+myoglobinuria,0.31041196,,none
+gstt1,0.30855334,,none
+vdr,0.30522248,,none
+glyat,0.2982675,,none
+aldh3b2,0.30691776,,none
+salicylic acid,0.31003,,none
+epas1,0.3062493,,none
+slc6a3,0.31010774,,none
+aida,0.31043386,,none
+axin1,0.30932307,,none
+vinblastine,0.31018016,,none
+cfb,0.3097045,,none
+trib3,0.3084885,,none
+panuveitis,0.3097401,1.0,test
+malathion,0.31016788,,none
+slc9a1,0.3097989,,none
+ketamine,0.31022954,,none
+acamprosate,0.31016788,,none
+h2afx,0.30823752,,none
+parp1,0.30829728,,none
+hnrnpa1,0.30864608,0.0,train
+plod3,0.31018013,,none
+cd24,0.3026541,,none
+holt oram syndrome,0.31038898,,none
+ccr1,0.30634317,,none
+azgp1,0.30540562,,none
+gckr,0.30973974,,none
+hsd17b7,0.3105562,,none
+srd5a3,0.3105786,,none
+ketazolam,0.3102851,,none
+gabrb1,0.31021857,,none
+amifostine,0.31043023,,none
+cyp2c19,0.310452,0.0,train
+dipivefrin,0.310275,,none
+lars2,0.31043744,,none
+ndufa6,0.31045625,,none
+thyrotoxicosis,0.3101819,,none
+pou5f1,0.3054414,,none
+metoprolol,0.3100092,,none
+crebbp,0.30927506,,none
+rubinstein taybi syndrome,0.31044132,,none
+lipc,0.3058509,,none
+ttk,0.3088222,,none
+ryr2,0.30973893,,none
+blepharospasm,0.3102994,,none
+sorafenib,0.31006864,,none
+eng,0.30202565,,none
+chloroquine,0.3101178,,none
+peripheral nervous system diseases,0.309663,,none
+entpd1,0.30915228,,none
+sema3c,0.30725423,,none
+cerebellar diseases,0.31011456,,none
+slc25a10,0.3099562,0.0,train
+pgam2,0.3093389,,none
+msx1,0.30990106,,none
+ventilator induced lung injury,0.3099087,,none
+goiter,0.3100829,,none
+rims1,0.3102715,,none
+stxbp1,0.30968195,,none
+neuroectodermal tumors,0.30842543,,none
+nt5e,0.30849448,,none
+bupropion,0.3104582,,none
+brimonidine,0.31040668,,none
+adinazolam,0.31016788,,none
+gabra1,0.3093492,,none
+gefitinib,0.3095196,,none
+gem,0.31002092,,none
+valsartan,0.3100255,0.5,train
+isoxsuprine,0.31032854,,none
+pancytopenia,0.3101084,,none
+dinoprost tromethamine,0.31016788,,none
+slc22a7,0.31013998,,none
+abcd4,0.31067,,none
+abcg1,0.3098295,,none
+cftr,0.30699635,1.0,valid
+aqp9,0.30540222,0.0,train
+gfi1,0.30969164,,none
+rifaximin,0.31033322,,none
+hamartoma syndrome multiple,0.30684486,,none
+ehmt2,0.30625877,,none
+folic acid,0.31014314,,none
+ugt1a6,0.30998147,,none
+phenytoin,0.3102469,0.0,train
+gsta1,0.31018195,0.0,train
+cerulenin,0.31016788,,none
+ethosuximide,0.31040704,,none
+wnt1,0.3038484,1.0,valid
+central nervous system diseases,0.3099895,0.0,train
+osmr,0.30978864,,none
+retinal diseases,0.3091724,,none
+hk1,0.30798987,,none
+kcnj6,0.31034184,,none
+fmr1,0.3102041,,none
+tdp 43 proteinopathies,0.3098165,1.0,train
+ighmbp2,0.31016788,,none
+motor neuron disease,0.3098924,1.0,train
+melk,0.306198,,none
+eif4e,0.30884108,,none
+ischemia,0.30929932,,none
+usp33,0.31016788,,none
+ubc,0.30908725,,none
+dkc1,0.31043193,,none
+severe combined immunodeficiency,0.3097084,,none
+npc1,0.31035417,,none
+lurasidone,0.31059173,,none
+mdh2,0.30969906,,none
+atp5e,0.31040657,0.0,train
+cdh11,0.309091,,none
+tnfsf10,0.30470014,0.0,test
+cdk9,0.31006712,,none
+qpct,0.3083073,,none
+tfr2,0.30856675,,none
+bin1,0.3085824,,none
+sorl1,0.30982146,,none
+pygm,0.3103855,,none
+gys1,0.310255,,none
+cr2,0.30882967,,none
+pdpk1,0.3059079,,none
+pura,0.30966735,,none
+inpp5e,0.30998293,,none
+nfe2l2,0.30531898,,none
+cataract,0.30983543,,none
+irf4,0.30919427,,none
+hsd3b2,0.31041738,,none
+bmp15,0.30998752,,none
+slc9a3r1,0.30692813,,none
+pyy,0.30975226,,none
+bethanechol,0.30991316,,none
+cyp2j2,0.31015107,0.0,valid
+amiodarone,0.31038934,,none
+nr3c2,0.3095619,,none
+kat5,0.309081,,none
+mb,0.30865982,,none
+mad1l1,0.31000936,,none
+apomorphine,0.30993366,,none
+alendronate,0.31013703,,none
+tg,0.30872935,,none
+tioconazole,0.31016788,,none
+sulfasalazine,0.30956855,,none
+communication disorders,0.31026176,,none
+olmesartan,0.310358,0.0,test
+ardeparin,0.3095401,1.0,test
+zeb2,0.3079861,,none
+epirubicin,0.30883178,,none
+crhr2,0.3101436,0.2307692307692307,train
+atf2,0.30768293,,none
+rassf1,0.3099528,,none
+pulmonary disease chronic obstructive,0.30892694,,none
+klf11,0.3103058,,none
+b3gat1,0.3096815,,none
+nifedipine,0.3103426,,none
+penbutolol,0.3104502,,none
+chordoma,0.31002307,,none
+nt5c,0.3101586,,none
+nadsyn1,0.31038305,,none
+ephx1,0.30983007,0.0,train
+nausea,0.31050423,,none
+pentagastrin,0.31029055,,none
+hypocalcemia,0.30994952,,none
+cav3,0.31016493,,none
+wif1,0.30718663,,none
+prpf6,0.31018716,,none
+hsd17b10,0.30888486,,none
+bckdha,0.3092374,,none
+fyn,0.30869016,,none
+snx3,0.3102524,,none
+slc10a2,0.30895257,,none
+arteritis,0.3099736,,none
+krt6b,0.30128178,,none
+ccl3l1,0.31033292,,none
+notch3,0.30782124,,none
+muscular diseases,0.3096926,,none
+pon3,0.30959418,,none
+mag,0.30977586,,none
+got2,0.3095532,,none
+urologic neoplasms,0.30481726,,none
+urination disorders,0.30940711,1.0,valid
+cyp11b2,0.3098991,,none
+camk2b,0.30987373,0.0,test
+mpdz,0.3102387,,none
+cysltr2,0.30994493,,none
+slc39a6,0.3101696,1.0,train
+prednisone,0.31025666,,none
+lipoic acid,0.31017,,none
+gria2,0.31007138,0.0,train
+klk5,0.31032792,,none
+mmp20,0.3101305,,none
+xrcc3,0.30961272,,none
+atrx,0.30927846,,none
+slc16a3,0.3096764,,none
+congenital abnormalities,0.30997968,1.0,train
+sucralfate,0.3103596,,none
+cyp2d6,0.3102569,0.0,train
+pain postoperative,0.3103325,,none
+itpr3,0.31021726,,none
+tolvaptan,0.3106198,,none
+pah,0.30934754,,none
+adrenal insufficiency,0.31026304,,none
+crabp1,0.30937448,,none
+dipyridamole,0.31021765,,none
+pde4a,0.31052855,,none
+faah,0.31017765,,none
+acarbose,0.31016788,,none
+angpt2,0.30658397,,none
+formoterol,0.31034517,,none
+il1a,0.30852896,,none
+tcf4,0.30630755,,none
+levosimendan,0.31016788,,none
+pre excitation syndromes,0.3103409,,none
+brca1,0.3070692,,none
+frk,0.30941284,,none
+vegfc,0.30608523,,none
+rorc,0.3094864,,none
+tubb,0.30568838,0.0,train
+tuba1a,0.3091509,,none
+ccr4,0.30840257,,none
+diltiazem,0.31027117,,none
+intestinal obstruction,0.31041035,,none
+ldha,0.30612785,,none
+rifabutin,0.31053716,,none
+fen1,0.3100687,0.0,train
+slc17a5,0.30658564,,none
+gnptab,0.30843523,0.0,valid
+itga7,0.3102442,,none
+ms4a2,0.30994448,,none
+levonorgestrel,0.31039077,,none
+gss,0.3094869,,none
+bhmt,0.30981278,,none
+nbn,0.30964738,,none
+linezolid,0.31038514,0.0,train
+tetrabenazine,0.3103995,,none
+rag2,0.30929604,,none
+myelodysplastic syndromes,0.30945623,,none
+ptprc,0.3069504,,none
+pvr,0.30616918,,none
+lymphedema,0.3102475,,none
+acvr1,0.30969808,,none
+prox1,0.30741623,,none
+cenpj,0.30975232,,none
+hypothermia,0.3102103,0.0,train
+minocycline,0.31059492,,none
+guca1b,0.3103328,,none
+nmt1,0.3098794,,none
+galnt2,0.29911202,0.0,valid
+pnpla3,0.30088076,,none
+srebf1,0.30889747,,none
+psph,0.3103483,,none
+shmt1,0.31003016,,none
+amphotericin b,0.31013423,,none
+fgf23,0.30785972,0.0,train
+hesx1,0.30665478,,none
+hnf1a,0.3070937,,none
+aldh1a1,0.3057527,,none
+selplg,0.30987692,,none
+omeprazole,0.31014213,,none
+nedd8,0.3076266,,none
+smad9,0.30956846,,none
+bmpr1b,0.30999032,,none
+pik3r1,0.3083122,,none
+tuba1b,0.2928764,,none
+rpsa,0.30713576,0.0,test
+mertk,0.3083698,,none
+kalrn,0.30956626,,none
+kank1,0.31024617,,none
+star,0.30934086,,none
+il4r,0.30952343,0.0,train
+hspe1,0.3102178,,none
+cyp4a11,0.31048027,,none
+paliperidone,0.31043333,,none
+cd55,0.3036857,,none
+c1qb,0.3092129,,none
+kng1,0.30888692,0.0,train
+jph3,0.30886674,,none
+ikbkb,0.30880877,,none
+abcg2,0.30796885,,none
+digoxin,0.31043085,,none
+iron overload,0.30734164,,none
+nox4,0.30759695,,none
+stat5a,0.30830026,,none
+paclitaxel,0.30959326,,none
+angptl4,0.30890918,,none
+wnt5a,0.3072005,,none
+hiv infections,0.30943972,,none
+wars,0.3061921,,none
+erbb3,0.30801082,,none
+itgav,0.30533308,,none
+cd3d,0.30942923,,none
+cdkn1b,0.30280113,,none
+regorafenib,0.31047946,,none
+sele,0.30956113,,none
+burns,0.31000394,1.0,valid
+syn1,0.30936822,,none
+nat2,0.30585656,,none
+cyp2b6,0.3100234,,none
+ifih1,0.30667803,,none
+ddx58,0.30551258,0.0,train
+ovarian cysts,0.30874756,,none
+l glutamine,0.31016788,,none
+etv6,0.30767626,,none
+emphysema,0.3097727,,none
+nf2,0.30881315,,none
+krt7,0.30356023,,none
+baat,0.3096521,,none
+slc10a1,0.3079019,,none
+alfuzosin,0.31031418,,none
+prazosin,0.3102747,,none
+jam3,0.31038487,,none
+col4a1,0.30986565,,none
+cxcl2,0.30594808,,none
+ppp5c,0.30907702,,none
+fzd4,0.30925035,0.0,train
+ndp,0.30853194,,none
+ndufb8,0.31012008,,none
+ndufs5,0.31002507,,none
+gabra4,0.31029177,,none
+gria3,0.3100897,,none
+ilk,0.305937,,none
+sulfamethoxazole,0.31048462,,none
+pkn2,0.30815184,,none
+abl1,0.3088958,,none
+ogg1,0.30906028,,none
+trabectedin,0.31051925,,none
+acetylcarnitine,0.31016788,,none
+hyperammonemia,0.31015334,,none
+htr6,0.31039682,,none
+dio1,0.3101347,,none
+psychomotor agitation,0.3103643,,none
+pitx3,0.30960354,,none
+verteporfin,0.3100709,,none
+adamtsl4,0.3099908,,none
+adamtsl2,0.3101469,,none
+cardiomyopathies,0.30872893,,none
+dydrogesterone,0.31016788,,none
+ahsg,0.30996072,,none
+cstb,0.30867094,,none
+kcna4,0.310218,0.0,train
+kcnc1,0.3103582,0.0,valid
+aarskog scott syndrome,0.31026864,,none
+eps8,0.30966672,,none
+decitabine,0.31011447,,none
+gh1,0.309122,0.0,test
+diabetic angiopathies,0.30854842,0.0,train
+hibch,0.31038323,,none
+oxct1,0.31055775,,none
+map3k11,0.30979952,,none
+zuclopenthixol,0.31046402,,none
+amlodipine,0.31022477,,none
+pax6,0.30867696,,none
+eif2ak2,0.30441692,,none
+shc1,0.30816457,,none
+dag1,0.30837905,,none
+sgce,0.31019312,,none
+ephedrine,0.31041795,,none
+testicular neoplasms,0.2778429,,none
+chlorothiazide,0.31030452,,none
+dihydrotachysterol,0.31039193,,none
+reserpine,0.30993107,,none
+abcc2,0.30914935,,none
+reg1a,0.30850077,,none
+tkt,0.30769822,,none
+asmt,0.31041667,,none
+sh2d1a,0.3088147,,none
+clonazepam,0.31039867,,none
+hyperhidrosis,0.31006235,,none
+tubb3,0.30598554,,none
+lct,0.31013113,,none
+kir3dl1,0.3099964,0.3125,train
+kir2ds1,0.31000632,0.0,train
+capn2,0.30952615,,none
+hoxa2,0.30979106,,none
+irs1,0.3082474,,none
+dyslipidemias,0.30902135,,none
+mouth diseases,0.31038317,,none
+ndufc1,0.3102748,,none
+cycs,0.3098961,,none
+cbr1,0.30973768,,none
+ctss,0.3053777,,none
+igf2r,0.3095469,0.3043478260869565,train
+acad8,0.30904672,,none
+atp5c1,0.31009373,,none
+ibuprofen,0.31023586,1.0,valid
+rimonabant,0.31016788,0.0,train
+serpine1,0.30641896,0.0,train
+cxcr3,0.30807367,,none
+maprotiline,0.31036344,,none
+rufinamide,0.31059453,,none
+f13a1,0.30842632,,none
+serpinc1,0.30407712,0.5121951219512195,test
+prkar1a,0.30849424,,none
+cox10,0.30985722,,none
+atpaf2,0.31043223,,none
+nepafenac,0.31016788,,none
+abcb11,0.30867952,,none
+ugt1a8,0.3098237,,none
+npr1,0.3097585,,none
+vitamin c,0.30986527,,none
+arrhythmias cardiac,0.31022212,0.0,train
+nitrazepam,0.31035364,,none
+rgs4,0.31004718,,none
+nos1ap,0.31020248,,none
+ca12,0.3065161,,none
+cyb5r3,0.310344,,none
+hadh,0.31037888,,none
+pccb,0.3101364,,none
+itih4,0.3101689,,none
+ndufb7,0.30972472,,none
+pomc,0.30954596,1.0,valid
+fcer1g,0.3101181,,none
+gp6,0.30944052,,none
+triobp,0.31016788,,none
+thiamine,0.3100961,,none
+vamp1,0.31055364,,none
+azelastine,0.31049716,,none
+ces1,0.30581254,0.0,train
+s100a9,0.30596837,,none
+ctcf,0.30948856,,none
+l arginine,0.30971912,,none
+glaucoma,0.3100197,1.0,train
+gnb2,0.31038013,,none
+dusp8,0.3103645,,none
+cyp46a1,0.3103505,,none
+mknk2,0.3099987,,none
+ptgis,0.3099624,0.5833333333333334,valid
+ulk1,0.30810216,,none
+itk,0.30874443,,none
+prkaa2,0.3079977,0.0,train
+col4a3,0.30952752,,none
+corneal dystrophy,0.31035653,,none
+perceptual disorders,0.31044355,,none
+idi1,0.31003034,,none
+nsdhl,0.309076,,none
+ugt1a10,0.31034195,,none
+ugt2b15,0.30997217,,none
+flcn,0.3087818,,none
+dpp6,0.3098398,,none
+tnks2,0.30994925,,none
+risperidone,0.31020796,,none
+cushing syndrome,0.31001332,,none
+blk,0.31004488,,none
+ube2i,0.30969194,,none
+ncoa1,0.30972525,,none
+postoperative nausea and vomiting,0.26065207,,none
+usp5,0.30809852,,none
+prochlorperazine,0.31026977,,none
+neurobehavioral manifestations,0.31044763,0.0,train
+atrophy,0.3094341,,none
+ror2,0.30852723,0.0,train
+hmgcs1,0.31014502,,none
+nfib,0.3098916,,none
+ethinyl estradiol,0.3103752,,none
+fatty liver,0.23187771,,none
+hexa,0.31031558,,none
+lipidoses,0.30982307,,none
+hspb1,0.30597752,,none
+esophageal neoplasms,0.27168134,1.0,test
+wnk1,0.30956438,,none
+aprindine,0.31016788,,none
+vdac1,0.30841774,,none
+tgfbi,0.30750802,,none
+slc2a1,0.30677578,,none
+cardiomyopathy hypertrophic,0.31022543,,none
+ppard,0.30849472,,none
+serpinh1,0.30871612,,none
+ccl20,0.30812195,,none
+map3k7,0.3092096,0.0,train
+capn5,0.3094343,,none
+vitreoretinopathy proliferative,0.31006896,,none
+egr2,0.30910987,,none
+carbidopa,0.31035003,,none
+droxidopa,0.31025454,,none
+cpm,0.30862015,,none
+amy2a,0.30996996,,none
+l alanine,0.31016788,,none
+bcl2l11,0.3056674,,none
+gnly,0.30910784,,none
+pentobarbital,0.31021515,,none
+irak4,0.31016147,,none
+fadd,0.3090648,,none
+fentanyl,0.3105557,,none
+fabp4,0.3087405,,none
+mitoxantrone,0.30978078,,none
+agps,0.30998144,,none
+primidone,0.3105148,,none
+essential tremor,0.31027243,,none
+autism susceptibility 16,0.3098192,,none
+hr,0.30998814,,none
+vitamin a,0.30954307,,none
+epstein barr virus infections,0.30965662,,none
+gcg,0.30879787,,none
+zeb1,0.30819306,,none
+labetalol,0.31029183,,none
+cul3,0.30995962,,none
+fgf4,0.3081858,,none
+pentamidine,0.31040356,,none
+mcoln3,0.30924782,,none
+trpc3,0.30976543,,none
+akr1c4,0.31026787,,none
+ugt1a4,0.31013528,,none
+rel,0.30583906,,none
+max,0.30932167,,none
+obstetric labor premature,0.30997437,,none
+ptpn13,0.31007475,,none
+rotigotine,0.31051165,,none
+fluvastatin,0.31025276,,none
+tmprss6,0.31012627,,none
+hamp,0.29905763,,none
+ets1,0.3073704,,none
+flna,0.30787176,,none
+camk2g,0.30886507,,none
+rb1,0.30524868,,none
+levofloxacin,0.31028336,,none
+procaine,0.31016788,,none
+cps1,0.3099782,,none
+adrenal cortex neoplasms,0.31003416,,none
+trpc5,0.30866584,,none
+hspg2,0.30976844,,none
+ltbp2,0.30915883,,none
+timm8a,0.3103134,,none
+clenbuterol,0.3102496,,none
+meningitis,0.3096516,0.0,train
+isg15,0.30941314,1.0,valid
+rom1,0.31022078,,none
+best1,0.3103051,,none
+nizatidine,0.3102522,,none
+risedronate,0.31044942,,none
+rela,0.3069865,,none
+slc16a1,0.30950662,,none
+cnga1,0.31016788,,none
+nmt2,0.3099182,,none
+crizotinib,0.3105027,,none
+acute lung injury,0.309501,,none
+apoa4,0.30985802,,none
+med1,0.30908012,,none
+f8,0.30543,,none
+thromboembolism,0.31006396,,none
+pgd,0.30885032,,none
+nod1,0.30920687,,none
+glipizide,0.31027606,,none
+hba1,0.30944934,,none
+von hippel lindau disease,0.30948812,,none
+paroxetine,0.310665,0.0,train
+pld3,0.3062983,,none
+ptdss1,0.3104122,,none
+arthritis psoriatic,0.30981654,,none
+fars2,0.31016788,,none
+argatroban,0.31016788,,none
+fdps,0.3096305,,none
+cdc25b,0.30399674,,none
+fluorescein,0.31028727,,none
+gfpt2,0.30740654,,none
+dicer1,0.30952445,,none
+thioridazine,0.31040847,,none
+fosl1,0.30635124,,none
+spry2,0.3065056,,none
+tcn1,0.30552953,,none
+bap1,0.30957887,,none
+tjp1,0.30944002,,none
+riboflavin,0.3101329,,none
+tinf2,0.3101116,,none
+dofetilide,0.31040424,,none
+protriptyline,0.3103608,0.0,train
+fgb,0.30841336,0.0,train
+irx5,0.3101719,,none
+nefh,0.3098842,0.0,train
+atp7b,0.3082067,,none
+tubg1,0.30876854,,none
+hla dpb1,0.29647684,,none
+hla b,0.3079404,,none
+reln,0.3063065,,none
+rps6ka1,0.3069385,0.0,test
+vldlr,0.30487514,,none
+paep,0.30795184,,none
+netherton syndrome,0.30974278,,none
+pdgfrb,0.3087254,,none
+nevirapine,0.30996162,,none
+lansoprazole,0.31032678,,none
+hmox2,0.3096272,,none
+clu,0.30847993,,none
+ncr3,0.3099596,,none
+ibandronate,0.31029436,,none
+osteonecrosis,0.30999047,,none
+fer,0.31040782,,none
+fes,0.30819598,,none
+scn2b,0.31026402,,none
+slc9a5,0.31029332,,none
+ucp1,0.30961254,,none
+lisinopril,0.31019983,,none
+carotid stenosis,0.30994222,,none
+slc18a1,0.30965093,,none
+clotrimazole,0.31016788,,none
+slc18a2,0.3094153,,none
+irf8,0.3095461,,none
+epor,0.30455148,0.0,train
+nr0b2,0.30708325,,none
+primaquine,0.31017536,,none
+edema,0.31037837,0.0,train
+flt1,0.3067399,,none
+nfkb2,0.30986974,,none
+iloperidone,0.310481,,none
+ceftizoxime,0.31016788,,none
+osteomyelitis,0.31036323,,none
+tnfrsf13b,0.30953267,,none
+myd88,0.30563945,,none
+dantrolene,0.31047037,,none
+aff2,0.31016788,,none
+sftpb,0.30972156,,none
+pimozide,0.31047717,0.0,train
+gabrd,0.31028906,,none
+pde4d,0.30928734,,none
+oxsr1,0.31035054,,none
+sod2,0.30805665,,none
+gnas,0.31011727,,none
+nortriptyline,0.31034282,1.0,test
+adra1a,0.31033137,1.0,valid
+cdc25c,0.3065938,,none
+cd7,0.30905432,,none
+tlr2,0.30382016,,none
+testosterone propionate,0.30945042,,none
+th,0.30981684,,none
+prkg2,0.31023878,,none
+hcn2,0.31008855,,none
+coro1a,0.31028447,,none
+cd6,0.30966318,,none
+ophn1,0.30929706,,none
+rps29,0.3101973,,none
+enoxacin,0.31016788,,none
+grem1,0.30831948,,none
+rrm1,0.30948895,,none
+atp5b,0.3102433,,none
+glud1,0.30868185,,none
+drd1,0.31021854,,none
+esrra,0.3093572,,none
+nrip1,0.3085393,,none
+acsbg1,0.31019413,,none
+prkar2b,0.3097744,,none
+galc,0.3101432,,none
+il12rb1,0.30970535,0.0,train
+anidulafungin,0.31016788,,none
+liver failure,0.219522,,none
+melatonin,0.30979997,,none
+promazine,0.31026068,0.1515151515151515,valid
+hypothalamic diseases,0.3098442,0.0,train
+streptomycin,0.31048715,,none
+ascl1,0.30879232,,none
+rpl15,0.30926186,0.0,train
+prkg1,0.3097014,,none
+pak2,0.30901262,,none
+methylphenidate,0.3103754,0.0,test
+fenoterol,0.3103764,,none
+cd28,0.30605394,,none
+tnfrsf4,0.3093222,,none
+blnk,0.30960277,,none
+pulmonary fibrosis,0.30938986,,none
+htr4,0.31026945,,none
+slc1a6,0.31045693,,none
+slc1a7,0.3102532,,none
+carm1,0.30792373,,none
+headache disorders,0.31025425,,none
+pruritus,0.31018803,1.0,train
+mbtps2,0.31017768,,none
+hsd11b1,0.31015196,,none
+h6pd,0.3098902,,none
+mocos,0.30990285,,none
+smad4,0.3074957,,none
+col11a1,0.30450237,,none
+agtr2,0.30986196,,none
+agtr1,0.30983523,,none
+pepd,0.30959848,,none
+prmt3,0.31016788,,none
+ddah1,0.31003517,,none
+cyp1a1,0.30660722,0.0,train
+abcg5,0.30912623,,none
+glo1,0.30593705,,none
+wnt7a,0.30971822,,none
+lmx1b,0.30990824,,none
+slc25a3,0.31052333,0.0,train
+slc2a2,0.31014788,,none
+non alcoholic fatty liver disease,0.20340735,,none
+cd46,0.3085437,,none
+cd86,0.30791518,,none
+mgll,0.3025944,,none
+ephx2,0.30852568,,none
+aars,0.309893,,none
+gnpda1,0.30818108,,none
+csf1r,0.3094062,0.0,valid
+tbp,0.30982402,0.0,valid
+nilutamide,0.31016788,,none
+hepatitis,0.27094904,,none
+benazepril,0.3102772,,none
+ddb2,0.3098287,,none
+crbn,0.31031907,0.0,train
+kcna5,0.31030044,0.0,train
+sulindac,0.3102845,,none
+aripiprazole,0.31055823,,none
+substance related disorders,0.31048718,,none
+dcn,0.30682427,,none
+ca1,0.30781412,,none
+acta1,0.30916125,,none
+mapkapk3,0.30951518,,none
+ugt1a9,0.31015706,1.0,train
+betamethasone,0.3103195,,none
+htr2a,0.31030482,1.0,valid
+adss,0.31030557,,none
+gart,0.3089305,0.0,train
+slc7a8,0.3091625,,none
+eif4g1,0.3099378,,none
+f9,0.30969515,0.0,train
+parp2,0.31007847,,none
+lepr,0.30697253,1.0,train
+ubb,0.3098255,,none
+tgm5,0.31030923,,none
+kcnj4,0.31005424,,none
+skp1,0.30930683,,none
+mllt10,0.3079354,,none
+gjb4,0.31016788,,none
+gjd2,0.30968827,,none
+cxcl5,0.30871785,,none
+amitriptyline,0.31013548,1.0,valid
+mental disease,0.31027415,,none
+levetiracetam,0.3102954,,none
+fibromyalgia,0.31010684,,none
+felbamate,0.31043133,0.0,test
+mapk11,0.30957532,,none
+map4k3,0.31007716,,none
+rpl23,0.30963957,,none
+alox12b,0.3099019,,none
+cd14,0.3059215,,none
+nptx2,0.30651212,,none
+cacna1g,0.3097334,,none
+cd27,0.30914384,,none
+ets2,0.30998588,,none
+galk1,0.31010482,,none
+uap1,0.3101148,,none
+gatad1,0.30982968,,none
+hspa8,0.30985874,,none
+yes1,0.30826396,,none
+sars,0.3090062,,none
+chenodeoxycholic acid,0.3080645,,none
+leishmaniasis,0.30987254,,none
+aprepitant,0.3104958,,none
+luliconazole,0.31068626,,none
+ridogrel,0.3103277,,none
+dabigatran etexilate,0.31050166,,none
+postoperative hemorrhage,0.31031975,,none
+opa1,0.3046885,,none
+hbb,0.30894867,,none
+fbp1,0.3094943,,none
+meox1,0.31000948,,none
+ndufv2,0.31027898,,none
+gfm1,0.31039348,,none
+cfhr5,0.31045565,,none
+cabergoline,0.31029794,,none
+reboxetine,0.31016788,,none
+panic attacks,0.31015182,,none
+chronic disease,0.3099102,,none
+hydrocortisone,0.31019682,,none
+cysltr1,0.31040928,,none
+slc22a4,0.3085496,,none
+vps35,0.31037167,1.0,train
+l1cam,0.30608675,1.0,train
+levothyroxine,0.31073734,,none
+abortion spontaneous,0.3099036,,none
+demyelinating autoimmune diseases cns,0.30889773,1.0,train
+mefenamic acid,0.3104629,,none
+kanamycin,0.31038222,,none
+ivermectin,0.31016788,,none
+ropivacaine,0.31025842,,none
+stat4,0.30869138,,none
+prpf31,0.3071848,,none
+p2rx4,0.31010866,,none
+exemestane,0.31028128,,none
+pnpla6,0.31024364,,none
+ketoprofen,0.30977294,,none
+runx1,0.30762085,,none
+il2ra,0.3084059,,none
+bace2,0.31024832,,none
+sulfisoxazole,0.31045714,,none
+psen1,0.3092004,,none
+trem1,0.30579236,,none
+mucocutaneous lymph node syndrome,0.26701507,,none
+adra1b,0.30961245,1.0,train
+snap25,0.3095273,,none
+smarca2,0.30585432,,none
+arid1a,0.30805153,,none
+casp9,0.30854204,,none
+plcb1,0.3081945,,none
+behcet syndrome,0.30969292,,none
+irf5,0.3064419,0.0,train
+autoimmune diseases,0.29922158,1.0,train
+gstm5,0.31027552,,none
+gng5,0.31030002,,none
+malabsorption syndromes,0.309539,,none
+oasl,0.30960244,,none
+nqo2,0.30990377,,none
+aldh3a1,0.3096905,,none
+il10ra,0.30974796,0.0,test
+fosl2,0.3098968,,none
+azathioprine,0.30976987,,none
+fbn1,0.30983216,,none
+sirolimus,0.3104342,,none
+intestinal polyposis,0.30767402,,none
+coronary disease,0.3096034,0.0,train
+fgg,0.29861343,0.0,train
+rapgef4,0.31016788,,none
+slc25a4,0.3098823,0.0,test
+tnnt2,0.31015164,,none
+chrna5,0.30994087,,none
+htr3a,0.30994743,,none
+dnmt3b,0.3063571,,none
+hnf4a,0.30888373,,none
+purpura,0.3096193,,none
+cdt1,0.30852425,,none
+sofosbuvir,0.31042522,,none
+tpo,0.3068039,,none
+pgc,0.31001815,,none
+urticaria,0.31054905,,none
+mef2c,0.30621332,,none
+cacna2d3,0.3098225,,none
+scn10a,0.31013072,,none
+capecitabine,0.308722,,none
+huntington disease,0.30866873,,none
+plk4,0.30306768,,none
+htr2c,0.30992174,,none
+mental retardation x linked,0.30963284,,none
+pecr,0.30952963,,none
+silodosin,0.31048188,,none
+snai2,0.30614102,,none
+cyp27a1,0.30901998,0.0,train
+gfra2,0.30898547,,none
+olr1,0.30904987,,none
+oseltamivir,0.31016788,,none
+hypotension,0.3104096,,none
+slco3a1,0.30963534,,none
+slco2b1,0.30944777,0.0,test
+metaraminol,0.31026575,,none
+familial mediterranean fever,0.30997932,,none
+pkd1,0.30963367,,none
+cyp2a6,0.30918953,0.0,valid
+ces2,0.30993432,,none
+mrps16,0.30994827,,none
+mrpl44,0.3098585,,none
+acetylsalicylic acid,0.3105172,,none
+trimipramine,0.31051242,,none
+meg3,0.30875817,,none
+phenylbutazone,0.31016788,,none
+joint diseases,0.31006163,,none
+lercanidipine,0.31029835,0.0,test
+myh7,0.31031305,,none
+ext2,0.3104401,,none
+il13ra2,0.30859345,,none
+gabra6,0.3100524,,none
+npm1,0.30891216,,none
+ggt1,0.30959055,,none
+guanethidine,0.31016788,,none
+hla dqb1,0.30975553,,none
+hepatitis c,0.3070758,1.0,train
+tpm1,0.30994532,,none
+pln,0.31019065,,none
+maoa,0.3059854,,none
+micafungin,0.31016788,,none
+zygomycosis,0.31014952,,none
+gcsh,0.31021234,0.0,train
+igf1r,0.30661088,0.0,train
+sell,0.30880472,,none
+smarca4,0.30630007,,none
+saxagliptin,0.31058526,,none
+abcc1,0.3087221,,none
+hydrochlorothiazide,0.31006888,,none
+hexobarbital,0.31071666,,none
+adenine,0.30991852,,none
+ketorolac,0.31017685,,none
+carotid artery diseases,0.30808982,1.0,test
+gif,0.3104348,,none
+slc19a1,0.30983803,,none
+liver cirrhosis biliary,0.17442597,,none
+tnk2,0.3056638,,none
+xylometazoline,0.31016788,,none
+overdose,0.3104191,,none
+agomelatine,0.31032172,,none
+dlat,0.3092512,0.0,test
+lipt1,0.30937237,,none
+arhgdia,0.30936947,,none
+rtn4,0.3097947,,none
+econazole,0.31016788,,none
+map3k8,0.30979404,,none
+rara,0.3081225,,none
+g6pc3,0.31040058,,none
+rdh5,0.31020766,,none
+ondansetron,0.31040406,,none
+drospirenone,0.31062204,,none
+irbesartan,0.31032717,,none
+cough,0.31034666,,none
+tph1,0.31026378,,none
+rfxank,0.3087468,,none
+fgf5,0.30940256,,none
+idarubicin,0.3103129,,none
+fosb,0.30890974,,none
+icosapent,0.31016788,,none
+acsl4,0.30707002,,none
+pmvk,0.31016788,,none
+dkk1,0.30877545,,none
+practolol,0.31016788,,none
+anxiety related personality traits,0.3103161,0.0,train
+dpys,0.30992335,,none
+vrk1,0.31006172,,none
+cetirizine,0.31039727,,none
+saquinavir,0.31075355,,none
+pgk1,0.30862114,,none
+camk4,0.30665827,,none
+rps6ka4,0.3095147,,none
+xpa,0.3094341,,none
+gpx1,0.30783898,0.0,train
+rnasel,0.3080917,0.0,train
+cs,0.3053676,,none
+csnk1e,0.30699188,,none
+ritodrine,0.31026438,,none
+dextroamphetamine,0.31039584,,none
+eif2b2,0.30863574,,none
+cda,0.30945945,,none
+grid2,0.3099132,,none
+selegiline,0.31040448,,none
+dirithromycin,0.31016788,,none
+uqcrc2,0.31045634,,none
+papss2,0.31006166,,none
+tetracycline,0.3101413,,none
+endocarditis,0.31026125,,none
+gpc3,0.30264738,,none
+rbp1,0.30780548,,none
+col9a3,0.31035125,,none
+sufentanil,0.31046474,,none
+bretylium,0.31031856,,none
+megestrol acetate,0.31013763,,none
+crlf1,0.3102699,,none
+deficiency diseases,0.31022513,,none
+capns1,0.30937275,,none
+adora1,0.31024572,,none
+cocaine,0.31035292,,none
+remoxipride,0.31029075,,none
+scgb1a1,0.30556408,,none
+myo15a,0.31024614,,none
+csf2rb,0.30939847,0.5,valid
+bexarotene,0.31031907,,none
+casp6,0.30925012,0.0,valid
+foxc2,0.30981883,,none
+aldh1a3,0.3092147,,none
+hsd17b4,0.3097634,0.0,test
+taok2,0.3099009,,none
+hagh,0.3096838,,none
+me1,0.30590016,0.0,test
+nr1i2,0.30849442,,none
+des,0.3095849,,none
+dsc2,0.30614668,,none
+fdft1,0.31019402,,none
+clock,0.30924538,,none
+tspo,0.30828243,,none
+bckdk,0.31016788,,none
+zmynd11,0.30999577,,none
+fhit,0.30542538,,none
+cpt2,0.30836502,,none
+doxazosin,0.3103804,,none
+ins,0.30597216,,none
+dars,0.31047487,,none
+kars,0.3104544,,none
+dclk1,0.3099667,,none
+furin,0.30283645,0.0,train
+ctla4,0.30931914,,none
+drd3,0.31018218,,none
+enoxaparin,0.31051153,,none
+cyb5a,0.31031847,,none
+herc2,0.3099561,0.0,train
+gsn,0.30340958,,none
+chlorthalidone,0.31034163,,none
+dihydrocodeine,0.3104917,,none
+cybb,0.3051599,,none
+ncf4,0.30951473,,none
+cd22,0.30934832,,none
+gal,0.30787948,,none
+fluorouracil,0.30984464,,none
+cd69,0.308655,,none
+tff1,0.30883956,,none
+cartpt,0.31012732,,none
+pltp,0.30948994,,none
+toremifene,0.31009528,,none
+hdac6,0.30729,0.4,train
+terlipressin,0.31016788,,none
+daunorubicin,0.3069341,,none
+por,0.30918202,0.0,train
+tp63,0.30696368,0.0,train
+oxytetracycline,0.31045172,,none
+isotretinoin,0.31036583,,none
+isl1,0.30924308,,none
+plau,0.30946073,,none
+cyp2c9,0.30863893,,none
+menadione,0.31003445,,none
+ccr3,0.30980214,0.0,test
+uqcrh,0.30985284,,none
+cdo1,0.30982465,,none
+ptk2b,0.30658314,,none
+cd74,0.3048578,0.0,test
+tnik,0.30962735,,none
+cacna1b,0.31011814,,none
+nppa,0.3094021,,none
+mmp3,0.309001,,none
+cdk6,0.30405477,0.0,train
+grn,0.30970272,1.0,train
+ubqln2,0.31008965,0.0,train
+atp7a,0.30924183,,none
+pentostatin,0.31016788,,none
+ptger4,0.30878246,,none
+fcgrt,0.310031,,none
+clobazam,0.31030273,,none
+bosutinib,0.31047025,,none
+tnfrsf11b,0.3081161,,none
+gstm1,0.30587572,0.0,valid
+irs2,0.30954126,0.0,test
+tranylcypromine,0.31048298,0.0,train
+fanca,0.3096475,,none
+chrna4,0.31034005,,none
+sulfaphenazole,0.31016788,,none
+tcl1a,0.30855596,,none
+coq2,0.3104868,,none
+telithromycin,0.31049928,,none
+consciousness disorders,0.31060633,,none
+slc26a3,0.30998686,,none
+ccl8,0.3098944,,none
+acr,0.31023687,,none
+fshr,0.30974704,,none
+gaa,0.3100051,,none
+rgs19,0.3103579,,none
+chloramphenicol,0.31032142,,none
+cysteamine,0.3102448,,none
+adrb1,0.31030664,0.0,valid
+sotalol,0.30996284,,none
+lomitapide,0.31051576,,none
+ptpn22,0.30396697,,none
+acta2,0.30907452,,none
+salicylate sodium,0.31051,0.0,train
+gast,0.30473498,,none
+ednra,0.30966818,,none
+cask,0.30841342,,none
+ap2s1,0.31023973,,none
+men1,0.29983565,,none
+abca3,0.31039765,,none
+tpm3,0.30956468,,none
+pentoxifylline,0.31051263,0.0,train
+fluvoxamine,0.3103009,,none
+diclofenac,0.3102865,,none
+gentamicin,0.31047353,,none
+plcd1,0.30940902,,none
+folh1,0.30625755,,none
+aminosalicylic acid,0.31004906,0.0,train
+fludrocortisone,0.31037104,,none
+fpgs,0.3101653,,none
+ruxolitinib,0.31052068,,none
+tirofiban,0.31031713,,none
+pgm3,0.30968428,,none
+wiskott aldrich syndrome,0.3102441,,none
+glucosamine,0.31013995,,none
+cd2ap,0.30977908,,none
+ffar3,0.3092737,,none
+hla a,0.30484018,,none
+rpl13,0.3093065,0.0,train
+promethazine,0.31042257,,none
+arfgef2,0.31028357,,none
+craniofacial abnormalities,0.31002286,,none
+hspa9,0.30985257,,none
+sgcg,0.31040597,0.0,train
+serpinf2,0.31020448,,none
+fosphenytoin,0.3107072,0.0,train
+dmpk,0.31020775,,none
+raf1,0.30769366,,none
+mid1,0.30990842,,none
+farsa,0.30999708,,none
+mars,0.31029278,,none
+inppl1,0.3067476,,none
+pdk2,0.3042652,,none
+sdhb,0.30834764,,none
+afatinib,0.31042787,,none
+esophagitis,0.31030735,,none
+hpse,0.30254784,,none
+krt14,0.30942032,,none
+pre eclampsia,0.30886745,1.0,test
+arl5a,0.31016788,,none
+arl3,0.3104304,,none
+hyperbilirubinemia neonatal,0.30781734,,none
+mllt4,0.30932865,,none
+usp9x,0.30555263,,none
+gabrr1,0.31025565,,none
+gabrq,0.3100396,,none
+fh,0.30964518,0.0,train
+calcium acetate,0.31022635,,none
+taf1,0.3098399,,none
+slc22a5,0.31018677,,none
+slc6a1,0.31032768,,none
+quinapril,0.31037855,,none
+slc36a2,0.31009275,,none
+slc7a11,0.30889517,,none
+ptpn11,0.30845606,1.0,train
+myb,0.30944762,,none
+brain diseases metabolic,0.30699068,,none
+adra2c,0.3103522,,none
+jaundice neonatal,0.30422786,,none
+cel,0.30408356,,none
+cpb1,0.30864564,,none
+duloxetine,0.3105355,0.0,train
+ofloxacin,0.31040397,,none
+everolimus,0.31043082,,none
+posaconazole,0.3105877,,none
+plcb2,0.30934146,,none
+pim1,0.31001818,,none
+mthfd1,0.3102532,,none
+methohexital,0.31025478,,none
+znf335,0.30945924,,none
+cd3e,0.30801728,,none
+batf,0.3099636,,none
+cyp2r1,0.31002367,,none
+lyrm4,0.30999884,,none
+ndufs2,0.30952153,,none
+rmnd1,0.31048653,,none
+prpf3,0.31077057,,none
+itpkc,0.3103497,,none
+clcf1,0.3099482,,none
+nedd4l,0.30883795,,none
+stk38l,0.31028906,,none
+slamf7,0.3094714,,none
+kcnn3,0.3087153,,none
+ryr3,0.3101602,0.0,train
+map2k2,0.30894265,1.0,train
+dsp,0.30945054,,none
+atf3,0.30736166,,none
+bmp1,0.30922288,,none
+chrdl1,0.30873123,,none
+gpd2,0.3093216,,none
+aqp1,0.30988073,0.0,train
+brd7,0.30921513,,none
+brpf1,0.30899048,,none
+bupivacaine,0.31035122,,none
+chemical and drug induced liver injury,0.2682982,,none
+igf2bp2,0.30981016,0.0,valid
+tfap2a,0.30827084,,none
+mfn2,0.30516565,0.0,train
+lgals1,0.30770826,,none
+tlr6,0.30923596,,none
+tlr8,0.30938008,,none
+gabrb3,0.3101537,,none
+acsm3,0.30526662,,none
+tcn2,0.30958742,,none
+gdf2,0.30458432,,none
+cul4b,0.3098575,,none
+terazosin,0.31045273,,none
+bradycardia,0.31049535,,none
+dmp1,0.3097019,,none
+gba,0.3103613,,none
+atp6v1a,0.30997112,,none
+nlrp3,0.30864853,1.0,train
+slc5a5,0.3097834,,none
+hemangioma,0.3097217,,none
+kcne1,0.30769974,,none
+gingival diseases,0.31035447,,none
+dabrafenib,0.31080532,,none
+tuberous sclerosis,0.31020752,,none
+psmb7,0.31009617,,none
+gdap1,0.30937216,,none
+casp5,0.31009367,,none
+chlordiazepoxide,0.31035596,,none
+chat,0.30848846,,none
+ptpn4,0.31035298,,none
+ptprf,0.3062567,,none
+acitretin,0.31016788,,none
+htr1b,0.3103373,,none
+ddit3,0.3084111,,none
+pilocarpine,0.31016788,,none
+aqp5,0.3060663,0.0,test
+carvedilol,0.3102918,,none
+tranexamic acid,0.31016788,,none
+opitz kaveggia syndrome,0.31053844,,none
+ppt1,0.3095691,,none
+znf423,0.31025094,,none
+htr2b,0.31036553,,none
+nod2,0.30907658,,none
+tolbutamide,0.30996704,,none
+cyclothiazide,0.31031108,,none
+clcn2,0.30986103,,none
+impa2,0.3099639,,none
+pemphigus,0.3095675,,none
+enpep,0.31001705,,none
+sunitinib,0.31007886,,none
+oat,0.3062095,,none
+lgsn,0.30927643,,none
+mebendazole,0.31016788,,none
+hoxd10,0.309647,,none
+hal,0.3103281,,none
+colchicine,0.31036955,,none
+adra2a,0.31,,none
+klk1,0.30764005,,none
+adh1c,0.30136722,,none
+kat2b,0.30525205,1.0,train
+riluzole,0.31016788,,none
+brain ischemia,0.30981198,,none
+euglenozoa infections,0.3102675,,none
+prkacb,0.30902413,,none
+pax1,0.30994698,,none
+hypertension portal,0.3092887,,none
+ddit4,0.3097593,,none
+dhfr,0.30884898,,none
+cyclandelate,0.31016788,,none
+itpr1,0.30976844,,none
+gsr,0.31008825,,none
+creatine,0.31031084,,none
+crk,0.3097869,,none
+hdac2,0.306667,,none
+scn1b,0.3104567,,none
+sertindole,0.3104506,,none
+quetiapine,0.31058508,,none
+amacr,0.3045243,,none
+f11,0.3095853,,none
+mannitol,0.3096794,,none
+kcnb2,0.30942145,0.0,train
+mpl,0.3089537,,none
+prkaca,0.30903846,,none
+nf1,0.3083218,,none
+gfpt1,0.30944082,,none
+egln3,0.30971044,,none
+malignant hyperthermia,0.31041786,,none
+megf8,0.31004587,,none
+pdgfa,0.30372164,,none
+maea,0.30997384,,none
+smarcal1,0.31025627,,none
+thiopental,0.31016788,,none
+fads2,0.3089938,,none
+il15,0.30669546,,none
+cxcr6,0.31012768,,none
+chrm5,0.31018907,,none
+mepenzolate,0.31024292,,none
+il11,0.3066965,,none
+nitrendipine,0.31035727,0.0,train
+chrna7,0.30907735,,none
+rbpj,0.3098099,,none
+mbp,0.30912337,1.0,train
+rnase2,0.31004626,,none
+milnacipran,0.3104152,,none
+hdac9,0.3092955,1.0,valid
+cdk2,0.30583274,,none
+ifna2,0.3043388,,none
+peripheral arterial disease,0.3094604,,none
+rosiglitazone,0.31019592,0.0,valid
+vascular diseases,0.3098711,,none
+smad6,0.3073874,1.0,test
+mapk6,0.3082865,0.1666666666666666,test
+ticagrelor,0.3104711,,none
+galantamine,0.31008583,,none
+atazanavir,0.3104393,,none
+lipodystrophy,0.30978236,,none
+pde6a,0.31044382,,none
+pde11a,0.3101476,,none
+hrh4,0.30823416,,none
+aip,0.31016752,,none
+abi1,0.30120453,,none
+ncf1,0.30901712,,none
+mapk4,0.3094395,,none
+flrt3,0.3098851,,none
+igfbp7,0.30988663,,none
+egln1,0.30999532,,none
+ndufa13,0.30935436,,none
+pbk,0.3067386,,none
+estradiol,0.30980033,0.5,train
+aprobarbital,0.31016788,,none
+propranolol,0.30993247,,none
+metabolism inborn errors,0.3097007,,none
+lopinavir,0.31046608,,none
+artemether,0.31036842,,none
+diflunisal,0.310441,,none
+lhcgr,0.3098748,,none
+dtymk,0.30853862,,none
+txnrd2,0.30974162,,none
+acvr2a,0.3089118,,none
+ca5a,0.30483848,,none
+uros,0.31027722,,none
+cyclophosphamide,0.30754048,0.0,test
+matr3,0.3089775,1.0,test
+fus,0.3102439,,none
+msln,0.3081779,,none
+ank1,0.3096991,,none
+trpv6,0.31010178,,none
+vcl,0.30819356,,none
+myo6,0.30601376,,none
+tsc2,0.30718273,,none
+levomilnacipran,0.31039128,,none
+amenorrhea,0.3104282,,none
+ltbr,0.30981326,,none
+hdac3,0.30842063,0.0,train
+pml,0.30847067,,none
+il2rb,0.30978286,,none
+cefepime,0.3102696,,none
+actc1,0.31036586,,none
+chlorambucil,0.31016788,,none
+mknk1,0.3089163,,none
+hla dqa1,0.3069251,,none
+gjb1,0.30616298,,none
+padi4,0.30828515,,none
+crybb1,0.31030533,,none
+crygd,0.31024608,,none
+dapk1,0.30681053,,none
+scly,0.30921122,,none
+acan,0.30942562,,none
+cacna2d2,0.31030715,,none
+trpv2,0.30948,,none
+taf15,0.3076909,,none
+rock2,0.3091783,,none
+mlxipl,0.3097155,,none
+mycophenolate mofetil,0.31035432,,none
+eczema,0.30972618,,none
+meningeal neoplasms,0.3092318,,none
+gpx4,0.30973256,,none
+gpx7,0.3091389,,none
+alox12,0.3101687,,none
+fluticasone propionate,0.31022808,,none
+ptk7,0.30874532,,none
+dsg2,0.30959013,0.0,train
+cul7,0.30941123,,none
+tpmt,0.30975762,,none
+repaglinide,0.310522,,none
+abcc8,0.3098442,,none
+purine pyrimidine metabolism inborn errors,0.3095548,,none
+disopyramide,0.3102633,,none
+scnn1b,0.3100677,,none
+ikzf1,0.3091042,,none
+bcr,0.30950436,,none
+nde1,0.30976492,,none
+il25,0.30966723,,none
+elovl5,0.3101678,,none
+bone density,0.31012118,,none
+hirsutism,0.3104056,,none
+chsy1,0.3101892,,none
+gnaq,0.30942145,,none
+pirenzepine,0.30996054,,none
+ppy,0.30985492,,none
+baz2b,0.31016788,,none
+col4a2,0.30891472,,none
+tbx21,0.30856833,,none
+acacb,0.3103282,,none
+lap3,0.30985448,,none
+msh3,0.30838737,,none
+cdkal1,0.3099136,,none
+prss8,0.31026748,,none
+zap70,0.309484,,none
+klk6,0.3069842,,none
+spink5,0.30972645,,none
+hepatitis chronic,0.24883592,,none
+gabrg2,0.31048182,,none
+kcnq2,0.31044507,,none
+xrcc1,0.30695793,,none
+krt1,0.30970702,,none
+ptprd,0.31008798,,none
+ikzf3,0.3016076,,none
+medroxyprogesterone acetate,0.3103872,,none
+infertility,0.30964988,,none
+fgf9,0.307428,,none
+mc1r,0.3086523,1.0,train
+brugada syndrome,0.31031716,,none
+klrc1,0.30932325,,none
+dclre1c,0.31041065,,none
+gtf2h5,0.31040406,,none
+ano1,0.3090964,1.0,train
+pink1,0.3091833,0.0,test
+indinavir,0.31038618,,none
+cr1,0.309753,,none
+hbegf,0.30967996,,none
+prkar2a,0.30950043,,none
+elovl4,0.31049165,,none
+ichthyosis,0.31030315,,none
+per2,0.30907235,0.0,test
+tomm40,0.30865318,,none
+psca,0.3047883,,none
+psma5,0.30957815,,none
+psmb3,0.31035203,,none
+pycrl,0.30986077,,none
+orphenadrine,0.31054294,,none
+xdh,0.30290532,,none
+eno3,0.3085749,,none
+cd58,0.30406374,,none
+ndufs6,0.31008807,,none
+rps6kb1,0.30666277,,none
+wnt4,0.31009027,,none
+atp2a3,0.31005254,,none
+slc4a8,0.3100562,,none
+atxn2,0.31003717,,none
+actn1,0.30943355,,none
+vorinostat,0.30999836,,none
+brompheniramine,0.31025848,,none
+parkinson disease,0.30996275,,none
+sulfadiazine,0.31034172,,none
+conjunctivitis bacterial,0.31040332,,none
+metyrosine,0.31040892,,none
+nicergoline,0.31016788,,none
+carbohydrate metabolism inborn errors,0.3089785,,none
+sftpc,0.30994722,,none
+lck,0.30814144,0.0,train
+ung,0.30929837,,none
+eif4a3,0.31033602,,none
+adh1a,0.308181,,none
+abacavir,0.31000254,,none
+pcm1,0.3104366,,none
+trpv1,0.30982837,,none
+pon2,0.30585504,,none
+grk5,0.30927315,,none
+cyp2a13,0.3100375,0.0,train
+cyp2c18,0.31026062,0.2142857142857142,train
+pomp,0.3102977,,none
+phka2,0.29852986,,none
+mood disorder,0.31022596,1.0,train
+pask,0.31048948,,none
+pias1,0.30935565,,none
+acsl1,0.3101848,,none
+rars2,0.31065363,,none
+tshr,0.30985063,,none
+scn3b,0.31035134,,none
+slc4a4,0.31025708,,none
+tuba1c,0.3098534,,none
+acetic acid,0.31009796,,none
+il24,0.3072178,,none
+pth,0.30816525,,none
+pirbuterol,0.3102789,0.0,train
+mc2r,0.3103499,0.0,train
+pex7,0.31038332,,none
+phyh,0.30992723,,none
+thbd,0.309427,,none
+bicalutamide,0.3102559,,none
+rifapentine,0.31051204,,none
+probucol,0.31016788,,none
+levonordefrin,0.3103447,,none
+octreotide,0.30993125,,none
+lbp,0.30685565,,none
+theophylline,0.31011188,,none
+bone diseases developmental,0.30963314,,none
+ppp1r13l,0.3078487,,none
+demeclocycline,0.31014106,,none
+tnfsf4,0.30962214,,none
+rarb,0.30710688,,none
+rps6ka2,0.3095897,,none
+ctdsp1,0.3094181,,none
+itga3,0.3094787,,none
+myasthenic syndromes congenital,0.31010705,,none
+osteochondrodysplasias,0.30897763,,none
+tnxb,0.3080222,,none
+huwe1,0.31023818,,none
+uchl1,0.30742174,,none
+aire,0.31011736,,none
+thrombosis,0.30910465,1.0,train
+tuba8,0.30609965,,none
+actg1,0.30729517,,none
+mmp1,0.3088126,,none
+flunisolide,0.31016788,,none
+drd5,0.31019962,,none
+pramipexole,0.3103519,,none
+restless legs syndrome,0.3104067,,none
+slco4a1,0.30979234,,none
+homer1,0.30891308,,none
+misoprostol,0.3102627,,none
+adam9,0.30908337,,none
+eosinophilia,0.3097817,,none
+picalm,0.30994332,,none
+lomefloxacin,0.31016788,,none
+esrrb,0.30964732,,none
+nijmegen breakage syndrome,0.31024367,,none
+nos1,0.30981094,,none
+hearing loss,0.30989376,,none
+azidocillin,0.31032503,,none
+serping1,0.30849597,,none
+ugt1a3,0.31053445,1.0,train
+deferasirox,0.31070003,,none
+amantadine,0.31026825,,none
+lsamp,0.31016228,,none
+orthostatic intolerance,0.31028512,,none
+acyp2,0.3081745,,none
+gzmb,0.3096598,0.0,train
+mtap,0.3053038,,none
+rps6ka3,0.30958372,,none
+rev3l,0.30970046,,none
+polg,0.31015894,,none
+acne vulgaris,0.30981776,,none
+rgs1,0.30984685,,none
+got1,0.30962023,,none
+acadvl,0.31016293,,none
+bcat1,0.30980396,,none
+scopolamine,0.31033155,,none
+triazolam,0.3102904,,none
+gadopentetate dimeglumine,0.31016788,,none
+chlorphenesin,0.31016788,,none
+perindopril,0.31026685,,none
+choline,0.31046957,0.0,train
+lamotrigine,0.31047237,,none
+gli2,0.3086857,,none
+adamts13,0.298572,,none
+fuca1,0.30781144,,none
+ckmt1a,0.3095721,,none
+rala,0.3095349,,none
+arf6,0.3089926,,none
+enalapril,0.31024653,0.0,test
+ectoparasitic infestations,0.31007493,,none
+gnao1,0.3100785,,none
+oprm1,0.3077165,,none
+col10a1,0.31015548,,none
+pdcd1,0.30932814,,none
+kcnq3,0.31033042,,none
+ap4m1,0.3092806,,none
+rab23,0.30964166,,none
+tank,0.30928624,,none
+perphenazine,0.31043229,1.0,train
+dnmt3a,0.30524617,,none
+igfbp3,0.30837065,,none
+mtnr1a,0.3102057,,none
+framycetin,0.31031618,,none
+clavulanate,0.31012127,,none
+tacc3,0.30398563,,none
+laurin sandrow syndrome,0.3101854,,none
+araf,0.30906937,,none
+phb,0.3084047,,none
+rxra,0.30897713,,none
+encainide,0.31016788,0.0,train
+scn5a,0.31032014,,none
+optn,0.30997148,,none
+htt,0.30849317,0.0,train
+pld2,0.30805305,,none
+scnn1a,0.3093379,,none
+abcb4,0.29538712,,none
+darunavir,0.31047904,,none
+mapk12,0.30955642,0.0,train
+itch,0.3096892,,none
+ak1,0.30991042,,none
+rivastigmine,0.31039268,,none
+smn1,0.30805677,,none
+dci,0.31016788,,none
+gpr63,0.3093667,,none
+thiotepa,0.31028488,,none
+dmd,0.30987766,,none
+cryab,0.30810797,,none
+gnb3,0.30970156,,none
+rpl5,0.30948812,,none
+sdha,0.30933803,,none
+pdk1,0.3080827,,none
+bone diseases,0.31004083,,none
+brain edema,0.3093587,,none
+fap,0.30937764,,none
+abo,0.3099688,,none
+ketotifen,0.31016788,,none
+sgk1,0.3092749,,none
+pmm2,0.30967042,,none
+clec7a,0.30935416,,none
+plat,0.3077557,0.0,train
+optic atrophies hereditary,0.30998325,,none
+droperidol,0.31044605,,none
+treprostinil,0.3102845,,none
+moexipril,0.31045938,,none
+nrg1,0.3094713,,none
+chd1,0.3100216,,none
+nipbl,0.30954883,,none
+secobarbital,0.31043345,0.0,train
+eprosartan,0.31040654,0.0,train
+muscular dystrophies,0.31004852,,none
+amphetamine,0.310173,1.0,test
+rars,0.30938253,,none
+abcc5,0.31002972,,none
+uveitis,0.310086,0.0,train
+acot7,0.30986652,,none
+crygb,0.30951658,,none
+lim2,0.31008464,,none
+meropenem,0.31016788,,none
+wwc1,0.30992502,,none
+stk4,0.30986878,,none
+benzylpenicillin,0.31033814,,none
+slc22a6,0.31021667,,none
+vapb,0.3096963,1.0,train
+rce1,0.30931845,,none
+nrl,0.31010148,,none
+fscn2,0.3110521,,none
+ddc,0.31045845,0.0,train
+urinary bladder diseases,0.31001556,,none
+atropine,0.31041226,,none
+tretinoin,0.31025824,,none
+htra2,0.30976537,,none
+gmds,0.31039923,,none
+hif1an,0.3100132,,none
+cdkn1c,0.30687055,,none
+lmna,0.3087208,,none
+flunarizine,0.31054366,,none
+hepatic veno occlusive disease,0.27732328,,none
+fgf7,0.30460384,,none
+glucocorticoid deficiency,0.31033742,,none
+spermine,0.3099058,,none
+add1,0.31000975,,none
+emp2,0.31004864,,none
+ifngr1,0.30968323,,none
+atxn10,0.31029284,,none
+aldh3b1,0.30655253,,none
+glb1,0.3099455,,none
+cebpb,0.3087257,,none
+kcnn2,0.3102626,,none
+actn2,0.31005916,,none
+bromazepam,0.31038228,,none
+penicillamine,0.31016788,,none
+nuak1,0.30342346,,none
+oca2,0.30990982,,none
+tyrp1,0.3096197,,none
+clofibrate,0.31016788,1.0,train
+brd4,0.3100561,,none
+brd2,0.3100491,,none
+ugt2a1,0.31016788,0.0,train
+cox7c,0.3101678,,none
+ttbk2,0.30950668,,none
+krt3,0.29841498,,none
+trpc6,0.309154,,none
+clofazimine,0.31016788,0.0,train
+acquired immunodeficiency syndrome,0.30832037,1.0,test
+ltk,0.3101916,,none
+cdc42bpa,0.30951715,,none
+cefprozil,0.31034362,,none
+ndufs4,0.31020722,,none
+dhps,0.31025454,,none
+bglap,0.30695364,0.0,train
+klf6,0.3055711,0.0,valid
+bdkrb2,0.31017756,,none
+dusp5,0.30978113,,none
+akr1c3,0.30839583,,none
+col18a1,0.30601117,,none
+retinal degeneration,0.30854568,,none
+ddah2,0.31019726,,none
+atp13a2,0.30964336,,none
+parkinsonian disorders,0.31020498,,none
+inpp5d,0.30905655,,none
+tmem127,0.31028298,,none
+hydroxyzine,0.31052718,,none
+ttn,0.31011254,1.0,train
+muscular atrophy,0.30948934,,none
+leucovorin,0.30996212,,none
+gja8,0.31032586,,none
+gja3,0.31005543,,none
+fludiazepam,0.3103142,,none
+nlgn1,0.31033444,,none
+estazolam,0.31050754,,none
+prkab1,0.30979657,,none
+crhr1,0.3101805,0.0,train
+mecamylamine,0.3104248,,none
+entacapone,0.31050315,,none
+tyk2,0.3068601,,none
+mmp10,0.30950007,,none
+occipital horn syndrome,0.3101499,,none
+mt2a,0.30895716,,none
+alcaftadine,0.31016788,,none
+conjunctivitis allergic,0.28047457,,none
+stk38,0.310014,,none
+ndrg1,0.30772874,,none
+fabp1,0.3088325,,none
+htr1a,0.31033233,1.0,train
+gabbr2,0.31003463,0.0,train
+praziquantel,0.31043282,,none
+digitoxin,0.31016788,,none
+ccr9,0.3090378,,none
+usp18,0.31021738,,none
+asns,0.3061376,,none
+prlr,0.30629295,,none
+lta4h,0.30964318,,none
+cox4i1,0.3082831,0.0,train
+tbk1,0.30920592,0.0,train
+ghr,0.30853257,,none
+hdac4,0.30862704,0.0,train
+oxybenzone,0.31016788,,none
+dnmt1,0.30727568,,none
+ca4,0.31032822,,none
+brinzolamide,0.31040326,,none
+hidradenitis,0.3105088,,none
+rps7,0.3081997,,none
+irf1,0.30845746,,none
+hadhb,0.31031373,0.0,valid
+arrb1,0.30998105,,none
+flupirtine,0.31016788,,none
+ppib,0.30886796,,none
+ppic,0.31027505,,none
+slc5a7,0.30961263,,none
+trpa1,0.309315,,none
+heart arrest,0.3101155,,none
+nr1h3,0.30939737,,none
+sirpa,0.30939564,,none
+emd,0.3096226,,none
+malt1,0.30864188,,none
+gpt,0.30404133,,none
+metap1,0.31045216,,none
+mapkapk5,0.30977783,0.0,train
+obesity,0.3049649,,none
+trh,0.30968007,,none
+limb deformities congenital,0.3101187,,none
+gstk1,0.30910385,,none
+cdca3,0.3096734,,none
+methyldopa,0.31033385,,none
+avanafil,0.310418,,none
+furosemide,0.31013784,,none
+mitomycin,0.31016788,,none
+htr1e,0.3103832,,none
+grik2,0.31033385,,none
+vipr2,0.30996165,,none
+nabumetone,0.31040323,,none
+spectinomycin,0.3105343,,none
+ipratropium bromide,0.31021738,,none
+potassium chloride,0.31015167,,none
+dasatinib,0.3100377,,none
+sh3bp2,0.3099159,,none
+cox6a2,0.31032085,,none
+itpr2,0.31016603,,none
+ano10,0.30951658,,none
+slc20a2,0.30980465,,none
+mepyramine,0.31016788,,none
+shock,0.3104311,,none
+hspd1,0.30835354,,none
+dehydration,0.31014988,,none
+enprofylline,0.31016788,,none
+urod,0.30955353,,none
+blood coagulation disorders,0.30990544,,none
+psma3,0.30997476,,none
+phagocyte bactericidal dysfunction,0.3090035,,none
+diazepam,0.31042954,1.0,train
+ppme1,0.30685645,,none
+coasy,0.30949053,,none
+ponatinib,0.30863705,,none
+slc7a7,0.30972016,,none
+serpina6,0.3099206,,none
+gls,0.3080949,,none
+gls2,0.30987236,,none
+atxn7,0.31037518,,none
+atn1,0.31007987,,none
+ptprs,0.3102943,,none
+tjp2,0.30968863,,none
+mtr,0.3091045,,none
+ndufa4,0.30589432,,none
+tbx19,0.31038037,,none
+m6pr,0.30988574,,none
+cited2,0.30594677,,none
+sall1,0.30944237,,none
+vasculitis,0.3097599,,none
+slc6a2,0.30992836,,none
+cldn1,0.30285946,,none
+phb2,0.30973676,,none
+tizanidine,0.31050286,,none
+ramipril,0.3103445,,none
+rpl10,0.30976355,,none
+il1r1,0.3096449,,none
+alms1,0.3097584,,none
+oprd1,0.3101698,,none
+hematoma,0.3101285,,none
+remifentanil,0.31040278,,none
+asthma aspirin induced,0.30989733,,none
+ptgs1,0.3099656,,none
+hsd3b1,0.31022164,,none
+hsd17b8,0.30999264,0.0,train
+prep,0.30948526,,none
+ltc4s,0.3104784,,none
+kcne2,0.31028008,0.0,valid
+mafb,0.30889162,,none
+rbms3,0.30101717,,none
+respiratory insufficiency,0.31001228,0.0,train
+gabra5,0.31015468,,none
+glra2,0.31015772,,none
+ing1,0.3050771,,none
+csnk1g1,0.3091529,,none
+pdhb,0.31012473,,none
+cd9,0.308784,,none
+vardenafil,0.31046766,,none
+mgp,0.3063201,,none
+grm3,0.3088832,,none
+mog,0.3098827,,none
+oritavancin,0.31026575,,none
+acp1,0.3095313,,none
+oxtriphylline,0.31016788,,none
+cacna1a,0.31055722,,none
+ecm1,0.30943605,,none
+rrp7a,0.31016788,,none
+nhp2,0.31010076,,none
+neovascularization pathologic,0.30827987,,none
+abcc3,0.3086741,,none
+dscam,0.31024837,,none
+dcc,0.30917776,,none
+hla drb1,0.30692384,,none
+tfe3,0.30958626,,none
+heart block,0.31055105,,none
+il12b,0.3098047,,none
+uqcrc1,0.3104874,,none
+cep290,0.31110793,,none
+agxt,0.31026348,,none
+mezlocillin,0.3103366,,none
+ednrb,0.30920202,0.0,test
+atenolol,0.31012088,,none
+procyclidine,0.31036872,,none
+triprolidine,0.31036925,0.0,train
+cd151,0.3055823,,none
+cdc6,0.30866128,,none
+ube3a,0.30479068,,none
+alosetron,0.3102283,,none
+slc6a9,0.30991355,,none
+fesoterodine,0.31052065,,none
+lrp6,0.30880958,,none
+ncoa2,0.3096957,,none
+carbachol,0.3100913,,none
+pax7,0.30998105,,none
+aprt,0.30514914,,none
+lysosomal storage diseases,0.31036493,,none
+bortezomib,0.31001797,,none
+canagliflozin,0.31057554,,none
+fat1,0.29925683,,none
+map3k6,0.3099782,1.0,train
+six6,0.31013173,,none
+hsd17b1,0.30918366,,none
+estrone,0.30987045,0.0,train
+diablo,0.3074676,,none
+rps17,0.30976468,,none
+dot1l,0.30976322,,none
+hoxb1,0.30942544,,none
+paralysis,0.31012663,0.0,train
+tuba4a,0.3063183,,none
+foxl2,0.30863646,0.0,test
+polr3g,0.31016788,,none
+cd79a,0.30930462,,none
+pik3cd,0.30860326,,none
+cox6c,0.31008393,,none
+ergotamine,0.3103628,,none
+e2f1,0.30790186,1.0,train
+virus diseases,0.30956787,0.0,train
+rtel1,0.31030208,,none
+hypoproteinemia,0.30971497,,none
+sfrp5,0.30419493,,none
+nqo1,0.3087748,,none
+hyperthyroidism,0.3102522,,none
+tspan5,0.31023973,,none
+slc4a7,0.30996898,,none
+sftpd,0.30974343,,none
+bub1,0.30666733,,none
+metipranolol,0.31019905,,none
+salmeterol,0.31046736,,none
+limk2,0.3084472,,none
+eif2b3,0.3092717,,none
+kcnq1,0.30938154,0.0,train
+slc33a1,0.31036994,,none
+itga2b,0.30975798,,none
+st6gal1,0.3061357,,none
+uckl1,0.3085499,,none
+gliclazide,0.3104021,,none
+dlk1,0.30282614,,none
+epx,0.31009045,,none
+leukocyte disorders,0.31033894,,none
+cyp7a1,0.30928072,,none
+tert,0.3058834,,none
+ncoa4,0.30985102,,none
+csnk1g3,0.31028515,,none
+lrp2,0.3093926,,none
+oxcarbazepine,0.31043133,1.0,train
+ephb2,0.30614242,,none
+sparfloxacin,0.31051904,,none
+ccno,0.3099989,,none
+dck,0.30555323,,none
+enterocolitis,0.30989793,,none
+pou3f4,0.3103521,,none
+il17ra,0.30993053,,none
+adnexal diseases,0.30913657,,none
+foxe3,0.31030533,,none
+bfsp2,0.31044063,,none
+sptan1,0.30953574,,none
+nae1,0.3100104,,none
+ndufb5,0.30994663,,none
+fkbp14,0.31020698,,none
+entecavir,0.31016788,,none
+hypochondroplasia,0.30975735,,none
+ivd,0.31014943,,none
+mvd,0.31009507,,none
+pbrm1,0.30697688,,none
+gp1bb,0.31024736,0.0,train
+cyp4f2,0.30593476,,none
+atp6v1b1,0.3094455,,none
+banf1,0.3099806,,none
+nebivolol,0.31052172,,none
+slc22a3,0.30836448,0.0,valid
+hspa1a,0.31016263,,none
+phf8,0.30884463,,none
+fluphenazine,0.31041968,0.0,train
+adam28,0.3097412,,none
+sgca,0.30921698,,none
+carisoprodol,0.3103263,,none
+midodrine,0.31030747,,none
+slc22a8,0.30891582,0.0,train
+maob,0.31025368,,none
+mpi,0.31005892,,none
+cyb5r2,0.3098933,,none
+irf6,0.30954683,,none
+aldh4a1,0.31003207,,none
+trmu,0.31058893,,none
+malaria,0.30850002,,none
+klkb1,0.3086818,,none
+phex,0.3093735,,none
+cdk3,0.3100551,0.0,train
+pik3cb,0.30963746,,none
+ticam1,0.30980596,,none
+traf3,0.3089153,,none
+bmp7,0.30888176,,none
+pulpitis,0.310158,,none
+flt4,0.30866382,0.0,train
+chlorzoxazone,0.31020236,,none
+ntf3,0.30982563,,none
+npr3,0.31014356,,none
+levobupivacaine,0.30992243,,none
+mesoridazine,0.31040207,,none
+ephb4,0.30865967,,none
+col5a1,0.30958566,,none
+vcan,0.3095601,,none
+pseudoephedrine,0.310403,1.0,train
+dapagliflozin,0.31032294,,none
+hypoglycemia,0.31010354,,none
+cp,0.30984786,,none
+il16,0.30782884,,none
+kcnd2,0.31025386,,none
+cd248,0.31000766,,none
+slc29a3,0.31024697,,none
+trpm8,0.30890235,,none
+glul,0.309669,,none
+foxg1,0.3102019,,none
+cyp4b1,0.31025305,0.0,train
+cox15,0.31023747,,none
+blvrb,0.3102832,,none
+hypernatremia,0.31020632,,none
+butabarbital,0.31024927,,none
+iqcb1,0.3099434,,none
+flnb,0.31008846,,none
+hydroxyproline,0.31015235,,none
+deferiprone,0.31028402,,none
+spink1,0.30978957,,none
+matn3,0.30993062,,none
+pdhx,0.3081064,,none
+epinastine,0.31016788,,none
+htr7,0.3102811,,none
+fech,0.3102923,,none
+porphyrias hepatic,0.29020104,,none
+urethral diseases,0.31030872,,none
+thyroiditis autoimmune,0.28915748,,none
+gad1,0.30999377,0.0,test
+mecp2,0.30975756,0.0,train
+l dopa,0.31049037,,none
+atp1a2,0.31036493,,none
+dst,0.31022203,,none
+il33,0.30980995,,none
+pranlukast,0.31029522,,none
+wwp2,0.30248085,,none
+col9a2,0.3104066,,none
+mechlorethamine,0.3102215,,none
+rapgef5,0.31011724,,none
+foxd3,0.30961958,,none
+pancuronium,0.31047443,,none
+pip5k1c,0.309816,,none
+gucy2d,0.31084403,,none
+sardh,0.31011263,,none
+dyspepsia,0.3099944,,none
+calca,0.30964294,,none
+guca1a,0.31048316,,none
+alox5ap,0.3071243,,none
+muc5b,0.3096674,,none
+flg,0.30951804,,none
+cleft palate,0.30923605,,none
+hmgcl,0.31033352,,none
+suprofen,0.31016788,,none
+adrb2,0.3074072,,none
+danazol,0.31031975,,none
+fhl2,0.30767858,,none
+mmp26,0.310058,,none
+ntsr1,0.30895612,,none
+map3k3,0.30979228,0.0,train
+cryz,0.31016788,,none
+ren,0.3088704,0.5,test
+ndufa5,0.31018767,,none
+wfs1,0.3099986,,none
+six3,0.30963376,,none
+nr4a3,0.31085244,,none
+hemostatic disorders,0.30972454,,none
+krt17,0.30714104,,none
+pdgfd,0.30953854,,none
+gpr39,0.3099936,,none
+gpr132,0.31029904,,none
+crym,0.31011367,,none
+gabbr1,0.30937558,,none
+glrx,0.30936486,,none
+mip,0.30980197,,none
+tgm3,0.30610272,,none
+spinal curvatures,0.3100873,,none
+pcsk1,0.30968094,,none
+rivaroxaban,0.31050754,,none
+cnr1,0.30943245,,none
+gcm2,0.30985913,,none
+maml3,0.310017,,none
+ndufs3,0.31020054,,none
+gldc,0.3100003,,none
+ang,0.30878112,0.0,test
+pentazocine,0.31044668,,none
+ppp3cb,0.30978057,,none
+map2k6,0.30944747,,none
+ss18,0.31021526,,none
+nphs2,0.30984277,0.0,train
+tendon injuries,0.31002638,,none
+rax,0.30820128,,none
+mitotane,0.31050062,,none
+ivacaftor,0.31053516,,none
+prkab2,0.31013906,,none
+hyperhomocysteinemia,0.30991632,,none
+chrna10,0.31027097,,none
+trematode infections,0.30967146,,none
+srm,0.30867806,0.0,train
+tln1,0.30875522,,none
+dimenhydrinate,0.31032482,,none
+crotamiton,0.31016788,,none
+skin diseases parasitic,0.30482045,,none
+slc25a13,0.31025657,,none
+alitretinoin,0.3103695,,none
+rarg,0.30936167,,none
+chrnb2,0.31020302,,none
+methoxsalen,0.31018275,,none
+ldb3,0.31027892,,none
+hydrocodone,0.31051674,,none
+pros1,0.31020936,,none
+pik3c2b,0.31000936,,none
+fosinopril,0.31040525,,none
+rap2a,0.30776283,,none
+rad50,0.30942094,,none
+zaleplon,0.31033728,,none
+pde6d,0.31065112,,none
+gpr17,0.31027213,,none
+prkag2,0.3101217,,none
+tnni3,0.30979764,,none
+desvenlafaxine,0.3103353,0.0,train
+creb1,0.30978447,,none
+oas1,0.31006178,,none
+methadone,0.3103802,0.0,test
+thrombocytosis,0.3099219,,none
+sh2b1,0.3101895,,none
+umod,0.3097148,,none
+tusc3,0.30874088,0.0,train
+bumetanide,0.31049508,,none
+oxymorphone,0.31050825,,none
+psenen,0.31013703,,none
+cntnap2,0.31008068,,none
+tourette syndrome,0.31039056,,none
+scd,0.310175,,none
+budesonide,0.3104557,,none
+bone diseases metabolic,0.30962378,,none
+trdmt1,0.31003967,,none
+nfatc4,0.30979443,,none
+gallium nitrate,0.31016788,,none
+aga,0.30996823,,none
+tst,0.3096963,,none
+tnni2,0.3099322,,none
+trps1,0.30975437,,none
+ext1,0.31005952,,none
+ndst1,0.31037995,,none
+ckm,0.31016788,,none
+esomeprazole,0.31036168,,none
+adenoma islet cell,0.2939719,,none
+ucp2,0.30682346,,none
+galt,0.30980745,,none
+cefadroxil,0.3101798,,none
+grhl2,0.30829656,,none
+fgf17,0.3091965,,none
+fgf20,0.30985135,,none
+bezafibrate,0.30345124,0.0,valid
+contracture,0.31048605,,none
+neural tube defects,0.31015113,,none
+hras,0.30803722,,none
+stx4,0.31002322,,none
+calr,0.30754578,,none
+akap13,0.3103233,,none
+trpc4,0.30700642,,none
+agammaglobulinemia,0.28838104,0.0,train
+cyc1,0.31011727,,none
+cars,0.30940872,,none
+yars,0.31004888,,none
+nitisinone,0.31016788,,none
+tgfbr3,0.30937988,,none
+floxuridine,0.31042147,,none
+tymp,0.30579874,,none
+trimethoprim,0.31007513,,none
+vcp,0.3076333,0.25,train
+aox1,0.30904013,,none
+srr,0.3095274,,none
+shmt2,0.3098891,,none
+ddx5,0.31022623,,none
+wdr62,0.3101437,,none
+atp1a3,0.310504,,none
+slc7a4,0.31024545,,none
+ctf1,0.31005985,,none
+slc28a3,0.3095522,,none
+intracranial arterial diseases,0.31011492,,none
+insig2,0.30853578,,none
+tpcn1,0.30729502,,none
+cry1,0.30658802,,none
+gstz1,0.31026244,0.0,test
+gsto1,0.30891585,,none
+pdx1,0.30755788,0.5,valid
+fenofibrate,0.30903468,,none
+slc7a2,0.3094211,,none
+fenoprofen,0.31043026,,none
+gastritis,0.3099983,,none
+marfan syndrome,0.31005502,,none
+grk1,0.3099355,,none
+gnat1,0.30974114,,none
+sf3b4,0.298431,,none
+cdc5l,0.30744797,,none
+tnk1,0.31016833,,none
+sp110,0.310058,,none
+tipranavir,0.310594,,none
+vasculitis central nervous system,0.309651,,none
+pfkm,0.3090944,,none
+xbp1,0.30933353,1.0,valid
+cpb2,0.3099055,,none
+trappc9,0.31017476,,none
+tiagabine,0.31037256,,none
+ercc5,0.30682376,,none
+tetrahydrobiopterin,0.30966356,,none
+phosphatidylserine,0.31020683,,none
+ifitm3,0.30136457,,none
+pola1,0.30945617,,none
+tyrobp,0.30926514,,none
+cdc73,0.30765265,,none
+corneal dystrophies hereditary,0.31013727,,none
+tnfrsf8,0.30843985,,none
+adh1b,0.3064091,,none
+itgb4,0.30884498,,none
+ifnar2,0.31005573,1.0,valid
+chl1,0.3032212,,none
+ddx11,0.30870712,,none
+efemp2,0.3092315,,none
+albinism,0.31044084,,none
+fondaparinux sodium,0.31043527,,none
+mbl2,0.30704853,,none
+krt13,0.3064287,,none
+krt4,0.30932727,,none
+slc22a1,0.30999976,,none
+cd33,0.30889112,,none
+gdf1,0.31036085,,none
+sptlc2,0.31015107,,none
+lubiprostone,0.31016788,,none
+csnk2a2,0.30746263,,none
+captopril,0.31018895,0.0,train
+neb,0.3102367,,none
+malignant mesothelioma,0.30952647,,none
+slc1a3,0.31030166,,none
+kir2ds4,0.31059536,0.0,train
+stomatitis,0.31019187,,none
+thrombophilia,0.3101435,,none
+pnpla2,0.30848324,,none
+ugt1a5,0.31056395,,none
+mapkapk2,0.3099655,,none
+pkp2,0.30977774,,none
+gli1,0.30724204,,none
+amd1,0.31037635,,none
+hsd17b3,0.30930105,,none
+cradd,0.309964,,none
+nail patella syndrome,0.3102067,,none
+rnase3,0.3093073,,none
+triclosan,0.31016788,,none
+atp2a2,0.31022123,,none
+flecainide,0.3103781,,none
+tacstd2,0.30634025,,none
+slc7a9,0.3099103,,none
+slc6a20,0.31001124,,none
+loxl2,0.3047333,,none
+rbbp8,0.31018338,,none
+naproxen,0.31021693,,none
+gabrp,0.31023097,,none
+amn,0.31018788,,none
+adrenoleukodystrophy,0.3096275,,none
+trim24,0.3098809,,none
+vecuronium,0.31048748,,none
+biotin,0.31028426,,none
+prkcz,0.30894426,,none
+bcl10,0.3051931,,none
+ccnd2,0.3064365,,none
+xrcc4,0.30993527,,none
+epha1,0.30839464,,none
+fut2,0.31004393,,none
+emx2,0.30789155,,none
+atp2b3,0.3103665,,none
+atp1a1,0.31007123,,none
+dguok,0.30885035,,none
+fdxr,0.30354068,,none
+cyp7b1,0.3091256,,none
+butorphanol,0.3103512,,none
+hip1,0.30968806,,none
+gclc,0.30562901,,none
+steroid metabolism inborn errors,0.3093356,,none
+c8g,0.30736962,,none
+guanidine,0.31016788,,none
+rhinitis allergic,0.29388735,,none
+norfloxacin,0.3101402,,none
+slc22a2,0.3103267,,none
+msr1,0.3098,,none
+gria1,0.31001833,,none
+grik4,0.310557,,none
+isoprenaline,0.31039768,0.0,train
+tcf3,0.3072589,0.0,train
+gram negative bacterial infections,0.31000343,,none
+krt18,0.30910057,,none
+cd1a,0.30938247,,none
+ventricular dysfunction left,0.31012228,0.3809523809523809,train
+temazepam,0.31035003,,none
+gabre,0.31015956,,none
+piroxicam,0.31005585,,none
+ercc2,0.3046548,,none
+mutyh,0.3056763,,none
+zidovudine,0.30937308,,none
+bmpr2,0.30972022,,none
+chrna1,0.31023246,,none
+pde2a,0.3101405,,none
+eef2,0.30858395,,none
+rps10,0.30896676,,none
+serpind1,0.30952233,,none
+vasp,0.3082703,,none
+fnta,0.31033,,none
+adra2b,0.3102146,1.0,train
+chd2,0.3103294,,none
+cx3cr1,0.30942497,,none
+slc12a5,0.30988017,,none
+stk39,0.30926234,,none
+candidiasis,0.3097206,,none
+f2rl1,0.30994454,,none
+aqp2,0.310143,,none
+acat1,0.30964342,,none
+aco2,0.30994585,,none
+slc18a3,0.31020457,,none
+aipl1,0.31034184,,none
+impg2,0.3102583,,none
+bbs1,0.30986354,,none
+trpv4,0.30966076,,none
+rnd3,0.30795833,,none
+fgfr2,0.30278662,,none
+sat1,0.30611673,,none
+tubb2a,0.3061809,,none
+atox1,0.31036088,,none
+lipe,0.30981156,,none
+impa1,0.309494,,none
+organ transplantation,0.29392433,,none
+msra,0.30929503,,none
+pthlh,0.30717102,,none
+dlec1,0.30380455,,none
+tubb1,0.30653864,,none
+sult1e1,0.3104395,0.3214285714285714,train
+crabp2,0.30996776,,none
+cyp26a1,0.3082715,,none
+c4b,0.3098299,,none
+prrx1,0.30849704,,none
+rps26,0.30999506,0.0,test
+hmga1,0.3027828,,none
+fntb,0.30927518,,none
+grip1,0.3097536,0.0,test
+serpinb3,0.30824336,,none
+atracurium,0.3104603,,none
+netilmicin,0.31053102,,none
+etravirine,0.31055745,,none
+nr1d1,0.3104004,,none
+nr2f2,0.30659813,,none
+nimodipine,0.31055912,,none
+mefloquine,0.31038293,,none
+dihydroergotamine,0.31024623,0.0,train
+triflupromazine,0.310314,,none
+dolk,0.31035262,,none
+dph5,0.3085284,,none
+pergolide,0.31016788,,none
+cefaclor,0.31036356,,none
+fancc,0.30976093,,none
+death sudden,0.30965924,,none
+acsl6,0.31038472,,none
+cefotetan,0.3103579,,none
+pimecrolimus,0.31033325,,none
+kynu,0.30907154,,none
+sox10,0.30905584,,none
+cyp51a1,0.30965254,,none
+lipa,0.3099466,,none
+fosamprenavir,0.31044203,,none
+grin2a,0.31048706,,none
+mchr1,0.31004667,1.0,train
+npy5r,0.31033674,0.0,train
+ptprj,0.30959925,,none
+adora2a,0.30983806,,none
+fhl1,0.30815205,,none
+pigt,0.31028607,,none
+glimepiride,0.30948335,,none
+albendazole,0.31016788,,none
+bard1,0.3076505,,none
+ctsa,0.31004018,,none
+slc11a1,0.30962124,,none
+mmp8,0.31011,,none
+pazopanib,0.31021613,,none
+idiopathic pulmonary fibrosis,0.30957845,0.0,train
+gng4,0.31052294,,none
+mtrf1l,0.31048027,,none
+ahcy,0.30810112,,none
+pole3,0.3100167,,none
+ifnar1,0.30884016,,none
+sphk2,0.30860603,0.0,train
+fbn2,0.30864295,,none
+selp,0.30969203,,none
+ltb4r2,0.30985886,0.0,train
+sibutramine,0.3102385,,none
+ewsr1,0.31007662,,none
+etomidate,0.31016788,,none
+cilostazol,0.3105425,,none
+adra1d,0.31018832,,none
+txnrd1,0.30810478,,none
+exocrine pancreatic insufficiency,0.2927336,,none
+tgm2,0.3086933,,none
+tgm4,0.310189,,none
+metocurine,0.31016788,,none
+dbh,0.3101796,,none
+tolterodine,0.31044918,,none
+nr0b1,0.31038165,,none
+ptgfr,0.31024155,,none
+glaucoma open angle,0.31016573,0.0,train
+mmp13,0.30604422,,none
+ca10,0.3102554,,none
+camta1,0.31003,,none
+ergocalciferol,0.31016788,,none
+siglec1,0.31023642,,none
+agrn,0.30499753,,none
+methacholine,0.30979472,,none
+tctn1,0.30809888,,none
+oaz1,0.3096203,,none
+mn1,0.3088559,,none
+rbx1,0.3060174,,none
+nfs1,0.3102637,,none
+hfe,0.3065225,1.0,train
+atg16l1,0.30916306,0.0,valid
+rab33b,0.31014717,,none
+cbl,0.30796283,,none
+sec14l2,0.3100189,,none
+clcnkb,0.31041005,,none
+ldhb,0.30553913,,none
+ogdh,0.31016752,0.0,valid
+cystic fibrosis,0.30948493,0.5,train
+glyburide,0.3103324,,none
+ucp3,0.3100766,,none
+brd3,0.31004688,,none
+p2ry13,0.30862212,,none
+bendroflumethiazide,0.3099367,,none
+acat2,0.3098469,,none
+procainamide,0.3098908,0.0,valid
+clodronate,0.31044728,,none
+itga6,0.3094448,,none
+arbekacin,0.31040186,,none
+il7r,0.30927926,,none
+snrpa,0.31008112,,none
+meloxicam,0.31034696,,none
+slc26a2,0.30996373,,none
+cyld,0.30899426,,none
+brs3,0.3098767,,none
+phentolamine,0.3102537,,none
+propiomazine,0.31016788,,none
+tmem43,0.3095256,,none
+cpt1a,0.3095855,,none
+hcrt,0.30920666,,none
+birc7,0.30861208,,none
+nrxn1,0.308644,,none
+charcot marie tooth disease,0.30981675,1.0,train
+gngt1,0.31041405,,none
+fatigue,0.30966237,,none
+isoflurane,0.31030652,0.0,train
+rilpivirine,0.31036425,,none
+chlorpropamide,0.31023157,,none
+pax3,0.30915505,,none
+wolfram syndrome,0.3103477,,none
+cox7a1,0.30937004,,none
+acebutolol,0.31047788,,none
+atp2c1,0.31017423,,none
+ppp1ca,0.30969176,0.0,test
+cyclizine,0.31038487,,none
+slc8a1,0.3101115,,none
+carboplatin,0.3099256,,none
+lifr,0.30422872,0.0,train
+oxymetazoline,0.31040972,,none
+abat,0.31046677,,none
+cln3,0.30988565,,none
+cefamandole,0.31016788,,none
+sgcb,0.30960563,,none
+ugdh,0.31023106,,none
+map3k9,0.30982405,,none
+gpx3,0.30905718,,none
+epistaxis,0.31035733,,none
+vps13a,0.31010628,,none
+stx16,0.30649507,,none
+stim1,0.30976593,1.0,valid
+tamsulosin,0.31045157,,none
+ethotoin,0.31039163,,none
+fancg,0.31017902,,none
+fut3,0.31016788,,none
+cnr2,0.30667257,,none
+suv39h1,0.30595443,,none
+nisch,0.31028497,,none
+prx,0.30962506,,none
+met,0.3089197,,none
+cpt1b,0.30907905,,none
+map2k7,0.30866292,0.5,train
+capn1,0.30984455,,none
+l tryptophan,0.31023383,,none
+rpl23a,0.30948833,,none
+rhd,0.31028077,,none
+hla dra,0.30779234,,none
+sulfapyridine,0.31016788,,none
+ptch1,0.3055869,,none
+azapropazone,0.31016788,,none
+ftcd,0.3102848,,none
+hdc,0.3098689,,none
+edrophonium,0.31042615,,none
+ibutilide,0.31016788,,none
+c1qa,0.31017405,,none
+trib2,0.30922318,,none
+dhcr7,0.30421782,,none
+abca5,0.30989826,,none
+ddr2,0.3047145,,none
+ethanolamine oleate,0.31016788,,none
+f12,0.31028545,,none
+griseofulvin,0.31044576,,none
+ptger3,0.31029108,,none
+med12,0.30776173,,none
+itga5,0.30854204,,none
+psap,0.30951303,,none
+pla2g2a,0.3093403,,none
+brain damage chronic,0.31029648,,none
+gypa,0.31037456,,none
+s100a4,0.30283922,,none
+meclizine,0.31033403,,none
+itga4,0.30871156,,none
+rcvrn,0.30740282,,none
+amoxapine,0.31040564,,none
+traf3ip2,0.30963218,,none
+klrd1,0.31013876,0.0,train
+cxcl13,0.30626932,,none
+syne2,0.30479443,,none
+kcnj8,0.3104261,,none
+kcnj2,0.30991888,,none
+cd47,0.30327806,0.0,test
+nin,0.31022334,,none
+spint2,0.30252668,,none
+mlc1,0.3094204,,none
+snta1,0.30957133,,none
+aldh1l1,0.31036258,,none
+hypoaldosteronism,0.31023717,,none
+enox2,0.31016788,,none
+confusion,0.31030512,1.0,train
+dwarfism,0.30990034,,none
+gnmt,0.31020918,,none
+gamma hydroxybutyric acid,0.3103203,,none
+hla dpa1,0.299894,,none
+hla drb5,0.30745727,,none
+succinylcholine,0.31021342,,none
+adora2b,0.3092294,,none
+bag3,0.30997604,,none
+reep5,0.30971068,,none
+pindolol,0.31031463,,none
+apeh,0.31014925,,none
+hyperbilirubinemia,0.3091134,,none
+ca6,0.31015036,,none
+ganciclovir,0.31044158,0.3076923076923077,valid
+yeats4,0.30616426,,none
+isometheptene,0.31035563,,none
+roxithromycin,0.31016788,,none
+nphs1,0.31026113,0.0,train
+hgd,0.30921933,,none
+rosuvastatin,0.31030816,,none
+methocarbamol,0.31030154,,none
+hpgd,0.31025967,,none
+kif22,0.31013748,,none
+smpd1,0.30472726,,none
+pde10a,0.31031445,,none
+gpr88,0.31020635,,none
+hidradenitis suppurativa,0.3084085,,none
+adcyap1r1,0.31034347,,none
+psmb8,0.30838487,,none
+magec2,0.30885628,,none
+chlorphenamine,0.31045943,,none
+tardbp,0.30665386,0.3902439024390244,valid
+hnf4g,0.3098231,,none
+il15ra,0.30946952,,none
+nlgn3,0.31008413,,none
+adam17,0.30651134,,none
+ctsg,0.30949646,0.0,train
+anemia sickle cell,0.3099553,,none
+ap4e1,0.30841735,,none
+arl1,0.30698112,,none
+srprb,0.30960783,,none
+natamycin,0.31016788,,none
+central nervous system infections,0.3101728,,none
+e2f3,0.3056459,,none
+tuba3c,0.30978483,0.0,train
+p2ry2,0.31018224,,none
+tnfrsf1b,0.30872008,,none
+abcb8,0.31011137,,none
+itpka,0.3103208,,none
+plcb3,0.30988488,,none
+rpl21,0.30973768,,none
+clcn6,0.31034422,,none
+slc9a2,0.30996618,,none
+klk7,0.30900976,,none
+sry,0.30955082,1.0,train
+jaundice,0.3098511,,none
+psrc1,0.30739748,0.25,test
+etfdh,0.31008032,,none
+nisoldipine,0.3104643,,none
+dimethyl sulfoxide,0.3101517,,none
+sevoflurane,0.3101637,1.0,train
+chia,0.3104874,,none
+pex1,0.30994606,,none
+mvk,0.30811867,,none
+foxf2,0.3095238,,none
+top2b,0.30972174,,none
+cyba,0.30974913,,none
+donepezil,0.3103319,,none
+csnk1g2,0.31045625,,none
+gdf5,0.3090011,,none
+bag1,0.30935496,,none
+psma1,0.3070228,,none
+tnfaip6,0.30607176,,none
+ppm1a,0.30984798,,none
+lrp4,0.31008476,,none
+corin,0.30445275,,none
+tgm1,0.30978638,,none
+major affective disorder 7,0.31036484,,none
+sirt2,0.31003073,,none
+mybpc1,0.30993316,,none
+adsl,0.31028283,,none
+slc6a13,0.30990243,,none
+pld1,0.30352646,,none
+msx2,0.30974314,,none
+torasemide,0.31038374,,none
+cdh5,0.30847374,,none
+cilastatin,0.31016788,,none
+mllt3,0.30961108,,none
+zoledronate,0.31011665,,none
+sult1b1,0.31032428,0.0,train
+gbe1,0.31044042,,none
+astemizole,0.31022823,,none
+kcnh1,0.31020918,,none
+neoplasms basal cell,0.30949044,,none
+prdx6,0.30851611,,none
+arhgef12,0.30825087,,none
+aanat,0.31024113,,none
+elspbp1,0.30958953,,none
+rxrg,0.31038746,,none
+fexofenadine,0.31030187,,none
+pipecuronium,0.31016788,,none
+deaf1,0.30970058,,none
+cog8,0.3103218,0.0,test
+ppp2cb,0.3087618,,none
+cyp26b1,0.31007427,0.0,test
+isradipine,0.31026468,0.0,valid
+methazolamide,0.3103904,,none
+pex11b,0.31048724,,none
+etfa,0.3100872,,none
+etfb,0.31030393,,none
+nitroglycerin,0.31036794,,none
+malnutrition,0.3100008,,none
+myasthenia gravis,0.31011355,,none
+cyproterone acetate,0.31045446,,none
+tiaprofenic acid,0.31045777,,none
+arg1,0.30901685,,none
+bronchial hyperreactivity,0.31021574,,none
+pomt2,0.3102986,,none
+notch2,0.30768642,,none
+apobec3b,0.3037532,,none
+suclg2,0.30965686,,none
+hypercalcemia,0.3103515,1.0,train
+stra6,0.30865473,,none
+crhbp,0.3103561,0.0,train
+l tyrosine,0.31016788,,none
+lpar3,0.30203357,,none
+bcs1l,0.31025764,,none
+dnm1l,0.31016788,,none
+kcnk2,0.31029686,,none
+cladribine,0.31016788,,none
+ectrodactyly,0.3102272,,none
+camk1g,0.30980223,,none
+anxa1,0.3081462,,none
+prtn3,0.3097715,,none
+nfat5,0.30954865,,none
+pex14,0.3101196,,none
+nkx6 1,0.31176937,,none
+rocuronium,0.3102988,,none
+organophosphate poisoning,0.31025076,,none
+disease progression,0.3100651,,none
+pantoprazole,0.3103073,,none
+multiple endocrine neoplasia type 1,0.29655802,,none
+gestational trophoblastic disease,0.31023976,,none
+mthfd2,0.31021854,,none
+kif2c,0.30609012,0.0,train
+nitrofurantoin,0.31032225,,none
+gnai1,0.30805224,,none
+dgat1,0.30930588,,none
+clp1,0.31016788,,none
+tsen2,0.31016788,,none
+calm1,0.31033608,,none
+fga,0.30955395,,none
+ube2d2,0.30980635,,none
+stx11,0.31023148,,none
+butethal,0.31057602,,none
+ttc19,0.31016788,,none
+tcap,0.31016317,,none
+alox5,0.3093365,,none
+npy1r,0.3051122,,none
+clic5,0.30908868,,none
+grpr,0.30853444,,none
+tusc2,0.31025815,,none
+rag1,0.30976373,,none
+cpox,0.3103136,,none
+dnpep,0.30899644,,none
+enoph1,0.30966562,,none
+rit1,0.30956042,,none
+cst5,0.3078004,,none
+nts,0.30569583,,none
+cox5a,0.31054696,,none
+neurofibromatosis 2,0.31008458,,none
+ramelteon,0.3104745,,none
+hypokalemia,0.3104738,0.0,train
+prkacg,0.30981073,,none
+phenindione,0.3103225,,none
+norgestimate,0.31042907,,none
+pax9,0.30839956,,none
+cdk7,0.30957422,,none
+thra,0.30936944,,none
+tk1,0.30636275,,none
+carteolol,0.31036732,,none
+sstr5,0.3093878,,none
+nell1,0.3099888,,none
+cefoxitin,0.31025738,,none
+fulvestrant,0.31016788,,none
+htr5a,0.31038862,,none
+slc12a3,0.31028858,,none
+brdt,0.31014267,,none
+akr1d1,0.30986252,0.0,train
+ddr1,0.30899283,,none
+decr1,0.31016788,,none
+rheb,0.30927813,,none
+erlotinib,0.31037614,,none
+aminophylline,0.31045714,,none
+enzalutamide,0.3105182,,none
+mln,0.30982476,,none
+agk,0.3099897,,none
+papss1,0.3101301,,none
+ccr8,0.31012264,,none
+ltbp4,0.3094532,,none
+stub1,0.30984154,,none
+isoflurophate,0.3101562,,none
+pravastatin,0.30953714,,none
+mks1,0.31057692,,none
+temporomandibular joint disorders,0.31007323,,none
+neutrophilia,0.31025353,,none
+capreomycin,0.31016788,,none
+sdf2,0.31024954,,none
+iars2,0.31015787,,none
+niacin,0.31033534,,none
+foxe1,0.3098202,,none
+vancomycin,0.30919272,,none
+nsf,0.30999118,,none
+paxip1,0.3095982,,none
+rps14,0.30978203,0.0,valid
+grin2d,0.31011647,,none
+azacitidine,0.31036073,,none
+pkp1,0.31040794,,none
+milrinone,0.31016788,,none
+subcutaneous emphysema,0.3100268,,none
+jup,0.30987367,0.0,test
+nabilone,0.3104531,,none
+mononegavirales infections,0.31038243,,none
+ncan,0.30887395,,none
+metrizamide,0.31016788,,none
+nfkbil1,0.3104233,,none
+alcohol induced disorders,0.30910268,,none
+il21,0.30916026,,none
+rpl3,0.30995354,,none
+nandrolone decanoate,0.31016788,,none
+ethynodiol,0.3101888,,none
+s100a1,0.30975422,,none
+slc25a31,0.3103943,,none
+il4i1,0.30987364,,none
+hsd17b11,0.31019562,,none
+trim32,0.30995175,,none
+lhx3,0.30990762,,none
+dwarfism pituitary,0.31028292,,none
+gjb5,0.310198,,none
+etodolac,0.31046548,,none
+cux1,0.29916212,,none
+slc11a2,0.30833128,,none
+alfacalcidol,0.31032494,,none
+lisuride,0.31016788,,none
+rab9a,0.30996272,,none
+ambenonium,0.31016788,,none
+erf,0.30943802,,none
+pcyt2,0.30782297,,none
+apoc3,0.30954996,,none
+hipk2,0.30953872,,none
+tesk1,0.30953416,,none
+ndufc2,0.31054386,,none
+fst,0.30482757,,none
+mdm4,0.3091089,,none
+mnx1,0.30996168,,none
+betahistine,0.3104057,,none
+cast,0.31037596,,none
+infertility male,0.3099972,,none
+ximelagatran,0.31016788,,none
+c1qbp,0.30245572,,none
+snrpe,0.31037098,,none
+mrpl3,0.31028885,,none
+glmn,0.31016788,,none
+ski,0.30962947,,none
+gng3,0.3076742,,none
+cacng3,0.31016788,,none
+kcnc2,0.31030312,0.0,train
+gk,0.30978024,,none
+venlafaxine,0.31048277,,none
+otof,0.30923462,,none
+mupirocin,0.31016788,,none
+terbinafine,0.31037205,,none
+poikiloderma with neutropenia,0.31017947,,none
+lama1,0.30994502,,none
+magt1,0.30968803,,none
+tspan12,0.30805296,,none
+clcnka,0.31031898,,none
+pex5,0.3103946,,none
+map3k10,0.31007913,,none
+ern1,0.30972952,,none
+slc6a12,0.3083028,,none
+hcrtr1,0.30626202,,none
+tnks,0.30847147,,none
+nck1,0.30810687,,none
+plch2,0.31023705,,none
+slc6a5,0.31038073,,none
+cidec,0.31008434,,none
+stt3a,0.31015497,,none
+alg9,0.31024596,0.0,train
+thrb,0.30997393,,none
+neurod1,0.30919844,,none
+metolazone,0.3104745,,none
+transient erythroblastopenia of childhood,0.31004465,,none
+galr1,0.30993727,,none
+gcat,0.30930266,,none
+ppp2r1a,0.3091515,,none
+retinoschisis,0.31001118,,none
+magel2,0.30943444,,none
+estramustine,0.31044286,,none
+plk2,0.30835566,,none
+pde1a,0.3103549,,none
+map2,0.30893385,,none
+decamethonium,0.31016788,,none
+mkks,0.30949634,,none
+halofantrine,0.31043014,,none
+hspb8,0.30698428,,none
+tmprss3,0.30934408,,none
+dkk3,0.3013843,,none
+tfg,0.3102775,,none
+rad21,0.31023157,,none
+btrc,0.30719906,,none
+auranofin,0.31016788,,none
+adnp,0.30683059,,none
+sema3a,0.30189434,,none
+arf1,0.30802706,,none
+mst1r,0.30663365,,none
+nefazodone,0.3104216,1.0,train
+metoclopramide,0.31041166,0.0,train
+procr,0.31006435,0.0,train
+c5,0.3096153,,none
+embolism,0.3101714,,none
+zopiclone,0.31050453,,none
+secisbp2,0.31027442,,none
+eya1,0.30959442,,none
+crot,0.30979577,,none
+l phenylalanine,0.31034377,0.0,train
+gpx2,0.3043021,,none
+anorexia nervosa,0.30993426,,none
+s1pr5,0.31016415,,none
+cmpk1,0.31021234,,none
+pax4,0.3104089,,none
+crat,0.309903,,none
+srd5a1,0.31019828,,none
+tk2,0.30918342,,none
+pasireotide,0.31018156,,none
+reperfusion injury,0.31014082,,none
+duox2,0.30865833,,none
+pck1,0.30546087,,none
+ikbkg,0.30496466,,none
+nidovirales infections,0.3098754,,none
+gstt2,0.30916104,,none
+pisd,0.31015724,,none
+tumor lysis syndrome,0.2797159,,none
+itgb7,0.3100393,,none
+rps24,0.3073147,,none
+casq2,0.31019357,,none
+arpc2,0.31022257,,none
+wipf1,0.30886215,,none
+wilms tumor,0.28473058,,none
+ticlopidine,0.31033102,0.0,train
+atad2,0.30371818,,none
+methylnaltrexone,0.31016788,,none
+grm7,0.31041223,,none
+hypertrophy,0.30959132,,none
+xylt2,0.3094483,,none
+camk1d,0.30996534,,none
+fcgr3b,0.3100022,,none
+telbivudine,0.31016788,,none
+rorb,0.31031626,,none
+hmgcr,0.3099912,,none
+mark3,0.309848,,none
+fut6,0.31035566,,none
+b4galt2,0.3078079,,none
+casp4,0.30930412,,none
+indapamide,0.31036335,,none
+trpm4,0.31019878,,none
+zfhx3,0.30931488,,none
+col6a3,0.30971527,0.0,test
+eea1,0.30930752,,none
+trpc7,0.31050387,,none
+idh1,0.30969816,,none
+ndufs8,0.31040984,,none
+bpi,0.30910414,,none
+drd4,0.3102809,,none
+casp10,0.30936417,,none
+pold1,0.30999577,,none
+amobarbital,0.31045657,,none
+ugcg,0.3101111,,none
+mohr tranebjaerg syndrome,0.3097106,,none
+mapk8ip1,0.31011435,0.0,test
+prasugrel,0.31027067,,none
+ckmt2,0.31016713,,none
+odc1,0.30513182,,none
+mixed connective tissue disease,0.31012827,,none
+cd81,0.30916342,,none
+gatm,0.31049213,,none
+smox,0.30944005,,none
+nppc,0.31032026,,none
+tbx5,0.3086049,,none
+rgs2,0.3100986,,none
+flurazepam,0.3102876,,none
+elp4,0.31016788,,none
+pipox,0.30964917,,none
+scn4a,0.3103791,,none
+prss1,0.30955583,,none
+krt16,0.30781078,,none
+nematode infections,0.31022152,0.0,train
+folr2,0.3096655,,none
+mestranol,0.31065232,,none
+psmb2,0.31034687,,none
+muc16,0.31005424,,none
+dao,0.30973643,0.0,train
+tgif1,0.30995762,,none
+ceftibuten,0.31030095,,none
+slc26a4,0.30996123,,none
+sult1a3,0.31056193,1.0,train
+epileptic encephalopathy,0.3104876,,none
+ap3b1,0.30441466,,none
+fbxo31,0.31016788,,none
+alogliptin,0.31062603,,none
+hydroxyurea,0.30960995,,none
+tap1,0.30932662,,none
+tap2,0.30497274,,none
+myelodysplastic myeloproliferative diseases,0.30994323,,none
+cefotaxime,0.31016788,,none
+pde3a,0.31015337,,none
+asrgl1,0.310731,,none
+vdac2,0.30713612,,none
+calcidiol,0.31016788,,none
+estropipate,0.31051624,,none
+prkci,0.30970827,,none
+tolazamide,0.3103115,,none
+b4galt1,0.31048205,0.0,test
+pex10,0.3106219,,none
+ddo,0.31063882,,none
+syndactyly,0.30905828,,none
+msrb2,0.31029963,,none
+sdhd,0.30999836,,none
+usp24,0.31017646,,none
+usp1,0.30895,,none
+acly,0.30759728,,none
+asl,0.30958325,,none
+dhtkd1,0.30994812,,none
+sdhc,0.31052986,,none
+fermt1,0.3085049,,none
+kidney transplantation,0.31026357,,none
+agoraphobia,0.31002143,,none
+marimastat,0.30986202,,none
+znf217,0.30958432,,none
+glycopyrrolate,0.31026408,,none
+ctnna3,0.3097394,,none
+ca14,0.3103423,,none
+cckbr,0.30975476,,none
+mlana,0.30998078,,none
+slc13a2,0.31027544,,none
+p4ha1,0.3086506,,none
+oprk1,0.31010586,,none
+dnm2,0.30647326,,none
+permethrin,0.31016788,,none
+atp8a2,0.31040084,,none
+ece1,0.30989897,,none
+dnai2,0.31060058,,none
+varenicline,0.31040186,,none
+sil1,0.30980527,,none
+akr1b10,0.3069517,,none
+slc35a2,0.31038165,,none
+igkc,0.30932653,,none
+gne,0.29892293,,none
+lalba,0.31043178,,none
+mgam,0.30980366,,none
+limb mammary syndrome,0.31013957,,none
+chd4,0.3098395,,none
+abiraterone,0.31046224,,none
+aspa,0.31009808,,none
+ppif,0.3096582,,none
+epb41,0.30071577,,none
+nkx2 5,0.30928734,,none
+xpnpep2,0.31016788,,none
+ftl,0.31015706,,none
+ivl,0.30956954,,none
+tobramycin,0.31030932,,none
+neoplasms ductal lobular and medullary,0.29009488,,none
+srcap,0.30926096,,none
+atp5d,0.30956694,,none
+cyp21a2,0.310283,0.0,train
+flumazenil,0.31027707,,none
+galnt14,0.3070741,,none
+alad,0.30991697,,none
+slc6a8,0.31035933,,none
+lamb2,0.3099488,0.25,train
+lamb3,0.30890703,0.0,valid
+lgals2,0.31012383,,none
+fkrp,0.31031245,,none
+tmprss2,0.31020308,,none
+flucytosine,0.31016788,,none
+polr1d,0.31016788,,none
+krit1,0.3097733,0.325,train
+glutethimide,0.31016788,,none
+il11ra,0.3098279,0.0,test
+gng7,0.3101689,,none
+memory disorders,0.31036478,,none
+ampd3,0.310188,,none
+ergoloid mesylate,0.3103538,,none
+trim33,0.31020427,,none
+dbt,0.30994642,0.0,train
+tmem97,0.30939227,,none
+hpn,0.31000254,,none
+bhmt2,0.3096012,,none
+cacna1c,0.31047937,,none
+loratadine,0.31032225,,none
+pik3r2,0.30929992,,none
+malformations of cortical development,0.3099847,,none
+cyth2,0.3101947,,none
+domperidone,0.31045613,,none
+scn1a,0.31017038,,none
+pancreatitis,0.24794154,,none
+suramin,0.31041914,,none
+troleandomycin,0.31016788,,none
+cd1d,0.3087635,,none
+rnf43,0.3080348,,none
+dhdds,0.31042162,,none
+ascc1,0.31016788,,none
+dhodh,0.30023915,,none
+pik3r5,0.30937603,,none
+ketobemidone,0.31016788,,none
+fubp1,0.30499113,,none
+clk2,0.309895,,none
+srpk1,0.3085894,,none
+arhgef6,0.30958742,,none
+pak3,0.31027243,,none
+plod2,0.30974686,0.0,train
+arthrogryposis,0.31043556,,none
+prkra,0.3102829,,none
+gadoteridol,0.31016788,,none
+sodium stibogluconate,0.31016788,,none
+nitroprusside,0.31033644,,none
+exfoliation syndrome,0.31023666,,none
+myh14,0.31007537,,none
+dym,0.31028786,,none
+wrn,0.30934045,,none
+altretamine,0.31036606,,none
+hsf4,0.3101754,,none
+beclomethasone,0.31016788,,none
+bone marrow neoplasms,0.3073237,,none
+epb41l1,0.3067673,,none
+lrba,0.30998683,,none
+litaf,0.31011912,,none
+phox2b,0.3101436,,none
+efnb1,0.30964634,,none
+ctsh,0.31014436,,none
+methacycline,0.31016788,,none
+fgf3,0.30915108,,none
+zmpste24,0.30818713,,none
+renal tubular transport inborn errors,0.29876247,,none
+mivacurium,0.31016788,,none
+aass,0.31016788,,none
+aldh7a1,0.30981195,,none
+ngly1,0.31053224,0.0,train
+pex6,0.30934584,,none
+lomustine,0.3103333,,none
+onychomycosis,0.31024903,,none
+methylergometrine,0.31016788,,none
+alvimopan,0.31033555,,none
+csrp3,0.3103881,,none
+slco1a2,0.31008163,,none
+l2hgdh,0.30895665,,none
+ceruletide,0.31016788,,none
+snip1,0.30961505,,none
+hs3st3a1,0.30957112,,none
+txnl4a,0.31031564,,none
+dctd,0.31022882,,none
+aldh9a1,0.30988267,,none
+tenoxicam,0.31016788,,none
+srpx2,0.30479443,,none
+itga2,0.30769432,,none
+dnase1,0.31028223,,none
+esmolol,0.31016788,,none
+hemangiosarcoma,0.30916038,,none
+gemifloxacin,0.31026542,,none
+bacterial infections,0.3103641,,none
+bche,0.308997,,none
+nphp4,0.30711553,,none
+krt6a,0.3097118,,none
+gsdmb,0.31032377,,none
+eya4,0.30253404,,none
+lyve1,0.30985397,,none
+mafg,0.3102573,,none
+rimantadine,0.31016788,,none
+vps45,0.31016788,,none
+intervertebral disc displacement,0.30994782,,none
+lig4,0.309683,,none
+trem2,0.3091092,,none
+c8a,0.31007394,,none
+abnormalities multiple,0.31032553,,none
+necap1,0.31016788,,none
+phgdh,0.31023434,0.0,train
+stom,0.31027162,,none
+asph,0.30918965,,none
+slco1b3,0.30471218,,none
+pvalb,0.30353144,,none
+fencamfamine,0.31039137,,none
+tff2,0.3087461,,none
+taldo1,0.30963287,,none
+si,0.30916476,,none
+fosfomycin,0.31016788,,none
+emg1,0.31016788,,none
+rbm28,0.31016788,0.0,train
+mef2a,0.31004345,,none
+sodium bicarbonate,0.3102359,,none
+mapt,0.30705386,1.0,test
+phenylpropanolamine,0.31031218,,none
+bromopride,0.31016788,,none
+deglutition disorders,0.31026876,0.5,train
+l isoleucine,0.31016788,,none
+bcat2,0.30932274,,none
+srd5a2,0.31006348,,none
+sarcoidosis,0.30975714,,none
+havcr1,0.30815288,,none
+cefixime,0.31016788,,none
+marcks,0.30520725,,none
+cdk8,0.30858648,,none
+hgfac,0.30911776,,none
+clcn7,0.31039333,,none
+sstr2,0.3094923,,none
+cerk,0.31019494,1.0,train
+cephaloridine,0.31016788,,none
+dexbrompheniramine,0.31030747,,none
+ciprofloxacin,0.3102739,,none
+rnaseh2a,0.31035212,,none
+sim1,0.29844847,,none
+desloratadine,0.31037408,,none
+lgals7,0.30778205,,none
+nr1h2,0.3098216,,none
+serpinb6,0.31045306,,none
+pklr,0.30876222,,none
+rab11a,0.30886087,,none
+malaria vivax,0.31025186,,none
+gamt,0.31040025,0.0,train
+tacr2,0.3102624,,none
+reg3a,0.30880058,,none
+nadolol,0.3104619,,none
+tnfaip3,0.3088128,,none
+chn2,0.31020692,,none
+gipr,0.31008834,,none
+slc12a7,0.31027716,,none
+kcnj13,0.31036168,,none
+hbg1,0.31021655,,none
+hbg2,0.3104155,,none
+tdgf1,0.30881864,,none
+adamts2,0.31020787,,none
+epidermolysis bullosa,0.31057018,1.0,train
+erap1,0.3100251,,none
+acvrl1,0.3102628,,none
+prf1,0.30937248,,none
+gnrhr,0.3102565,,none
+insl3,0.30998465,,none
+fgf16,0.3103744,,none
+gck,0.3097971,,none
+physostigmine,0.31029713,,none
+nrg2,0.30962744,,none
+pappa2,0.30994612,,none
+hsd11b2,0.3101018,,none
+plcb4,0.30993977,,none
+chlormezanone,0.31043223,,none
+chlorhexidine,0.31016788,,none
+umps,0.30831715,,none
+brd1,0.310373,,none
+slc3a2,0.3097953,,none
+cd52,0.30878463,,none
+psma6,0.3103379,,none
+psma7,0.3090051,,none
+mafk,0.3103476,,none
+vinorelbine,0.30971086,,none
+pralidoxime,0.31016788,,none
+asthenia,0.31011304,,none
+prkcd,0.30879256,,none
+f13b,0.3099114,0.0,valid
+gnl3,0.3035862,,none
+propylhexedrine,0.31026176,,none
+cfd,0.31026256,,none
+immune system diseases,0.3102872,,none
+ift122,0.31003958,,none
+eif3a,0.310008,,none
+conjunctivitis,0.3103566,,none
+chrm2,0.3102732,,none
+ixabepilone,0.31028298,,none
+food hypersensitivity,0.3097261,,none
+azlocillin,0.31026125,,none
+pnlip,0.3092785,,none
+desflurane,0.3101957,1.0,train
+pik3r3,0.30566,,none
+ctsc,0.30946833,,none
+relb,0.3090873,,none
+f7,0.30871284,,none
+cyp2f1,0.30990997,,none
+scarb2,0.30907974,,none
+cldn14,0.30969527,,none
+fth1,0.30860695,,none
+fcn2,0.29972938,,none
+urolithiasis,0.31022477,,none
+tubocurarine,0.31016788,,none
+ptgdr,0.31033155,,none
+epha5,0.30984876,,none
+hrh1,0.31031895,,none
+paricalcitol,0.3101518,,none
+diphenhydramine,0.3104273,,none
+gusb,0.30924806,,none
+ripk2,0.30988237,,none
+ralbp1,0.30854878,,none
+atxn8os,0.310436,,none
+kcna3,0.3102952,,none
+adamts5,0.3081545,,none
+ghrhr,0.31006706,,none
+mlnr,0.31041327,,none
+p2ry1,0.31056482,,none
+bisacodyl,0.31016788,,none
+mut,0.3089194,,none
+ctbp1,0.30897066,,none
+cks1b,0.3094535,,none
+chorioamnionitis,0.30963498,,none
+mc3r,0.30801567,,none
+fludarabine,0.31040627,,none
+mcph1,0.30929106,,none
+levobunolol,0.31033564,,none
+dexfenfluramine,0.31016788,,none
+hnrnpa2b1,0.3040075,,none
+kcna1,0.31012067,0.4166666666666667,valid
+tbxa2r,0.3087535,,none
+mmachc,0.3103164,,none
+hgs,0.31024122,,none
+oxandrolone,0.31018317,,none
+venous malformations,0.3103991,,none
+slc17a3,0.31016788,,none
+pdcd10,0.31035587,1.0,train
+npy2r,0.30962592,,none
+sstr4,0.31019583,,none
+dgka,0.3101546,,none
+slc15a1,0.30965316,,none
+loxl1,0.30900055,,none
+fcer1a,0.30997878,,none
+zfpm2,0.3101659,,none
+ndufb6,0.30934978,,none
+flutamide,0.31033793,,none
+phendimetrazine,0.31046212,0.0,test
+aloxe3,0.31009883,,none
+zfhx4,0.31041947,,none
+wdr60,0.31016788,,none
+ttc21b,0.30969313,,none
+xist,0.30817235,,none
+gale,0.3101429,,none
+mercaptopurine,0.31041667,,none
+ppat,0.31026632,,none
+atp6v1b2,0.30998638,,none
+mccc1,0.30974644,,none
+ppp3r1,0.3100932,,none
+cetrorelix,0.31016788,,none
+chd8,0.30934128,,none
+smarce1,0.30977076,,none
+galnt3,0.30034038,,none
+c1galt1c1,0.30716255,,none
+quazepam,0.3102568,,none
+palonosetron,0.31031016,,none
+bacampicillin,0.31035268,,none
+gclm,0.30941698,,none
+prmt7,0.31029594,,none
+usp9y,0.30985764,,none
+epidermolysis bullosa dystrophica,0.31030902,,none
+adar,0.3096852,,none
+eribulin,0.31025487,,none
+prph,0.30935624,,none
+isosorbide dinitrate,0.3104298,,none
+flucloxacillin,0.31006375,,none
+adcy8,0.31027234,,none
+cmas,0.31052652,,none
+akap9,0.30885214,,none
+coch,0.31029755,,none
+pou4f3,0.31047386,,none
+sqle,0.30434763,,none
+rectal diseases,0.3102717,,none
+prnp,0.30853948,,none
+fah,0.3103768,,none
+hoxa1,0.30884886,,none
+otitis media,0.31012353,,none
+kcnj5,0.31029037,,none
+kcnj9,0.31012845,,none
+nr1i3,0.3097931,,none
+rnf8,0.30619675,,none
+malformations of cortical development group iii,0.30866855,,none
+fto,0.30853638,,none
+plekhm1,0.31027573,0.0,train
+calcium chloride,0.31041965,,none
+cd3eap,0.29701734,,none
+phentermine,0.31016788,,none
+slc12a2,0.3085501,,none
+megalencephalic leukoencephalopathy with subcortical cysts,0.31005767,,none
+arap1,0.30912077,,none
+spry4,0.30861568,,none
+cd84,0.30997565,,none
+cd3g,0.30951968,,none
+acads,0.30921397,,none
+fxyd2,0.30998662,,none
+cox5b,0.31017727,,none
+ganab,0.30937982,,none
+was,0.30909446,0.0,train
+uveitis intermediate,0.31039953,,none
+pdgfb,0.30973706,,none
+tacr1,0.3092221,,none
+galr2,0.30967367,,none
+numa1,0.30905682,,none
+retinitis pigmentosa 2,0.31016955,,none
+rp2,0.3103396,,none
+dobutamine,0.30997306,,none
+htr1d,0.31017458,,none
+sstr1,0.30997202,,none
+slc9a3r2,0.31018838,,none
+ppp1r3a,0.3101791,,none
+hereditary sensory and motor neuropathy,0.30907705,1.0,train
+med13l,0.31045085,,none
+psmb5,0.30869287,,none
+psmb4,0.3095487,,none
+nephrosis,0.30958408,0.0,valid
+busulfan,0.30993873,,none
+nfix,0.3100698,,none
+cd209,0.30942285,,none
+folliculitis,0.31031474,,none
+hpd,0.31004804,0.0,train
+cept1,0.31016788,,none
+46 xx disorders of sex development,0.31022927,,none
+pck2,0.3091203,,none
+mylk,0.30935863,,none
+wnt10b,0.30967563,,none
+carbetocin,0.31016788,,none
+clcn5,0.30703178,,none
+calcipotriol,0.31016788,,none
+dyphylline,0.31033593,,none
+doxapram,0.31014723,0.0,valid
+hypogonadism,0.30996898,,none
+spag1,0.31010178,,none
+phylloquinone,0.31016788,,none
+kif1b,0.30917025,,none
+ugt2b4,0.31004128,,none
+pregabalin,0.31016788,,none
+cct3,0.3055756,,none
+lipf,0.309507,,none
+col5a2,0.30997974,,none
+crtap,0.31043735,,none
+cbr3,0.3104136,,none
+ak2,0.31001222,,none
+slc28a1,0.30978093,,none
+col6a2,0.30969968,,none
+cisapride,0.3104048,0.0,test
+gpi,0.30565697,,none
+slc28a2,0.3096354,,none
+aciclovir,0.31016788,,none
+s100p,0.30787998,,none
+tctn2,0.310217,,none
+clemastine,0.31043845,,none
+col4a5,0.31027743,,none
+sptlc3,0.3097307,,none
+tpsd1,0.31016788,,none
+klk3,0.309563,,none
+neurofibromatoses,0.3100636,,none
+anxa11,0.31028163,,none
+mrps22,0.31040385,,none
+cntn5,0.3103443,,none
+metap2,0.3102157,,none
+phenprocoumon,0.31024453,,none
+phenformin,0.3101955,,none
+fluspirilene,0.31041577,,none
+gpr35,0.3104048,,none
+cd79b,0.30928978,,none
+ercc8,0.31031504,,none
+gp9,0.30990666,,none
+camk2a,0.31004697,,none
+aldob,0.30685538,,none
+fmo1,0.30990407,,none
+st13,0.30978662,,none
+cyanocobalamin,0.31016788,,none
+folr1,0.3102451,,none
+larp7,0.31012404,,none
+constriction pathologic,0.31021014,,none
+valganciclovir,0.31016788,,none
+slc15a2,0.31015882,,none
+medullary thyroid carcinoma,0.30715856,,none
+lenalidomide,0.3099094,,none
+aminolevulinic acid,0.31026435,,none
+ryr1,0.3098413,0.0,train
+bach1,0.30776608,,none
+t,0.30915996,,none
+cholelithiasis,0.30868882,,none
+srpk2,0.31055358,,none
+mtnr1b,0.30944452,,none
+grk4,0.3098177,,none
+sex chromosome disorders,0.3098583,,none
+sodium lauryl sulfate,0.31016788,,none
+spg11,0.30946848,1.0,test
+krt85,0.31008175,,none
+glrx5,0.3097909,,none
+magnesium salicylate,0.31048897,,none
+nucb2,0.3101881,,none
+klf1,0.30986622,,none
+bifonazole,0.31016788,,none
+proc,0.30952045,,none
+cilazapril,0.31009194,,none
+teniposide,0.31044522,,none
+dstn,0.31024426,,none
+mgst3,0.31047967,,none
+acy1,0.3053275,,none
+bromfenac,0.31016788,,none
+auh,0.3093009,,none
+cyp11b1,0.30985215,,none
+lhx2,0.30439273,,none
+hps1,0.31027946,,none
+hmgb3,0.309669,,none
+cd320,0.31009978,,none
+cabazitaxel,0.31043234,,none
+polythiazide,0.31016788,,none
+slco4c1,0.31034613,,none
+benzthiazide,0.31016788,,none
+palld,0.30882958,,none
+b4galt3,0.30855826,,none
+cfp,0.3100558,,none
+keratosis,0.31031457,,none
+sucla2,0.3101523,,none
+gapvd1,0.30910414,,none
+gnat2,0.30996954,,none
+lman1,0.30927134,,none
+pygb,0.30984125,,none
+acox1,0.30887005,,none
+esd,0.31038442,,none
+fbln5,0.30361953,,none
+cyb5r4,0.3098074,,none
+kif5a,0.30948254,0.0,train
+calu,0.30992052,,none
+gastric outlet obstruction,0.3086996,,none
+abcc9,0.31030893,,none
+cocaine related disorders,0.3104319,,none
+benzatropine,0.31016788,,none
+kcna10,0.31035185,,none
+lias,0.31024933,,none
+pdlim4,0.31037632,,none
+sdc3,0.30576065,,none
+map3k14,0.30965784,,none
+setbp1,0.3097867,0.5,train
+tdp1,0.30986255,,none
+akap10,0.3082963,,none
+rgs9,0.3095029,,none
+gata6,0.30112562,,none
+gapdhs,0.30952805,,none
+myh8,0.31040445,,none
+heart neoplasms,0.30829462,,none
+cdc7,0.3039411,,none
+dyrk1b,0.30960852,,none
+nystatin,0.31016788,,none
+nalbuphine,0.31034288,,none
+atp6v0a2,0.3098618,,none
+cidofovir,0.31016788,,none
+levomethadyl acetate,0.31016788,,none
+delayed graft function,0.30976254,,none
+otc,0.30413708,,none
+slc3a1,0.30894357,,none
+bmp5,0.30830127,,none
+blepharoptosis,0.31039837,,none
+palb2,0.30975032,,none
+succinic acid,0.31016788,,none
+slc15a3,0.31016788,,none
+cspg4,0.30992433,,none
+ap1s1,0.31016788,,none
+slc31a1,0.3100697,,none
+flunitrazepam,0.3102689,,none
+lgi1,0.3094043,,none
+colistin,0.31018874,,none
+gnpat,0.30948567,,none
+col6a1,0.3088918,,none
+sgcd,0.31043124,,none
+mmp12,0.30960262,,none
+etonogestrel,0.3103167,,none
+kif2a,0.30900568,1.0,train
+itpa,0.31031892,,none
+c4a,0.3097181,,none
+abdominal pain,0.26016995,,none
+desogestrel,0.3103349,,none
+quinestrol,0.31016788,,none
+alpp,0.31048143,0.0,test
+alppl2,0.3102174,,none
+spasm,0.3102135,,none
+sult1a2,0.31036183,0.0,train
+sult2b1,0.31051219,0.0,valid
+glisoxepide,0.31016788,,none
+aldh5a1,0.31012192,,none
+pick1,0.30927143,,none
+kcnc3,0.31033385,,none
+kcnj12,0.3103989,,none
+myot,0.31026146,,none
+amyloidosis,0.3094786,,none
+gli3,0.30841684,,none
+acp5,0.31003332,,none
+ocular hypertension,0.3104367,0.0,train
+kcnd3,0.310536,,none
+slc4a5,0.30901304,,none
+obsl1,0.30931094,,none
+immunologic deficiency syndromes,0.27513862,,none
+methysergide,0.31016788,,none
+aminoglutethimide,0.31016788,,none
+fam65b,0.30983245,,none
+lactation disorders,0.3103461,,none
+slurp1,0.3097691,,none
+chit1,0.30967322,,none
+bloom syndrome,0.3103958,,none
+pcbd1,0.31041083,,none
+ptch2,0.31015,,none
+bdkrb1,0.3101914,,none
+spta1,0.30601457,,none
+slc16a2,0.31011814,,none
+cog4,0.31016788,,none
+fa2h,0.31022593,,none
+kcnk1,0.3103909,,none
+orm1,0.30995807,,none
+miconazole,0.31027645,,none
+mycoses,0.30964252,,none
+lmf1,0.31000435,,none
+keratitis,0.310301,,none
+renbp,0.310069,,none
+metixene,0.31016788,,none
+lag3,0.30981204,,none
+methemoglobinemia,0.31043613,,none
+mlh3,0.30823714,,none
+serpinb7,0.30994686,,none
+metyrapone,0.31029052,,none
+aurkc,0.30997247,,none
+thymoma,0.30978227,,none
+ciita,0.30903217,,none
+ioflupane i 123,0.31042546,,none
+diaph1,0.3089537,,none
+tia1,0.30842584,,none
+maraviroc,0.3104084,,none
+sms,0.3098985,,none
+fluocinolone acetonide,0.31016788,,none
+clcn1,0.3103282,,none
+myotonia congenita,0.31016985,,none
+rpl26l1,0.31042486,,none
+carbinoxamine,0.3103174,,none
+mapkap1,0.3011175,,none
+hdac5,0.31004605,0.0,train
+shox,0.30889136,0.4,train
+cacng1,0.31041953,,none
+sox3,0.3090306,,none
+iopamidol,0.31016788,,none
+stk17b,0.31018698,,none
+trappc6a,0.3100496,,none
+gcdh,0.30991614,,none
+slc47a1,0.3097514,,none
+kir3dl2,0.3100176,0.0,valid
+ankrd26,0.31016788,,none
+cspp1,0.31027317,,none
+cefpiramide,0.31016788,,none
+adcy7,0.3099498,,none
+rac2,0.31000912,,none
+cxxc4,0.30999097,,none
+edn3,0.30775493,,none
+antipyrine,0.30940926,,none
+dync1h1,0.3088815,,none
+naratriptan,0.31026676,0.0,train
+nudt1,0.30802825,,none
+leber congenital amaurosis,0.30875805,,none
+clk1,0.31018072,,none
+ofd1,0.3097566,,none
+apol1,0.30323258,,none
+lst1,0.31043175,,none
+heart valve diseases,0.31010312,,none
+chlamydia infections,0.31020468,,none
+leukodystrophy metachromatic,0.31027585,,none
+tacr3,0.31019256,,none
+rad54b,0.31023645,,none
+cd207,0.30942905,,none
+wars2,0.30686563,,none
+vasoplegia,0.31034163,,none
+nop10,0.30891934,,none
+bms1,0.3103809,,none
+sgpl1,0.30920705,,none
+nitazoxanide,0.31016788,,none
+s1pr1,0.30988437,,none
+mtmr14,0.3099288,,none
+mtmr2,0.31047451,,none
+adamts1,0.30516383,,none
+trilostane,0.31016788,,none
+rpl10l,0.3100418,,none
+inpp5b,0.3103486,,none
+phenoxybenzamine,0.3103025,,none
+fxr2,0.30975324,,none
+rb1cc1,0.3093948,,none
+igbp1,0.309927,,none
+slc19a2,0.3086603,,none
+cloxacillin,0.31035298,,none
+prps1,0.310377,,none
+arpc5,0.31016788,,none
+pheniramine,0.31033334,,none
+znf750,0.30957174,,none
+dyrk2,0.30960706,,none
+calcrl,0.30926272,,none
+krt2,0.31005627,,none
+famotidine,0.31038696,,none
+ercc4,0.3087591,,none
+txk,0.3103583,,none
+il5ra,0.3100877,,none
+gyg1,0.31026375,,none
+mcat,0.31022096,,none
+quinacrine,0.31016788,,none
+ly96,0.3095896,,none
+hmmr,0.3019469,,none
+farp2,0.309027,,none
+pdxdc1,0.31016788,,none
+mxi1,0.3098813,,none
+appendicitis,0.30995697,,none
+bisoprolol,0.31036842,,none
+myopathies structural congenital,0.3100015,,none
+anastrozole,0.3102735,,none
+trdn,0.31016788,,none
+lcat,0.3059053,,none
+eif2b5,0.3096357,,none
+ager,0.3101092,,none
+gabrg3,0.31014916,,none
+atp10a,0.3101871,,none
+ndn,0.30936965,,none
+cox6a1,0.3101798,,none
+malformations of cortical development group ii,0.30960414,,none
+nuak2,0.31032443,,none
+ccdc6,0.30817032,,none
+parg,0.30757868,,none
+klk2,0.3101599,,none
+guanfacine,0.31050903,,none
+pik3c2a,0.30957806,,none
+alas2,0.30995655,0.0,valid
+fcn3,0.30397245,,none
+sar1b,0.30325726,,none
+mmp25,0.310334,,none
+plod1,0.31047097,,none
+fluorometholone,0.31016788,,none
+montelukast,0.3102763,,none
+testicular diseases,0.3103888,,none
+cchcr1,0.30993938,,none
+mex3c,0.30930784,,none
+antxr1,0.3089755,,none
+krt5,0.31007734,,none
+s100a2,0.30298454,,none
+pacsin2,0.3103153,,none
+exosc8,0.31016788,,none
+rpl35a,0.30684775,,none
+rizatriptan,0.31029943,,none
+quinethazone,0.31016788,,none
+dgcr2,0.3103021,,none
+stil,0.31015,,none
+p2ry4,0.31016737,,none
+aspartame,0.31016788,,none
+lincomycin,0.31039956,,none
+lacosamide,0.31045595,,none
+iscu,0.3100936,,none
+dpm1,0.31053814,,none
+dhcr24,0.3102311,0.0,train
+almitrine,0.31016788,,none
+sox18,0.30949077,,none
+calcinosis,0.3099529,,none
+tsfm,0.31016788,,none
+cldn16,0.31017518,,none
+mcfd2,0.3102282,,none
+slc6a11,0.31035024,,none
+pharyngitis,0.31041035,,none
+ids,0.30970293,,none
+cntfr,0.310389,,none
+graft vs host disease,0.30929473,,none
+adcy3,0.310502,,none
+bmp2k,0.30992603,,none
+tolnaftate,0.31016788,,none
+l histidine,0.31016788,,none
+hnmt,0.3102108,,none
+dock6,0.31020215,,none
+sgsh,0.30884105,,none
+idua,0.31033203,,none
+hsd17b6,0.309482,,none
+arbutamine,0.31016788,,none
+prilocaine,0.31039056,,none
+haloprogin,0.31016788,,none
+foot dermatoses,0.31020582,,none
+mesalazine,0.30963537,,none
+ankrd11,0.31036133,,none
+mkrn3,0.3103786,,none
+gle1,0.31045094,,none
+fcgr2b,0.30980295,,none
+trandolapril,0.31016988,0.0,train
+tnfrsf17,0.30844912,,none
+atp6v1c1,0.3103165,,none
+dapk3,0.3102938,,none
+vismodegib,0.31016788,,none
+p2ry6,0.3105745,,none
+adrbk2,0.31012112,,none
+pik3c3,0.31010056,,none
+notch4,0.30932972,,none
+trpm6,0.30854592,,none
+tsen34,0.31033865,,none
+zic4,0.3100292,,none
+waldenstrom macroglobulinemia,0.30986488,,none
+mgst2,0.31065723,,none
+gnai2,0.31023046,,none
+c2cd3,0.31016788,,none
+hla e,0.30894262,,none
+card9,0.3094431,,none
+polymyxin b sulfate,0.3103688,,none
+irak1,0.30998853,,none
+cpa1,0.31046113,,none
+hao1,0.31042224,,none
+pex3,0.31046915,,none
+chd7,0.3096739,,none
+pyruvic acid,0.31016788,,none
+pgm1,0.308982,,none
+asgr1,0.3102268,,none
+colistimethate,0.31042412,,none
+atp2a1,0.31048205,,none
+arnt2,0.3104163,0.0,valid
+pou6f2,0.31016788,,none
+sec63,0.31016788,,none
+gnb1,0.3079248,,none
+rpgrip1,0.3108126,,none
+sema3e,0.30084902,,none
+crx,0.3105239,,none
+olopatadine,0.31039053,,none
+kcnc4,0.310426,,none
+cefonicid,0.31016788,,none
+cox7b,0.3103917,,none
+dpp8,0.309701,,none
+ampicillin,0.31031567,,none
+il1rl2,0.30963248,,none
+ezogabine,0.31036162,,none
+desmopressin,0.31033778,0.0,train
+aminohippurate,0.31016788,,none
+btnl2,0.31040794,,none
+prdx2,0.30490148,,none
+cacng2,0.31030267,,none
+minpp1,0.30992022,,none
+methsuximide,0.31036252,,none
+serpini1,0.31015757,,none
+upp1,0.30973968,,none
+rai1,0.31005284,,none
+antazoline,0.31016788,,none
+slc6a7,0.31028512,,none
+ush2a,0.3110275,,none
+pdzd7,0.31075618,,none
+premenstrual syndrome,0.31046462,,none
+syn2,0.3101006,,none
+hint1,0.31021398,,none
+blood coagulation disorders inherited,0.30996025,,none
+kcnh6,0.30959532,,none
+cux2,0.30966693,,none
+col17a1,0.30996987,0.8,train
+camlg,0.31006536,,none
+pi4ka,0.310341,,none
+conivaptan,0.3106187,,none
+enflurane,0.31016788,1.0,train
+flavin adenine dinucleotide,0.30970633,,none
+ube2a,0.30976233,,none
+sulfinpyrazone,0.31017685,,none
+naphazoline,0.31039727,,none
+pex12,0.31001425,0.0,valid
+pex13,0.30990234,,none
+pla2g7,0.31024572,,none
+dok5,0.31006613,,none
+nol3,0.3101813,,none
+uremia,0.30974,1.0,valid
+hdac7,0.3086819,,none
+kcnj10,0.31047523,,none
+etoricoxib,0.31016788,,none
+suppuration,0.3103965,,none
+pomalidomide,0.31041607,,none
+fgf14,0.3094148,,none
+tobacco use disorder,0.31017435,,none
+clk3,0.31016588,0.0,train
+heroin,0.31020698,,none
+ntng1,0.31047106,,none
+mgat1,0.31029072,,none
+trpc1,0.30966458,,none
+psen2,0.3095783,,none
+chmp1a,0.31005853,,none
+spast,0.31027645,0.0,train
+bbs9,0.31032082,,none
+slc7a5,0.30948803,,none
+dysmenorrhea,0.31014505,,none
+radiculopathy,0.31017876,,none
+dolasetron,0.31022644,,none
+sco2,0.30991885,,none
+rimexolone,0.31016788,,none
+hs3st1,0.30961677,,none
+hoxa11,0.30972245,,none
+pla2g2d,0.31016788,,none
+slc1a1,0.3100812,,none
+connective tissue diseases,0.31033987,,none
+tcof1,0.30990657,,none
+arpc4,0.31016788,,none
+fkbp10,0.31020164,,none
+hydromorphone,0.31036833,,none
+methyclothiazide,0.31016788,,none
+gltp,0.31034985,,none
+floctafenine,0.31058004,,none
+betaxolol,0.3102708,,none
+fabp2,0.3059415,,none
+fabp6,0.3087769,,none
+coq6,0.3096173,,none
+dpysl2,0.3097503,,none
+talipes,0.31011128,,none
+nafcillin,0.3104324,,none
+slc38a4,0.31016126,,none
+man1b1,0.31016788,,none
+man1a1,0.31022802,,none
+slc12a6,0.3094262,,none
+samhd1,0.31055126,,none
+mpz,0.31045416,,none
+myh9,0.30900335,,none
+iobenguane,0.31038278,,none
+ap1s2,0.30883032,,none
+sall2,0.31005207,,none
+tbx4,0.3102764,,none
+clevidipine,0.31039354,,none
+nr2e3,0.2954033,,none
+uck2,0.30919173,,none
+gars,0.305544,0.0,train
+salsalate,0.31017432,,none
+spondylitis ankylosing,0.3090958,,none
+ppp2r2b,0.3081928,,none
+acadsb,0.31059077,,none
+s adenosylmethionine,0.31029245,,none
+vars,0.30833027,,none
+msmb,0.3103778,,none
+prkag1,0.30990937,,none
+apoc1,0.30954665,,none
+clc,0.30829307,,none
+bedaquiline,0.3104185,,none
+nphp1,0.30986515,,none
+sqstm1,0.30900192,1.0,train
+enoximone,0.31016788,,none
+slc12a4,0.30917975,,none
+aclidinium,0.3104345,,none
+estriol,0.31016788,,none
+kcnj1,0.31013244,,none
+slc16a5,0.31025398,,none
+mid2,0.3101926,,none
+cephalexin,0.3103406,,none
+niflumic acid,0.31016788,,none
+muscular disorders atrophic,0.31024566,,none
+minaprine,0.31016788,,none
+trappc4,0.3102105,,none
+cholecalciferol,0.31016788,,none
+pla2g5,0.31013027,,none
+ilkap,0.30986622,,none
+arsb,0.3084174,,none
+orlistat,0.31030834,,none
+pam,0.31009826,,none
+obsessive compulsive disorder,0.31020692,,none
+agl,0.30999845,,none
+masp2,0.3097764,0.0,train
+xpo1,0.30672285,,none
+gpr143,0.3103413,,none
+hypospadias,0.31025934,,none
+fgf18,0.30964836,,none
+lyme disease,0.31013992,0.0,train
+vangl1,0.30927688,,none
+corneal diseases,0.31027794,,none
+surf1,0.31016788,,none
+hydroxychloroquine,0.30952537,,none
+cerebral small vessel diseases,0.30966175,,none
+topors,0.31006825,,none
+multiple endocrine neoplasia,0.2785579,,none
+pcsk7,0.31029913,,none
+barrett esophagus,0.31035134,,none
+slc2a9,0.31024614,,none
+stanozolol,0.31016788,,none
+tie1,0.30941945,,none
+avpr1a,0.30951706,,none
+vps33b,0.3100565,,none
+npc2,0.31052485,,none
+psmc3ip,0.31010702,,none
+fkbp5,0.30982065,,none
+cefotiam,0.31016788,,none
+slc5a6,0.3100895,,none
+mydriasis,0.31040403,,none
+ndufb1,0.30997512,,none
+nhej1,0.30427903,,none
+lumefantrine,0.31030333,,none
+ptafr,0.31018665,,none
+tularemia,0.31034735,,none
+reep1,0.3103506,,none
+graves disease,0.31003106,,none
+csf3r,0.30952638,0.2352941176470588,train
+fance,0.31023163,,none
+fabry disease,0.31024244,,none
+col11a2,0.31048018,,none
+ptpro,0.30915385,,none
+arformoterol,0.31040367,,none
+ldhal6b,0.3093905,,none
+propylthiouracil,0.31032282,,none
+trophoblastic neoplasms,0.30625802,,none
+p2ry11,0.3103707,,none
+iqsec2,0.31022075,,none
+dicloxacillin,0.3102727,,none
+tubb2b,0.3094684,0.0,train
+methylphenobarbital,0.31016788,,none
+mmp28,0.30888984,,none
+prepl,0.3055323,,none
+sort1,0.31003776,,none
+norrie disease,0.3091808,,none
+kcnb1,0.31026107,,none
+fat4,0.30781403,,none
+grm2,0.310177,,none
+acpp,0.31020448,,none
+teratoma,0.31016788,,none
+znf134,0.31016788,,none
+prdm5,0.30878466,,none
+qdpr,0.3105444,,none
+nucb1,0.31007892,,none
+s100a13,0.3092261,,none
+pde1b,0.310452,,none
+dlg3,0.31025288,,none
+hax1,0.30973825,,none
+gp1ba,0.30975217,,none
+pyridostigmine,0.31029618,,none
+pigo,0.31043187,,none
+ndufb3,0.31048307,,none
+zafirlukast,0.31044748,,none
+zileuton,0.31027395,,none
+brsk2,0.30292034,,none
+hars,0.31042448,,none
+ptprn2,0.3096759,,none
+coccidiosis,0.31009823,,none
+hcn4,0.31008178,,none
+lpin2,0.30969268,,none
+myo9b,0.31029958,,none
+igsf1,0.31016788,,none
+trhr,0.3103214,,none
+lrp1b,0.30781206,,none
+prop1,0.30980211,,none
+actg2,0.30965093,,none
+cngb1,0.31016788,,none
+hyperpigmentation,0.3102936,,none
+slc2a10,0.31017625,,none
+bacitracin,0.31016788,,none
+ifnw1,0.3087155,,none
+arthritis gouty,0.309916,,none
+metabolic diseases,0.3090882,,none
+anks1b,0.30996928,,none
+maff,0.31018087,,none
+dctn1,0.3103113,0.0,test
+scn9a,0.3102679,,none
+scnn1g,0.3103182,,none
+rps19,0.30871534,,none
+ptpn14,0.30941898,,none
+neurologic manifestations,0.3100933,,none
+paics,0.3104093,,none
+fuz,0.31009337,,none
+tmpo,0.3100188,,none
+prdx4,0.30309704,,none
+rpl8,0.31000492,,none
+g6pc,0.3096606,,none
+chrnb1,0.31028318,,none
+cutis laxa,0.31035864,,none
+slc35d1,0.31039602,,none
+slc12a1,0.3063128,,none
+ssrp1,0.30895126,,none
+mepivacaine,0.31036243,,none
+acepromazine,0.3104873,,none
+pygl,0.31016272,,none
+pde8a,0.31031647,,none
+mdh1,0.3087199,,none
+aortic valve stenosis,0.31019023,,none
+smchd1,0.31016788,,none
+hydroflumethiazide,0.3102577,,none
+amrinone,0.31049237,0.5,test
+aptx,0.31049415,,none
+myositis,0.3101217,,none
+lama2,0.3094866,,none
+clps,0.3099731,,none
+b3gat3,0.31039184,,none
+jag2,0.31014857,,none
+piga,0.3095155,,none
+pigv,0.31028014,,none
+nelarabine,0.31036073,,none
+anagrelide,0.31013146,,none
+almotriptan,0.3102529,0.0,train
+chpt1,0.3102431,,none
+chmp2b,0.31028578,,none
+slc34a1,0.30883968,,none
+scap,0.31002635,,none
+atp5a1,0.3089247,,none
+lisdexamfetamine,0.31031856,,none
+craniofacial dysostosis,0.31022468,,none
+tulp1,0.31044725,,none
+epha7,0.3078323,,none
+homoharringtonine,0.31030902,,none
+pargyline,0.31016788,,none
+slc25a12,0.3097619,,none
+skiv2l,0.31035885,,none
+rs1,0.30852687,,none
+pyoderma gangrenosum,0.3104259,,none
+heptabarbital,0.31073508,,none
+qprt,0.3101357,,none
+prodh,0.30926558,,none
+acp2,0.30997214,,none
+pcca,0.3057424,,none
+menthol,0.31016788,,none
+angptl3,0.30988097,,none
+insomnia fatal familial,0.31037277,,none
+acetohydroxamic acid,0.31016788,,none
+soat1,0.30920553,,none
+plce1,0.30887517,,none
+nsd1,0.2974938,,none
+raine syndrome,0.31023768,,none
+ptpre,0.31036934,,none
+rpia,0.30184838,,none
+slco2a1,0.3094667,,none
+schwannomatosis,0.31028396,,none
+lama4,0.31017986,,none
+cfl1,0.30709276,,none
+pyrazinamide,0.31002942,,none
+gestodene,0.31028488,,none
+slc25a1,0.30998126,,none
+aniridia,0.31021747,,none
+gastrointestinal hemorrhage,0.310465,,none
+pemetrexed,0.31047246,,none
+pot1,0.3097771,,none
+sftpa2,0.30939013,,none
+fancf,0.31048715,,none
+anemia aplastic,0.31010887,,none
+frzb,0.31022823,,none
+wwp1,0.31000435,,none
+picornaviridae infections,0.30931395,,none
+dagla,0.30754298,,none
+clotiazepam,0.31024435,1.0,train
+pxdn,0.3091553,,none
+central hypoventilation syndrome,0.30986154,,none
+csf2ra,0.31004468,0.0,train
+ticarcillin,0.31033558,,none
+smith magenis syndrome,0.30976766,,none
+slc16a10,0.31044123,,none
+rpgrip1l,0.29860073,,none
+joubert syndrome 1,0.30559763,,none
+chrna9,0.31025684,,none
+chrna6,0.3103194,,none
+grik5,0.3104988,,none
+bpgm,0.310055,,none
+cacna2d1,0.31018797,,none
+gadodiamide,0.31016788,,none
+alpl,0.3095468,,none
+chrnb4,0.31008756,,none
+erythema,0.3103585,,none
+tdo2,0.3104537,,none
+cacna1f,0.3105308,,none
+angina pectoris,0.3099508,,none
+pethidine,0.3103379,,none
+oxybutynin,0.31040773,,none
+autoimmune lymphoproliferative syndrome,0.26134858,,none
+btd,0.30143946,,none
+kcnd1,0.31048355,,none
+bbs10,0.3102445,0.0,train
+l cysteine,0.30964097,,none
+slc25a20,0.3099363,,none
+pallister hall syndrome,0.30986112,,none
+fshb,0.30982906,,none
+trimethadione,0.31016788,,none
+tmprss11d,0.31026223,,none
+hao2,0.30977583,,none
+myl3,0.3106051,,none
+kif11,0.3038125,,none
+tpk1,0.31045783,0.0,train
+slc19a3,0.30936792,,none
+cortisone acetate,0.3104428,,none
+fastkd3,0.3094732,,none
+mucositis,0.31011102,,none
+p2ry14,0.310286,,none
+carfilzomib,0.30997244,,none
+ush1c,0.31032705,,none
+rab8b,0.3104167,,none
+blvra,0.30999744,,none
+tnnc1,0.31040326,,none
+pde1c,0.3103638,,none
+vac14,0.3100162,,none
+hpse2,0.31010875,,none
+oxprenolol,0.31016788,,none
+bopindolol,0.31016788,,none
+akr1b1,0.31014195,1.0,train
+incontinentia pigmenti,0.30981344,,none
+ptges3,0.30800647,,none
+tmem38b,0.3104216,,none
+ezetimibe,0.31018025,,none
+cytarabine,0.31006435,,none
+slc29a1,0.30583283,,none
+sstr3,0.31007063,,none
+pcnt,0.30992544,,none
+cyp3a43,0.31026426,0.0,valid
+slc39a14,0.31021988,,none
+smpd3,0.30831945,,none
+smpd4,0.30986163,,none
+cep164,0.30103615,,none
+impdh2,0.31038228,,none
+kcnn4,0.31017014,,none
+nox3,0.31014526,,none
+dchs1,0.30968067,,none
+neonatal abstinence syndrome,0.31029257,,none
+lmnb2,0.30815995,,none
+amyl nitrite,0.31038558,,none
+nudt15,0.3097605,,none
+eltrombopag,0.31050393,,none
+muc7,0.30910367,,none
+pemt,0.29912314,,none
+balsalazide,0.31037188,,none
+mfap5,0.3098457,,none
+iron metabolism disorders,0.30968598,,none
+alas1,0.30959925,,none
+vandetanib,0.31026143,,none
+ddost,0.31016788,0.0,test
+cyp2w1,0.31023937,0.0,test
+psmd1,0.3064805,,none
+soat2,0.30989596,,none
+cog7,0.30991325,,none
+asah1,0.30016905,,none
+kcnip1,0.31042594,,none
+krt83,0.31013256,,none
+substance withdrawal syndrome,0.31033635,,none
+tnnt1,0.310169,,none
+pipotiazine,0.31032312,,none
+lower urinary tract symptoms,0.31040686,,none
+gpr182,0.31019098,,none
+cacnb1,0.31045395,,none
+imiquimod,0.31016788,,none
+aspergillosis,0.31004947,,none
+dlx5,0.3099405,,none
+sbf1,0.30998352,,none
+rnf6,0.31024683,,none
+holoprosencephaly,0.310313,,none
+myo3a,0.30958626,,none
+clindamycin,0.3104301,,none
+dermatitis exfoliative,0.31029555,,none
+gphn,0.310373,0.0,valid
+lamp2,0.31018865,,none
+lumiracoxib,0.31016788,,none
+lemd3,0.3099414,,none
+delavirdine,0.31044817,,none
+myelitis,0.3100244,,none
+mccc2,0.31037092,,none
+novobiocin,0.31016788,,none
+pdia2,0.31010777,,none
+card14,0.31010288,,none
+dyrk4,0.30979076,,none
+htra1,0.3092033,,none
+impg1,0.31022087,,none
+rin2,0.30952832,,none
+me2,0.3095527,0.1818181818181818,test
+nup62,0.30957627,,none
+shoc2,0.3080266,,none
+phenmetrazine,0.31027895,,none
+zbtb22,0.31044132,,none
+lig1,0.3096986,,none
+barth syndrome,0.3073955,,none
+cdh3,0.30875054,0.0,train
+krt81,0.30502555,,none
+acss3,0.30961025,,none
+gucy2c,0.30994925,,none
+npr2,0.31068474,,none
+coq9,0.31036842,,none
+ptgir,0.31030545,,none
+nefm,0.30927318,,none
+cfhr4,0.31016788,,none
+art1,0.3100768,,none
+art4,0.3104159,,none
+cyb5r1,0.30922866,,none
+gabrr2,0.3101962,,none
+cnnm2,0.30987376,,none
+cinitapride,0.31016788,,none
+erythema nodosum,0.27890024,,none
+tbce,0.31005505,,none
+adh5,0.31009993,,none
+dgke,0.31055066,,none
+zfyve26,0.31016788,,none
+fyco1,0.31030688,,none
+mras,0.31028458,,none
+mitochondrial diseases,0.31043482,,none
+prkcsh,0.3089699,,none
+clec16a,0.31023252,,none
+gstm2,0.31005782,,none
+opioid related disorders,0.31032994,,none
+asip,0.3101558,1.0,train
+cd96,0.31029132,,none
+bambuterol,0.31016788,,none
+mmp19,0.30982664,,none
+lipoprotein glomerulopathy,0.30800644,,none
+krt75,0.31042632,,none
+rxrb,0.30963698,,none
+slc39a4,0.30413854,,none
+adk,0.3102535,,none
+hus1,0.31009823,,none
+conjugated estrogens,0.30976063,,none
+edar,0.3095985,,none
+fingolimod,0.31031522,,none
+atf5,0.30818707,0.5454545454545454,train
+bronchiectasis,0.30987453,,none
+potassium iodide,0.3103379,,none
+giant cell arteritis,0.30958393,,none
+trospium,0.31016788,,none
+mocs1,0.31033763,,none
+suox,0.31039998,,none
+ifit1,0.30989948,,none
+c7,0.3102732,,none
+chka,0.3083799,,none
+proflavine,0.31016788,,none
+slc45a2,0.31031138,,none
+methyprylon,0.31016788,,none
+glra3,0.30960447,,none
+ephb3,0.30947298,,none
+s100a11,0.30995226,0.0,train
+hetacillin,0.31026056,,none
+hlcs,0.31016752,,none
+lpar1,0.308416,,none
+smarca5,0.30986437,,none
+calcr,0.30961457,,none
+kcnn1,0.31010103,,none
+bicd2,0.30954778,,none
+vwa1,0.31016788,,none
+nop2,0.30950126,,none
+gja4,0.31032023,,none
+forasartan,0.31016788,,none
+cog5,0.31016788,,none
+arvcf,0.31045997,,none
+gpr87,0.30240545,,none
+pde5a,0.3102922,,none
+alx3,0.3099418,,none
+pentolinium,0.31016788,,none
+streptozocin,0.3096086,,none
+axenfeld rieger syndrome,0.31034115,,none
+helminthiasis,0.31012782,,none
+egln2,0.3096892,,none
+dihomo gamma linolenic acid,0.31016788,,none
+plagl1,0.30503902,,none
+trametinib,0.30988154,,none
+rdx,0.3091169,,none
+slc5a4,0.30799595,,none
+mcm6,0.3096128,,none
+rnaseh2b,0.31041893,,none
+lymphangiomyoma,0.31031471,,none
+thnsl1,0.3102809,,none
+amprenavir,0.31016788,,none
+lipg,0.30898178,,none
+xylt1,0.30828378,,none
+c1s,0.31000116,,none
+dusp9,0.30961365,,none
+dextrothyroxine,0.31016788,,none
+stmn4,0.30964407,,none
+arterial occlusive diseases,0.31011534,,none
+chkb,0.31026912,,none
+cdk5rap2,0.30943012,,none
+sv2a,0.3076674,,none
+allylestrenol,0.31016788,,none
+lgals9,0.30684718,,none
+nagk,0.31026557,,none
+porcn,0.30921063,,none
+pde6h,0.31038496,,none
+slc24a1,0.30976504,,none
+clk4,0.3094948,,none
+psma2,0.30967525,,none
+adrenogenital syndrome,0.3101642,,none
+myo7a,0.30931842,,none
+perivascular epithelioid cell neoplasms,0.30716327,,none
+neurog3,0.31002694,,none
+kif1c,0.31016788,,none
+kif4a,0.31013584,,none
+taf2,0.3103366,,none
+npepps,0.31004712,,none
+ttc37,0.31018832,1.0,valid
+cevimeline,0.31016788,,none
+scn3a,0.3102081,,none
+epn1,0.30965158,,none
+hydin,0.31016788,,none
+finasteride,0.3102775,,none
+rgs5,0.30426773,,none
+slc29a2,0.30996263,,none
+miglustat,0.31016788,,none
+ifenprodil,0.31016788,,none
+genetic diseases inborn,0.3088254,,none
+diaph3,0.30994308,,none
+grin2c,0.3102336,,none
+pdyn,0.3102059,,none
+rad51c,0.3086907,,none
+tpp2,0.3097118,,none
+ceacam5,0.30855498,,none
+rabeprazole,0.31006652,,none
+frovatriptan,0.31034443,,none
+pcmt1,0.31039742,,none
+cdkl5,0.31005797,,none
+trim5,0.30979067,,none
+golga5,0.30993852,,none
+myoc,0.31017807,,none
+chst3,0.31016788,,none
+alprostadil,0.31016788,,none
+fmo3,0.31014124,,none
+sec23a,0.31017932,,none
+smc3,0.3104237,,none
+hba2,0.30955812,,none
+foxf1,0.30996767,,none
+articaine,0.3103109,,none
+diphenoxylate,0.31024963,,none
+dacarbazine,0.3101042,,none
+sh3tc2,0.31033382,,none
+paramethasone,0.31016788,,none
+phc1,0.31036773,,none
+red cell aplasia pure,0.3103739,,none
+cep68,0.31002358,,none
+fmo2,0.30958495,,none
+mephentermine,0.310366,,none
+propantheline,0.31026253,,none
+mettl1,0.31032482,,none
+pycr1,0.30958205,,none
+ciclopirox,0.31016788,,none
+sacs,0.31016788,,none
+spastic ataxia,0.31023845,,none
+trappc3,0.31034398,,none
+trappc2,0.31035823,,none
+hypercalciuria,0.30978903,,none
+herpes simplex,0.30979502,,none
+tmem70,0.31036943,,none
+cdh4,0.30800802,,none
+pentosan polysulfate,0.31037793,,none
+tnfsf13,0.30987087,,none
+tead1,0.30922613,,none
+amsacrine,0.31016788,,none
+pde6c,0.31032735,,none
+pde8b,0.3104463,,none
+crygc,0.31024608,,none
+ust,0.31016788,,none
+myh2,0.31018534,,none
+lars,0.31066382,,none
+carmustine,0.31016788,,none
+hesperetin,0.31016788,,none
+lyst,0.30867037,,none
+rpl13a,0.30948007,0.0,train
+polyradiculoneuropathy chronic inflammatory demyelinating,0.31015483,,none
+ercc6,0.30896991,,none
+cfhr1,0.310367,,none
+roflumilast,0.31046823,,none
+plag1,0.3090941,,none
+dpagt1,0.31016788,,none
+dpm3,0.31019908,,none
+nagpa,0.3091466,0.0,train
+fmo5,0.30989194,,none
+phf11,0.31025782,,none
+ctsf,0.30820864,,none
+mmp24,0.31038573,,none
+p2rx3,0.31026608,,none
+glp1r,0.30934644,,none
+alg13,0.31012806,,none
+candoxatril,0.31016788,,none
+vigabatrin,0.3103541,,none
+oxct2,0.31008565,,none
+krt12,0.30844358,,none
+peters anomaly,0.30990458,,none
+nlgn4x,0.30988964,,none
+cbx2,0.3102007,,none
+calcb,0.31035066,,none
+pde4c,0.31036806,,none
+b4galt7,0.31016788,,none
+polyendocrinopathies autoimmune,0.29028082,,none
+alg6,0.31045687,0.0,train
+alg12,0.30895743,,none
+liothyronine,0.310646,,none
+tenofovir,0.31044057,1.0,train
+rarres1,0.30506322,,none
+ranbp2,0.30865285,,none
+trpm3,0.30993807,,none
+ctrc,0.31035307,,none
+nt5c2,0.30965018,,none
+arid5b,0.30978417,,none
+smpx,0.31016788,,none
+slco1c1,0.30992308,,none
+trip11,0.31005627,0.0,train
+ltbp3,0.3073994,,none
+slc5a2,0.3099818,,none
+poliomyelitis,0.3104547,,none
+complex regional pain syndromes,0.31036878,,none
+amlexanox,0.31016788,,none
+slc5a1,0.2996844,,none
+perp,0.3086611,,none
+spata7,0.31039527,,none
+pde6g,0.3100641,,none
+cdkl1,0.3103156,,none
+col7a1,0.31035867,,none
+znf385d,0.31016788,,none
+znf804a,0.31024864,,none
+egfl7,0.3095686,,none
+suclg1,0.3099374,,none
+muir torre syndrome,0.31032822,,none
+cyp2u1,0.3093564,,none
+herpesviridae infections,0.31000435,,none
+ppcdc,0.30959642,,none
+clorazepate,0.3103461,,none
+bahd1,0.31016788,,none
+nudt9,0.31030458,,none
+flushing,0.30943587,,none
+slc35c1,0.30564597,,none
+ift140,0.30993432,,none
+epoprostenol,0.31039178,1.0,valid
+nalidixic acid,0.31016788,,none
+ptges,0.31039473,,none
+premature ejaculation,0.31039515,,none
+cinacalcet,0.31033105,,none
+slc25a6,0.3102339,,none
+azelaic acid,0.31016788,,none
+methyltestosterone,0.31016788,,none
+phenacemide,0.31016788,,none
+skin diseases viral,0.31023923,,none
+miglitol,0.31016788,,none
+plch1,0.30974773,,none
+pi4kb,0.31046346,,none
+slc25a38,0.31030625,,none
+adenosine monophosphate,0.31024873,,none
+myotonic disorders,0.3100693,,none
+gdi1,0.31049985,0.0,train
+valaciclovir,0.31016788,,none
+letrozole,0.3103309,,none
+srp19,0.31016788,,none
+dactinomycin,0.3100441,,none
+atp4a,0.31055734,,none
+pityriasis,0.31028864,,none
+f5,0.31010747,,none
+apol2,0.31016788,,none
+vasculopathy,0.3101833,,none
+clic2,0.3103164,,none
+nup214,0.30977935,,none
+dermatomycoses,0.31024802,,none
+ecel1,0.30971357,,none
+krt9,0.31014097,,none
+top1,0.31016788,,none
+cinnarizine,0.31016788,,none
+pdgfrl,0.31037432,,none
+b4galt4,0.3105552,,none
+lysinuric protein intolerance,0.31042045,,none
+kcnmb1,0.31006175,,none
+dhrs4,0.31044272,,none
+rpe65,0.3103972,,none
+lpar2,0.3056403,,none
+cacna1i,0.31042546,,none
+furazolidone,0.31016788,,none
+kif1a,0.30948433,,none
+fzd7,0.30816334,,none
+bardet biedl syndrome,0.31012416,,none
+npc1l1,0.3102407,,none
+hcp5,0.31016788,,none
+fig4,0.31049472,,none
+invs,0.31023553,,none
+map1a,0.31035525,,none
+cefpodoxime,0.3104252,0.0,train
+avpr1b,0.31016108,0.0,valid
+steap3,0.30997097,,none
+akr7a2,0.30566943,,none
+lmbrd1,0.3097318,,none
+cln6,0.31022567,,none
+bfsp1,0.3102563,,none
+psmb6,0.30960566,,none
+ichthyosiform erythroderma congenital,0.30957195,,none
+cabp2,0.31016788,,none
+phka1,0.31024322,,none
+lrig2,0.30988035,,none
+taf4b,0.31003475,,none
+pdzrn3,0.31016788,,none
+gjb3,0.31039938,,none
+setd4,0.3097217,,none
+amhr2,0.31018558,,none
+ldhc,0.30610573,0.0,test
+pivampicillin,0.31038344,,none
+rickets,0.30972886,,none
+neuromyelitis optica,0.30933797,,none
+pnliprp2,0.31023973,,none
+linaclotide,0.31016788,,none
+epm2a,0.31016788,,none
+s100g,0.3093663,,none
+isosorbide mononitrate,0.31045067,,none
+anxa3,0.30970758,,none
+ehf,0.3070982,,none
+gray platelet syndrome,0.31031823,,none
+phox2a,0.31042036,,none
+ccdc28b,0.31027165,,none
+sema4a,0.31009108,,none
+retapamulin,0.31033602,,none
+bone marrow failure disorders,0.310503,,none
+pamidronate,0.3100941,,none
+fip1l1,0.30902272,,none
+kif5c,0.30483654,0.0,train
+alx4,0.30993217,,none
+juvenile polyposis syndrome,0.3096045,,none
+pcyt1b,0.30762607,,none
+gpr18,0.30941314,,none
+gpr183,0.31021225,,none
+esrrg,0.3090081,,none
+tioguanine,0.31016788,,none
+adcy2,0.31002635,,none
+pfkfb4,0.31034726,,none
+fpr3,0.31041917,,none
+glp2r,0.31017256,,none
+hla dob,0.31016788,,none
+eml4,0.31003213,,none
+trimethylaminuria,0.31030753,,none
+nervous system autoimmune disease experimental,0.30874273,,none
+hrg,0.30546752,,none
+acetyldigitoxin,0.31016788,,none
+plcl2,0.31036994,,none
+ephb1,0.309357,,none
+tropical calcific pancreatitis,0.2764954,,none
+magea1,0.3099585,,none
+tesk2,0.31016788,,none
+clidinium,0.31029886,,none
+smn2,0.31012553,,none
+osteolysis,0.30981916,,none
+tbl1xr1,0.30982405,,none
+idoxuridine,0.31016788,,none
+bbox1,0.31017962,,none
+rabep1,0.31035602,,none
+halazepam,0.3099299,,none
+methantheline,0.31016788,,none
+meprobamate,0.3102385,,none
+carprofen,0.31016788,,none
+gjc2,0.3098995,,none
+cpn1,0.3097292,,none
+caspofungin,0.31016788,,none
+nitroxoline,0.31016788,,none
+alternating hemiplegia of childhood,0.3103694,,none
+aluminium,0.3100153,,none
+psmb10,0.31008643,,none
+tnfrsf11a,0.31004727,,none
+cilp,0.31006795,,none
+hydroxocobalamin,0.31016788,,none
+ifna5,0.31004408,,none
+pnkp,0.31052405,,none
+lbr,0.29861617,,none
+nevus,0.30926424,,none
+cytisine,0.31027937,,none
+hcfc1,0.3093279,,none
+slc16a8,0.3101122,,none
+ddhd2,0.31016788,,none
+skin ulcer,0.31033817,,none
+p2ry10,0.31054547,,none
+gpr31,0.31018746,,none
+cebpe,0.30981413,,none
+deaf blind disorders,0.31011814,,none
+habp4,0.31016788,,none
+gnb1l,0.3086088,,none
+penicillin v,0.31016788,,none
+gigyf2,0.31036305,,none
+tdrd7,0.31016788,,none
+atrial flutter,0.3101292,,none
+tbc1d1,0.31039542,,none
+adefovir dipivoxil,0.310389,,none
+indacaterol,0.3103441,,none
+adora3,0.31011614,,none
+somatosensory disorders,0.31017035,,none
+grm8,0.31013075,,none
+uqcrq,0.31049174,,none
+elac2,0.30961153,0.1666666666666666,test
+regadenoson,0.31023496,,none
+maxillofacial abnormalities,0.3105366,,none
+jph2,0.31017426,,none
+dna2,0.31047177,,none
+pou2f2,0.3089824,,none
+capg,0.30923462,,none
+pign,0.3104346,,none
+pgap1,0.31056705,,none
+agap1,0.31016788,,none
+chn1,0.31016788,,none
+biperiden,0.31016788,,none
+prss3,0.30984715,,none
+tpsab1,0.3100859,,none
+avpr2,0.31033736,,none
+colestipol,0.3103406,,none
+wnt5b,0.3105251,,none
+apbb2,0.31040293,,none
+nance horan syndrome,0.31020692,,none
+gsta3,0.30950335,,none
+nandrolone phenpropionate,0.31016788,,none
+amelx,0.3103427,,none
+dermatitis herpetiformis,0.31008863,1.0,train
+mlycd,0.31027716,,none
+hoxd13,0.31022426,,none
+myoz2,0.3101791,,none
+slc44a4,0.30408356,,none
+radium ra 223 dichloride,0.31016788,,none
+plekha1,0.31036195,,none
+pdc,0.3102583,,none
+ptk6,0.3027073,,none
+glrx2,0.31042162,,none
+cefoperazone,0.31016788,,none
+zbtb24,0.31053144,,none
+telavancin,0.31035253,,none
+slc4a10,0.3099044,,none
+myopia,0.31003273,,none
+med25,0.31022906,,none
+khk,0.30890667,,none
+sjogren larsson syndrome,0.31019706,,none
+propericiazine,0.31016788,,none
+multiple endocrine neoplasia type 2a,0.29529333,,none
+znf365,0.31016788,,none
+uba1,0.30991918,,none
+polyhydramnios,0.310358,1.0,train
+gsta4,0.3099078,,none
+arpc3,0.31016788,,none
+arpc1b,0.30999577,,none
+cinolazepam,0.31029257,,none
+pqbp1,0.3103327,,none
+endolymphatic hydrops,0.3103432,,none
+myt1l,0.31016788,,none
+bernard soulier syndrome,0.31016788,,none
+tmco1,0.31016788,,none
+cdipt,0.31016788,,none
+oxacillin,0.31033278,,none
+dyclonine,0.31016788,,none
+benzyl benzoate,0.31016788,,none
+ahi1,0.31011644,,none
+cohen syndrome,0.3099579,,none
+cefalotin,0.31016788,,none
+unc93b1,0.3100704,,none
+glucosephosphate dehydrogenase deficiency,0.30955246,,none
+tanc2,0.31016788,,none
+peritonitis,0.30960357,,none
+warts,0.3103469,,none
+vdac3,0.31015489,,none
+lztfl1,0.31033328,,none
+polyneuropathies,0.31032017,,none
+krt86,0.30995095,,none
+klk14,0.3097992,,none
+tasosartan,0.31016788,,none
+med17,0.3103885,,none
+c1r,0.30968654,,none
+nek11,0.30949396,,none
+gmpr,0.3098963,,none
+carbenicillin,0.31016788,,none
+grik3,0.3104229,,none
+luc7l2,0.31045517,,none
+udenafil,0.31016788,,none
+adcy6,0.31042093,,none
+cep152,0.3071743,,none
+long qt syndrome,0.30966067,,none
+cln5,0.31026304,,none
+ebp,0.30999145,,none
+eif2b4,0.30980912,,none
+slc30a10,0.3103218,,none
+apoa2,0.30982298,,none
+klhl7,0.31047934,,none
+cefazolin,0.31030154,,none
+gentian violet,0.31016788,,none
+trichotillomania,0.31026295,,none
+crybb2,0.3102366,,none
+crybb3,0.31023315,,none
+rnf139,0.31001207,,none
+tripelennamine,0.31016788,,none
+aldh18a1,0.30895594,,none
+dicyclomine,0.3102635,,none
+tooth abnormalities,0.3103679,,none
+abhd5,0.30905843,,none
+pde9a,0.31046486,,none
+pip5k1a,0.31030938,,none
+zalcitabine,0.31016788,,none
+night blindness,0.31030074,,none
+selenium sulfide,0.31016788,,none
+sulfanilamide,0.31016788,,none
+mequitazine,0.31034765,,none
+liver transplantation,0.15657859,,none
+l serine,0.3102961,,none
+alg8,0.310619,0.0,train
+sptbn1,0.3083846,,none
+p2rx2,0.31001797,,none
+taok1,0.31029004,,none
+ciclesonide,0.31016788,,none
+dpep1,0.30559626,,none
+myo1e,0.31008705,,none
+ntsr2,0.31020963,,none
+dmxl2,0.31016788,,none
+dutasteride,0.31026292,,none
+etidocaine,0.31016788,,none
+snowflake vitreoretinal degeneration,0.31025767,,none
+dsc3,0.3090519,0.0,train
+lactulose,0.31028226,,none
+dse,0.31007865,,none
+trex1,0.31028256,,none
+gmppa,0.30996212,,none
+keratoderma palmoplantar,0.31027424,,none
+osteoporosis pseudoglioma syndrome,0.3103058,,none
+cryaa,0.31016788,,none
+tigecycline,0.31016788,,none
+iodipamide,0.31016788,,none
+hyoscyamine,0.3103046,,none
+tofisopam,0.3102372,,none
+masp1,0.30997273,,none
+tnnt3,0.3104539,,none
+plicamycin,0.31016788,,none
+tars,0.30990094,,none
+lamc3,0.31048158,,none
+diosmin,0.31016788,,none
+plp1,0.3097913,,none
+fospropofol,0.31016788,,none
+dapp1,0.31004095,,none
+gosr2,0.31049326,,none
+plekha4,0.3103422,,none
+acetophenazine,0.31045273,,none
+rheumatoid nodule,0.2764566,,none
+facial neuralgia,0.31016508,,none
+gja5,0.3101537,,none
+gpd1l,0.30980185,,none
+tspyl1,0.3100209,,none
+pof1b,0.30893028,,none
+pyridoxal,0.31016788,,none
+arl2bp,0.31016788,,none
+mucopolysaccharidoses,0.3102977,,none
+slc13a3,0.310367,,none
+ank2,0.30994862,,none
+rras2,0.3103659,,none
+tcirg1,0.31030217,,none
+ankh,0.30993903,,none
+carbimazole,0.31016788,,none
+abp1,0.31016788,,none
+kcnmb3,0.31016788,,none
+paronychia,0.310156,,none
+hereditary autoinflammatory diseases,0.31039923,,none
+polyradiculoneuropathy,0.31015483,,none
+bdh1,0.3105387,,none
+pctp,0.30734053,,none
+ampd2,0.31028005,,none
+phenazopyridine,0.31016788,,none
+myo5a,0.30841357,,none
+pmp2,0.30821413,,none
+onchocerciasis,0.3102575,,none
+cryptorchidism,0.31013337,,none
+rfk,0.31005144,,none
+tshb,0.31023455,,none
+cyth3,0.3040022,,none
+adcy10,0.31017262,,none
+htr3b,0.3102957,,none
+ertapenem,0.31016788,,none
+lucanthone,0.31016788,,none
+mlf1,0.30964828,,none
+gfi1b,0.31013402,,none
+bank1,0.30990127,,none
+otitis externa,0.31031924,,none
+sptbn2,0.31013238,,none
+tyro3,0.30847892,,none
+trim13,0.30966341,,none
+lamb1,0.30987886,1.0,test
+bone resorption,0.31036207,,none
+alagille syndrome,0.3101275,,none
+hoxc13,0.31000638,,none
+rab28,0.310572,,none
+alkalosis,0.3103711,,none
+pelger huet anomaly,0.30995366,,none
+pdf,0.31014517,,none
+pdss2,0.29843548,,none
+pvt1,0.30346218,,none
+med23,0.3086562,,none
+robo3,0.3075708,,none
+lpp,0.31011102,,none
+gatifloxacin,0.31016788,,none
+prpf4,0.30933753,,none
+glrb,0.31022117,,none
+ibudilast,0.31016788,,none
+trovafloxacin,0.31016788,,none
+proguanil,0.31029528,,none
+ospemifene,0.31039485,,none
+hypoparathyroidism,0.31014398,,none
+marijuana abuse,0.31025094,,none
+lrat,0.30076078,,none
+spondylarthritis,0.30996117,,none
+tocainide,0.31016788,,none
+mamld1,0.3103855,,none
+l citrulline,0.31016788,,none
+post traumatic stress disorder,0.31033465,,none
+dspp,0.30983433,,none
+oxamniquine,0.31016788,,none
+rab3gap1,0.30898014,,none
+pacs1,0.30911958,,none
+thioproperazine,0.31016788,0.8,test
+dlg5,0.31027552,,none
+ehmt1,0.31027567,,none
+ctns,0.31026375,,none
+sec23b,0.2928764,,none
+kcnv2,0.31040794,,none
+macitentan,0.31049824,,none
+choroideremia,0.31030345,,none
+microphthalmos,0.30967668,,none
+rbck1,0.31006706,,none
+rnf216,0.30685827,,none
+carcinoma islet cell,0.26099765,,none
+yars2,0.31017965,,none
+staphylococcal skin infections,0.31029737,,none
+atovaquone,0.31028363,,none
+polr2a,0.30966675,,none
+rgs17,0.31033963,,none
+polr1c,0.31016788,,none
+b4galnt1,0.31016788,,none
+levocabastine,0.3102997,,none
+hapln1,0.31021798,,none
+mcc,0.308608,,none
+speg,0.31016788,,none
+azilsartan medoxomil,0.3104249,,none
+slc22a18,0.31017652,,none
+heart rate,0.31035042,,none
+nerve compression syndromes,0.30982885,,none
+gp5,0.31017473,,none
+pafah1b3,0.30677015,,none
+tauroursodeoxycholic acid,0.3101254,,none
+l proline,0.3103139,,none
+abnormalities drug induced,0.3103425,,none
+voglibose,0.31016788,,none
+ingenol mebutate,0.31016788,,none
+shc3,0.31030926,,none
+nkx3 2,0.30996,,none
+peroxisomal disorders,0.30986694,,none
+nek7,0.31016788,,none
+lactose intolerance,0.31031567,,none
+common variable immunodeficiency,0.3103324,,none
+icoslg,0.30976775,,none
+kat2a,0.31028667,,none
+sncb,0.31016818,,none
+eif2b1,0.30991375,,none
+slc22a11,0.31030932,,none
+pdk3,0.3077214,,none
+snrnp200,0.3106428,,none
+ggcx,0.30928725,,none
+itih3,0.31054878,,none
+ezh1,0.31032392,,none
+bst1,0.3101565,,none
+aoah,0.31032595,,none
+tolazoline,0.31016788,,none
+wdr19,0.3103791,,none
+apoh,0.30947736,,none
+csta,0.30994186,,none
+tetrahydrofolic acid,0.31016788,,none
+hadha,0.3052711,,none
+myh6,0.31026173,,none
+oxiconazole,0.31016788,,none
+pex16,0.31038028,,none
+trim2,0.30963254,,none
+tctn3,0.31016788,,none
+felypressin,0.31016788,,none
+gadobenate dimeglumine,0.31020895,,none
+mab21l2,0.31016788,,none
+osteitis deformans,0.31005794,,none
+desoximetasone,0.31016788,,none
+grm4,0.30992657,,none
+pipobroman,0.31016788,,none
+meticillin,0.3103548,,none
+prcc,0.30483422,,none
+benzyl alcohol,0.31016788,,none
+ogfod1,0.3104412,,none
+zic3,0.30985302,,none
+en2,0.3095476,,none
+sexual dysfunction physiological,0.31026834,,none
+arsa,0.31007487,,none
+gfer,0.30948102,,none
+ifngr2,0.31039107,,none
+nbea,0.30981246,,none
+kiaa0319,0.30980533,,none
+pde7b,0.3101703,,none
+kir2dl2,0.31053793,0.0,train
+ndufa9,0.3068193,,none
+hypophosphatemia,0.31027362,,none
+treatment failure,0.31028432,,none
+tpm2,0.3101624,,none
+cpa2,0.31035936,,none
+slc36a1,0.31035218,,none
+manba,0.31034428,,none
+ppig,0.3096162,,none
+aspn,0.30985868,,none
+dinoprostone,0.31016788,,none
+rtn2,0.30964607,,none
+sobp,0.30967078,,none
+l methionine,0.31016788,,none
+tbx6,0.30981535,,none
+kcna2,0.3098544,,none
+magec1,0.30921108,,none
+shc2,0.31008828,,none
+prdm16,0.30982152,,none
+diloxanide,0.31016788,,none
+magea3,0.3099562,,none
+nilvadipine,0.31016788,,none
+spastic paraplegia 11,0.31039938,,none
+lilrb5,0.31016788,,none
+slc30a9,0.31022575,,none
+hydroxystilbamidine isethionate,0.31016788,,none
+cisatracurium besylate,0.31018803,,none
+incadronate,0.31016788,,none
+pank2,0.31043184,,none
+werner syndrome,0.31019968,,none
+hemophilia b,0.31029546,,none
+clofedanol,0.31028312,,none
+tecta,0.30932236,,none
+olsalazine,0.31016788,,none
+dnai1,0.31016788,,none
+pkd2l1,0.31029665,,none
+mas1,0.31033343,,none
+rxfp3,0.31036073,,none
+bicc1,0.31020546,,none
+prazepam,0.31016788,,none
+pneumothorax,0.30998024,,none
+pabpn1,0.31005663,,none
+c2,0.3101999,,none
+mmp27,0.31009218,,none
+padi3,0.3100993,,none
+man2b1,0.3104549,,none
+drug hypersensitivity,0.31020367,,none
+gpa33,0.2968226,,none
+padi1,0.3081126,,none
+moricizine,0.31016788,,none
+ldlrap1,0.3103233,,none
+pulmonary alveolar proteinosis,0.3103121,,none
+pralatrexate,0.3104246,,none
+slc16a6,0.30551773,,none
+podofilox,0.31016788,,none
+condylomata acuminata,0.31016788,,none
+neuronal ceroid lipofuscinoses,0.31022567,,none
+gpsm2,0.31036708,,none
+foscarnet,0.31031558,,none
+prostatic hyperplasia,0.31021717,,none
+pitpna,0.31048232,,none
+senp3,0.3101666,,none
+cyanosis,0.31031278,,none
+intracranial hemorrhage traumatic,0.3101199,,none
+canavan disease,0.3101592,,none
+sezary syndrome,0.30977395,,none
+androgen insensitivity syndrome,0.31034675,,none
+ppp2r1b,0.3068835,,none
+ffar2,0.30752024,,none
+htr1f,0.31033012,,none
+kcnmb2,0.31016788,,none
+beckwith wiedemann syndrome,0.30984056,,none
+mitiglinide,0.31016788,,none
+cldn18,0.29875603,,none
+adh7,0.31017405,,none
+micb,0.30301872,,none
+cmklr1,0.3100487,,none
+iopanoic acid,0.31016788,,none
+nup155,0.31033856,,none
+vulvar diseases,0.31020617,,none
+stxbp2,0.31041464,,none
+gonadal dysgenesis,0.31033063,,none
+dermatitis atopic,0.3102484,,none
+fundus albipunctatus,0.30698797,,none
+travoprost,0.31016788,1.0,valid
+plekha6,0.31016788,,none
+craniomandibular disorders,0.3102538,,none
+meclofenamic acid,0.31016788,,none
+p2rx1,0.3103085,,none
+cyp4f12,0.3105917,,none
+paralyses familial periodic,0.31034625,,none
+tssk2,0.3103426,,none
+hs6st1,0.30919132,,none
+ssx2,0.31013104,,none
+ca5b,0.31016788,,none
+methoxyflurane,0.31016788,,none
+stavudine,0.31016788,,none
+ethionamide,0.31016788,,none
+lig3,0.31022152,,none
+setx,0.30976588,0.0,valid
+mpv17,0.31032243,0.4,train
+ncstn,0.3023417,,none
+gdf3,0.30950686,,none
+erythrityl tetranitrate,0.31016788,,none
+foxi1,0.31034008,,none
+dorzolamide,0.31016788,0.0,train
+diclofenamide,0.3103516,0.0,test
+n acetyl d glucosamine,0.31016788,,none
+naglu,0.3091138,,none
+slc37a4,0.31016788,,none
+steap1,0.30817157,,none
+aminophenazone,0.31016788,,none
+crispld2,0.3101161,,none
+mylip,0.31011108,,none
+lrpap1,0.30570954,0.0,train
+dental enamel hypoplasia,0.3103055,,none
+dbi,0.3026601,,none
+mtm1,0.31024173,,none
+nfe2l1,0.31035504,,none
+liotrix,0.31036645,,none
+ubiad1,0.31018683,,none
+hypoactive sexual desire dysfunction,0.31026834,,none
+mitochondrial complex i deficiency,0.31047118,,none
+mpdu1,0.310279,,none
+echs1,0.30682302,,none
+samd9,0.3103314,,none
+alx1,0.31027117,,none
+col8a2,0.31017563,,none
+c8b,0.307105,,none
+panx1,0.31015,,none
+iodixanol,0.31016788,,none
+22q11 deletion syndrome,0.31025556,,none
+wf10,0.31016788,,none
+cefradine,0.31016788,,none
+kir2ds2,0.31045747,,none
+glucose galactose malabsorption,0.30998757,,none
+alprenolol,0.31016788,,none
+glra1,0.3101444,,none
+fktn,0.31016788,0.0,train
+cefditoren,0.3103559,,none
+pcsk2,0.3103245,,none
+imipenem,0.31016788,,none
+hypophosphatemia familial,0.31012055,,none
+buclizine,0.31016788,,none
+lornoxicam,0.31016788,,none
+zmynd10,0.31012753,,none
+trimethobenzamide,0.31027105,,none
+crouzon syndrome with acanthosis nigricans,0.27740794,,none
+znf592,0.31031087,,none
+l ornithine,0.31016788,,none
+lfng,0.30931404,,none
+myasthenia gravis autoimmune experimental,0.3103651,,none
+grm6,0.3104198,,none
+renal aminoacidurias,0.3043648,,none
+aph1a,0.31027716,,none
+sh3gl1,0.30899963,,none
+asna1,0.31034344,,none
+clpp,0.30995566,,none
+pseudohypoparathyroidism,0.3104915,,none
+colec11,0.30647695,1.0,train
+col9a1,0.31045753,,none
+slc25a15,0.31043044,,none
+rnf170,0.31056044,,none
+kcnq4,0.3092668,,none
+s1pr4,0.31000417,,none
+pla2g4b,0.31016788,,none
+spirapril,0.31016788,,none
+slc38a3,0.3089224,,none
+pitpnm3,0.30999854,,none
+dermatitis seborrheic,0.30952778,,none
+rhinitis allergic seasonal,0.2766919,,none
+neoplastic syndromes hereditary,0.30979675,,none
+myh11,0.30762708,,none
+slc31a2,0.3091694,,none
+succinic semialdehyde dehydrogenase deficiency,0.31036705,,none
+alcohol related disorders,0.3102615,,none
+mimosine,0.31016788,,none
+dexrazoxane,0.31016788,,none
+allan herndon dudley syndrome,0.31016788,,none
+tll1,0.3098058,,none
+tll2,0.3103516,,none
+clofarabine,0.31016788,,none
+dental caries,0.31015512,,none
+pervasive developmental disorder,0.31025293,,none
+slc9a8,0.3102418,,none
+slc44a1,0.30960944,,none
+foxn1,0.30992925,,none
+cpd,0.2984213,,none
+ndufa4l2,0.31010175,,none
+arhgap26,0.310204,,none
+ppih,0.31016788,,none
+silver russell syndrome,0.2551041,,none
+langer mesomelic dysplasia,0.3102215,,none
+fgd1,0.30961308,,none
+cep57,0.31013864,,none
+tnpo3,0.30777255,,none
+epidermal necrolysis toxic,0.30990297,,none
+coro7,0.31016788,,none
+gstm4,0.31029376,,none
+sult1a4,0.31043336,,none
+alpha linolenic acid,0.31016788,,none
+coenzyme q10 deficiency,0.3056786,,none
+itm2b,0.31035644,,none
+oaz3,0.31032676,,none
+dolutegravir,0.31029934,,none
+lrrc15,0.31016684,,none
+znf711,0.3104444,,none
+tmem165,0.3101988,,none
+nasopharyngitis,0.31028077,,none
+ltb4r,0.3100223,,none
+cytomegalovirus retinitis,0.31019828,,none
+ajmaline,0.31016788,,none
+lrrc6,0.31016788,,none
+ccdc40,0.31029314,,none
+depdc5,0.30969247,,none
+mc5r,0.31018993,,none
+agpat2,0.30901116,,none
+slc13a1,0.31027865,,none
+neostigmine,0.3102691,,none
+vps53,0.31025815,,none
+pdcd2,0.3084706,,none
+anisotropine methylbromide,0.31016788,,none
+smg6,0.31016788,,none
+ptdss2,0.29968914,,none
+nnt,0.31051478,,none
+carglumic acid,0.31016788,,none
+ano2,0.31031194,,none
+man2a1,0.31049034,0.0,test
+chloroprocaine,0.31016788,,none
+dalfampridine,0.31016788,,none
+dnajc6,0.31019327,,none
+magea4,0.31020468,,none
+gjc1,0.31040898,,none
+padi2,0.30479443,,none
+ca11,0.31030747,,none
+proteus syndrome,0.31008065,,none
+kir2dl3,0.30976266,,none
+fomepizole,0.31016788,,none
+rcbtb1,0.31016788,,none
+molybdenum cofactor deficiency a,0.31040618,,none
+dtna,0.31024715,,none
+psors1c1,0.31016788,,none
+folr3,0.31046897,,none
+upb1,0.31016788,,none
+siglec7,0.31016788,,none
+chrnd,0.31025195,,none
+erlin2,0.31016788,,none
+galnt12,0.30942467,,none
+mgea5,0.31030366,,none
+zfy,0.3100961,,none
+colec10,0.31016788,,none
+oprl1,0.31037924,,none
+infectious encephalitis,0.31035295,,none
+pla2g2e,0.31024313,,none
+proctitis,0.30979216,,none
+metaxalone,0.3102745,,none
+trimethaphan,0.31016788,,none
+arhgap12,0.30999103,,none
+ceacam3,0.31028143,,none
+gan,0.31023973,,none
+darier disease,0.31057996,,none
+eye diseases,0.31029856,,none
+myf6,0.30972344,,none
+kcnj3,0.3102268,,none
+rnf144a,0.3102809,,none
+mgat2,0.31016788,,none
+slc14a2,0.30872342,,none
+ogfod2,0.31044516,,none
+pnpo,0.3101371,,none
+cryba1,0.31012917,,none
+lymecycline,0.31016788,,none
+ogfr,0.30988085,,none
+kidney diseases cystic,0.29885906,,none
+basal cell nevus syndrome,0.31043586,,none
+josamycin,0.31016788,,none
+mazindol,0.31016788,,none
+rfxap,0.3104414,,none
+hypersensitivity delayed,0.31026578,,none
+xerostomia,0.31010652,,none
+alverine,0.31016788,,none
+hspa1l,0.31011894,,none
+proz,0.30870268,,none
+nt5m,0.31043977,,none
+gypc,0.30978468,,none
+hereditary central nervous system demyelinating diseases,0.3102845,,none
+mycbp,0.31001815,,none
+ahdc1,0.31016788,,none
+dgkg,0.31017932,,none
+prostatic diseases,0.31001574,,none
+tropicamide,0.31016788,,none
+il1rapl1,0.31023023,,none
+talbutal,0.31016788,,none
+pth2r,0.31042564,,none
+rbm10,0.31014693,,none
+ccdc88c,0.31021056,,none
+incenp,0.30988955,,none
+dysostoses,0.31031623,,none
+diabetes complications,0.3094579,,none
+opn1sw,0.31016788,,none
+a4galt,0.31051514,,none
+chrnb3,0.3101304,,none
+st14,0.30953845,,none
+recurrence,0.30975822,,none
+ppp2r5c,0.31107128,,none
+polg2,0.31016788,,none
+st3gal5,0.31028825,,none
+osteoarthropathy primary hypertrophic,0.3102507,,none
+pex26,0.31058225,0.0,train
+rad54l,0.31016788,,none
+ampd1,0.31041098,,none
+mbd5,0.31049868,,none
+polb,0.31059974,,none
+eif4e2,0.31051886,,none
+encephalopathy,0.31008303,,none
+lcmt1,0.3090751,,none
+bromhexine,0.31016788,,none
+aminocaproic acid,0.31016788,,none
+myo1a,0.3082087,,none
+candidemia,0.3102278,,none
+slc22a17,0.2985172,,none
+flavoxate,0.3102795,,none
+carnitine deficiency,0.310013,,none
+zmiz1,0.3095912,,none
+corneal ulcer,0.31016576,,none
+plcl1,0.30985823,,none
+heart transplantation,0.3102921,,none
+gys2,0.3100763,,none
+hexylcaine,0.31016788,,none
+prb2,0.30999422,,none
+stab2,0.31048742,,none
+lofexidine,0.31016788,,none
+aspscr1,0.30989638,,none
+l threonine,0.31016788,,none
+varicose veins,0.31027108,,none
+trpc2,0.31010014,,none
+wrb,0.30979323,,none
+tpbg,0.30703712,,none
+cyclopentolate,0.31024963,,none
+grem2,0.3099823,,none
+pdxk,0.31024873,,none
+mometasone,0.31031498,,none
+gpr3,0.31040525,,none
+levallorphan,0.31016788,,none
+cbfb,0.30976233,0.0,valid
+kel,0.3097976,,none
+six5,0.31016788,,none
+tnni3k,0.31016788,,none
+lsm6,0.31016788,,none
+arl6ip1,0.310406,,none
+akr1a1,0.31003782,,none
+blastomycosis,0.3104323,,none
+gja9,0.31008035,,none
+digestive system diseases,0.30465454,,none
+li fraumeni syndrome,0.30969632,,none
+elf2,0.3099775,,none
+rabggta,0.31030032,,none
+vidarabine,0.31016788,,none
+valrubicin,0.31016788,,none
+progabide,0.31016788,,none
+ddrgk1,0.31016788,,none
+caly,0.31035224,,none
+rbp3,0.30974936,,none
+parp11,0.31016788,,none
+fgfr1op,0.30986285,,none
+pomgnt1,0.31016788,,none
+sema7a,0.3101862,,none
+dermatitis contact,0.3097621,,none
+rasgrp2,0.31003767,,none
+vsx1,0.31016788,,none
+cep63,0.3104509,,none
+pdha1,0.3102959,,none
+mocs2,0.31049275,0.0,train
+opa3,0.31016788,,none
+myh3,0.31042624,,none
+dnmt3l,0.31000328,,none
+rras,0.3098423,,none
+extl2,0.31016788,,none
+ece2,0.31035888,,none
+cyclacillin,0.3103272,,none
+slc25a32,0.31055412,,none
+cartilage hair hypoplasia,0.3100638,,none
+lupus erythematosus cutaneous,0.16993144,,none
+icatibant,0.31031227,,none
+epb42,0.31016788,,none
+tnnc2,0.31043363,,none
+hemorrhagic fever crimean,0.31034327,,none
+tinea versicolor,0.3102278,,none
+aaas,0.3100809,,none
+hematopoietic stem cell transplantation,0.3103052,,none
+fluocinonide,0.31016788,,none
+slc23a2,0.3105604,,none
+glipr1,0.30984622,,none
+rogdi,0.31029567,,none
+methdilazine,0.31016788,,none
+fancl,0.3101842,,none
+craniosynostoses,0.3099004,,none
+kank2,0.31017855,,none
+prurigo,0.31035057,,none
+grhpr,0.31023973,,none
+terconazole,0.31016788,,none
+klhl3,0.31033048,,none
+tafluprost,0.31016788,,none
+thanatophoric dysplasia,0.31016788,,none
+scnn1d,0.30971655,,none
+ripk4,0.30967495,,none
+tmco6,0.31016788,,none
+rhce,0.30933174,,none
+pneumoconiosis,0.30944258,,none
+abhd6,0.31008187,,none
+fenoldopam,0.31016788,,none
+cc2d1a,0.31016713,,none
+ermap,0.31016788,,none
+eif4ebp2,0.31016788,,none
+smith lemli opitz syndrome,0.30995253,,none
+enhanced s cone syndrome,0.264191,,none
+cnnm4,0.31016788,,none
+klc1,0.3045917,,none
+chrfam7a,0.31021202,,none
+debrisoquin,0.31016788,,none
+raltegravir,0.31040168,,none
+b9d2,0.31058577,,none
+zanamivir,0.31016788,,none
+treh,0.3100649,,none
+pofut1,0.29843807,,none
+hps5,0.31016788,,none
+snx10,0.2928764,,none
+prednicarbate,0.31016788,,none
+hydrocortamate,0.31016788,,none
+keloid,0.31036574,,none
+etofenamate,0.31016788,,none
+pleuropulmonary blastoma,0.310212,,none
+spr,0.30998585,,none
+pigl,0.31045064,,none
+deslanoside,0.31016788,,none
+flurandrenolide,0.31016788,,none
+diabetes insipidus,0.3103474,,none
+fcar,0.31006765,,none
+ethinamate,0.31016788,,none
+cefdinir,0.31016788,,none
+odontogenic cysts,0.31027052,,none
+degarelix,0.31038573,,none
+retroperitoneal neoplasms,0.16256998,,none
+skin diseases genetic,0.30991185,,none
+baz2a,0.31016788,,none
+paromomycin,0.31016788,,none
+waardenburg syndrome,0.30985424,,none
+scpep1,0.31012866,,none
+procaterol,0.31016788,,none
+hgsnat,0.31016788,,none
+dll3,0.31018788,,none
+lztr1,0.31029272,,none
+l asparagine,0.31016788,,none
+pelizaeus merzbacher disease,0.3102076,,none
+afibrinogenemia,0.30733302,,none
+heart septal defects,0.3101837,,none
+naga,0.3104822,,none
+brd9,0.30985144,,none
+lnpep,0.3104581,,none
+miosis,0.31022587,,none
+glycerol phenylbutyrate,0.31029114,,none
+pggt1b,0.31017017,,none
+orm2,0.31023973,,none
+cdk5r1,0.30993178,,none
+gadobutrol,0.31016788,,none
+arhgef10,0.31040248,,none
+tm4sf20,0.31016788,,none
+dimetindene,0.31016788,,none
+neuralgia,0.31040043,,none
+prss2,0.30405805,,none
+gpr32,0.31016788,,none
+gadoxetate,0.31016788,,none
+vps13b,0.31016788,,none
+skin diseases bacterial,0.31026044,,none
+alg3,0.31016788,,none
+addison disease,0.31033847,,none
+sulfathiazole,0.31016788,,none
+fras1,0.3102982,,none
+azatadine,0.31016788,,none
+polydactyly,0.3098289,,none
+glutathione synthetase deficiency,0.31004503,,none
+tazarotene,0.31016788,,none
+brunner syndrome,0.31016788,,none
+apraclonidine,0.31027895,,none
+hps6,0.31020224,,none
+rnase4,0.3101703,,none
+agenesis of corpus callosum,0.31029528,,none
+dnase1l3,0.31016788,,none
+col4a4,0.31016788,,none
+sulfamethazine,0.31016788,,none
+specc1l,0.31016788,,none
+dimercaprol,0.31016788,,none
+l leucine,0.31016788,,none
+rnpep,0.31016788,,none
+epm2aip1,0.31016788,,none
+pomt1,0.31016788,,none
+mitochondrial complex iii deficiency,0.31031376,,none
+atp8a1,0.31016788,,none
+testolactone,0.31016788,,none
+cinchocaine,0.31016788,,none
+benzocaine,0.31016788,,none
+colorectal neoplasms hereditary nonpolyposis,0.2822388,,none
+tshz2,0.31016788,,none
+fluoxymesterone,0.31016788,,none
+chst1,0.31016788,,none
+dimetacrine,0.31016788,,none
+thiabendazole,0.31016788,,none
+tamibarotene,0.31016788,,none
+adapalene,0.31016788,,none
+difluprednate,0.31016788,,none
+hnrnph2,0.31016788,,none
+gfra3,0.31016788,,none
+fbxl4,0.31037885,,none
+drotaverine,0.31016788,,none
+nsun3,0.31016788,,none
+pola2,0.31016788,,none
+histamine phosphate,0.31016788,,none
+guanadrel,0.31016788,,none
+fusafungine,0.31016788,,none
+arap2,0.31016788,,none
+homatropine methylbromide,0.31016788,,none
+carboprost tromethamine,0.31016788,,none
+gypb,0.31016788,,none
+roxatidine acetate,0.31016788,,none
+cyamemazine,0.31016788,,none
+actr2,0.31016788,,none
+clomocycline,0.31016788,,none
+equilin,0.31016788,,none
+syt2,0.31016788,,none
+vapreotide,0.31016788,,none
+ammonium lactate,0.31016788,,none
+oxybuprocaine,0.31016788,,none
+polidocanol,0.31016788,,none
+cefmenoxime,0.31016788,,none
+exostoses,0.31016788,,none
+methyl aminolevulinate,0.31016788,,none
+monobenzone,0.31016788,1.0,train
+ethe1,0.31016788,,none
+hexafluronium,0.31016788,,none
+cefacetrile,0.31016788,,none
+dhrs3,0.31016788,,none
+etidronic acid,0.31016788,,none
+ccdc70,0.31016788,,none
+lynch syndrome ii,0.31015003,,none
+child behavior disorders,0.31026393,,none
+sulfamoxole,0.31016788,,none
+mafenide,0.31016788,,none
+nup107,0.31016788,,none
+mowat wilson syndrome,0.31016788,,none
+dclk2,0.31016788,,none
+peramivir,0.31016788,,none
+lss,0.31016788,,none
+nedocromil,0.31016788,,none
+clomifene,0.31016788,,none
+fragile x tremor ataxia syndrome,0.31016788,,none
+cln8,0.31016788,,none
+hypoparathyroidism retardation dysmorphism syndrome,0.31016788,,none
+3 methylglutaconic aciduria,0.31016788,,none
+dextropropoxyphene,0.31016788,,none
+latanoprost,0.31016788,,none
+zmat4,0.31016788,,none
+vps13d,0.31016788,,none
+efhc1,0.31016788,,none
+znf211,0.31016788,,none
+tas2r16,0.31016788,,none
+pole,0.31016788,,none
+clmn,0.31016788,,none
+diphenidol,0.31016788,,none
+bepotastine,0.31016788,,none
+l cystine,0.31016788,,none
+ceforanide,0.31016788,,none
+hspb3,0.31016788,,none
+ighm,0.31016788,,none
+cefmetazole,0.31016788,,none
+retsat,0.31016788,,none
+naftifine,0.31016788,,none
+setd5,0.31016788,,none
+ethopropazine,0.31016788,,none
+eperisone,0.31016788,,none
+sulfametopyrazine,0.31016788,,none
+stk32b,0.30994305,,none
+formestane,0.31016788,,none
+paramethadione,0.31016788,,none
+trac,0.31016788,,none
+gcnt2,0.30724162,,none
+plerixafor,0.31016788,,none
+hla drb3,0.31016788,,none
+halobetasol propionate,0.31016788,,none
+hexachlorophene,0.31016788,,none
+clobetasol propionate,0.31016788,,none
+trifluridine,0.31016788,,none
+diatrizoate,0.31016788,,none
+bimatoprost,0.31016788,,none
+rescinnamine,0.31016788,,none
+hps4,0.31016788,,none
+alclometasone,0.31016788,,none
+antrafenine,0.31016788,,none
+fidaxomicin,0.31016788,,none
+rnase1,0.30814818,,none
+slc35a1,0.31016788,,none
+naaa,0.31016788,,none
+ethylmorphine,0.31016788,,none
+rosoxacin,0.31016788,,none
+kmo,0.3102945,,none
+c6,0.31016788,,none
+chloroxine,0.31016788,,none
+rab3gap2,0.31016788,,none
+pachyonychia congenita,0.30988854,,none
+gnal,0.31016788,,none
+cnpy4,0.31016788,,none
+slc12a8,0.31028944,,none
+proparacaine,0.31016788,,none
+deserpidine,0.31016788,,none
+famciclovir,0.31016788,,none
+bevantolol,0.31016788,,none
+indecainide,0.31016788,,none
+b9d1,0.31016788,,none
+b3galnt1,0.31016788,,none
+demecarium,0.31016788,,none
+me3,0.31016788,1.0,train
+lethal congenital contracture syndrome 1,0.31016788,,none
+iris hypoplasia and glaucoma,0.31016788,,none
+sulfadimethoxine,0.31016788,,none
+desonide,0.31016788,,none
+c6orf10,0.31016788,,none
+wdr45,0.31016788,,none
+isopropamide,0.31016788,,none
+nafarelin,0.31016788,,none
+bupranolol,0.31016788,,none
+cloperastine,0.31016788,,none
+sodium tetradecyl sulfate,0.31016788,,none
+emedastine,0.31016788,,none
+brain neoplasms,0.31026143,,none
+guanabenz,0.31016788,,none
+phensuximide,0.31016788,,none
+weaver syndrome,0.25890848,,none
+c9,0.31016788,,none
+oxyphencyclimine,0.31016788,,none
+thiamylal,0.31016788,,none

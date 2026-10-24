@@ -1,0 +1,801 @@
+triplet_id,triplet_prompt,tf_value
+20,The gene eif2ak3 contributes to the pathogenesis or promotes the progression of the disease schizophrenia.,1
+158,The chemical norethindrone is related to the chemical gliquidone.,0
+255,The gene eif2ak1 is linked to the production by cell populations of the gene eif2ak3.,0
+532,The gene guk1 has a direct relationship with the gene iars.,0
+753,csad affects the expression or production of the gene csad.,0
+874,The disease smith mccort dysplasia may have a therapeutic connection with the gene nr3c1.,1
+1012,The chemical apixaban is used for the treatment or therapy of the disease heart failure.,0
+1173,The gene cftr is linked to the production by cell populations of the gene aqp9.,0
+1198,The gene ighmbp2 contributes to the pathogenesis or promotes the progression of the disease motor neuron disease.,1
+1377,The gene hnf1a is involved in regulatory pathways together with the gene crp.,1
+1453,The chemical acetylcarnitine plays a role in the pathogenesis of the disease hyperammonemia.,0
+1549,rgs4 affects the expression or production of the gene nos1ap.,1
+1558,The gene fcer1g has a direct relationship with the gene gp6.,0
+1588,The gene idi1 is involved in regulatory pathways together with the gene nsdhl.,1
+1758,The disease pancreatic neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene reln.,1
+1846,The gene esrra has a direct relationship with the gene nrip1.,0
+1915,gnpda1 binds with the gene tpi1 as a ligand.,0
+2007,The chemical levonorgestrel is related to the chemical gliquidone.,0
+2120,hnf1a affects the expression or production of the gene ggt1.,1
+2423,The gene reln is involved in regulatory pathways together with the gene cask.,1
+2451,The gene cd2ap has a direct relationship with the gene sos1.,0
+2584,"The chemical terazosin prevents, suppresses, or alleviates the severity of the disease bradycardia.",0
+2609,The gene casp5 contributes to the pathogenesis or promotes the progression of the disease skin diseases.,0
+2645,The gene oat has a direct relationship with the gene lgsn.,0
+2737,The chemical atazanavir may cause side effects or adverse events in relation to the disease lipodystrophy.,1
+2825,The gene oat has a direct relationship with the gene scly.,0
+3012,The disease neoplasms neuroepithelial is linked to diagnostic biomarkers or regulatory mechanisms involving the gene trpv1.,0
+3215,The gene trpv1 shows potential therapeutic effects on the disease wiskott aldrich syndrome.,0
+3249,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease dermatitis.,1
+3273,The gene mtnr1a has a direct relationship with the gene gpr63.,0
+3519,The gene gp6 is involved in regulatory pathways together with the gene plcg2.,1
+3531,The gene abcg2 is involved in regulatory pathways together with the gene ahr.,1
+3609,The gene esrra has a direct relationship with the gene sirt1.,0
+4082,The gene trmu has a direct relationship with the gene cbs.,0
+4131,The gene mvd is involved in regulatory pathways together with the gene idi1.,1
+4239,hnf1a affects the expression or production of the gene foxd3.,1
+4312,The gene sirt3 enhances the response or activates/stimulates the gene esrra.,1
+4777,The disease liver neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene oat.,0
+4850,The gene epha1 is linked to the production by cell populations of the gene picalm.,0
+5373,The gene scn10a is involved in regulatory pathways together with the gene trpv1.,1
+5434,The disease adenoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene stim1.,0
+5580,The chemical aripiprazole is related to the chemical gliquidone.,0
+5625,The gene mlc1 has a direct relationship with the gene snta1.,0
+5653,The gene hla dpa1 has a direct relationship with the gene hla drb5.,0
+5733,The gene gp6 has a direct relationship with the gene btk.,0
+5929,The chemical terazosin may cause side effects or adverse events in relation to the disease hypothermia.,0
+5960,The gene pkd1 is involved in regulatory pathways together with the gene trpv1.,0
+6069,The gene calr is linked to the production by cell populations of the gene ryr2.,0
+6145,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene nfat5.,1
+6293,The gene csad has a direct relationship with the gene tk1.,0
+6408,The gene nkx2 1 is involved in regulatory pathways together with the gene foxe1.,1
+6582,Mutations or polymorphisms in the gene mlc1 alter the risk associated with the disease smith mccort dysplasia.,1
+6630,The gene hnf1a enhances the response or activates/stimulates the gene slc16a1.,1
+6692,The gene eif2ak3 is involved in regulatory pathways together with the gene ern1.,1
+6932,The gene epha4 has a direct relationship with the gene stim1.,0
+7126,stim1 binds with the gene ar as a ligand.,0
+7523,The gene cdk2 is involved in regulatory pathways together with the gene eif2ak3.,1
+7561,calr affects the expression or production of the gene ngf.,0
+7811,Mutations or polymorphisms in the gene phox2b alter the risk associated with the disease neoplasms.,1
+7930,The gene ilk is involved in regulatory pathways together with the gene epha1.,1
+8160,The gene iars has a direct relationship with the gene msh3.,0
+8240,The gene atp1a1 has a direct relationship with the gene stim1.,0
+8300,The gene casr is involved in regulatory pathways together with the gene trpv1.,1
+8302,The gene nrg2 has a direct relationship with the gene cdc42.,0
+8389,The gene pdk4 is linked to the production by cell populations of the gene esrra.,0
+8473,The gene ttbk2 has a direct relationship with the gene epha1.,0
+8488,The gene rac1 is involved in regulatory pathways together with the gene reln.,1
+8770,The gene ndufb6 has a direct relationship with the gene oat.,0
+8795,The chemical fusidic acid is related to the chemical apixaban.,0
+8824,The gene tp53 is involved in regulatory pathways together with the gene reln.,0
+8929,The gene eif2ak3 is involved in regulatory pathways together with the gene casp2.,0
+9042,The gene fto contributes to the pathogenesis or promotes the progression of the disease hyperglycemia.,0
+9059,The gene atp2b3 has a direct relationship with the gene stim1.,0
+9349,Mutations or polymorphisms in the gene bscl2 alter the risk associated with the disease lipodystrophy.,1
+9427,calr affects the expression or production of the gene junb.,0
+9717,The disease alzheimer disease is linked to diagnostic biomarkers or regulatory mechanisms involving the gene abcg2.,0
+9960,pax4 binds with the gene hnf1a as a ligand.,0
+10010,The gene pik3ca has a direct relationship with the gene hnf1a.,0
+10141,The gene oat has a direct relationship with the gene smox.,0
+10242,The gene grik1 has a direct relationship with the gene grm7.,0
+10392,The gene cd2ap is linked to the production by cell populations of the gene cd2ap.,0
+10425,The gene abcg2 contributes to the pathogenesis or promotes the progression of the disease gastrointestinal neoplasms.,1
+10810,The gene hnf1a is involved in regulatory pathways together with the gene slc22a6.,1
+10816,The disease melanoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene esrra.,0
+10817,The gene calcrl has a direct relationship with the gene arrb2.,0
+10848,The gene pygm enhances the response or activates/stimulates the gene casp5.,0
+10958,The gene abcg2 is linked to the production by cell populations of the gene abcg2.,0
+11078,The gene calr contributes to the pathogenesis or promotes the progression of the disease esophageal neoplasms.,1
+11222,sox18 affects the expression or production of the gene prox1.,1
+11246,il2 affects the expression or production of the gene hnf1a.,0
+11343,The gene gckr enhances the response or activates/stimulates the gene hnf1a.,1
+11676,The gene xrcc1 is linked to the production by cell populations of the gene abcg2.,0
+11854,The aminohippurate interacts with slco1b1 in a pharmacological or biomedical context.,1
+11896,foxe1 binds with the gene msx1 as a ligand.,0
+11902,rgs4 affects the expression or production of the gene angptl4.,1
+12205,tpi1 affects the expression or production of the gene gnpda1.,0
+12259,The gene mark3 has a direct relationship with the gene eif2ak3.,0
+12316,The disease alzheimer disease is linked to diagnostic biomarkers or regulatory mechanisms involving the gene trpv1.,0
+12433,The gene cd2ap has a direct relationship with the gene chmp1a.,0
+12479,The gene sox18 is linked to the production by cell populations of the gene tbx1.,0
+12663,The gene cd9 is involved in regulatory pathways together with the gene abcg2.,1
+13212,The gene calr is involved in regulatory pathways together with the gene bcl2.,1
+13600,The gene hnf1a enhances the response or activates/stimulates the gene clu.,1
+13680,hnf1a affects the expression or production of the gene ckb.,0
+13729,phox2b affects the expression or production of the gene msx1.,1
+13745,The chemical apixaban is used for the treatment or therapy of the disease heart valve diseases.,0
+13932,The chemical ethanol inhibits the gene cftr.,0
+13937,The gene cd2ap is involved in regulatory pathways together with the gene cdh1.,1
+14221,isyna1 affects the expression or production of the gene eif2ak3.,0
+14375,The gene zmpste24 has a direct relationship with the gene idi1.,0
+14519,The gene slc26a4 enhances the response or activates/stimulates the gene cftr.,0
+14569,The gene foxe1 is linked to the production by cell populations of the gene myh9.,0
+14584,The gene idi1 enhances the response or activates/stimulates the gene ftl.,0
+14794,The gene esrra has a direct relationship with the gene ppara.,0
+14926,The gene cyb5r3 has a direct relationship with the gene idi1.,0
+15026,The gene trpv1 is linked to the production by cell populations of the gene nr3c1.,0
+15098,Mutations or polymorphisms in the gene cftr alter the risk associated with the disease gastrointestinal neoplasms.,1
+15163,The gene trmu has a direct relationship with the gene tufm.,0
+15347,The disease hyperinsulinism is linked to diagnostic biomarkers or regulatory mechanisms involving the gene fto.,0
+15402,The gliquidone interacts with diabetic angiopathies in a pharmacological or biomedical context.,1
+15426,The gene gars has a direct relationship with the gene iars.,0
+15437,The gene nrg1 has a direct relationship with the gene nrg2.,0
+15442,The gene bax is involved in regulatory pathways together with the gene eif2ak3.,1
+15493,The gene f8 has a direct relationship with the gene calr.,0
+15505,acss3 affects the expression or production of the gene slc2a1.,0
+15555,The gene abcb7 is linked to the production by cell populations of the gene cd2ap.,0
+15719,The gene phox2b contributes to the pathogenesis or promotes the progression of the disease neoplasms.,1
+15725,The gene reln enhances the response or activates/stimulates the gene rac1.,0
+15978,The gene hnf1a is linked to the production by cell populations of the gene ccnd1.,0
+16277,The gene stat3 enhances the response or activates/stimulates the gene fto.,1
+16302,The chemical progesterone plays a role in the pathogenesis of the disease lymphangiomyoma.,0
+16465,Mutations or polymorphisms in the gene fto alter the risk associated with the disease ovarian cysts.,0
+16476,The gene calcrl enhances the response or activates/stimulates the gene pnmt.,1
+16521,The gene esrra contributes to the pathogenesis or promotes the progression of the disease genital neoplasms female.,1
+16731,The gene tpt1 has a direct relationship with the gene calr.,0
+16793,The gene epha1 is involved in regulatory pathways together with the gene gas6.,1
+16826,The gene thbs1 is involved in regulatory pathways together with the gene calr.,1
+16835,The gene eif2ak3 is involved in regulatory pathways together with the gene fgfr2.,0
+16974,abcg2 binds with the gene e2f1 as a ligand.,0
+17006,The disease tuberous sclerosis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene trpv1.,0
+17117,The disease lymphangiomyoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene vegfa.,1
+17133,The gene gnpda1 has a direct relationship with the gene pgm3.,0
+17153,csf1 affects the expression or production of the gene calcrl.,1
+17200,The chemical pentosan polysulfate is related to the chemical apixaban.,0
+17262,The gene reln enhances the response or activates/stimulates the gene chd7.,0
+17264,The gene cyp3a5 is linked to the production by cell populations of the gene abcg2.,0
+17398,The gene cdkal1 enhances the response or activates/stimulates the gene fto.,1
+17478,tcf4 binds with the gene abcg2 as a ligand.,0
+17608,abcg2 binds with the gene egfr as a ligand.,0
+17646,gli2 affects the expression or production of the gene abcg2.,1
+18255,The chemical acetylsalicylic acid is related to the chemical apixaban.,0
+18496,Mutations or polymorphisms in the gene akt1 alter the risk associated with the disease lipodystrophy.,1
+18565,tnfrsf1b affects the expression or production of the gene trpv1.,0
+18593,pdk4 affects the expression or production of the gene esrra.,1
+18944,linaclotide affects the expression or production of the gene cftr.,1
+19077,The disease arthritis rheumatoid may have a therapeutic connection with the gene reln.,1
+19153,The gene casp5 enhances the response or activates/stimulates the gene casp9.,0
+19270,The chemical apixaban is used for the treatment or therapy of the disease death.,0
+19475,The gene iars has a direct relationship with the gene rpsa.,0
+19639,The gene esrra has a direct relationship with the gene nr3c1.,1
+19705,The gene iars has a direct relationship with the gene map3k14.,0
+20415,The gene igf2bp2 enhances the response or activates/stimulates the gene fto.,1
+20423,The gene mapk3 has a direct relationship with the gene calr.,0
+20566,The gene trpv1 shows potential therapeutic effects on the disease cardiomegaly.,0
+20596,reln affects the expression or production of the gene il6.,0
+20799,The gene grm8 is linked to the production by cell populations of the gene chrna4.,0
+20935,syn1 binds with the gene grm8 as a ligand.,0
+21024,sgk1 affects the expression or production of the gene stim1.,0
+21130,The gene calcrl contributes to the pathogenesis or promotes the progression of the disease tachycardia.,0
+21261,The adra1d interacts with terazosin in a pharmacological or biomedical context.,0
+21327,abcg2 affects the expression or production of the gene cd47.,0
+21468,The gene abcc4 has a direct relationship with the gene snta1.,0
+21507,The gene xbp1 is involved in regulatory pathways together with the gene eif2ak3.,1
+21611,The disease breast neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene fto.,1
+21695,The gene metap1 has a direct relationship with the gene oat.,0
+21898,The gene chrm3 has a direct relationship with the gene rgs4.,0
+21899,The gene eif2ak3 contributes to the pathogenesis or promotes the progression of the disease systemic inflammatory response syndrome.,1
+21963,vegfa binds with the gene calcrl as a ligand.,0
+22024,The gene akt1 enhances the response or activates/stimulates the gene trpv1.,1
+22211,The gene atf2 has a direct relationship with the gene hnf1a.,0
+22294,chrna7 affects the expression or production of the gene rgs4.,1
+22341,The gene hnf1a is involved in regulatory pathways together with the gene lrp2.,1
+22374,The chemical norepinephrine is used for the treatment or therapy of the disease smith mccort dysplasia.,0
+22394,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease hypothermia.,0
+22441,The gene iars has a direct relationship with the gene cars.,0
+22456,The gene chrna4 is linked to the production by cell populations of the gene grm8.,0
+22686,The gene iars has a direct relationship with the gene htra1.,0
+22751,The gene etfdh has a direct relationship with the gene trmu.,0
+22841,Mutations or polymorphisms in the gene hnf1a alter the risk associated with the disease peripheral nervous system diseases.,1
+22844,The gene nrg2 enhances the response or activates/stimulates the gene pdgfb.,1
+22901,The chemical gliclazide is related to the chemical gliquidone.,1
+22926,The gene ern1 enhances the response or activates/stimulates the gene eif2ak3.,0
+23046,The gene cftr enhances the response or activates/stimulates the gene spink1.,0
+23075,ptp4a3 affects the expression or production of the gene eif2ak3.,1
+23088,The gene eif2ak3 is involved in regulatory pathways together with the gene casp3.,1
+23695,The gene iars has a direct relationship with the gene skp1.,0
+23762,The gene fto enhances the response or activates/stimulates the gene enpp1.,0
+24171,The gene fto enhances the response or activates/stimulates the gene notch2.,0
+24204,The gene abcg2 enhances the response or activates/stimulates the gene il10.,0
+24213,The gene calr is involved in regulatory pathways together with the gene bmp4.,1
+24317,The gene bmp4 has a direct relationship with the gene hnf1a.,0
+24461,The disease neoplasms squamous cell is linked to diagnostic biomarkers or regulatory mechanisms involving the gene epha1.,1
+24737,The gene ebp is involved in regulatory pathways together with the gene idi1.,1
+24772,The gene hnrnpa1 enhances the response or activates/stimulates the gene eif2ak3.,1
+24859,The gene grm8 is linked to the production by cell populations of the gene mthfr.,0
+25061,The gene abcg2 is involved in regulatory pathways together with the gene cd9.,0
+25207,The gene gria2 has a direct relationship with the gene rgs4.,0
+25367,The gene bdh1 has a direct relationship with the gene acss3.,0
+25648,The disease lipodystrophy is linked to diagnostic biomarkers or regulatory mechanisms involving the gene lmna.,1
+25927,The chemical prazosin is related to the chemical terazosin.,1
+25957,idi1 affects the expression or production of the gene slc16a1.,1
+25960,The chemical apixaban is used for the treatment or therapy of the disease atrial fibrillation.,1
+26043,ca2 is associated with stim1.,0
+26067,terazosin affects the expression or production of the gene npy.,0
+26333,The disease infections is linked to diagnostic biomarkers or regulatory mechanisms involving the gene eif2ak3.,1
+26376,The gene sdhb has a direct relationship with the gene calr.,0
+26545,terazosin affects the expression or production of the gene cat.,0
+26665,The gene esrra is linked to the production by cell populations of the gene maob.,0
+26701,The gene idi1 has a direct relationship with the gene pts.,0
+26865,The gene mmp7 is linked to the production by cell populations of the gene reln.,0
+26907,The gene esrra has a direct relationship with the gene rarb.,0
+26937,The disease osteoarthritis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene esrra.,0
+26959,The gene casp5 is involved in regulatory pathways together with the gene msh3.,1
+26970,The gene gys1 has a direct relationship with the gene stim1.,0
+27208,The gene gad1 has a direct relationship with the gene csad.,0
+27245,abcg2 binds with the gene slco1b1 as a ligand.,0
+27484,The gene epha1 has a direct relationship with the gene zic3.,0
+27498,The gene bdnf enhances the response or activates/stimulates the gene fto.,0
+27749,The aminohippurate interacts with slc22a5 in a pharmacological or biomedical context.,1
+27870,The gene vegfa is linked to the production by cell populations of the gene abcg2.,0
+28090,The gene fto is involved in regulatory pathways together with the gene mc3r.,1
+28109,The gene tp53 enhances the response or activates/stimulates the gene casp5.,0
+28165,The ivacaftor interacts with cftr in a pharmacological or biomedical context.,1
+28306,The chemical epinephrine is related to the chemical gliquidone.,0
+28360,The gene phox2a is linked to the production by cell populations of the gene phox2b.,0
+28449,The gene rgs4 enhances the response or activates/stimulates the gene htr2a.,0
+28621,The gene pcsk6 is linked to the production by cell populations of the gene hnf1a.,0
+28970,The chemical pentobarbital is related to the chemical terazosin.,0
+29017,The gene hars2 has a direct relationship with the gene iars.,0
+29117,The disease intestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene cldn18.,1
+29208,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene six1.,1
+29365,The chemical apixaban is used for the treatment or therapy of the disease thrombosis.,1
+29406,The chemical fluorescein plays a role in the pathogenesis of the disease fundus albipunctatus.,0
+29456,phox2b binds with the gene vim as a ligand.,0
+29616,The gene eif2ak3 is involved in regulatory pathways together with the gene s1pr1.,1
+29903,The disease lymphoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene sox18.,1
+30163,Mutations or polymorphisms in the gene abcg2 alter the risk associated with the disease drug toxicity.,1
+30344,The gene plcb1 has a direct relationship with the gene rgs4.,0
+30554,The gene nr0b1 has a direct relationship with the gene esrra.,0
+30615,The gene slc18a1 enhances the response or activates/stimulates the gene fto.,0
+30779,tnfrsf10b binds with the gene eif2ak3 as a ligand.,0
+30977,The gene cntn2 is involved in regulatory pathways together with the gene calr.,1
+31147,The gene ptgs1 enhances the response or activates/stimulates the gene gp6.,0
+31219,grm8 affects the expression or production of the gene grin2a.,1
+31403,The gene oat has a direct relationship with the gene cbs.,0
+31684,The gene gls2 has a direct relationship with the gene oat.,0
+32118,The chemical midodrine is related to the chemical terazosin.,0
+32268,The chemical flurbiprofen is related to the chemical apixaban.,0
+32273,The gene cd2ap contributes to the pathogenesis or promotes the progression of the disease renal insufficiency.,0
+32319,esrra binds with the gene gck as a ligand.,0
+32484,The gene calr may exert a therapeutic effect on the disease bone marrow neoplasms.,1
+32531,The grik1 interacts with alcohol related disorders in a pharmacological or biomedical context.,0
+32607,The disease pancreatic neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene cldn18.,1
+32723,The gene calcr enhances the response or activates/stimulates the gene reln.,0
+32891,The gene malt1 has a direct relationship with the gene hla dpa1.,0
+32962,The disease urologic neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+33330,The gene stim1 is involved in regulatory pathways together with the gene fyn.,1
+33399,The gene calr has a direct relationship with the gene trim24.,0
+33400,The gene kcna4 has a direct relationship with the gene snta1.,0
+33433,The gene gnpda1 has a direct relationship with the gene hexb.,0
+33465,The chemical mitotane is related to the chemical apixaban.,0
+33500,The gene pdk1 is involved in regulatory pathways together with the gene cd2ap.,1
+33514,The disease hypertension is linked to diagnostic biomarkers or regulatory mechanisms involving the gene trpv1.,0
+33728,The gene bmpr1a has a direct relationship with the gene hnf1a.,0
+33832,The gene nos1 has a direct relationship with the gene snta1.,0
+33920,The gene mthfr is linked to the production by cell populations of the gene grm8.,0
+33938,The gene trmu has a direct relationship with the gene nfs1.,0
+33942,The gene stim1 contributes to the pathogenesis or promotes the progression of the disease ischemia.,1
+33963,The chemical fondaparinux sodium is related to the chemical apixaban.,0
+34205,The disease paraproteinemias is linked to diagnostic biomarkers or regulatory mechanisms involving the gene reln.,0
+34353,The gene gnpda1 has a direct relationship with the gene renbp.,0
+34427,The chemical apixaban is used for the treatment or therapy of the disease cerebrovascular disorders.,0
+34546,Mutations or polymorphisms in the gene trpv1 alter the risk associated with the disease neoplasms.,1
+34679,The aminohippurate interacts with abcc1 in a pharmacological or biomedical context.,1
+34864,The gene cftr enhances the response or activates/stimulates the gene gstm1.,0
+34870,The chemical nicotine is used for the treatment or therapy of the disease smith mccort dysplasia.,0
+35065,The gene abcg2 shows potential therapeutic effects on the disease leukemia myeloid.,1
+35246,The chemical neomycin inhibits the gene trpv1.,0
+35311,rgs4 affects the expression or production of the gene notch4.,0
+35458,The gene hnf1a enhances the response or activates/stimulates the gene nlrp3.,1
+35575,The chemical tamoxifen is used for the treatment or therapy of the disease lymphangiomyoma.,0
+35608,The gene trpv1 is involved in regulatory pathways together with the gene faah.,1
+35734,The gene ins contributes to the pathogenesis or promotes the progression of the disease lipodystrophy.,1
+35787,The gene pik3cg has a direct relationship with the gene hnf1a.,0
+35861,The chemical paclitaxel is used for the treatment or therapy of the disease smith mccort dysplasia.,0
+35883,cldn18 binds with the gene casr as a ligand.,0
+36077,The disease cerebrovascular disorders is linked to diagnostic biomarkers or regulatory mechanisms involving the gene gp6.,0
+36239,The gene slc18a1 is linked to the production by cell populations of the gene casp5.,0
+36266,The gene ppargc1a has a direct relationship with the gene esrra.,0
+36357,des is associated with stim1.,0
+36659,The chemical apixaban is used for the treatment or therapy of the disease cerebrovascular disorders.,0
+36680,The gene cd2ap is linked to the production by cell populations of the gene abcb7.,0
+37191,The gene msra has a direct relationship with the gene acss3.,0
+37223,The gene cd2ap enhances the response or activates/stimulates the gene plce1.,0
+37241,The gene abcg2 is linked to the production by cell populations of the gene pou5f1.,0
+37344,The gene eif2ak3 is involved in regulatory pathways together with the gene atf3.,1
+37561,The gene trpv1 is linked to the production by cell populations of the gene p2rx3.,0
+37644,cftr affects the expression or production of the gene pcyt1a.,0
+37683,The gene iars has a direct relationship with the gene vars.,0
+37750,The gene stim1 has a direct relationship with the gene cd79b.,0
+37865,The gene nrg2 enhances the response or activates/stimulates the gene erbb2.,1
+38054,The gene kit enhances the response or activates/stimulates the gene hnf1a.,1
+38106,The gene idi1 is involved in regulatory pathways together with the gene mvd.,1
+38480,The gene abcg2 participates in transport or channeling functions related to the chemical glutathione.,1
+38700,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene ccl2.,0
+38917,"The chemical raloxifene prevents, suppresses, or alleviates the severity of the disease smith mccort dysplasia.",0
+39012,The gene grm8 has a direct relationship with the gene tacr3.,0
+39167,The chemical terazosin inhibits the gene ar.,0
+39250,The disease gastrointestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene epha1.,1
+39330,The gene snta1 has a direct relationship with the gene tgfa.,0
+39353,ggt1 affects the expression or production of the gene hnf1a.,1
+39535,The gene bmp7 has a direct relationship with the gene hnf1a.,0
+39550,The disease thrombosis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+39581,The gene lmx1b has a direct relationship with the gene phox2b.,0
+39617,The chemical gliquidone is related to the chemical lopinavir.,0
+39621,The gene foxe3 has a direct relationship with the gene foxe1.,0
+39886,The gene calr is linked to the production by cell populations of the gene calr.,0
+39981,The gene gnpda1 has a direct relationship with the gene chit1.,0
+40005,The gene cftr contributes to the pathogenesis or promotes the progression of the disease diabetes mellitus.,0
+40023,The gene reln is involved in regulatory pathways together with the gene pik3ca.,1
+40070,The gene agrn has a direct relationship with the gene nrg2.,0
+40086,The gene gck is involved in regulatory pathways together with the gene hnf1a.,1
+40194,The chemical gliquidone is related to the chemical nilotinib.,0
+40249,The chemical salicylate sodium is related to the chemical apixaban.,0
+40252,The gene snta1 has a direct relationship with the gene utrn.,0
+40295,The gene calr is linked to the production by cell populations of the gene pparg.,0
+40349,The gene iars has a direct relationship with the gene map3k7.,0
+40528,The fto interacts with hepatitis chronic in a pharmacological or biomedical context.,0
+40638,The chemical apixaban is related to the chemical desvenlafaxine.,0
+40914,The disease alzheimer disease is linked to diagnostic biomarkers or regulatory mechanisms involving the gene stim1.,0
+40945,The abcg2 interacts with cyclophosphamide in a pharmacological or biomedical context.,1
+41046,The chemical terazosin is used for the treatment or therapy of the disease hypertension.,1
+41312,The gene thbs1 enhances the response or activates/stimulates the gene gp6.,0
+41583,Mutations or polymorphisms in the gene cftr alter the risk associated with the disease cystic fibrosis.,1
+41715,The gene stim1 is linked to the production by cell populations of the gene cd4.,0
+42006,The gene rgs4 contributes to the pathogenesis or promotes the progression of the disease inflammation.,1
+42047,The gene grm8 is linked to the production by cell populations of the gene drd2.,0
+42406,The gene fcgr3a has a direct relationship with the gene gp6.,0
+42489,The gene erbb3 enhances the response or activates/stimulates the gene nrg2.,1
+42628,The disease epilepsy is linked to diagnostic biomarkers or regulatory mechanisms involving the gene rgs4.,0
+42678,The gene abcg2 enhances the response or activates/stimulates the gene cyp1a1.,0
+42714,The gene fto enhances the response or activates/stimulates the gene slc2a2.,0
+42861,Mutations or polymorphisms in the gene zmpste24 alter the risk associated with the disease lipodystrophy.,1
+43046,The gene ckmt2 has a direct relationship with the gene oat.,0
+43115,The gene casp5 enhances the response or activates/stimulates the gene jun.,0
+43609,The gene nrg2 enhances the response or activates/stimulates the gene egf.,1
+43683,The chemical erythromycin is related to the chemical gliquidone.,0
+43725,The gene epha3 is involved in regulatory pathways together with the gene epha1.,1
+43850,cldn18 binds with the gene pdk1 as a ligand.,0
+43893,The gene esrra has a direct relationship with the gene camk1.,0
+44056,gp6 binds with the gene lyn as a ligand.,0
+44163,Mutations or polymorphisms in the gene esrra alter the risk associated with the disease breast neoplasms.,1
+44227,The chemical diltiazem is related to the chemical apixaban.,0
+44245,tff1 affects the expression or production of the gene esrra.,1
+44266,The disease arthritis rheumatoid is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+44301,The gene gnpda1 has a direct relationship with the gene galt.,0
+44459,The gene pon1 shows potential therapeutic effects on the disease smith lemli opitz syndrome.,1
+44635,The gene hnf1a has a direct relationship with the gene lpar2.,0
+44786,The gene hnf1a is involved in regulatory pathways together with the gene pdx1.,1
+44979,The gene gnpda1 has a direct relationship with the gene gpi.,0
+44991,Mutations or polymorphisms in the gene calr alter the risk associated with the disease lupus erythematosus systemic.,0
+45036,The gene hmgcl has a direct relationship with the gene acss3.,0
+45168,The chemical verapamil is related to the chemical apixaban.,0
+45190,The gene il6 is involved in regulatory pathways together with the gene trpv1.,1
+45653,The gene trmu is involved in regulatory pathways together with the gene trmu.,0
+45703,Mutations or polymorphisms in the gene abcg2 alter the risk associated with the disease urologic neoplasms.,1
+45759,The abcg2 interacts with leucovorin in a pharmacological or biomedical context.,1
+45764,The gene stim1 contributes to the pathogenesis or promotes the progression of the disease thrombosis.,1
+45927,The gene ptk7 has a direct relationship with the gene eif2ak3.,0
+45967,The gene reln is linked to the production by cell populations of the gene mmp7.,0
+45982,The ethinamate interacts with ca2 in a pharmacological or biomedical context.,0
+45988,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene nfkb1.,1
+46247,The chemical prednisone is related to the chemical gliquidone.,0
+46352,The disease fibrosis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene cftr.,0
+46583,The gene calu is involved in regulatory pathways together with the gene stim1.,1
+46585,The gene il2 enhances the response or activates/stimulates the gene abcg2.,0
+46691,gata4 binds with the gene hnf1a as a ligand.,0
+46737,The gene iars has a direct relationship with the gene kars.,0
+46776,The gene oat has a direct relationship with the gene aldh7a1.,0
+46960,The gene trpm4 has a direct relationship with the gene trpv1.,0
+46963,The gene pparg shows potential therapeutic effects on the disease lipodystrophy.,1
+47392,tg affects the expression or production of the gene foxe1.,0
+47547,The disease neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene reln.,1
+47693,The gene acta1 has a direct relationship with the gene nrg2.,0
+47750,The gene lepr enhances the response or activates/stimulates the gene hnf1a.,1
+47753,The gene gnpda1 has a direct relationship with the gene cyb5r1.,0
+47794,The gene hoxd13 has a direct relationship with the gene phox2b.,0
+47819,prox1 affects the expression or production of the gene sox18.,1
+47966,The gene hdac5 has a direct relationship with the gene oat.,0
+48171,The gene atp1a3 has a direct relationship with the gene trmu.,0
+48199,Mutations or polymorphisms in the gene rab33b alter the risk associated with the disease smith mccort dysplasia.,1
+48816,The gene stim1 is involved in regulatory pathways together with the gene rasgrp2.,1
+48859,The chemical warfarin is related to the chemical apixaban.,0
+48886,slc2a1 affects the expression or production of the gene acss3.,0
+48888,The gene abcg2 enhances the response or activates/stimulates the gene pten.,0
+49195,The gene htr1a is involved in regulatory pathways together with the gene rgs4.,1
+49238,The gene nfatc1 is linked to the production by cell populations of the gene sox18.,0
+49340,phox2b binds with the gene rgs4 as a ligand.,0
+49358,The gene kcnk2 enhances the response or activates/stimulates the gene trpv1.,1
+49562,The gene dkc1 has a direct relationship with the gene oat.,0
+49703,The gene atp6ap2 has a direct relationship with the gene cd2ap.,0
+49859,The gene ighmbp2 has a direct relationship with the gene aco2.,0
+50121,The gene atp1a3 has a direct relationship with the gene stim1.,0
+50404,nitric oxide affects the expression or production of the gene reln.,1
+50490,The gene fto is linked to the production by cell populations of the gene cetp.,0
+50574,The gene prrx1 has a direct relationship with the gene sox18.,0
+50670,abcg2 affects the expression or production of the gene il1b.,0
+50772,The gene trpv1 is linked to the production by cell populations of the gene trpc5.,0
+50787,The disease neoplasms neuroepithelial is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+51141,The gene grm8 is linked to the production by cell populations of the gene rora.,0
+51295,The chemical indapamide is related to the chemical gliquidone.,1
+51381,The gene fktn has a direct relationship with the gene hla dpa1.,0
+51435,Mutations or polymorphisms in the gene cd2ap alter the risk associated with the disease nephrosis.,0
+51542,Mutations or polymorphisms in the gene sox18 alter the risk associated with the disease hypotrichosis.,1
+51548,The gene reln contributes to the pathogenesis or promotes the progression of the disease autism susceptibility 16.,0
+51724,The gene tyrp1 is involved in regulatory pathways together with the gene trpv1.,1
+51768,phox2b affects the expression or production of the gene phox2a.,0
+51802,The gene calr is linked to the production by cell populations of the gene tlr3.,0
+51839,rgs4 affects the expression or production of the gene gad1.,1
+51976,Mutations or polymorphisms in the gene fto alter the risk associated with the disease abortion spontaneous.,0
+52279,rgs4 affects the expression or production of the gene il1rn.,1
+52547,The gene hmgb1 has a direct relationship with the gene hnf1a.,0
+52576,The gene epha1 has a direct relationship with the gene diaph3.,0
+52655,The chemical gliquidone is related to the chemical everolimus.,1
+52723,The chemical felodipine is related to the chemical terazosin.,0
+52867,The gene ddr2 has a direct relationship with the gene eif2ak3.,0
+53108,The gene cftr is involved in regulatory pathways together with the gene cftr.,0
+53611,The gene calr is involved in regulatory pathways together with the gene psmb9.,1
+53662,The disease heart diseases is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+53764,The gene hnf1a has a direct relationship with the gene tgfbr1.,0
+53949,The disease respiratory tract neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,0
+54080,The gene adra2a has a direct relationship with the gene grm8.,0
+54098,The gene acacb has a direct relationship with the gene idi1.,0
+54464,The gene mapk3 is linked to the production by cell populations of the gene eif2ak3.,0
+54490,The gene epha1 has a direct relationship with the gene mark3.,0
+54658,The gene mthfr enhances the response or activates/stimulates the gene fto.,0
+54833,The gene cftr enhances the response or activates/stimulates the gene stk39.,0
+54872,The gene gfpt1 has a direct relationship with the gene iars.,0
+55248,The gene cftr is involved in regulatory pathways together with the gene pcna.,0
+55530,The gene esrra shows potential therapeutic effects on the disease osteoporosis.,1
+55581,The gene gsk3b has a direct relationship with the gene calr.,0
+55602,The gene gp5 is linked to the production by cell populations of the gene gp6.,0
+55621,The gene iars has a direct relationship with the gene nmt1.,0
+55653,The chemical gliquidone is related to the chemical dabrafenib.,0
+56309,The gene trpc5 is linked to the production by cell populations of the gene trpv1.,0
+56430,The gene eif2ak3 enhances the response or activates/stimulates the gene fos.,1
+56506,The chemical tiaprofenic acid is related to the chemical apixaban.,0
+57032,The gene grm3 has a direct relationship with the gene grm8.,0
+57730,The disease colitis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene reln.,1
+57775,The gene lama4 has a direct relationship with the gene nrg2.,0
+58046,gliquidone affects the expression or production of the gene cyp3a4.,1
+58062,The gene idi1 has a direct relationship with the gene kars.,0
+58117,The gene casp6 enhances the response or activates/stimulates the gene casp5.,0
+58379,The gene vldlr is involved in regulatory pathways together with the gene reln.,1
+58506,prodh affects the expression or production of the gene rgs4.,1
+58594,The gene sptlc1 has a direct relationship with the gene cftr.,0
+58595,The disease gastrointestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene stim1.,1
+58657,The gene calr may exert a therapeutic effect on the disease myeloproliferative disorders.,1
+58776,The gene cdh1 is involved in regulatory pathways together with the gene cd2ap.,1
+58980,The gene calr enhances the response or activates/stimulates the gene nrp1.,0
+59219,The gene cftr is linked to the production by cell populations of the gene aqp5.,0
+59414,The gene slco1b1 is involved in regulatory pathways together with the gene abcg2.,1
+59490,The disease gastrointestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene gnpda1.,0
+59491,The gene cd38 is involved in regulatory pathways together with the gene stim1.,1
+59508,nitric oxide affects the expression or production of the gene cftr.,1
+59560,Mutations or polymorphisms in the gene lrat alter the risk associated with the disease fundus albipunctatus.,1
+59761,The gene eif2ak3 contributes to the pathogenesis or promotes the progression of the disease hyperglycemia.,0
+59888,The gene stim1 is involved in regulatory pathways together with the gene krit1.,1
+59954,The conjugated estrogens interacts with abcg2 in a pharmacological or biomedical context.,0
+60107,The chemical carbamazepine is related to the chemical apixaban.,0
+60191,The gene oat has a direct relationship with the gene pycrl.,0
+60515,The chemical ciprofloxacin inhibits the gene abcg2.,0
+60653,The gene hnf1a has a direct relationship with the gene acvr1.,0
+60777,The gene trmu has a direct relationship with the gene qars.,0
+60832,The gene myh9 is linked to the production by cell populations of the gene foxe1.,0
+60910,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease renal insufficiency.,0
+61015,The gene tjp1 is linked to the production by cell populations of the gene cldn18.,0
+61763,The gene trmu has a direct relationship with the gene rars2.,0
+61811,The gene fto is linked to the production by cell populations of the gene lrp5.,0
+61849,The gene epha1 has a direct relationship with the gene dyrk4.,0
+62041,The disease carcinoma bronchogenic is linked to diagnostic biomarkers or regulatory mechanisms involving the gene rgs4.,1
+62050,The gene oxtr is linked to the production by cell populations of the gene grm8.,0
+62059,apixaban is associated with mb.,0
+62199,The gene rheb contributes to the pathogenesis or promotes the progression of the disease lymphangiomyoma.,1
+62356,The gene abcb1 is linked to the production by cell populations of the gene fto.,0
+62370,Mutations or polymorphisms in the gene cftr alter the risk associated with the disease liver diseases.,0
+62391,The gene esrra has a direct relationship with the gene tnni2.,0
+62410,The gene cftr is involved in regulatory pathways together with the gene nfkb1.,1
+62724,The disease lymphangiomyoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene bax.,0
+62753,The gene ldha has a direct relationship with the gene acss3.,0
+62897,The gene kcnj4 has a direct relationship with the gene snta1.,0
+63019,The gene il18 contributes to the pathogenesis or promotes the progression of the disease lipodystrophy.,1
+63235,The gene g6pd has a direct relationship with the gene iars.,0
+63297,The gene reln may exert a therapeutic effect on the disease neoplasms neuroepithelial.,0
+63509,The gene dars2 has a direct relationship with the gene trmu.,0
+63520,The gene eif2ak3 enhances the response or activates/stimulates the gene pbk.,0
+63623,The gene gnpda1 has a direct relationship with the gene eprs.,0
+63657,The gene slc7a1 is involved in regulatory pathways together with the gene esrra.,1
+63748,The fto interacts with dyslipidemias in a pharmacological or biomedical context.,1
+64269,The gene cldn18 shows potential therapeutic effects on the disease carcinoma.,1
+64356,The disease neoplasms may have a therapeutic connection with the gene esrra.,1
+64646,"The chemical terazosin prevents, suppresses, or alleviates the severity of the disease alzheimer disease.",0
+64751,The gene snta1 has a direct relationship with the gene sstr1.,0
+64899,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene clu.,0
+65048,The gene ryr1 is involved in regulatory pathways together with the gene stim1.,1
+65105,The gene tnf contributes to the pathogenesis or promotes the progression of the disease smith mccort dysplasia.,1
+65108,The gene foxf2 has a direct relationship with the gene foxe1.,0
+65330,The gene hnf1a contributes to the pathogenesis or promotes the progression of the disease liver neoplasms.,1
+65360,The gene calcrl contributes to the pathogenesis or promotes the progression of the disease diabetes mellitus.,0
+65391,esrra affects the expression or production of the gene nrip1.,0
+65413,The chemical rifapentine is related to the chemical apixaban.,0
+65443,foxe1 binds with the gene fgfr2 as a ligand.,0
+65560,niclosamide binds with the gene eif2ak3 as a ligand.,0
+65842,The gene cryz has a direct relationship with the gene oat.,0
+65937,The chemical torasemide is related to the chemical gliquidone.,0
+66008,The gene iars has a direct relationship with the gene dars2.,0
+66048,The gene oat has a direct relationship with the gene cad.,0
+66192,The gene gatm has a direct relationship with the gene oat.,0
+66612,The chemical voriconazole is related to the chemical apixaban.,0
+66691,The gene eif2ak3 is involved in regulatory pathways together with the gene erbb2.,1
+66892,The gene reln contributes to the pathogenesis or promotes the progression of the disease intestinal neoplasms.,1
+66906,The gene ins is involved in the metabolism or pharmacokinetic processing of the chemical gliquidone.,1
+66929,ins affects the expression or production of the gene cftr.,0
+67017,The gene nrg2 enhances the response or activates/stimulates the gene fgf1.,0
+67226,The chemical goserelin is used for the treatment or therapy of the disease lymphangiomyoma.,0
+67306,The gene abcg2 participates in transport or channeling functions related to the chemical vandetanib.,1
+67483,The chemical phenindione is related to the chemical apixaban.,0
+67532,The gene fdps has a direct relationship with the gene idi1.,0
+67676,The gene eif2ak3 contributes to the pathogenesis or promotes the progression of the disease neoplasms.,1
+67756,The gene agrn has a direct relationship with the gene gp6.,0
+67856,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene lgals1.,1
+67880,The gene iars has a direct relationship with the gene pygl.,0
+68053,cldn18 affects the expression or production of the gene il13.,0
+68083,The gene apoe is involved in regulatory pathways together with the gene reln.,1
+68321,The gene myh11 contributes to the pathogenesis or promotes the progression of the disease smith mccort dysplasia.,1
+68447,The gene lama2 has a direct relationship with the gene nrg2.,0
+68817,The disease carcinoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene snta1.,0
+68966,The gene fas is involved in regulatory pathways together with the gene stim1.,1
+69032,The chemical acetylcarnitine is used for the treatment or therapy of the disease demyelinating autoimmune diseases cns.,1
+69188,The gene stim1 is involved in regulatory pathways together with the gene cd38.,1
+69250,The chemical gliquidone is related to the chemical drospirenone.,0
+69332,The gene hnf1a may exert a therapeutic effect on the disease urination disorders.,0
+69398,The gene p2rx2 has a direct relationship with the gene eif2ak3.,0
+69582,The gene tas2r16 has a direct relationship with the gene trem2.,0
+69667,The gene cldn18 contributes to the pathogenesis or promotes the progression of the disease carcinoma.,1
+69669,reln affects the expression or production of the gene dlg4.,1
+69752,The gene adrb2 has a direct relationship with the gene oat.,0
+69892,trpc1 binds with the gene trpv1 as a ligand.,0
+69997,camp affects the expression or production of the gene rgs4.,0
+70182,The gene gp6 contributes to the pathogenesis or promotes the progression of the disease hemorrhage.,0
+70376,The disease genital neoplasms male is linked to diagnostic biomarkers or regulatory mechanisms involving the gene epha1.,0
+70647,esr1 binds with the gene foxe1 as a ligand.,0
+70696,The gene acat1 has a direct relationship with the gene acss3.,0
+70699,Mutations or polymorphisms in the gene reln alter the risk associated with the disease autism susceptibility 16.,0
+70874,The gene reln contributes to the pathogenesis or promotes the progression of the disease alzheimer disease.,0
+70936,The gene stim1 is involved in regulatory pathways together with the gene ryr1.,1
+71059,The chemical apixaban is used for the treatment or therapy of the disease embolism.,1
+71272,The gene cd2ap has a direct relationship with the gene pstpip1.,0
+71417,The chemical pentamidine is related to the chemical gliquidone.,0
+71668,The gene casp5 enhances the response or activates/stimulates the gene casp8.,0
+71768,shank2 affects the expression or production of the gene cftr.,0
+71769,gp6 binds with the gene bsg as a ligand.,0
+72593,The chemical pioglitazone inhibits the gene eif2ak3.,0
+72632,notch1 affects the expression or production of the gene reln.,1
+72831,nitric oxide affects the expression or production of the gene calr.,0
+73001,The gene cftr enhances the response or activates/stimulates the gene nppa.,0
+73049,The disease lipodystrophy is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hmga2.,1
+73092,The gene il9 has a direct relationship with the gene snta1.,0
+73238,The gene nedd4l has a direct relationship with the gene idi1.,0
+73304,ano1 binds with the gene cftr as a ligand.,0
+73434,The gene tpo is linked to the production by cell populations of the gene gp6.,0
+73556,The gene csnk1e has a direct relationship with the gene oat.,0
+73633,The gene atf3 is linked to the production by cell populations of the gene eif2ak3.,0
+73689,The gene esrra contributes to the pathogenesis or promotes the progression of the disease uterine diseases.,1
+73744,The gene eif2ak3 is linked to the production by cell populations of the gene runx2.,0
+73749,The gene cftr is involved in regulatory pathways together with the gene hdac2.,1
+73769,pparg affects the expression or production of the gene esrra.,0
+73930,The gene acsl4 has a direct relationship with the gene acss3.,0
+74062,The gene casp3 has a direct relationship with the gene casp5.,0
+74147,The chemical amlodipine is related to the chemical terazosin.,0
+74528,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease osteoarthritis.,0
+74537,The gene trpc3 has a direct relationship with the gene trpv1.,0
+74567,The gliquidone interacts with abcc8 in a pharmacological or biomedical context.,1
+74578,The gene fto enhances the response or activates/stimulates the gene cacnb2.,0
+74761,The gene esrra has a direct relationship with the gene nr2f2.,0
+75148,The disease colonic diseases is linked to diagnostic biomarkers or regulatory mechanisms involving the gene phox2b.,0
+75276,cftr affects the expression or production of the gene calr.,0
+75283,The gene rgs4 is involved in regulatory pathways together with the gene musk.,1
+75400,The gene esrra enhances the response or activates/stimulates the gene esrra.,0
+75567,The gene eif2ak3 is linked to the production by cell populations of the gene stk11.,0
+75568,The gene vars enhances the response or activates/stimulates the gene iars.,-1
+75592,The gene anks1b has a direct relationship with the gene stim1.,0
+75647,The disease fibrosis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene calr.,1
+75681,The gene cftr is involved in regulatory pathways together with the gene tjp1.,1
+75888,Mutations or polymorphisms in the gene fto alter the risk associated with the disease inflammation.,0
+75965,The gene adm is involved in regulatory pathways together with the gene calcrl.,1
+76043,The chemical fluvoxamine is related to the chemical apixaban.,0
+76322,The gene cldn18 contributes to the pathogenesis or promotes the progression of the disease neoplasms.,1
+76326,The gene iars has a direct relationship with the gene cd3d.,0
+76355,The gene reln is involved in regulatory pathways together with the gene actg1.,1
+76540,The gene sgpl1 is involved in regulatory pathways together with the gene rgs4.,1
+76582,The gene trpv1 enhances the response or activates/stimulates the gene trpa1.,0
+76589,The gene casp5 enhances the response or activates/stimulates the gene pygm.,0
+76597,The gene calcrl is involved in regulatory pathways together with the gene adm.,1
+76737,The gene trpv1 enhances the response or activates/stimulates the gene muc5b.,0
+77199,The disease lymphangiomyoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tsc1.,1
+77252,The gene ppp2ca has a direct relationship with the gene hnf1a.,0
+77420,asxl1 affects the expression or production of the gene hnf1a.,1
+77520,The gene sp1 enhances the response or activates/stimulates the gene cd2ap.,1
+77623,The gene fdft1 has a direct relationship with the gene idi1.,0
+77625,The gene calr contributes to the pathogenesis or promotes the progression of the disease pre eclampsia.,0
+77672,The disease hypertension is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hnf1a.,1
+77735,sox18 binds with the gene mmp7 as a ligand.,0
+77752,The gene s100a12 is involved in regulatory pathways together with the gene calcrl.,1
+77790,The chemical piroxicam is related to the chemical apixaban.,0
+78196,The gene arf6 enhances the response or activates/stimulates the gene gp6.,0
+78763,calr binds with the gene cd69 as a ligand.,0
+78868,The gene esrra has a direct relationship with the gene ncoa1.,0
+78897,The gene iars has a direct relationship with the gene snca.,0
+78926,trpv1 binds with the gene kng1 as a ligand.,0
+79228,The chemical terazosin is related to the chemical flunarizine.,0
+79252,eif2ak3 affects the expression or production of the gene arf1.,0
+79306,The chemical colchicine inhibits cell growth associated with the disease smith mccort dysplasia.,0
+79548,The gene cdkal1 has a direct relationship with the gene trmu.,0
+79733,Mutations or polymorphisms in the gene stim1 alter the risk associated with the disease gastrointestinal neoplasms.,1
+79743,The gene calr contributes to the pathogenesis or promotes the progression of the disease liver neoplasms.,1
+80110,Mutations or polymorphisms in the gene stim1 alter the risk associated with the disease intestinal neoplasms.,1
+80203,The gene abcg2 is linked to the production by cell populations of the gene slc15a1.,0
+80542,rgs4 affects the expression or production of the gene rgs19.,0
+80733,The gene sox18 is involved in regulatory pathways together with the gene mef2c.,1
+80836,tnfrsf11b affects the expression or production of the gene cftr.,1
+80851,The disease amyloidosis may have a therapeutic connection with the gene abcg2.,1
+80995,The chemical sirolimus is used for the treatment or therapy of the disease smith mccort dysplasia.,0
+81073,The gene hcrtr1 has a direct relationship with the gene gpr63.,0
+81172,The chemical apixaban is used for the treatment or therapy of the disease kidney diseases.,0
+81183,fyn affects the expression or production of the gene cd2ap.,0
+81194,cftr affects the expression or production of the gene egf.,0
+81204,The gene calcrl is involved in regulatory pathways together with the gene s100a12.,1
+81216,The chemical gliquidone is related to the chemical asenapine.,0
+81286,Mutations or polymorphisms in the gene cftr alter the risk associated with the disease bronchitis.,1
+81532,egf affects the expression or production of the gene cftr.,1
+81603,The gene ahcy has a direct relationship with the gene oat.,0
+81643,Mutations or polymorphisms in the gene reln alter the risk associated with the disease paraproteinemias.,1
+81660,The gene trpv1 enhances the response or activates/stimulates the gene sp1.,0
+81853,The gene cd4 is linked to the production by cell populations of the gene epha1.,0
+81972,The gene atp5b has a direct relationship with the gene calr.,0
+82040,The disease osteoporosis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene trpv1.,0
+82052,The disease sarcoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene stim1.,0
+82304,The gene hnf1a enhances the response or activates/stimulates the gene gckr.,1
+82464,The disease pancreatic neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene eif2ak3.,1
+82551,The gene abcg2 contributes to the pathogenesis or promotes the progression of the disease melanoma.,0
+82730,reln binds with the gene vegfa as a ligand.,0
+82844,The gene galnt2 enhances the response or activates/stimulates the gene fto.,0
+82987,The gene trmu has a direct relationship with the gene pus1.,0
+83103,The gene grik5 is involved in regulatory pathways together with the gene grik1.,0
+83251,The gene fto enhances the response or activates/stimulates the gene esr1.,0
+83254,The gene idi1 enhances the response or activates/stimulates the gene cyp17a1.,1
+83331,The gene nck1 is involved in regulatory pathways together with the gene eif2ak3.,1
+83445,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene adm.,0
+83572,The chemical alfuzosin is related to the chemical terazosin.,1
+83660,The chemical apixaban is related to the chemical ticagrelor.,0
+83714,The gene reln contributes to the pathogenesis or promotes the progression of the disease cerebrovascular disorders.,1
+83869,Mutations or polymorphisms in the gene dgat1 alter the risk associated with the disease lipodystrophy.,1
+84089,The gene ret is linked to the production by cell populations of the gene phox2b.,0
+84221,The gene casp5 enhances the response or activates/stimulates the gene casp6.,0
+84225,eif2ak3 affects the expression or production of the gene igf1.,1
+84239,The gene eif2ak3 is involved in regulatory pathways together with the gene mfn2.,1
+84399,notch4 affects the expression or production of the gene rgs4.,1
+84468,The gene lama3 has a direct relationship with the gene nrg2.,0
+84543,The chemical medroxyprogesterone acetate is related to the chemical gliquidone.,0
+84582,The gene abcg2 is involved in regulatory pathways together with the gene slc22a6.,1
+84700,The gene oat has a direct relationship with the gene ppig.,0
+84702,The disease melanoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene eif2ak3.,1
+84824,The disease lupus erythematosus systemic is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hla dpa1.,1
+84844,Mutations or polymorphisms in the gene kcnj6 alter the risk associated with the disease lipodystrophy.,1
+84944,The gene slc2a2 enhances the response or activates/stimulates the gene fto.,0
+84947,The gene cftr enhances the response or activates/stimulates the gene slc26a4.,0
+85005,The gene ncan enhances the response or activates/stimulates the gene fto.,1
+85022,The gene casp5 is linked to the production by cell populations of the gene casp1.,0
+85041,The gene rgs4 enhances the response or activates/stimulates the gene mlc1.,0
+85046,The gene prox1 has a direct relationship with the gene hnf1a.,0
+85329,The gene trpv1 is involved in regulatory pathways together with the gene ano1.,1
+85536,itga2b affects the expression or production of the gene gp6.,1
+85591,The gene iars has a direct relationship with the gene atp6v1b2.,0
+85617,The disease smith mccort dysplasia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene ang.,0
+85768,The gene gmppb has a direct relationship with the gene acss3.,0
+85808,atf3 affects the expression or production of the gene epha1.,0
+85873,Mutations or polymorphisms in the gene fto alter the risk associated with the disease gram positive bacterial infections.,0
+86037,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease dyskinesias.,1
+86384,The gene phox2a has a direct relationship with the gene phox2b.,0
+86424,grm8 binds with the gene rho as a ligand.,0
+86535,The gene calr enhances the response or activates/stimulates the gene lgals1.,0
+86623,The fto interacts with azathioprine in a pharmacological or biomedical context.,1
+86666,The gene grik1 is involved in regulatory pathways together with the gene grik2.,0
+86837,The gene foxe1 is linked to the production by cell populations of the gene crispld2.,0
+86893,The gene adra1d has a direct relationship with the gene snta1.,0
+87368,The gene pdk4 is involved in regulatory pathways together with the gene esrra.,1
+87522,The gene hal has a direct relationship with the gene csad.,0
+87646,The gene cd44 is linked to the production by cell populations of the gene abcg2.,0
+87816,dopamine binds with the gene trpv1 as a ligand.,0
+88373,The chemical darunavir is related to the chemical apixaban.,0
+88469,The krt17 interacts with pachyonychia congenita in a pharmacological or biomedical context.,0
+88622,The gene fto contributes to the pathogenesis or promotes the progression of the disease overweight.,1
+88882,Mutations or polymorphisms in the gene eif2ak3 alter the risk associated with the disease genital neoplasms female.,1
+88906,The gene dnm2 has a direct relationship with the gene cd2ap.,0
+88917,The gene idi1 has a direct relationship with the gene impa1.,0
+88984,The gene fto enhances the response or activates/stimulates the gene wfs1.,0
+88995,The gene calr is linked to the production by cell populations of the gene hla a.,0
+89076,The gene trpv1 has a direct relationship with the gene itch.,0
+89257,The disease carcinoma bronchogenic may have a therapeutic connection with the gene calr.,1
+89290,socs3 binds with the gene fto as a ligand.,0
+89494,The disease genital neoplasms female is linked to diagnostic biomarkers or regulatory mechanisms involving the gene sox18.,0
+89844,The gene cd2ap is involved in regulatory pathways together with the gene rac1.,1
+89851,The gene epha1 is involved in regulatory pathways together with the gene efnb1.,1
+89855,The gene mef2c is involved in regulatory pathways together with the gene sox18.,1
+89934,The gene agl has a direct relationship with the gene stim1.,0
+90067,The chemical acetylcarnitine plays a role in the pathogenesis of the disease major affective disorder 7.,0
+90237,The gene nrg2 enhances the response or activates/stimulates the gene erbb3.,1
+90339,The gene casp5 enhances the response or activates/stimulates the gene cdkn1a.,1
+90390,The chemical nicardipine is related to the chemical terazosin.,0
+90496,The chemical ritonavir may cause side effects or adverse events in relation to the disease lipodystrophy.,1
+90546,The gene scly has a direct relationship with the gene trmu.,0
+90595,mbp is associated with esrra.,0
+90660,cftr affects the expression or production of the gene sult1e1.,1
+90888,The gene abcg2 participates in transport or channeling functions related to the chemical prazosin.,0
+90921,The gene bdnf is involved in regulatory pathways together with the gene reln.,1
+91156,The gene iars has a direct relationship with the gene mars.,0
+91303,Mutations or polymorphisms in the gene pparg alter the risk associated with the disease lipodystrophy.,1
+91708,The gene foxe1 is linked to the production by cell populations of the gene fgf8.,0
+92074,The gene prkag2 has a direct relationship with the gene stim1.,0
+92130,Mutations or polymorphisms in the gene abcg2 alter the risk associated with the disease cholestasis.,1
+92243,The gene prox1 is involved in regulatory pathways together with the gene esrra.,1
+92315,The gene sirt1 has a direct relationship with the gene hnf1a.,0
+92332,rgs4 affects the expression or production of the gene chrna7.,0
+92403,The chemical acenocoumarol is related to the chemical apixaban.,0
+92445,fto is associated with cad.,0
+92648,The lmnb2 interacts with lipodystrophy in a pharmacological or biomedical context.,1
+92735,The chemical ketoconazole is related to the chemical apixaban.,0
+92946,The gene esrra is involved in regulatory pathways together with the gene foxo1.,1
+93322,The gene csnk1d has a direct relationship with the gene epha1.,0
+93428,The gene ephb2 enhances the response or activates/stimulates the gene epha1.,0
+93609,cftr affects the expression or production of the gene il13.,0
+93653,The gene sox18 is linked to the production by cell populations of the gene foxc2.,0
+93674,dopamine affects the expression or production of the gene rgs4.,0
+93786,The gene ptk2b has a direct relationship with the gene gp6.,1
+94233,The disease schizophrenia is linked to diagnostic biomarkers or regulatory mechanisms involving the gene reln.,1
+94234,Mutations or polymorphisms in the gene phox2b alter the risk associated with the disease colonic diseases.,0
+94615,The gene abcg2 is involved in the metabolism or pharmacokinetic processing of the chemical bicalutamide.,1
+94761,The gene acss3 has a direct relationship with the gene sucla2.,0
+94785,The gene calr is linked to the production by cell populations of the gene il6.,0
+94880,The gene alad has a direct relationship with the gene oat.,0
+94971,The gene gyg1 has a direct relationship with the gene stim1.,0
+95029,The gene casp5 enhances the response or activates/stimulates the gene tp53.,0
+95146,The gene cldn18 is involved in regulatory pathways together with the gene cldn18.,0
+95171,The gene idi1 has a direct relationship with the gene ggps1.,0
+95483,The gene arpc1b has a direct relationship with the gene calr.,0
+95528,gp6 binds with the gene fyn as a ligand.,0
+95650,The chemical megestrol acetate is related to the chemical gliquidone.,0
+95782,The gene isyna1 shows potential therapeutic effects on the disease smith mccort dysplasia.,1
+95999,The gene csf3 may exert a therapeutic effect on the disease smith mccort dysplasia.,0
+96103,The gene hla drb1 enhances the response or activates/stimulates the gene cftr.,0
+96171,testosterone affects the expression or production of the gene reln.,0
+96284,The gene trmu has a direct relationship with the gene acsm3.,0
+96330,The gene reln is involved in regulatory pathways together with the gene chd7.,1
+96360,flna binds with the gene cftr as a ligand.,0
+96366,The gene hnf1a enhances the response or activates/stimulates the gene cel.,0
+96389,ins affects the expression or production of the gene fto.,1
+96391,The ighmbp2 interacts with charcot marie tooth disease in a pharmacological or biomedical context.,0
+96453,The gene prkce has a direct relationship with the gene trpv1.,0
+96455,Mutations or polymorphisms in the gene ighmbp2 alter the risk associated with the disease esophageal neoplasms.,1
+96531,The chemical acetylcarnitine is used for the treatment or therapy of the disease cerebrovascular disorders.,0
+97057,The gene slc25a4 has a direct relationship with the gene oat.,0
+97317,The gene cftr has a direct relationship with the gene ppib.,0
+97580,The gene fto enhances the response or activates/stimulates the gene pparg.,0
+97716,The gene ctrc enhances the response or activates/stimulates the gene cftr.,0
+97717,The disease exocrine pancreatic insufficiency is linked to diagnostic biomarkers or regulatory mechanisms involving the gene cftr.,0
+97753,The gene acsbg1 has a direct relationship with the gene acss3.,0
+97781,dgcr2 affects the expression or production of the gene rgs4.,1
+98094,The gene esrra has a direct relationship with the gene ppard.,0
+98157,The gene trpv1 contributes to the pathogenesis or promotes the progression of the disease pain.,1
+98205,The gene prkcb has a direct relationship with the gene nrg2.,0
+98713,The gene esr1 is involved in regulatory pathways together with the gene esrra.,1
+98743,The chemical terazosin inhibits cell growth associated with the disease genital neoplasms male.,1
+98745,The gene cftr contributes to the pathogenesis or promotes the progression of the disease osteoporosis.,0
+98987,The chemical bendroflumethiazide is related to the chemical gliquidone.,0
+99017,The gene esrra is involved in regulatory pathways together with the gene sirt3.,1
+99156,The gene bcl2 is linked to the production by cell populations of the gene casp5.,0
+99234,The chemical sulfasalazine inhibits the gene abcg2.,0
+99285,The gene muc5b enhances the response or activates/stimulates the gene trpv1.,0
+99320,The gene gnpda1 has a direct relationship with the gene pmm2.,0

@@ -1,0 +1,801 @@
+triplet_id,triplet_prompt,tf_value
+63,The chemical cimetidine is related to the chemical nilotinib.,0
+66,The chemical temozolomide plays a role in the pathogenesis of the disease hypopigmentation.,0
+194,The chemical epinephrine is used for the treatment or therapy of the disease myocardial ischemia.,1
+286,The gene aoc3 contributes to the pathogenesis or promotes the progression of the disease cerebrovascular disorders.,1
+299,The gene il10rb enhances the response or activates/stimulates the gene ppp2ca.,0
+411,cdkn2a is associated with hypopigmentation.,0
+588,The gene cdh15 has a direct relationship with the gene tcf12.,0
+613,"The chemical epinephrine prevents, suppresses, or alleviates the severity of the disease hemorrhage.",1
+731,The chemical epinephrine may cause side effects or adverse events in relation to the disease vision disorders.,1
+784,The chemical cimetidine is related to the chemical felodipine.,0
+835,pls3 affects the expression or production of the gene pls3.,0
+900,The chemical epinephrine may cause side effects or adverse events in relation to the disease hyperuricemia.,1
+1252,The disease colitis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene crhr2.,1
+1389,The gene adipoq is involved in regulatory pathways together with the gene avp.,0
+1503,The gene kir3dl1 enhances the response or activates/stimulates the gene kir2ds1.,0
+1515,The gene ctsd has a direct relationship with the gene igf2r.,0
+1565,vwf affects the expression or production of the gene serpinc1.,0
+1580,The disease respiratory tract neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene ptgis.,0
+1582,The chemical olmesartan is used for the treatment or therapy of the disease body weight changes.,0
+1853,The chemical promazine is used for the treatment or therapy of the disease hypothalamic diseases.,0
+1857,The gene rpl15 has a direct relationship with the gene spp1.,0
+2031,The epinephrine interacts with adra1b in a pharmacological or biomedical context.,1
+2135,The gene gcsh has a direct relationship with the gene aoc3.,0
+2305,The gene ces1 has a direct relationship with the gene aoc3.,0
+2319,The gene isg15 is involved in regulatory pathways together with the gene hdac6.,1
+2424,The gene kir3dl1 contributes to the pathogenesis or promotes the progression of the disease demyelinating autoimmune diseases cns.,1
+2570,mfn2 binds with the gene hdac6 as a ligand.,0
+2733,The gene smad6 has a direct relationship with the gene mapk6.,1
+2921,The gene pomc shows potential therapeutic effects on the disease hypopigmentation.,1
+3020,The gene cyp2a13 has a direct relationship with the gene cyp2c18.,0
+3091,The gene aoc3 is involved in regulatory pathways together with the gene vcam1.,1
+3152,The gene avp contributes to the pathogenesis or promotes the progression of the disease pain.,0
+3260,The gene cdh15 has a direct relationship with the gene mapk12.,0
+3261,The gene cyp2c18 enhances the response or activates/stimulates the gene ephx1.,0
+3278,The chemical epinephrine inhibits cell growth associated with the disease neoplasms.,0
+3284,"The chemical epinephrine prevents, suppresses, or alleviates the severity of the disease intellectual disability.",0
+3573,The gene cox4i1 has a direct relationship with the gene rpl15.,0
+3601,tamoxifen affects the expression or production of the gene hadhb.,0
+4074,The cimetidine interacts with slc22a8 in a pharmacological or biomedical context.,0
+4554,The chemical cimetidine is used for the treatment or therapy of the disease agammaglobulinemia.,0
+4694,The gene ifnar2 has a direct relationship with the gene il10rb.,1
+4744,The gene kir3dl1 enhances the response or activates/stimulates the gene kir2ds4.,0
+4917,The gene mybpc3 contributes to the pathogenesis or promotes the progression of the disease ventricular dysfunction left.,1
+5017,The gene sult1e1 is involved in regulatory pathways together with the gene ccne1.,1
+5631,Mutations or polymorphisms in the gene serpinc1 alter the risk associated with the disease congenital abnormalities.,1
+5679,The chemical ganciclovir is used for the treatment or therapy of the disease acquired immunodeficiency syndrome.,1
+5748,The gene tardbp has a direct relationship with the gene ncf2.,0
+5847,The disease atrial fibrillation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene psrc1.,0
+6006,ren binds with the gene igf2r as a ligand.,1
+6268,The chemical promazine is related to the chemical isocarboxazid.,0
+6341,The gene tnf contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,0
+6376,The gene csf2rb has a direct relationship with the gene il10rb.,0
+6420,"The chemical simvastatin prevents, suppresses, or alleviates the severity of the disease body weight changes.",0
+6464,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease arteriosclerosis.,1
+6517,The chemical ganciclovir may cause side effects or adverse events in relation to the disease brain diseases.,1
+6585,The gene map3k3 has a direct relationship with the gene mapk6.,0
+6608,The gene ptgis contributes to the pathogenesis or promotes the progression of the disease breast neoplasms.,1
+6657,The gene gart has a direct relationship with the gene rpl15.,0
+6666,The chemical promazine is related to the chemical amisulpride.,1
+6898,The gene rpl15 has a direct relationship with the gene ywhae.,0
+6918,"The chemical epinephrine exhibits agonistic, activating, or antagonistic effects on the gene f2r.",0
+7279,The chemical quinidine is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+7468,The chemical ganciclovir is used for the treatment or therapy of the disease neoplasms.,0
+7537,The gene lamb2 has a direct relationship with the gene lamb3.,0
+7577,The gene krit1 enhances the response or activates/stimulates the gene tnfsf10.,0
+7712,The gene mapk6 has a direct relationship with the gene map2k4.,0
+7858,The chemical ganciclovir is used for the treatment or therapy of the disease diarrhea.,0
+8316,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease carotid artery diseases.,1
+8351,The gene f13b has a direct relationship with the gene serpinc1.,0
+8644,The gene lifr enhances the response or activates/stimulates the gene il10rb.,0
+8674,The gene kcna1 has a direct relationship with the gene mapk1.,0
+8718,The chemical promazine is related to the chemical nefazodone.,1
+8779,The chemical promazine is related to the chemical phendimetrazine.,0
+9046,The gene mapk6 has a direct relationship with the gene plekhm1.,0
+9370,nicotine affects the expression or production of the gene hdac6.,0
+9518,The gene hdac6 is involved in regulatory pathways together with the gene hdac9.,1
+9627,The disease hypopigmentation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene isyna1.,1
+9778,The gene kif5a is linked to the production by cell populations of the gene mapk8ip1.,0
+9955,The disease tdp 43 proteinopathies is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,1
+10094,The gene alpp has a direct relationship with the gene cog8.,0
+10114,The gene pls3 has a direct relationship with the gene was.,0
+10192,The gene tardbp is involved in regulatory pathways together with the gene sod1.,1
+10214,kir3dl1 is associated with apcs.,0
+10417,shox affects the expression or production of the gene fgfr3.,0
+10510,The gene camk1 enhances the response or activates/stimulates the gene krit1.,1
+10541,The chemical phenylephrine is related to the chemical epinephrine.,1
+10609,The gene srm has a direct relationship with the gene aoc3.,0
+10682,Mutations or polymorphisms in the gene mitf alter the risk associated with the disease hypopigmentation.,1
+11144,The gene grn is involved in regulatory pathways together with the gene tardbp.,1
+11247,The chemical cimetidine is used for the treatment or therapy of the disease edema.,0
+11436,The gene pls3 has a direct relationship with the gene ppp1ca.,0
+11448,The gene cyp2a13 enhances the response or activates/stimulates the gene cyp2c18.,0
+11461,The gene col6a3 enhances the response or activates/stimulates the gene igf2r.,0
+11532,The gene foxp3 has a direct relationship with the gene krit1.,0
+11788,The disease hereditary sensory and motor neuropathy is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1
+11920,prkaa2 binds with the gene igf2r as a ligand.,0
+11978,tp53 affects the expression or production of the gene col17a1.,1
+12104,The gene galnt2 has a direct relationship with the gene psrc1.,0
+12388,krit1 affects the expression or production of the gene egfr.,1
+12470,The gene kif5a has a direct relationship with the gene spast.,0
+12475,The disease body weight changes is linked to diagnostic biomarkers or regulatory mechanisms involving the gene fen1.,0
+12552,krit1 binds with the gene src as a ligand.,0
+12635,The chemical cimetidine plays a role in the pathogenesis of the disease optic neuritis.,0
+12685,The gene actb has a direct relationship with the gene rpl15.,0
+12759,The gene lamb2 enhances the response or activates/stimulates the gene nphs1.,0
+13123,The gene cxcr4 enhances the response or activates/stimulates the gene csf3r.,0
+13307,The chemical promazine is related to the chemical tamoxifen.,0
+13474,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease disseminated intravascular coagulation.,1
+13609,The chemical ganciclovir is used for the treatment or therapy of the disease respiratory tract neoplasms.,0
+13777,The disease charcot marie tooth disease is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1
+13870,The chemical promazine is related to the chemical almotriptan.,0
+13890,The disease intestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene pls3.,1
+13957,The gene bglap contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+14035,The gene rac1 is involved in regulatory pathways together with the gene tardbp.,1
+14072,birc5 binds with the gene hdac6 as a ligand.,1
+14205,The chemical ganciclovir inhibits cell growth associated with the disease sarcoma.,0
+14208,The gene cdh15 has a direct relationship with the gene jup.,0
+14394,The gene hdac6 has a direct relationship with the gene bbs10.,0
+14448,The chemical cimetidine is related to the chemical lercanidipine.,0
+14747,The gene serpinc1 is involved in regulatory pathways together with the gene pc.,1
+14863,The gene gpx1 has a direct relationship with the gene mapk6.,0
+14965,The gene cyp2c18 has a direct relationship with the gene cyp2w1.,0
+15049,The gene krit1 participates in transport or channeling functions related to the chemical isoflurane.,0
+15109,The gene plod2 has a direct relationship with the gene pls3.,0
+15238,The gene gphn has a direct relationship with the gene kif5a.,0
+15341,The gene hdac6 has a direct relationship with the gene hdac1.,0
+15390,The me2 interacts with epilepsy in a pharmacological or biomedical context.,1
+15465,The gene avp contributes to the pathogenesis or promotes the progression of the disease coronary disease.,0
+15481,The gene crhr2 has a direct relationship with the gene fzd4.,0
+15558,The gene igf2r is linked to the production by cell populations of the gene igf1r.,0
+15697,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease brain diseases metabolic inborn.,1
+15702,The gene cyp2c18 has a direct relationship with the gene cyp2j2.,0
+15731,The chemical ganciclovir is used for the treatment or therapy of the disease idiopathic pulmonary fibrosis.,0
+15757,The gene cdk3 has a direct relationship with the gene kir3dl1.,0
+15873,The disease hyperbilirubinemia hereditary is linked to diagnostic biomarkers or regulatory mechanisms involving the gene aoc3.,1
+15883,The gene ep300 has a direct relationship with the gene atf5.,0
+15948,The gene igf2r enhances the response or activates/stimulates the gene ednrb.,0
+16022,The gene kir3dl1 is linked to the production by cell populations of the gene afp.,0
+16221,avp is associated with pla2g1b.,0
+16303,sox9 binds with the gene krit1 as a ligand.,0
+16311,The chemical promazine is related to the chemical naratriptan.,0
+16613,The gene mapk6 has a direct relationship with the gene casp6.,0
+16647,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease colitis.,1
+16654,The chemical epinephrine is used for the treatment or therapy of the disease infections.,0
+16822,The gene eif2s3 has a direct relationship with the gene tardbp.,0
+16832,The gene f9 is linked to the production by cell populations of the gene me2.,0
+16896,The chemical enalapril is used for the treatment or therapy of the disease body weight changes.,0
+17094,avp is associated with neurotoxicity syndromes.,1
+17232,The gene cyp2c18 enhances the response or activates/stimulates the gene cyp1a1.,0
+17408,foxp3 affects the expression or production of the gene il10rb.,1
+17425,The gene gm2a has a direct relationship with the gene nagpa.,0
+17443,The gene mapk6 is involved in regulatory pathways together with the gene jun.,1
+17486,The gene ugt1a3 enhances the response or activates/stimulates the gene sult1e1.,1
+17607,The gene hdac6 contributes to the pathogenesis or promotes the progression of the disease arteriosclerosis.,1
+17935,The chemical cimetidine is used for the treatment or therapy of the disease deglutition disorders.,0
+18121,The disease genital neoplasms male is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,0
+18223,The gene hdac6 has a direct relationship with the gene grip1.,0
+18273,The gene cyp3a7 has a direct relationship with the gene sult1e1.,0
+18304,The gene csf3r is involved in regulatory pathways together with the gene sqstm1.,1
+18485,metformin affects the expression or production of the gene mapk6.,0
+18582,The gene edn1 contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,1
+18605,The gene fgb has a direct relationship with the gene mapk6.,0
+18639,krit1 binds with the gene gad1 as a ligand.,0
+18845,The gene vcp enhances the response or activates/stimulates the gene tardbp.,0
+18900,The gene htr2a contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+19128,The gene cntn1 has a direct relationship with the gene lamb2.,0
+19388,The gene csf2 has a direct relationship with the gene csf3r.,0
+19468,The gene crhr2 has a direct relationship with the gene npy5r.,0
+19527,The gene col17a1 contributes to the pathogenesis or promotes the progression of the disease autoimmune diseases.,1
+19577,The chemical amrinone is used for the treatment or therapy of the disease ventricular dysfunction left.,1
+19735,The chemical olanzapine is used for the treatment or therapy of the disease body weight changes.,0
+19836,The gene rps6ka1 enhances the response or activates/stimulates the gene kcna1.,0
+20316,The disease depressive disorder major is linked to diagnostic biomarkers or regulatory mechanisms involving the gene avp.,0
+20377,The chemical felbamate is used for the treatment or therapy of the disease body weight changes.,0
+20452,estradiol affects the expression or production of the gene serpinc1.,1
+20591,The chemical indomethacin may cause side effects or adverse events in relation to the disease body weight changes.,1
+20684,The gene hdac6 has a direct relationship with the gene hdac3.,0
+20702,The gene atf5 has a direct relationship with the gene gabbr2.,0
+20859,cbs binds with the gene elac2 as a ligand.,0
+21047,The chemical halothane may cause side effects or adverse events in relation to the disease ventricular dysfunction left.,1
+21146,The gene csnk2a1 has a direct relationship with the gene shox.,0
+21149,The chemical epinephrine is related to the chemical isoprenaline.,0
+21201,The desflurane interacts with kcna1 in a pharmacological or biomedical context.,1
+21338,The disease dermatitis herpetiformis may have a therapeutic connection with the gene serpinc1.,1
+21393,The gene cyp3a4 has a direct relationship with the gene sult1e1.,0
+21439,The chemical cimetidine is related to the chemical fosphenytoin.,0
+21444,cimetidine affects the expression or production of the gene shbg.,1
+21517,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease kidney diseases.,1
+21532,The chemical cimetidine is related to the chemical cefpodoxime.,0
+21888,The gene mapk6 has a direct relationship with the gene mapkapk5.,0
+21916,The gene pik3ca has a direct relationship with the gene avp.,0
+21972,The gene csf2ra has a direct relationship with the gene csf3r.,0
+22130,tardbp binds with the gene ppia as a ligand.,0
+22330,The gene kir3dl1 enhances the response or activates/stimulates the gene klrd1.,0
+22440,The gene sult1b1 has a direct relationship with the gene sult1e1.,0
+22578,The gene ptgis shows potential therapeutic effects on the disease gastrointestinal neoplasms.,1
+22690,The gene cyp2c18 has a direct relationship with the gene arnt.,0
+22760,The amitriptyline interacts with kcna1 in a pharmacological or biomedical context.,1
+22989,The gene krit1 may exert a therapeutic effect on the disease arrhythmias cardiac.,0
+23013,The chemical tenofovir is related to the chemical ganciclovir.,1
+23196,krit1 binds with the gene grm5 as a ligand.,0
+23460,The gene tardbp contributes to the pathogenesis or promotes the progression of the disease brain diseases metabolic inborn.,1
+23555,The gene hdac6 is linked to the production by cell populations of the gene foxp3.,0
+23684,The gene tardbp contributes to the pathogenesis or promotes the progression of the disease paralysis.,0
+23943,Mutations or polymorphisms in the gene aoc3 alter the risk associated with the disease infarction.,1
+23951,The chemical ganciclovir is used for the treatment or therapy of the disease central nervous system diseases.,0
+24010,The chemical cimetidine is related to the chemical amrinone.,0
+24057,The chemical triprolidine is related to the chemical epinephrine.,0
+24167,The chemical ethanol inhibits the gene avp.,0
+24526,The gene egf is involved in the metabolism or pharmacokinetic processing of the chemical cimetidine.,0
+24647,The gene ptgs2 is involved in regulatory pathways together with the gene ptgis.,1
+24676,krit1 binds with the gene grm1 as a ligand.,0
+24806,Mutations or polymorphisms in the gene bdnf alter the risk associated with the disease body weight changes.,1
+25098,The gene cyp1b1 has a direct relationship with the gene cyp2c18.,0
+25112,The gene tardbp is linked to the production by cell populations of the gene cdk6.,0
+25197,The chemical thioproperazine is used for the treatment or therapy of the disease schizoaffective disorder.,1
+25225,The chemical mexiletine is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+25232,The gene akr1d1 has a direct relationship with the gene sult1e1.,0
+25345,The chemical zolmitriptan is related to the chemical promazine.,0
+25422,pdx1 affects the expression or production of the gene atf5.,1
+25477,tardbp affects the expression or production of the gene hdac6.,1
+25516,Mutations or polymorphisms in the gene tardbp alter the risk associated with the disease motor neuron disease.,1
+25919,The chemical epinephrine is used for the treatment or therapy of the disease pruritus.,1
+25953,Mutations or polymorphisms in the gene serpinc1 alter the risk associated with the disease amino acid metabolism inborn errors.,1
+26038,The ganciclovir interacts with slc22a8 in a pharmacological or biomedical context.,0
+26071,The gene tardbp enhances the response or activates/stimulates the gene spg11.,1
+26234,The gene lamb2 contributes to the pathogenesis or promotes the progression of the disease kidney diseases.,1
+26291,epinephrine affects the expression or production of the gene casp3.,0
+26320,The phenelzine interacts with aoc3 in a pharmacological or biomedical context.,0
+26654,The disease inflammation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene aoc3.,0
+26791,The gene afp enhances the response or activates/stimulates the gene serpinc1.,0
+27066,cisplatin affects the expression or production of the gene hdac6.,0
+27100,The gene kir3dl1 enhances the response or activates/stimulates the gene kir2dl2.,0
+27204,The gene crhr2 has a direct relationship with the gene adrb1.,0
+27240,The gene sult1e1 has a direct relationship with the gene sult2b1.,0
+27276,The gene fas contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+27455,The gene ppara contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+27514,The chemical doxapram is related to the chemical epinephrine.,0
+28306,The chemical epinephrine is related to the chemical gliquidone.,0
+28330,The gene mapk6 has a direct relationship with the gene tpi1.,0
+28753,The chemical epinephrine is used for the treatment or therapy of the disease glaucoma open angle.,0
+28783,The gene psat1 has a direct relationship with the gene aoc3.,0
+28845,The chemical cimetidine is related to the chemical pimozide.,0
+28948,The gene ptgis enhances the response or activates/stimulates the gene cyp1a2.,1
+29005,The gene serpinc1 shows potential therapeutic effects on the disease thrombosis.,1
+29027,The gene il10rb is involved in regulatory pathways together with the gene il10.,1
+29080,The disease hypopigmentation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene mc1r.,1
+29398,atf5 affects the expression or production of the gene ppargc1a.,1
+29414,The chemical travoprost is used for the treatment or therapy of the disease glaucoma.,1
+29467,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease renal insufficiency.,1
+29573,The gene cerk is involved in regulatory pathways together with the gene krit1.,1
+29606,The chemical phenol is used for the treatment or therapy of the disease hypopigmentation.,0
+29870,"The chemical valsartan prevents, suppresses, or alleviates the severity of the disease ventricular dysfunction left.",1
+29990,The gene mpv17 has a direct relationship with the gene pex12.,0
+30159,The gene avp contributes to the pathogenesis or promotes the progression of the disease cerebrovascular disorders.,1
+30160,The gene igf2r is linked to the production by cell populations of the gene plaur.,0
+30209,The disease neoplasms neuroepithelial is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,1
+30234,The chemical dorzolamide is related to the chemical diclofenamide.,0
+30245,The gene lamb2 has a direct relationship with the gene actn4.,0
+30304,The gene tp53 is involved in regulatory pathways together with the gene atf5.,1
+30682,The chemical ibuprofen may cause side effects or adverse events in relation to the disease body weight changes.,1
+30695,kif5a binds with the gene irf5 as a ligand.,0
+31046,The gene rpl15 has a direct relationship with the gene rps14.,0
+31181,The gene hdac6 has a direct relationship with the gene dbt.,0
+31270,The gene cyp2c18 has a direct relationship with the gene cyp27a1.,0
+31344,The gene il2 contributes to the pathogenesis or promotes the progression of the disease ventricular dysfunction left.,0
+31619,The chemical valsartan is related to the chemical diclofenamide.,0
+31691,The gene rpsa has a direct relationship with the gene rpl15.,0
+31781,The gene dpp4 may exert a therapeutic effect on the disease body weight changes.,1
+31798,The chemical cimetidine is related to the chemical pentoxifylline.,0
+31856,The gene mapk3 has a direct relationship with the gene mapk6.,0
+31974,The gene nphs2 enhances the response or activates/stimulates the gene lamb2.,0
+32081,The gene avp contributes to the pathogenesis or promotes the progression of the disease diabetic angiopathies.,0
+32819,The chemical diclofenamide is related to the chemical methamphetamine.,0
+32871,The gene foxl2 is linked to the production by cell populations of the gene serpinc1.,0
+33092,The gene kir3dl1 has a direct relationship with the gene kir3dl2.,0
+33304,avp is associated with fgf2.,0
+33323,The gene il10rb is linked to the production by cell populations of the gene ccr3.,0
+33339,The gene hnrnpa1 enhances the response or activates/stimulates the gene tardbp.,0
+33435,The gene colec11 is involved in regulatory pathways together with the gene kir3dl1.,1
+33441,The chemical ganciclovir is used for the treatment or therapy of the disease respiratory insufficiency.,0
+33444,The gene cyp2c18 is linked to the production by cell populations of the gene cyp2d6.,0
+33628,Mutations or polymorphisms in the gene aoc3 alter the risk associated with the disease hypertension.,1
+33782,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease pain.,1
+33907,The gene alpp has a direct relationship with the gene tpk1.,0
+34053,gstm1 binds with the gene elac2 as a ligand.,0
+34107,Mutations or polymorphisms in the gene tlr7 alter the risk associated with the disease hypopigmentation.,1
+34109,The gene tardbp enhances the response or activates/stimulates the gene ang.,0
+34115,The disease colitis is linked to diagnostic biomarkers or regulatory mechanisms involving the gene crhr2.,1
+34608,The gene csf3r has a direct relationship with the gene jak1.,1
+34668,The gene tardbp enhances the response or activates/stimulates the gene chrna3.,0
+34684,The gene nagpa contributes to the pathogenesis or promotes the progression of the disease hypertension.,0
+34890,The gene mif shows potential therapeutic effects on the disease hypopigmentation.,1
+34909,The gene man2a1 has a direct relationship with the gene alg8.,0
+35032,The gene cyp2c8 enhances the response or activates/stimulates the gene ptgis.,0
+35146,The gene csf2rb enhances the response or activates/stimulates the gene il10rb.,1
+35225,The chemical cimetidine is used for the treatment or therapy of the disease virus diseases.,0
+35326,The gene alg6 has a direct relationship with the gene man2a1.,0
+35623,The diazepam interacts with cyp2c18 in a pharmacological or biomedical context.,1
+35677,The disease respiratory tract neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene krit1.,1
+35864,The chemical epinephrine is used for the treatment or therapy of the disease systemic inflammatory response syndrome.,0
+35904,The gene tardbp has a direct relationship with the gene rpl13a.,0
+35948,The disease neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene me2.,0
+35972,The gene atp5e has a direct relationship with the gene rpl15.,0
+36045,The gene hsd17b4 has a direct relationship with the gene mpv17.,0
+36123,The gene cebpa has a direct relationship with the gene mapk6.,0
+36263,krit1 binds with the gene rhoa as a ligand.,0
+36331,The chemical duloxetine is related to the chemical diclofenamide.,0
+36335,The gene ror2 has a direct relationship with the gene mapk6.,0
+36398,The chemical rosiglitazone is used for the treatment or therapy of the disease body weight changes.,0
+36534,The gene cdh3 has a direct relationship with the gene cdh15.,0
+36968,The gene dctn1 has a direct relationship with the gene kif5a.,0
+36974,The gene pdcd10 is involved in regulatory pathways together with the gene krit1.,1
+37002,epinephrine affects the expression or production of the gene ddc.,0
+37109,The chemical ganciclovir is used for the treatment or therapy of the disease leukemia lymphoid.,0
+37214,The gene gp1bb has a direct relationship with the gene serpinc1.,0
+37305,The chemical bezafibrate is used for the treatment or therapy of the disease body weight changes.,0
+37542,The gene cyp2c18 has a direct relationship with the gene cyp21a2.,0
+37573,ar binds with the gene krit1 as a ligand.,0
+37696,The gene kir2dl1 is linked to the production by cell populations of the gene kir3dl1.,0
+37919,avp is associated with meningitis.,0
+38076,The gene sult1e1 enhances the response or activates/stimulates the gene pgr.,1
+38399,The gene mapt is involved in regulatory pathways together with the gene tardbp.,1
+38607,The disease schizoaffective disorder is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,0
+38656,The gene rps6ka6 has a direct relationship with the gene shox.,0
+38665,The gene alpp has a direct relationship with the gene lrpap1.,0
+38828,kcnq1 binds with the gene krit1 as a ligand.,0
+39071,The gene pafah1b1 has a direct relationship with the gene pls3.,0
+39189,The gene aoc3 is involved in regulatory pathways together with the gene cyp3a4.,1
+39219,The gene kif2c has a direct relationship with the gene kif5a.,0
+39225,The gene nlrp1 contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,0
+39257,The gene rbm28 has a direct relationship with the gene rpl15.,0
+39261,avp is associated with isyna1.,0
+39383,The gene avp is involved in the metabolism or pharmacokinetic processing of the chemical ethanol.,0
+39436,The gene tardbp enhances the response or activates/stimulates the gene dao.,0
+39666,The gene csf3 has a direct relationship with the gene csf3r.,1
+39691,The chemical estrone inhibits the gene sult1e1.,0
+39752,hdac6 binds with the gene msh2 as a ligand.,0
+39840,Mutations or polymorphisms in the gene mecp2 alter the risk associated with the disease body weight changes.,0
+39952,The gene kif5a has a direct relationship with the gene map4k4.,0
+39953,The gene vps35 is involved in regulatory pathways together with the gene igf2r.,1
+40193,The epoprostenol interacts with ptgis in a pharmacological or biomedical context.,1
+40227,The disease kidney diseases is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1
+40304,The chemical ganciclovir is used for the treatment or therapy of the disease uveitis.,0
+40315,The gene csf3r has a direct relationship with the gene il1r2.,0
+40360,The gene aoc3 contributes to the pathogenesis or promotes the progression of the disease demyelinating autoimmune diseases cns.,1
+40415,The chemical metformin is related to the chemical epinephrine.,0
+40432,The chemical ganciclovir is used for the treatment or therapy of the disease infections.,1
+40727,cimetidine is associated with ahr.,0
+40763,The chemical ticlopidine is related to the chemical promazine.,0
+41212,The gene masp2 has a direct relationship with the gene serpinc1.,0
+41318,The gene sgcg contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+41766,The gene cyp2a6 has a direct relationship with the gene cyp2c18.,0
+41841,epinephrine affects the expression or production of the gene kng1.,0
+41900,epinephrine affects the expression or production of the gene aqp3.,0
+41924,The chemical epinephrine is used for the treatment or therapy of the disease hypokalemia.,0
+41952,The gene akr1c1 has a direct relationship with the gene sult1e1.,0
+42012,The gene krit1 is involved in regulatory pathways together with the gene egfr.,1
+42095,The chemical epinephrine is related to the chemical linagliptin.,0
+42143,The gene avp contributes to the pathogenesis or promotes the progression of the disease hyperaldosteronism.,1
+42246,The gene sry is involved in regulatory pathways together with the gene krit1.,1
+42267,The gene alpp has a direct relationship with the gene mocs2.,0
+42353,The gene gphn has a direct relationship with the gene alpp.,0
+42469,The gene cyp19a1 is involved in regulatory pathways together with the gene sult1e1.,0
+42587,The gene tardbp contributes to the pathogenesis or promotes the progression of the disease spinocerebellar degenerations.,1
+43328,The cimetidine interacts with slc22a3 in a pharmacological or biomedical context.,0
+43508,The gene serpinc1 shows potential therapeutic effects on the disease uremia.,1
+43620,The gene man2a1 has a direct relationship with the gene tusc3.,0
+43664,The gene fktn has a direct relationship with the gene lamb2.,0
+43755,The chemical vildagliptin may cause side effects or adverse events in relation to the disease body weight changes.,1
+43918,The gene il6 contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,0
+43984,epinephrine affects the expression or production of the gene npy.,0
+44122,The gene cyp2c18 has a direct relationship with the gene cyp3a43.,0
+44307,The disease esophageal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1
+44330,The gene crhr2 has a direct relationship with the gene adrb3.,0
+44348,The chemical losartan is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+44401,The chemical cimetidine inhibits the gene avp.,0
+44443,The chemical cimetidine is used for the treatment or therapy of the disease respiratory hypersensitivity.,0
+44445,The chemical clozapine is related to the chemical cimetidine.,0
+44453,The gene mapk6 has a direct relationship with the gene cbfb.,0
+44764,The gene f2r has a direct relationship with the gene serpinc1.,0
+44834,The chemical cimetidine is used for the treatment or therapy of the disease melanoma.,0
+44915,The chemical ganciclovir is used for the treatment or therapy of the disease inflammation.,0
+44928,The gene clk3 has a direct relationship with the gene alpp.,0
+45008,The gene ugt1a1 has a direct relationship with the gene sult1e1.,0
+45117,The chemical cimetidine is used for the treatment or therapy of the disease myeloproliferative disorders.,0
+45142,The chemical promazine is related to the chemical tapentadol.,0
+45225,"The chemical desmopressin exhibits agonistic, activating, or antagonistic effects on the gene avp.",0
+45306,The gene kcna1 has a direct relationship with the gene kcnc2.,0
+45512,The gene ldhc has a direct relationship with the gene me2.,0
+45807,Mutations or polymorphisms in the gene ren alter the risk associated with the disease ventricular dysfunction left.,1
+45900,The disease lymphoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene cyp2c18.,0
+46406,The gene igf2r enhances the response or activates/stimulates the gene klf6.,0
+46564,The gene avp is linked to the production by cell populations of the gene ren.,0
+46679,The chemical metformin is used for the treatment or therapy of the disease body weight changes.,0
+46703,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease cerebrovascular disorders.,1
+46870,The chemical dihydroergotamine is related to the chemical promazine.,0
+47484,The disease genital neoplasms male is linked to diagnostic biomarkers or regulatory mechanisms involving the gene krit1.,1
+47601,The gene tnf contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+47605,The gene hdac6 is involved in regulatory pathways together with the gene nlrp3.,1
+47708,The gene me1 has a direct relationship with the gene me2.,0
+47727,The gene nfkbia has a direct relationship with the gene mapk6.,0
+48271,The gene myc enhances the response or activates/stimulates the gene igf2r.,0
+48648,The gene il5 contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+48721,The adra2b interacts with epinephrine in a pharmacological or biomedical context.,1
+48740,The chemical trandolapril is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+48881,The gene serpinc1 is involved in regulatory pathways together with the gene serpinc1.,0
+48890,cat binds with the gene avp as a ligand.,0
+48963,The clotiazepam interacts with cyp2c18 in a pharmacological or biomedical context.,1
+49302,The gene phgdh has a direct relationship with the gene aoc3.,0
+49376,The gene igf2r has a direct relationship with the gene atxn1.,0
+49776,The chemical thioproperazine is used for the treatment or therapy of the disease colitis.,0
+50168,The chemical rimonabant is used for the treatment or therapy of the disease body weight changes.,0
+50293,krit1 binds with the gene cad as a ligand.,0
+50351,The gene cdh15 has a direct relationship with the gene gna12.,0
+50468,Mutations or polymorphisms in the gene lepr alter the risk associated with the disease body weight changes.,1
+50534,The disease stroke may have a therapeutic connection with the gene avp.,0
+50728,grm5 binds with the gene krit1 as a ligand.,0
+50865,The chemical pyrimethamine is related to the chemical promazine.,0
+51219,The gene hdac6 is linked to the production by cell populations of the gene htt.,0
+51306,The chemical ethanol may cause side effects or adverse events in relation to the disease ventricular dysfunction left.,1
+51488,The gene krit1 contributes to the pathogenesis or promotes the progression of the disease heart failure.,1
+51551,The gene mapk6 enhances the response or activates/stimulates the gene map2k2.,1
+51563,Mutations or polymorphisms in the gene cxcl10 alter the risk associated with the disease body weight changes.,1
+51603,The gene csf3r has a direct relationship with the gene lck.,0
+52014,The chemical clofibrate may cause side effects or adverse events in relation to the disease body weight changes.,1
+52067,serpinc1 affects the expression or production of the gene sdc1.,0
+52194,The chemical eprosartan is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+52288,The gene cyp3a5 enhances the response or activates/stimulates the gene cyp2c18.,0
+52455,The gene hdac6 is involved in regulatory pathways together with the gene ptpn11.,1
+52525,The gene cd44 is linked to the production by cell populations of the gene csf3r.,0
+52785,The gene gzmb shows potential therapeutic effects on the disease hypopigmentation.,0
+52893,The gene cyp2c19 is linked to the production by cell populations of the gene cyp2c18.,0
+52925,The gene me2 enhances the response or activates/stimulates the gene slc39a6.,1
+52980,sphk2 binds with the gene krit1 as a ligand.,0
+52988,The gene crhr2 has a direct relationship with the gene mc2r.,0
+53297,The gene mapk6 has a direct relationship with the gene mapk9.,0
+53336,The gene me2 has a direct relationship with the gene pc.,0
+53678,The chemical promazine is related to the chemical desvenlafaxine.,0
+53698,The gene cyp3a7 enhances the response or activates/stimulates the gene sult1e1.,0
+53884,The gene hdac6 has a direct relationship with the gene bcor.,0
+53969,The chemical verapamil is used for the treatment or therapy of the disease ventricular dysfunction left.,1
+54013,The verapamil interacts with cyp2c18 in a pharmacological or biomedical context.,1
+54172,The gene hdac6 has a direct relationship with the gene dld.,0
+54286,Mutations or polymorphisms in the gene asip alter the risk associated with the disease hypopigmentation.,1
+54922,The disease carcinoma bronchogenic is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,0
+54926,The chemical cimetidine is related to the chemical procainamide.,0
+55253,The chemical promazine is used for the treatment or therapy of the disease leukopenia.,0
+55529,The gene apob is linked to the production by cell populations of the gene serpinc1.,0
+55688,The disease motor neuron disease is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,1
+55702,The gene gcgr contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+55704,The gene ubqln2 enhances the response or activates/stimulates the gene tardbp.,0
+55917,The gene tf shows potential therapeutic effects on the disease body weight changes.,1
+55932,The gene lpl is linked to the production by cell populations of the gene psrc1.,0
+56139,The disease gastrointestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene aoc3.,0
+56299,The map2k7 interacts with mapk6 in a pharmacological or biomedical context.,1
+56366,The gene dlat has a direct relationship with the gene me2.,0
+56869,igf2r binds with the gene ren as a ligand.,0
+57005,tardbp affects the expression or production of the gene vcp.,0
+57346,The gene mpv17 has a direct relationship with the gene pex26.,0
+57481,The gene crhbp enhances the response or activates/stimulates the gene crhr2.,0
+57518,The chemical diclofenamide is related to the chemical salicylate sodium.,0
+58403,The chemical promazine is related to the chemical linezolid.,0
+58443,The disease heart defects congenital is linked to diagnostic biomarkers or regulatory mechanisms involving the gene shox.,1
+58449,The gene procr has a direct relationship with the gene serpinc1.,0
+58475,The gene gamt has a direct relationship with the gene aoc3.,0
+58529,The disease heart failure is linked to diagnostic biomarkers or regulatory mechanisms involving the gene avp.,1
+58642,The gene avp contributes to the pathogenesis or promotes the progression of the disease hypertension.,1
+58663,ttc37 affects the expression or production of the gene il10rb.,1
+58699,kif5a binds with the gene prkcq as a ligand.,0
+58712,The chemical ganciclovir may cause side effects or adverse events in relation to the disease seizures.,1
+58953,The gene ar contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+58984,The gene nefh enhances the response or activates/stimulates the gene tardbp.,0
+59128,The chemical morphine is related to the chemical diclofenamide.,0
+59460,The gene ddost has a direct relationship with the gene mapk6.,0
+59519,The serpinc1 interacts with ardeparin in a pharmacological or biomedical context.,1
+59534,The chemical ganciclovir is used for the treatment or therapy of the disease kidney diseases.,0
+59544,The gene col17a1 contributes to the pathogenesis or promotes the progression of the disease epidermolysis bullosa.,1
+59888,The gene stim1 is involved in regulatory pathways together with the gene krit1.,1
+59910,The chemical cimetidine is used for the treatment or therapy of the disease cystic fibrosis.,0
+59948,The chemical epinephrine is used for the treatment or therapy of the disease lupus erythematosus systemic.,0
+60015,The chemical ganciclovir is used for the treatment or therapy of the disease hematologic diseases.,0
+60020,The disease hypopigmentation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene mthfr.,0
+60140,The gene cdh15 has a direct relationship with the gene dsc3.,0
+60338,The gene kcna1 has a direct relationship with the gene kcna4.,0
+60385,avp affects the expression or production of the gene crp.,0
+60407,The gene aqp5 participates in transport or channeling functions related to the chemical epinephrine.,0
+60535,cdc42 binds with the gene hdac6 as a ligand.,0
+60732,The gene il6 shows potential therapeutic effects on the disease hypopigmentation.,1
+60858,The gene abca1 is linked to the production by cell populations of the gene hadhb.,0
+61037,The gene avp contributes to the pathogenesis or promotes the progression of the disease genital neoplasms female.,1
+61146,avp is associated with aqp1.,0
+61201,avp binds with the gene avpr1b as a ligand.,0
+61207,The chemical monobenzone may cause side effects or adverse events in relation to the disease hypopigmentation.,1
+61527,The disease leukemia lymphoid is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1
+61636,The chemical cimetidine is related to the chemical desipramine.,0
+61834,The gene serpinc1 is involved in regulatory pathways together with the gene vcp.,1
+61954,The gene alpp has a direct relationship with the gene gch1.,0
+62266,The gene sox2 enhances the response or activates/stimulates the gene igf2r.,1
+62388,The chemical captopril is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+62481,epinephrine affects the expression or production of the gene tp53.,0
+62687,The cimetidine interacts with deglutition disorders in a pharmacological or biomedical context.,1
+62889,epinephrine affects the expression or production of the gene il10.,0
+63040,The chemical lorazepam is related to the chemical promazine.,0
+63282,The gene igf2r is involved in regulatory pathways together with the gene akr1b1.,1
+63396,The disease melanoma is linked to diagnostic biomarkers or regulatory mechanisms involving the gene me2.,0
+63438,The gene gas6 has a direct relationship with the gene lamb2.,0
+63485,The chemical protriptyline is related to the chemical cimetidine.,0
+63583,The chemical nitric oxide is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+63612,ryr1 binds with the gene krit1 as a ligand.,0
+63914,cimetidine affects the expression or production of the gene ncam1.,0
+64051,The gene wnt1 enhances the response or activates/stimulates the gene pls3.,1
+64184,The gene lamb2 has a direct relationship with the gene stat3.,0
+64232,The gene igf2r enhances the response or activates/stimulates the gene igf2bp2.,0
+64247,fluphenazine binds with the gene krit1 as a ligand.,0
+64455,The gene crbn has a direct relationship with the gene rpl15.,0
+64557,The gene b4galt1 has a direct relationship with the gene man2a1.,0
+64781,The chemical ganciclovir may cause side effects or adverse events in relation to the disease confusion.,1
+65297,The enflurane interacts with kcna1 in a pharmacological or biomedical context.,1
+65416,The gene cyp2c18 has a direct relationship with the gene cyp17a1.,0
+65492,The gene kir3dl1 contributes to the pathogenesis or promotes the progression of the disease panuveitis.,1
+65710,The disease leukemia lymphoid is linked to diagnostic biomarkers or regulatory mechanisms involving the gene atf5.,1
+65995,The gene kcnc1 has a direct relationship with the gene kif5a.,0
+66072,The chemical l phenylalanine is used for the treatment or therapy of the disease hypopigmentation.,0
+66314,The chemical promazine is related to the chemical ergonovine.,0
+66355,The gene hdac6 has a direct relationship with the gene pms2.,0
+66477,cimetidine affects the expression or production of the gene ifng.,0
+66482,The thioproperazine interacts with htr1a in a pharmacological or biomedical context.,1
+66539,The gene igf2r has a direct relationship with the gene s100a11.,0
+66593,The gene gstz1 has a direct relationship with the gene aoc3.,0
+66885,The gene atf5 contributes to the pathogenesis or promotes the progression of the disease respiratory tract neoplasms.,1
+66960,The gene il1rn contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+67065,The gene epor is linked to the production by cell populations of the gene krit1.,0
+67130,The gene mapk6 has a direct relationship with the gene map2k7.,0
+67188,The gene cyp2c18 enhances the response or activates/stimulates the gene cyp3a5.,0
+67217,The gene hdac6 has a direct relationship with the gene gars.,0
+67239,The gene tubb2b has a direct relationship with the gene me2.,0
+67274,The gene fgf23 contributes to the pathogenesis or promotes the progression of the disease ventricular dysfunction left.,0
+67295,The gene kif5a has a direct relationship with the gene tsg101.,0
+67361,The gene sult1e1 has a direct relationship with the gene sult2a1.,0
+67420,The gene csf3r enhances the response or activates/stimulates the gene setbp1.,0
+67519,The gene disc1 has a direct relationship with the gene kif5a.,0
+67615,The chemical promazine is related to the chemical nortriptyline.,1
+67735,The gene nagpa has a direct relationship with the gene gnptab.,0
+67801,The disease intestinal neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene atf5.,1
+67903,The gene man2a1 has a direct relationship with the gene alg9.,0
+68014,The gene mapk6 has a direct relationship with the gene camk2b.,0
+68024,The gene mapk6 has a direct relationship with the gene herc2.,0
+68564,The gene vegfa is linked to the production by cell populations of the gene ptgis.,0
+68653,"The chemical epinephrine prevents, suppresses, or alleviates the severity of the disease burns.",1
+68664,vcp affects the expression or production of the gene tardbp.,0
+68742,The gene rpl15 has a direct relationship with the gene rps26.,0
+68918,The gene il11ra enhances the response or activates/stimulates the gene il10rb.,0
+69014,The gene hp has a direct relationship with the gene mapk6.,0
+69234,atf5 binds with the gene pdx1 as a ligand.,0
+69406,The disease ventricular dysfunction left is linked to diagnostic biomarkers or regulatory mechanisms involving the gene ttn.,1
+69513,The gene smad3 enhances the response or activates/stimulates the gene hdac6.,1
+69597,The gene avp contributes to the pathogenesis or promotes the progression of the disease mood disorder.,1
+69706,The gene ndufa7 has a direct relationship with the gene elac2.,0
+69738,The gene slc25a4 has a direct relationship with the gene pls3.,0
+69850,The gene mpv17 contributes to the pathogenesis or promotes the progression of the disease nephritis.,1
+70158,"The chemical cimetidine prevents, suppresses, or alleviates the severity of the disease vomiting.",0
+70377,The gene tardbp is involved in regulatory pathways together with the gene cst3.,1
+70601,The gene hdac6 has a direct relationship with the gene slc25a10.,0
+70671,The gene ednrb enhances the response or activates/stimulates the gene igf2r.,0
+70687,The chemical lamivudine is related to the chemical ganciclovir.,0
+70757,The chemical promazine is related to the chemical zolpidem.,0
+70762,The gene sult1e1 has a direct relationship with the gene sult1a2.,0
+70852,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease death.,0
+71016,The gene tbxas1 is involved in regulatory pathways together with the gene ptgis.,1
+71040,The chemical estradiol inhibits the gene sult1e1.,0
+71082,The gene crhr2 is involved in regulatory pathways together with the gene nr5a1.,1
+71403,The gene cyp2c18 has a direct relationship with the gene cyp26b1.,0
+71458,The chemical promazine is related to the chemical paroxetine.,0
+71627,The chemical thioproperazine is used for the treatment or therapy of the disease schizophrenia.,1
+71856,The chemical epinephrine may cause side effects or adverse events in relation to the disease inflammation.,1
+71879,The chemical phenytoin is related to the chemical cimetidine.,0
+72327,krit1 affects the expression or production of the gene ctnnb1.,0
+72594,The gene tardbp is involved in regulatory pathways together with the gene matr3.,1
+72776,The gene cyp19a1 has a direct relationship with the gene alpp.,0
+72915,The phenobarbital interacts with cyp2c18 in a pharmacological or biomedical context.,1
+72916,The disease stroke is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,0
+72933,serpinc1 affects the expression or production of the gene tlr4.,0
+73123,The gene npy contributes to the pathogenesis or promotes the progression of the disease body weight changes.,1
+73138,The gene hpd has a direct relationship with the gene aoc3.,0
+73171,The chemical isradipine is related to the chemical cimetidine.,0
+73332,The gene cdh15 has a direct relationship with the gene ctnna2.,0
+73715,The chemical modafinil is used for the treatment or therapy of the disease body weight changes.,0
+73782,The disease cerebrovascular disorders is linked to diagnostic biomarkers or regulatory mechanisms involving the gene avp.,0
+73818,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease cerebrovascular disorders.,1
+73896,The gene furin has a direct relationship with the gene nagpa.,0
+74185,The elac2 interacts with genital neoplasms male in a pharmacological or biomedical context.,1
+74242,nitrendipine affects the expression or production of the gene krit1.,0
+74431,The gene psat1 has a direct relationship with the gene mapk6.,0
+74490,The gene cdh15 has a direct relationship with the gene dsg2.,0
+74744,The gene tardbp is involved in regulatory pathways together with the gene casp7.,0
+75087,The gene serpinc1 has a direct relationship with the gene atg16l1.,0
+75125,"The chemical eplerenone prevents, suppresses, or alleviates the severity of the disease body weight changes.",0
+75411,The chemical promazine is related to the chemical cyclobenzaprine.,0
+75483,The disease liver neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene tardbp.,0
+75583,The chemical promazine is related to the chemical metoclopramide.,0
+75607,The propofol interacts with cyp2c18 in a pharmacological or biomedical context.,1
+75669,The gene csf1r has a direct relationship with the gene csf3r.,0
+75690,The gene egfr is linked to the production by cell populations of the gene igf2r.,0
+75974,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease hyperglycemia.,0
+76069,The gene lamb2 is involved in regulatory pathways together with the gene lamb1.,1
+76259,kat2b binds with the gene hdac6 as a ligand.,1
+76267,The gene dhcr24 has a direct relationship with the gene kir3dl1.,0
+76297,The chemical ganciclovir may cause side effects or adverse events in relation to the disease hepatitis c.,1
+76390,The gene tardbp contributes to the pathogenesis or promotes the progression of the disease cystic fibrosis.,1
+76421,hdac6 is associated with apcs.,0
+76483,The gene hdac6 has a direct relationship with the gene tbp.,0
+76710,Mutations or polymorphisms in the gene ace alter the risk associated with the disease hypopigmentation.,0
+76719,The disease carcinoma bronchogenic is linked to diagnostic biomarkers or regulatory mechanisms involving the gene igf2r.,1
+76814,The gene csf3r enhances the response or activates/stimulates the gene cxcr4.,0
+76853,il10rb affects the expression or production of the gene il10ra.,0
+77245,The disease spinocerebellar degenerations is linked to diagnostic biomarkers or regulatory mechanisms involving the gene aoc3.,0
+77676,The gene pls3 has a direct relationship with the gene tp63.,0
+77781,ctgf affects the expression or production of the gene shox.,1
+77850,e2f1 affects the expression or production of the gene kir3dl1.,1
+77892,The gene fgg has a direct relationship with the gene mapk6.,0
+77911,bcl2 binds with the gene atf5 as a ligand.,0
+78102,The gene sult1e1 enhances the response or activates/stimulates the gene sult1a3.,1
+78108,The gene gdi1 has a direct relationship with the gene lamb2.,0
+78140,The gene mapk6 is linked to the production by cell populations of the gene mapk3.,0
+78147,The gene pink1 contributes to the pathogenesis or promotes the progression of the disease ventricular dysfunction left.,0
+78169,The gene tbk1 enhances the response or activates/stimulates the gene tardbp.,0
+78181,The gene ano1 enhances the response or activates/stimulates the gene krit1.,1
+78248,The gene mapk6 has a direct relationship with the gene map3k7.,0
+78510,The chemical ganciclovir is used for the treatment or therapy of the disease nephrosis.,0
+78557,The gene il10 contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+78784,Mutations or polymorphisms in the gene kcna1 alter the risk associated with the disease epilepsy.,1
+78845,The gene kif2a is involved in regulatory pathways together with the gene psrc1.,1
+78952,The chemical ganciclovir is used for the treatment or therapy of the disease neurobehavioral manifestations.,0
+79013,The gene setbp1 enhances the response or activates/stimulates the gene csf3r.,1
+79084,The atf5 interacts with leukemia lymphoid in a pharmacological or biomedical context.,0
+79114,The chemical epinephrine is related to the chemical pseudoephedrine.,1
+79117,The gene kcna1 has a direct relationship with the gene kcna5.,0
+79292,The gene csf3r has a direct relationship with the gene aqp9.,0
+79465,The chemical amphetamine may cause side effects or adverse events in relation to the disease body weight changes.,1
+79671,krit1 binds with the gene ryr3 as a ligand.,0
+79806,The gene csf3r is linked to the production by cell populations of the gene cd74.,0
+79817,The chemical promazine is used for the treatment or therapy of the disease liver cirrhosis.,0
+80022,The chemical promazine is related to the chemical lithium.,0
+80263,The gene kir3dl1 has a direct relationship with the gene ngly1.,0
+80414,The sevoflurane interacts with kcna1 in a pharmacological or biomedical context.,1
+80429,The gene ogdh has a direct relationship with the gene rpl15.,0
+80490,The chemical cimetidine is used for the treatment or therapy of the disease infections.,0
+80561,The gene cdk6 is linked to the production by cell populations of the gene tardbp.,0
+81064,The chemical choline plays a role in the pathogenesis of the disease body weight changes.,0
+81213,The chemical promazine is related to the chemical sumatriptan.,0
+81564,The chemical diclofenamide is used for the treatment or therapy of the disease epilepsy.,0
+81736,The gene serpinc1 is involved in regulatory pathways together with the gene vwf.,1
+81738,The gene egf is involved in regulatory pathways together with the gene hdac6.,1
+81878,The gene ltb4r2 contributes to the pathogenesis or promotes the progression of the disease body weight changes.,0
+81976,The gene tardbp enhances the response or activates/stimulates the gene setx.,0
+82007,The gene tardbp is involved in regulatory pathways together with the gene tardbp.,0
+82024,The gene por has a direct relationship with the gene rpl15.,0
+82030,The chemical promazine is related to the chemical buprenorphine.,0
+82096,The gene serpinc1 has a direct relationship with the gene plat.,0
+82369,The gene cd47 is linked to the production by cell populations of the gene csf3r.,0
+82508,The chemical promazine is used for the treatment or therapy of the disease schizophrenia.,1
+82734,The chemical promazine is related to the chemical methylphenidate.,0
+82797,avp is associated with fibrosis.,1
+82918,The chemical epinephrine is used for the treatment or therapy of the disease lymphoma.,0
+83335,mapkapk5 binds with the gene mapk6 as a ligand.,0
+83384,The gene aoc3 may exert a therapeutic effect on the disease kidney diseases.,0
+83579,The gene tp53 contributes to the pathogenesis or promotes the progression of the disease ventricular dysfunction left.,0
+83617,The chemical ganciclovir inhibits cell growth associated with the disease lymphoma.,0
+83682,The chemical cimetidine is related to the chemical cisapride.,0
+83780,The gene kif5a has a direct relationship with the gene kif5c.,0
+83843,The chemical tranylcypromine inhibits the gene ptgis.,0
+83936,The gene elac2 enhances the response or activates/stimulates the gene pten.,0
+84053,The gene ccl3 is linked to the production by cell populations of the gene il10rb.,0
+84159,The chemical cimetidine is used for the treatment or therapy of the disease lyme disease.,0
+84223,The gene cdh13 has a direct relationship with the gene mapk6.,0
+84398,The chemical goserelin is related to the chemical promazine.,0
+84555,The chemical clofazimine is used for the treatment or therapy of the disease hypopigmentation.,0
+84629,The gene cxcl10 contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,0
+84639,The gene crhr2 has a direct relationship with the gene cckar.,0
+84701,The gene sult1e1 has a direct relationship with the gene kcne2.,0
+84776,The gene cdh15 has a direct relationship with the gene tcf3.,0
+85002,The chemical epinephrine is used for the treatment or therapy of the disease ocular hypertension.,0
+85069,The gene ptgis enhances the response or activates/stimulates the gene cyp3a5.,1
+85105,The gene scn2a enhances the response or activates/stimulates the gene kcna1.,0
+85139,The gene cyp1b1 enhances the response or activates/stimulates the gene cyp2c18.,0
+85208,The chemical encainide is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+85310,The chemical aminosalicylic acid is related to the chemical diclofenamide.,0
+85446,The disease neoplasms muscle tissue is linked to diagnostic biomarkers or regulatory mechanisms involving the gene aoc3.,1
+85638,hfe binds with the gene igf2r as a ligand.,1
+85822,htt binds with the gene tardbp as a ligand.,0
+85853,The chemical promazine is used for the treatment or therapy of the disease anxiety related personality traits.,0
+85903,The disease hypopigmentation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene xbp1.,1
+85966,The gene cyp2e1 enhances the response or activates/stimulates the gene ptgis.,0
+85992,The gene hdac6 has a direct relationship with the gene hdac5.,0
+86035,rhoa binds with the gene krit1 as a ligand.,0
+86349,The gene avp contributes to the pathogenesis or promotes the progression of the disease pre eclampsia.,1
+86437,cdh15 binds with the gene fgf2 as a ligand.,0
+86512,raloxifene affects the expression or production of the gene sult1e1.,0
+86773,The chemical cyclophosphamide is used for the treatment or therapy of the disease ventricular dysfunction left.,0
+86808,The gene fh has a direct relationship with the gene me2.,0
+87002,The gene krit1 enhances the response or activates/stimulates the gene pik3ca.,0
+87075,The chemical cimetidine may cause side effects or adverse events in relation to the disease thrombocytopenia.,1
+87099,The gene il10rb enhances the response or activates/stimulates the gene gria2.,0
+87241,The chemical cimetidine is used for the treatment or therapy of the disease renal insufficiency.,0
+87252,krit1 binds with the gene sphk2 as a ligand.,0
+87329,il10rb binds with the gene il10 as a ligand.,0
+87497,"The chemical midazolam prevents, suppresses, or alleviates the severity of the disease body weight changes.",0
+87634,The gene mchr1 contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,1
+87650,The gene cyp2c18 has a direct relationship with the gene cyp4b1.,0
+87845,The gene mapk1 has a direct relationship with the gene mapk6.,0
+88085,The gene rnasel is linked to the production by cell populations of the gene elac2.,0
+88153,The gene mapk6 has a direct relationship with the gene map3k6.,1
+88436,The gene cyp2c18 has a direct relationship with the gene arnt2.,0
+88495,The gene mapk6 has a direct relationship with the gene mapk7.,0
+88539,methadone affects the expression or production of the gene avp.,0
+88791,The thioproperazine interacts with adra1a in a pharmacological or biomedical context.,1
+89017,The gene sult1e1 enhances the response or activates/stimulates the gene cyp1b1.,1
+89056,The gene serpine1 is involved in regulatory pathways together with the gene serpinc1.,0
+89104,The gene il10rb has a direct relationship with the gene il12rb1.,0
+89539,The gene alpp has a direct relationship with the gene trip11.,0
+90070,The gene serpinc1 contributes to the pathogenesis or promotes the progression of the disease depression.,0
+90145,The chemical mirtazapine may cause side effects or adverse events in relation to the disease body weight changes.,1
+90311,The chemical epinephrine is used for the treatment or therapy of the disease heart defects congenital.,0
+90361,The gene crhr2 is linked to the production by cell populations of the gene crhr1.,0
+90436,The chemical cimetidine is used for the treatment or therapy of the disease nematode infections.,0
+90559,The gene adm is involved in regulatory pathways together with the gene avp.,1
+90588,The gene aoc3 contributes to the pathogenesis or promotes the progression of the disease coronary disease.,0
+90639,The gene crhr2 has a direct relationship with the gene gh1.,0
+90660,cftr affects the expression or production of the gene sult1e1.,1
+90672,The chemical promazine is related to the chemical fluoxetine.,0
+90695,The gene pik3ca is involved in regulatory pathways together with the gene igf2r.,1
+90743,The gene slc25a3 has a direct relationship with the gene rpl15.,0
+90908,The disease infections is linked to diagnostic biomarkers or regulatory mechanisms involving the gene serpinc1.,1
+91007,fgf2 binds with the gene cdh15 as a ligand.,0
+91134,The gene htt has a direct relationship with the gene aoc3.,0
+91137,The gene aldh2 is involved in regulatory pathways together with the gene avp.,0
+91266,The chemical oxcarbazepine may cause side effects or adverse events in relation to the disease body weight changes.,1
+91413,The gene alas2 has a direct relationship with the gene aoc3.,0
+91433,The chemical epinephrine is used for the treatment or therapy of the disease hypothermia.,0
+91772,The aoc3 interacts with clonidine in a pharmacological or biomedical context.,1
+91856,The chemical ganciclovir may cause side effects or adverse events in relation to the disease hypercalcemia.,1
+91943,The gene mpo contributes to the pathogenesis or promotes the progression of the disease hypopigmentation.,1
+91993,capn3 binds with the gene krit1 as a ligand.,0
+92004,The gene lamb1 is involved in regulatory pathways together with the gene lamb2.,1
+92032,The gene ctsg has a direct relationship with the gene alpp.,0
+92329,The gene sult1e1 enhances the response or activates/stimulates the gene cyp3a5.,1
+92462,The gene ddx58 enhances the response or activates/stimulates the gene hdac6.,0
+92550,The perphenazine interacts with cyp2c18 in a pharmacological or biomedical context.,1
+92879,The disease breast neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene pls3.,0
+92995,The gene ugt1a9 enhances the response or activates/stimulates the gene sult1e1.,1
+93016,avp is associated with per2.,0
+93150,The disease hypopigmentation is linked to diagnostic biomarkers or regulatory mechanisms involving the gene g6pd.,1
+93200,The gene foxp3 is linked to the production by cell populations of the gene hdac6.,0
+93405,The disease urination disorders may have a therapeutic connection with the gene mpv17.,1
+93419,The gene kcna1 has a direct relationship with the gene kcnb2.,0
+93526,avp affects the expression or production of the gene gh1.,0
+93742,epinephrine affects the expression or production of the gene gnrh1.,0
+93831,The gene rpl13 has a direct relationship with the gene rpl15.,0
+93923,The gene krit1 is involved in regulatory pathways together with the gene mbp.,1
+94028,The gene cyp19a1 has a direct relationship with the gene sult1e1.,0
+94060,The gene il4r enhances the response or activates/stimulates the gene il10rb.,0
+94096,The gene slco2b1 has a direct relationship with the gene avp.,0
+94137,The chemical secobarbital is related to the chemical diclofenamide.,0
+94219,The gene me3 is involved in regulatory pathways together with the gene gapdh.,1
+94437,igf2r binds with the gene irs2 as a ligand.,0
+94974,The gene krit1 is linked to the production by cell populations of the gene cd2.,0
+94978,The gene csf3r is linked to the production by cell populations of the gene cd47.,0
+94989,The promazine interacts with dyskinesias in a pharmacological or biomedical context.,1
+95027,The gene kif5a has a direct relationship with the gene tuba3c.,0
+95280,The chemical epinephrine is related to the chemical pirbuterol.,0
+95293,The gene gsta1 has a direct relationship with the gene sult1e1.,0
+95332,The gene tubb has a direct relationship with the gene kif5a.,0
+95431,The chemical cimetidine is used for the treatment or therapy of the disease pancreatic neoplasms.,0
+95434,Mutations or polymorphisms in the gene col17a1 alter the risk associated with the disease neoplasms.,1
+95699,The gene il6 has a direct relationship with the gene il10rb.,0
+95747,The gene avp contributes to the pathogenesis or promotes the progression of the disease myocardial ischemia.,0
+95791,The gene avp shows potential therapeutic effects on the disease polyhydramnios.,1
+95984,The igf2r interacts with salbutamol in a pharmacological or biomedical context.,0
+96093,The gene hdac4 is linked to the production by cell populations of the gene col17a1.,0
+96131,progesterone affects the expression or production of the gene sult1e1.,1
+96396,The chemical ganciclovir is used for the treatment or therapy of the disease lymphoma.,0
+96594,The gene sult1e1 has a direct relationship with the gene hsd17b8.,0
+96732,hypopigmentation is associated with melanoma.,0
+96815,cdh15 binds with the gene igf1r as a ligand.,0
+97204,flt4 binds with the gene crhr2 as a ligand.,0
+97267,The gene ugt2a1 has a direct relationship with the gene sult1e1.,0
+97292,The mapk6 interacts with map2k5 in a pharmacological or biomedical context.,1
+97382,The gene avp contributes to the pathogenesis or promotes the progression of the disease depression.,0
+97841,The gene mapk6 has a direct relationship with the gene mapk12.,0
+97934,The gene avp contributes to the pathogenesis or promotes the progression of the disease endometriosis.,1
+98174,The gene kir2dl1 is involved in regulatory pathways together with the gene kir3dl1.,1
+98540,krit1 binds with the gene l1cam as a ligand.,1
+98636,The gene serpinc1 has a direct relationship with the gene serpina1.,0
+99003,The gene tardbp is involved in regulatory pathways together with the gene vapb.,1
+99018,The gene ppbp has a direct relationship with the gene mapk6.,0
+99201,The gene krit1 is linked to the production by cell populations of the gene jun.,0
+99221,Mutations or polymorphisms in the gene il4 alter the risk associated with the disease hypopigmentation.,1
+99483,The chemical epinephrine is used for the treatment or therapy of the disease overweight.,0
+99559,The disease breast neoplasms is linked to diagnostic biomarkers or regulatory mechanisms involving the gene hdac6.,1

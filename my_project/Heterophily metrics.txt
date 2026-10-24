@@ -1,0 +1,218 @@
+==================================================
+Anchor analysis for (!) LLama8B (!):
+For Codex using LLama 8B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 34.50%
+The exact number of edges with knowledge gap >= 0.4: 276
+Fraction of edges with knowledge gap >= 0.5: 23.00%
+The exact number of edges with knowledge gap >= 0.5: 184
+The average edge's knowledge gap: 0.3239
+The maximum difference is: 0.95. On the prompt: 'Chile is a member of Visa Waiver Program.'.
+Where the knowledge of object 'Visa Waiver Program' is 0.0, and the knowdlege of subject 'Chile' is 0.95.
+The minimum difference is: 0.0. On the prompt: 'The occupation of Richard Wagner is or was essayist.'.
+Where the knowledge of object 'essayist' is 0.5, and the knowdlege of subject 'Richard Wagner' is 0.5.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 551.0
+for Dirichlet_Real we have 177.1954597649324
+for Dirichlet_Permuted (Null Model) we have 217.7154584000709
+for Dirichlet_Ratio (Real/Null) we have 0.8138855231828347
+--------------------------------------------------
+For Codex using LLama 8B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 37.62%
+The exact number of edges with knowledge gap >= 0.4: 301
+Fraction of edges with knowledge gap >= 0.5: 25.12%
+The exact number of edges with knowledge gap >= 0.5: 201
+The average edge's knowledge gap: 0.3186
+The maximum difference is: 0.9714285714285714. On the prompt: 'Bosnia and Herzegovina is a member of Treaty on Open Skies.'.
+Where the knowledge of object 'Treaty on Open Skies' is 0.9714285714285714, and the knowdlege of subject 'Bosnia and Herzegovina' is 0.0.
+The minimum difference is: 0.0. On the prompt: 'The occupation of Franz Liszt is or was pianist.'.
+Where the knowledge of object 'pianist' is 0.6, and the knowdlege of subject 'Franz Liszt' is 0.6.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 521.0
+for Dirichlet_Real we have 162.5466163205235
+for Dirichlet_Permuted (Null Model) we have 168.405533344055
+for Dirichlet_Ratio (Real/Null) we have 0.9652094743730205
+--------------------------------------------------
+For Trex using LLama 8B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 28.25%
+The exact number of edges with knowledge gap >= 0.4: 226
+Fraction of edges with knowledge gap >= 0.5: 18.12%
+The exact number of edges with knowledge gap >= 0.5: 145
+The average edge's knowledge gap: 0.2568
+The maximum difference is: 0.9166666666666666. On the prompt: 'George Jessel is a citizen of United States.'.
+Where the knowledge of object 'United States' is 0.9166666666666666, and the knowdlege of subject 'George Jessel' is 0.0.
+The minimum difference is: 0.0. On the prompt: 'Toyota has the subsidiary Toyota Australia.'.
+Where the knowledge of object 'Toyota Australia' is 1.0, and the knowdlege of subject 'Toyota' is 1.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 552.0
+for Dirichlet_Real we have 106.70188372577026
+for Dirichlet_Permuted (Null Model) we have 153.00298072980144
+for Dirichlet_Ratio (Real/Null) we have 0.6973843464801677
+--------------------------------------------------
+For Trex using LLama 8B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 21.75%
+The exact number of edges with knowledge gap >= 0.4: 174
+Fraction of edges with knowledge gap >= 0.5: 16.50%
+The exact number of edges with knowledge gap >= 0.5: 132
+The average edge's knowledge gap: 0.2500
+The maximum difference is: 0.8666666666666667. On the prompt: 'Staffordshire is an instance of ceremonial county of England.'.
+Where the knowledge of object 'ceremonial county of England' is 1.0, and the knowdlege of subject 'Staffordshire' is 0.1333333333333333.
+The minimum difference is: 0.0. On the prompt: 'A significant event in the life of Russian Empire was French invasion of Russia.'.
+Where the knowledge of object 'French invasion of Russia' is 0.0, and the knowdlege of subject 'Russian Empire' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 574.0
+for Dirichlet_Real we have 112.5585616346281
+for Dirichlet_Permuted (Null Model) we have 157.876776965704
+for Dirichlet_Ratio (Real/Null) we have 0.712951985706419
+--------------------------------------------------
+For PharmKG using LLama 8B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 5.12%
+The exact number of edges with knowledge gap >= 0.4: 41
+Fraction of edges with knowledge gap >= 0.5: 4.12%
+The exact number of edges with knowledge gap >= 0.5: 33
+The average edge's knowledge gap: 0.0829
+The maximum difference is: 0.9743589743589745. On the prompt: 'dao affects the expression or production of the gene tnf.'.
+Where the knowledge of object 'tnf' is 1.0, and the knowdlege of subject 'dao' is 0.0256410256410256.
+The minimum difference is: 0.0. On the prompt: 'The gene synj1 is linked to the production by cell populations of the gene grik1.'.
+Where the knowledge of object 'grik1' is 0.0, and the knowdlege of subject 'synj1' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 703.0
+for Dirichlet_Real we have 26.2307193375986
+for Dirichlet_Permuted (Null Model) we have 28.20271767235319
+for Dirichlet_Ratio (Real/Null) we have 0.9300777195423362
+--------------------------------------------------
+For PharmKG using LLama 8B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 7.75%
+The exact number of edges with knowledge gap >= 0.4: 62
+Fraction of edges with knowledge gap >= 0.5: 6.50%
+The exact number of edges with knowledge gap >= 0.5: 52
+The average edge's knowledge gap: 0.1279
+The maximum difference is: 0.96875. On the prompt: 'vdac1 is associated with gc.'.
+Where the knowledge of object 'gc' is 1.0, and the knowdlege of subject 'vdac1' is 0.03125.
+The minimum difference is: 0.0. On the prompt: 'spironolactone affects the expression or production of the gene pou1f1.'.
+Where the knowledge of object 'pou1f1' is 0.0, and the knowdlege of subject 'spironolactone' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 691.0
+for Dirichlet_Real we have 38.84651131595382
+for Dirichlet_Permuted (Null Model) we have 42.13964133621423
+for Dirichlet_Ratio (Real/Null) we have 0.9218519684592014
+==================================================
+Anchor analysis for (!) Mistral7B (!):
+For Codex using Mistral 7B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 38.75%
+The exact number of edges with knowledge gap >= 0.4: 310
+Fraction of edges with knowledge gap >= 0.5: 25.87%
+The exact number of edges with knowledge gap >= 0.5: 207
+The average edge's knowledge gap: 0.3481
+The maximum difference is: 0.9047619047619048. On the prompt: 'The occupation of Doc Watson is or was banjoist.'.
+Where the knowledge of object 'banjoist' is 0.0952380952380952, and the knowdlege of subject 'Doc Watson' is 1.0.
+The minimum difference is: 0.0. On the prompt: 'The occupation of Billy Dee Williams is or was writer.'.
+Where the knowledge of object 'writer' is 0.3333333333333333, and the knowdlege of subject 'Billy Dee Williams' is 0.3333333333333333.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 500.0
+for Dirichlet_Real we have 147.2579752799619
+for Dirichlet_Permuted (Null Model) we have 159.76814391127274
+for Dirichlet_Ratio (Real/Null) we have 0.9216979785516043
+--------------------------------------------------
+For Codex using Mistral 7B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 38.38%
+The exact number of edges with knowledge gap >= 0.4: 307
+Fraction of edges with knowledge gap >= 0.5: 21.62%
+The exact number of edges with knowledge gap >= 0.5: 173
+The average edge's knowledge gap: 0.3289
+The maximum difference is: 0.8372093023255814. On the prompt: 'The occupation of Lonnie Liston Smith is or was pianist.'.
+Where the knowledge of object 'pianist' is 0.1627906976744186, and the knowdlege of subject 'Lonnie Liston Smith' is 1.0.
+The minimum difference is: 0.0. On the prompt: 'The occupation of Wilhelm Grimm is or was librarian.'.
+Where the knowledge of object 'librarian' is 0.0, and the knowdlege of subject 'Wilhelm Grimm' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 502.0
+for Dirichlet_Real we have 127.90973370551944
+for Dirichlet_Permuted (Null Model) we have 143.4111581450333
+for Dirichlet_Ratio (Real/Null) we have 0.8919092165489864
+--------------------------------------------------
+For Trex using Mistral 7B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 23.38%
+The exact number of edges with knowledge gap >= 0.4: 187
+Fraction of edges with knowledge gap >= 0.5: 16.88%
+The exact number of edges with knowledge gap >= 0.5: 135
+The average edge's knowledge gap: 0.2578
+The maximum difference is: 0.8571428571428572. On the prompt: 'The occupation of Paul Wallot is architect.'.
+Where the knowledge of object 'architect' is 1.0, and the knowdlege of subject 'Paul Wallot' is 0.1428571428571428.
+The minimum difference is: 0.0. On the prompt: 'The history of Albania is history of Albania.'.
+Where the knowledge of object 'history of Albania' is 0.5, and the knowdlege of subject 'Albania' is 0.5.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 563.0
+for Dirichlet_Real we have 113.20633273217456
+for Dirichlet_Permuted (Null Model) we have 131.9437803031154
+for Dirichlet_Ratio (Real/Null) we have 0.8579891562308192
+--------------------------------------------------
+For Trex using Mistral 7B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 17.50%
+The exact number of edges with knowledge gap >= 0.4: 140
+Fraction of edges with knowledge gap >= 0.5: 11.38%
+The exact number of edges with knowledge gap >= 0.5: 91
+The average edge's knowledge gap: 0.2207
+The maximum difference is: 0.8947368421052632. On the prompt: 'The head of government of Gunma Prefecture is Masaaki Ōsawa.'.
+Where the knowledge of object 'Masaaki Ōsawa' is 0.0, and the knowdlege of subject 'Gunma Prefecture' is 0.8947368421052632.
+The minimum difference is: 0.0. On the prompt: 'Azerbaijan contains the administrative territorial entity Absheron District.'.
+Where the knowledge of object 'Absheron District' is 1.0, and the knowdlege of subject 'Azerbaijan' is 1.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 548.0
+for Dirichlet_Real we have 101.10299191826313
+for Dirichlet_Permuted (Null Model) we have 134.29851761598346
+for Dirichlet_Ratio (Real/Null) we have 0.7528228435652548
+--------------------------------------------------
+For PharmKG using Mistral 7B and GPR-GNN:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 33.88%
+The exact number of edges with knowledge gap >= 0.4: 271
+Fraction of edges with knowledge gap >= 0.5: 22.25%
+The exact number of edges with knowledge gap >= 0.5: 178
+The average edge's knowledge gap: 0.3202
+The maximum difference is: 0.925. On the prompt: 'cimetidine affects the expression or production of the gene shbg.'.
+Where the knowledge of object 'shbg' is 1.0, and the knowdlege of subject 'cimetidine' is 0.075.
+The minimum difference is: 0.0. On the prompt: 'The gene cdh15 has a direct relationship with the gene tcf12.'.
+Where the knowledge of object 'tcf12' is 0.0, and the knowdlege of subject 'cdh15' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 702.0
+for Dirichlet_Real we have 145.02299207157503
+for Dirichlet_Permuted (Null Model) we have 152.8627320503485
+for Dirichlet_Ratio (Real/Null) we have 0.9487138567156362
+--------------------------------------------------
+For PharmKG using Mistral 7B and Graph-SAGE:
+==================================================
+Total of analyzed anchor edges: 800
+Fraction of edges with knowledge gap >= 0.4: 36.75%
+The exact number of edges with knowledge gap >= 0.4: 294
+Fraction of edges with knowledge gap >= 0.5: 23.00%
+The exact number of edges with knowledge gap >= 0.5: 184
+The average edge's knowledge gap: 0.3104
+The maximum difference is: 0.9230769230769231. On the prompt: 'grm8 affects the expression or production of the gene grin2a.'.
+Where the knowledge of object 'grin2a' is 1.0, and the knowdlege of subject 'grm8' is 0.0769230769230769.
+The minimum difference is: 0.0. On the prompt: 'The gene guk1 has a direct relationship with the gene iars.'.
+Where the knowledge of object 'iars' is 0.0, and the knowdlege of subject 'guk1' is 0.0.
+==================================================
+for Number_Of_Entities_In_Anchor_SubGraph we have 661.0
+for Dirichlet_Real we have 134.2696210077201
+for Dirichlet_Permuted (Null Model) we have 148.5714192873446
+for Dirichlet_Ratio (Real/Null) we have 0.9037378901795095
