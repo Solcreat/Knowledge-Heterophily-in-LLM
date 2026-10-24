@@ -1,0 +1,522 @@
+entity,kg_value
+"""African, Caribbean and Pacific Group of States""",1.0
+"""University of California, Berkeley""",0.0
+"""Weird Al"" Yankovic",0.0
+20th century,1.0
+AJ Michalka,0.0
+"Academy of Arts, Berlin",1.0
+Academy of Sciences of Turin,0.125
+Academy of Useful Science,0.0
+Académie Française,0.0
+Accademia Nazionale delle Scienze detta dei XL,1.0
+Adolf Erik Nordenskiöld,1.0
+Adriano Celentano,1.0
+African Americans,1.0
+Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,1.0
+Albert Camus,1.0
+Albert Einstein,0.5833333333333334
+Albert Szent-Györgyi,0.0
+Albrecht von Haller,0.0
+Alejandro Jodorowsky,0.0
+Alexander Pushkin,1.0
+Alexander von Humboldt,0.0
+Alexey Vorobyov,1.0
+Alexis de Tocqueville,1.0
+Alexz Johnson,0.0
+Alfred Einstein,0.058823529411764705
+Alice Cooper,0.0
+Alla Pugacheva,0.0
+Alliance of Small Island States,1.0
+American Academy of Arts and Sciences,0.6
+American Philosophical Society,1.0
+Anastacia,1.0
+Anatoly Lunacharsky,1.0
+Andrea Bocelli,0.0
+Andrei Konchalovsky,1.0
+Andrey Vyshinsky,0.0
+Andriy Danylko,0.0
+Angola,1.0
+Anton Bruckner,0.5789473684210527
+Arista,0.0
+Arthur Schopenhauer,1.0
+Ashkenazi Jews,0.5
+Atco Records,0.0
+Atlanta,1.0
+Atlantic Records,0.0
+Augustine of Hippo,1.0
+Austria,1.0
+Austria-Hungary,0.3333333333333333
+Austrian Empire,0.0
+Avicii,1.0
+Avril Lavigne,1.0
+Babyface,0.0
+Bahamas,1.0
+Bavarian Academy of Sciences and Humanities,1.0
+Belarus,1.0
+Belgium,1.0
+Ben Stiller,1.0
+Benjamin Franklin,0.0
+Bertrand Russell,1.0
+Bhimrao Ramji Ambedkar,1.0
+Billy Crystal,0.0
+Bosnia and Herzegovina,0.0
+Brandy Norwood,0.0
+Brazil,1.0
+Brooklyn,1.0
+Buckminster Fuller,0.0
+Buffy Sainte-Marie,0.6
+Bulgaria,1.0
+Camille Jordan,0.0
+Canada,1.0
+Cape Verde,1.0
+Capitol Records,0.5
+Caribbean Development Bank,1.0
+Carl Peter Thunberg,0.0
+Carl Sagan,0.8
+Carlos Fuentes,0.0
+Carole King,1.0
+Catholic Church,0.0
+Catholicism,0.75
+Charles Babbage,0.0
+Charles Lyell,0.0
+Chris Brown,0.0
+Christianity,1.0
+Christopher Lee,0.0
+Clint Eastwood,0.0
+Collège de France,1.0
+Columbia Records,0.3333333333333333
+Columbia University,0.0
+Commonwealth of Nations,1.0
+Connie Francis,0.0
+Connie Smith,1.0
+Cornell University,0.5
+Croatia,1.0
+Czech Republic,1.0
+Céline Dion,0.0
+Danny Glover,1.0
+David Attenborough,0.0
+David Hasselhoff,0.0
+David Hume,0.0
+David Lindley,0.0
+David Ogden Stiers,0.5333333333333333
+Def Jam Recordings,0.0
+Demi Lovato,0.5
+Democratic Party,0.0
+Denmark,1.0
+Detroit,1.0
+Dmitry Medvedev,0.0
+Drake Bell,0.0
+East Timor,0.0
+Eleanor Roosevelt,1.0
+Elektra,0.0
+Elizabeth II,0.0
+Emma Goldman,1.0
+Emmanuel Swedenborg,0.5
+English,0.7857142857142857
+English people,1.0
+Enzo Jannacci,0.42857142857142855
+Epic,0.25
+Equatorial Guinea,0.0
+Ernest Renan,0.0
+Ernst Chladni,0.0
+Ernst Curtius,0.0
+Ernst Mach,1.0
+Erwin Raisz,0.0
+Estonia,1.0
+Euclides da Cunha,1.0
+Finland,0.5
+Fiona Apple,0.0
+France,1.0
+Franz Kafka,0.0
+Franz Liszt,0.6
+Franz Miklosich,0.0
+François Arago,0.0
+Fredric Jameson,1.0
+Fredro Starr,0.7333333333333333
+French,0.25
+French Academy of Sciences,1.0
+French people,1.0
+Friedrich Carl von Savigny,0.0
+Friedrich Nietzsche,0.0
+Friedrich Wilhelm Joseph Schelling,1.0
+Fyodor Dostoyevsky,0.0
+G. K. Chesterton,0.0
+George Eliot,0.0
+George Ellery Hale,0.0
+Georges Cuvier,0.5161290322580645
+Georgia,1.0
+German,0.8333333333333334
+German Academy of Sciences Leopoldina,1.0
+German Empire,0.0
+Germany,0.5
+Giorgio Gaber,0.0
+Giovanni Schiaparelli,1.0
+Giuseppe Ungaretti,0.0
+Gloria Estefan,0.0
+Goldie Hawn,0.0
+Gottfried Wilhelm Leibniz,1.0
+Gotthold Ephraim Lessing,1.0
+Great Britain,1.0
+Greece,1.0
+Gretchen Wilson,0.5333333333333333
+Guglielmo Marconi,0.0
+Guinea-Bissau,0.0
+Gustav Kirchhoff,1.0
+Gustav Landauer,0.6
+György Lukács,1.0
+Günter Grass,0.35294117647058826
+Hannes Alfvén,1.0
+Harvard University,0.0
+Heidelberg University,1.0
+Heinrich Heine,1.0
+Heinrich Schliemann,0.0
+Henri Bergson,0.0
+Henri Victor Regnault,0.0
+Henry David Thoreau,1.0
+Henry Louis Gates,0.0
+Henry Rollins,0.0
+Hollywood Records,1.0
+Howard Zinn,1.0
+Hu Shih,1.0
+Hugo Grotius,1.0
+Humboldt University of Berlin,0.5
+Hungary,1.0
+Ice Cube,1.0
+Iceland,1.0
+India,1.0
+Ingmar Bergman,1.0
+International Bank for Reconstruction and Development,1.0
+International Centre for Settlement of Investment Disputes,1.0
+International Development Association,1.0
+International Telecommunication Union,1.0
+Interpol,1.0
+Irene Cara,1.0
+Island Records,0.0
+Italian,0.75
+Italy,1.0
+Ivan Illich,0.5
+Jackie Jackson,0.0
+Jada Pinkett Smith,0.0
+James Cameron,0.5
+James Clerk Maxwell,1.0
+James Lighthill,0.0
+Jan Josef Liefers,0.0
+Janelle Monáe,0.0
+Jared Leto,0.0
+Jean Gaston Darboux,0.0
+Jean Yanne,1.0
+Jean-Baptiste Biot,0.0
+Jean-Baptiste Dumas,0.0
+Jean-Paul Sartre,0.5
+Jean-Victor Poncelet,0.0
+Jessica Simpson,0.0
+Jewish people,1.0
+Jim Morrison,0.0
+Joaquim Maria Machado de Assis,1.0
+Joe Jonas,0.7692307692307693
+Joe Satriani,0.0
+Joe Walsh,0.0
+Johann Wolfgang von Goethe,0.0
+John Cage,0.0
+John Lennon,1.0
+John Ruskin,1.0
+John Turturro,0.0
+"John William Strutt, 3rd Baron Rayleigh",0.0
+Jorge Amado,0.5
+Joseph Liouville,1.0
+Joseph Priestley,0.0
+Joss Whedon,1.0
+Joumana Haddad,0.0
+Judaism,1.0
+Juilliard School,1.0
+Julian Fellowes,0.0
+Julie Driscoll,0.8125
+Julio Iglesias,0.0
+Jô Soares,1.0
+Karel Čapek,0.0
+Karl Lachmann,0.0
+Karl Marx,1.0
+Karl Popper,1.0
+Kevin Jonas,1.0
+Kingdom of Italy,0.0
+Kinky Friedman,0.0
+Kurt Vonnegut,1.0
+Kyrgyzstan,1.0
+Lara Fabian,0.0
+Latin,0.0
+Latvia,1.0
+Leo Tolstoy,1.0
+Leon Trotsky,0.0
+Leonardo da Vinci,0.29411764705882354
+Lithuania,1.0
+London,0.6
+Lord Byron,0.7727272727272727
+Los Angeles,1.0
+Lucy Liu,0.0
+Ludwig Geiger,0.0
+Ludwig Maximilian University of Munich,0.0
+Ludwig Prandtl,0.0
+Luxembourg,1.0
+MCA Records,0.0
+Macy Gray,0.0
+Madonna,0.0
+Mandy Moore,0.0
+Manu Chao,0.0
+Marcellin Berthelot,0.0
+Mariah Carey,0.0
+Marlon Jackson,0.0
+Martin Sheen,1.0
+Max Weber,0.0
+Meat Loaf,1.0
+Michael Jackson,0.0
+Mick Ronson,0.0
+Mikhail Bakunin,0.0
+Mikhail Zadornov,0.0
+Miranda Cosgrove,1.0
+Mohandas Karamchand Gandhi,0.5
+Montesquieu,1.0
+Mozambique,1.0
+Multilateral Investment Guarantee Agency,1.0
+Munich,0.0
+Myles Kennedy,0.0
+Nat King Cole,1.0
+Natalie Cole,0.43478260869565216
+National Academy of Sciences,1.0
+Nelly Furtado,1.0
+Netherlands,1.0
+New York City,0.0
+Nick Jonas,1.0
+Nicolae Iorga,0.0
+North America,0.0
+Norway,1.0
+Omar Sharif,0.0
+Organisation for the Prohibition of Chemical Weapons,1.0
+Organization of American States,1.0
+Paris,0.5
+Paulo Coelho,1.0
+Pedro II of Brazil,1.0
+Per Olov Enquist,0.5
+Percy Bysshe Shelley,1.0
+Peter Drucker,0.0
+Peter Kropotkin,1.0
+Peter Lorre,0.0
+Phil Collins,0.42424242424242425
+Philip Roth,0.0
+Pier Paolo Pasolini,0.0
+Pierre-Joseph Proudhon,1.0
+Pierre-Simon Laplace,0.0
+Poland,1.0
+Portugal,1.0
+Portuguese,0.4666666666666667
+Portuguese Empire,1.0
+Princeton University,0.3333333333333333
+Père Lachaise Cemetery,0.0
+RZA,0.0
+Ralph Waldo Emerson,1.0
+Ray Lankester,0.0
+Raymond Aron,1.0
+Republican Party,1.0
+Richard Harris,0.0
+Ricky Martin,0.7222222222222222
+Roger Penrose,0.0
+Roger Waters,1.0
+Romania,1.0
+Romanticism,1.0
+Rome,0.0
+Royal Netherlands Academy of Arts and Sciences,0.5
+Royal Prussian Academy of Sciences,1.0
+Royal Society,1.0
+Royal Society of Literature,0.5
+Royal Swedish Academy of Sciences,1.0
+RuPaul,0.0
+Rudolf Virchow,0.0
+Russia,1.0
+Russian Academy of Sciences,0.0
+Russian Empire,0.0
+Saint Petersburg Academy of Sciences,0.0
+Saint Vincent and the Grenadines,0.875
+Santiago Ramón y Cajal,0.0
+Seamus Heaney,0.0
+Sean Combs,0.0
+Selma Lagerlöf,1.0
+Shakira,0.0
+Shen Kuo,0.0
+Sheryl Crow,0.0
+Sidney Poitier,0.5
+"Sir George Stokes, 1st Baronet",0.0
+Slovakia,1.0
+Slovenia,1.0
+Société Philomathique de Paris,1.0
+Sony Music,0.5
+South Africa,1.0
+Spain,1.0
+Spanish,0.5
+Stanislao Cannizzaro,1.0
+Stephen Fry,0.0
+Stephen King,0.0
+Steven Weinberg,0.5714285714285714
+Sun Ra,0.0
+Sven Hedin,0.0
+Sweden,1.0
+Swedish,0.4444444444444444
+Switzerland,1.0
+Swizz Beatz,0.0
+São Tomé and Príncipe,1.0
+Taiwan,0.5
+Taylor Swift,0.0
+Ted Nugent,0.8
+Teena Marie,0.0
+Telly Savalas,0.0
+Theodor Mommsen,0.0
+Theodore von Kármán,0.0
+Thomas Jefferson,1.0
+Thomas Paine,1.0
+Thomas Young,0.0
+Tina Arena,1.0
+Tionne Watkins,0.4666666666666667
+Treaty on Open Skies,0.9714285714285714
+Turkey,1.0
+UNESCO,1.0
+Ukraine,1.0
+Ulf Ekberg,1.0
+United Kingdom,1.0
+United Kingdom of Great Britain and Ireland,1.0
+United Nations,0.5
+United States of America,0.75
+Universal Postal Union,1.0
+University College London,0.0
+University of Cambridge,1.0
+University of Chicago,1.0
+University of Vienna,0.0
+Urbain Le Verrier,0.0
+Veniamin Smekhov,1.0
+Vienna,0.6666666666666666
+Violetta Villas,0.0
+Virgin Records,0.0
+Vitamin C,0.0
+Vladimir Lenin,0.0
+Vladimir Mayakovsky,0.0
+Vladimir Putin,0.0
+Václav Havel,1.0
+Walt Disney Records,1.0
+Walter Scott,0.0
+Warner Bros. Records,0.0
+Wassily Kandinsky,0.0
+Western,0.0
+Wilhelm Ostwald,0.0
+Wilhelm Wundt,0.0
+Will Smith,0.0
+William Styron,0.0
+Wolfgang Amadeus Mozart,0.6111111111111112
+Woodrow Wilson,1.0
+World Trade Organization,1.0
+Yevgeny Yevtushenko,0.0
+Yoko Ono,1.0
+Yuri Shevchuk,1.0
+actor,0.7777777777777778
+agnosticism,1.0
+anthropologist,0.0
+archaeologist,0.0
+astronomer,0.6666666666666666
+atheism,0.25
+author,0.0
+autobiographer,0.0
+bandleader,0.0
+bass guitar,0.0
+biographer,0.0
+biologist,1.0
+botanist,0.0
+cancer,0.0
+chemist,0.0
+classical music,0.75
+comedian,0.0
+composer,0.5384615384615384
+conductor,0.0
+contemporary R&B,0.0
+contemporary folk music,1.0
+country music,0.5
+dance-pop,1.0
+dancer,1.0
+diarist,0.0
+diplomat,0.5
+director,0.25
+drum kit,1.0
+electronic music,0.0
+engineer,1.0
+essayist,0.5
+film actor,0.7142857142857143
+film director,0.0
+film producer,1.0
+film score composer,0.0
+folk rock,1.0
+geologist,0.0
+guitar,0.8
+guitarist,0.5
+hard rock,1.0
+hip hop music,1.0
+inventor,0.5
+jazz,1.0
+jazz musician,0.5
+journalist,0.3333333333333333
+jurist,0.0
+lawyer,0.23809523809523808
+lyricist,0.5
+mathematician,1.0
+military personnel,1.0
+model,0.0
+music critic,0.0
+music pedagogue,1.0
+music theorist,0.0
+musical composition,0.2
+musician,0.8333333333333334
+musicologist,0.0
+naturalist,0.0
+non-fiction writer,1.0
+novelist,0.5
+opera,1.0
+organ,0.0
+painter,0.5
+peace activist,0.7058823529411765
+percussion instrument,1.0
+performing arts,1.0
+philosopher,0.5
+philosophy,0.0
+physicist,0.6666666666666666
+physics,1.0
+pianist,0.6
+piano,0.5
+playwright,0.0
+pneumonia,1.0
+poet,0.6666666666666666
+politician,0.75
+pop music,0.6
+pop rock,1.0
+professor,1.0
+progressive rock,0.0
+rapper,1.0
+record producer,0.3333333333333333
+recording artist,1.0
+rhythm and blues,1.0
+rock music,0.75
+science fiction writer,0.0
+screenwriter,0.0
+singer,0.9090909090909091
+singer-songwriter,1.0
+soft rock,1.0
+songwriter,0.6
+soul music,1.0
+stage actor,0.6666666666666666
+symphony,0.3333333333333333
+teacher,1.0
+television actor,0.5714285714285714
+television director,0.0
+theater director,0.0
+theoretical physicist,1.0
+translator,0.5
+university teacher,0.8
+violin,0.0
+voice,0.0
+voice actor,0.3333333333333333
+writer,0.4166666666666667
+zoologist,0.5
+Ľudovít Štúr,1.0

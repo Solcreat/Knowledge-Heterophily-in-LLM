@@ -1,0 +1,704 @@
+entity,kg_value
+a2m,0.0
+aass,0.0
+abcb1,1.0
+abcb11,0.0
+abcb4,0.0
+abcc4,0.0
+abcd1,0.0
+abcd4,0.0
+abcg2,0.0
+abl1,0.0
+acadm,0.0
+acadvl,0.0
+ace2,0.0
+ache,0.0
+acne vulgaris,0.0
+acsl6,0.0
+acta1,0.0
+actn4,0.0
+acute lung injury,0.0
+adcy1,0.0
+adcyap1,0.0
+adenine,0.0
+adipoq,0.0
+adm,0.0
+agxt,0.0
+ahr,0.0
+aicda,0.0
+aipl1,0.0
+akt1,0.0
+alas1,0.0
+alb,0.0
+alcohol related disorders,0.0
+aldh1a1,0.0
+aldh1a3,0.0
+aldh1b1,0.0
+aldh3a1,0.0
+aldh6a1,0.0
+alendronate,0.0
+alk,0.0
+almitrine,0.0
+alox12b,0.0
+alox5,0.0
+alpp,0.0
+amacr,0.0
+amh,0.5
+amikacin,0.0
+anemia,0.0
+anemia aplastic,0.0
+aneurysm,0.0
+angpt2,0.0
+ano1,0.0
+anxiety related personality traits,0.0
+aox1,0.0
+apc,0.0
+apoe,0.0
+aprindine,0.2
+ar,0.0
+arbekacin,0.0
+arhgdia,0.0
+arpc4,0.0
+arrhythmias cardiac,1.0
+arteriosclerosis,0.0
+arthritis,0.0
+arthritis psoriatic,0.0
+arthritis rheumatoid,0.0
+ass1,0.0
+atf1,0.0
+atf3,0.0
+atm,0.075
+atn1,0.0
+atorvastatin,0.0
+atp13a2,0.0
+atp1a1,0.0
+atp1b1,0.0
+atp2a3,0.0
+atp2b2,0.0
+atp5a1,0.0
+atp5b,0.0
+atp5c1,0.0
+atp6v1b1,0.0
+atp6v1b2,0.0
+atropine,0.0
+atrx,0.0
+avp,0.0
+avpr2,0.0
+banf1,0.0
+bche,0.0
+bckdha,0.0
+bdkrb1,0.0
+benzylpenicillin,0.0
+betahistine,0.0
+betamethasone,0.0
+bezafibrate,0.0
+bglap,0.0
+birc3,0.0
+bmpr1b,0.0
+body weight changes,0.0
+bortezomib,0.0
+bpi,0.0
+bradycardia,1.0
+braf,0.0
+brca1,0.5
+breast neoplasms,0.3333333333333333
+brip1,0.0
+btk,0.025
+btnl2,0.0
+btrc,0.0
+cabp2,0.0
+calr,0.0
+camk2a,0.0
+camk2g,0.0
+candesartan,0.0
+capns1,0.0
+captopril,0.0
+carbimazole,1.0
+carcinoma,0.0
+carcinoma bronchogenic,0.0
+cardiovascular diseases,0.0
+cartilage hair hypoplasia,0.0
+casp7,0.0
+cat,0.0
+cbfb,0.0
+cbl,0.0
+ccl2,0.0
+ccnk,0.0
+cd14,0.0
+cd34,0.0
+cd37,0.0
+cd3e,0.0
+cd3eap,0.0
+cd4,0.0
+cd40lg,0.0
+cd79a,0.0
+cd80,0.0
+cdk4,0.0
+cdkn1a,0.0
+cdkn2a,0.0
+cdsn,0.0
+cdt1,0.0
+cefixime,0.0
+cefprozil,0.2
+ceftriaxone,0.0
+celecoxib,0.0
+cerebrovascular disorders,0.0
+cerk,0.0
+cftr,0.0
+chek2,0.5
+chlorothiazide,0.0
+cholecalciferol,0.0
+chordoma,0.0
+chuk,0.0
+cisplatin,0.0
+clcn5,0.0
+clcnka,0.0
+clec7a,0.0
+clemastine,0.0
+cln3,0.0
+clock,0.0
+clodronate,0.0
+clofibrate,0.0
+clonazepam,0.0
+cloxacillin,0.18181818181818182
+col1a2,0.0
+col4a4,0.0
+col5a1,0.0
+colchicine,0.0
+colitis,0.0
+contracture,0.0
+cortisone acetate,0.0
+cox4i1,0.0
+cox7c,0.0
+cp,0.0
+crebbp,0.0
+crot,0.0
+csf2,0.0
+csf2rb,0.0
+csk,0.0
+csnk1e,0.0
+csnk1g3,0.0
+cst3,0.0
+ctsb,1.0
+ctsg,0.07142857142857142
+cxcl10,0.0
+cxcl12,0.0
+cxcr4,0.0
+cyclosporine,0.0
+cyp19a1,0.0
+cyp21a2,0.0
+cyp2c9,0.0
+cyp2d6,0.0
+cyp3a43,0.0
+cyproheptadine,0.0
+cyproterone acetate,0.0
+cysltr1,0.041666666666666664
+dao,0.02564102564102564
+dars,0.0
+dasatinib,0.0
+dctn1,0.0
+ddx58,0.0
+deficiency diseases,0.0
+demeclocycline,0.0
+depression,0.0
+dexamethasone,0.0
+dgkd,0.0
+diabetes mellitus,0.0
+diablo,0.0
+dimenhydrinate,0.0
+dinoprostone,0.0
+dipyridamole,0.0
+disc1,0.0
+disorders of sex development,0.14705882352941177
+disulfiram,0.0
+dopamine,0.0
+dot1l,0.16666666666666666
+doxycycline,0.0
+drug toxicity,1.0
+dusp1,0.0
+dut,0.0
+dync2h1,0.0
+ecm1,0.0
+efemp2,0.0
+egfr,0.0
+eif2s3,0.0
+eif4e,0.0
+eif4g1,0.0
+eln,0.0
+elovl5,0.0
+emp2,0.0
+ep300,0.0
+ephb2,0.0
+ephx1,0.0
+epinephrine,0.0
+epo,0.0
+erbb2,0.0
+ercc1,0.0
+ercc2,0.0
+ercc3,0.0
+esophageal neoplasms,0.0
+estradiol,1.0
+etfa,0.0
+etfb,0.0
+ethacrynic acid,0.0
+ethanol,0.0
+etodolac,0.0
+ets1,0.0
+etv6,0.0
+exanthema,0.0
+f13a1,0.0
+f2r,0.0
+f2rl3,0.0
+f8,0.0
+fa2h,0.0
+fancc,0.0
+fatigue,0.0
+fbn1,0.0
+fcer1g,0.0
+fenoprofen,0.0
+fever,0.0
+fgf23,0.0
+fgf7,0.0
+fgfr1,0.0
+fgfr2,0.0
+fibrosis,0.0
+flna,0.0
+flot1,0.0
+fluvastatin,0.0
+folic acid,0.0
+fractures bone,0.0
+fubp1,0.0
+fuca1,0.0
+fus,0.0
+ganciclovir,0.0
+gastrointestinal neoplasms,0.0
+gatm,0.0
+gc,1.0
+gch1,0.037037037037037035
+gdf5,0.0
+gemcitabine,0.0
+genital neoplasms female,0.0
+genital neoplasms male,0.0
+gfpt1,0.0
+gh1,0.0
+gna11,0.0
+gnaq,0.0
+gnas,0.0
+gnb1,0.0
+gnpat,0.0
+gp6,0.0
+gpr17,0.0
+gpr39,0.0
+gram positive bacterial infections,0.0
+graves disease,0.3076923076923077
+grem1,0.0
+gria2,0.0
+grik1,0.0
+grik2,0.0
+grik4,0.0
+grik5,0.0
+grin2a,0.0
+grin2c,0.0
+grin2d,0.0
+grm4,0.0
+grm7,0.0
+hamartoma syndrome multiple,0.0
+hbegf,0.0
+hdac1,0.0
+hdac4,0.0
+heart defects congenital,0.0
+heart failure,0.0
+hemorrhage,0.0
+hepatitis c,0.0
+hgf,0.0
+hint1,0.0
+hiv infections,0.0
+hla b,0.0
+hla c,0.0
+hla dra,0.0
+hoxa1,0.0
+hsd11b2,0.0
+hsd17b3,1.0
+hspa8,0.0
+hspb1,0.0
+hydrocortisone,0.0
+hydroxyurea,0.0
+hyperaldosteronism,0.0
+ibuprofen,0.0
+idh2,0.0
+ifit1,0.0
+ifng,0.0
+igf2,0.0
+igf2bp2,0.0
+ikbkb,0.0
+ikbkg,0.0
+ikzf1,0.0
+il10,0.0
+il11,0.05
+il13,0.0
+il15,0.0
+il17a,1.0
+il1r1,0.0
+il2,0.0
+il21r,0.0
+il2ra,0.0
+il2rg,0.0
+il3,0.0
+il4,0.0
+il5,0.0
+il6,0.0
+il6st,0.0
+il7,0.0
+impg2,0.0
+indomethacin,0.0
+infections,1.0
+inflammation,0.5
+inpp5d,0.0
+ins,0.0
+intestinal neoplasms,0.0
+intestinal polyposis,0.0
+intracranial hemorrhages,0.0
+ischemia,0.0
+isg20,0.14285714285714285
+isyna1,0.0
+itga2,0.0
+itga2b,0.0
+itgav,0.0
+itgb3,0.0
+jun,1.0
+kanamycin,0.0
+kat5,0.0
+kcnb2,0.0
+kcnj1,0.0
+kcnmb1,0.0
+kcnmb2,0.0
+kcnn2,0.0
+kdr,0.0
+kiss1,0.0
+kit,0.0
+kitlg,0.0
+klk6,0.0
+klkb1,0.0
+kras,0.0
+krit1,0.0
+kynu,0.0
+l carnitine,0.0
+lap3,0.0
+lcat,0.0
+lcn2,0.0
+ldb3,0.0
+ldhb,0.0
+lemd3,0.0
+leukemia lymphoid,0.5
+leukemia myeloid,0.5
+leukopenia,0.0
+levothyroxine,1.0
+lgals3,0.0
+lhcgr,0.0
+lias,0.0
+limk1,0.0
+linagliptin,0.0
+lithium,0.0
+liver diseases,0.0
+liver neoplasms,0.0
+losartan,0.0
+lovastatin,0.0
+ltb,0.0
+ltb4r2,0.0
+ltc4s,0.0
+lung injury,0.0
+lupus erythematosus systemic,0.0
+lymphoma,0.0
+lyn,0.0
+macular degeneration,0.0
+malnutrition,0.0
+map2k5,0.0
+map3k1,0.0
+map3k7,0.0
+mapk1,1.0
+mapk12,0.0
+mapk13,0.0
+mapk3,0.0
+mapk8,0.0
+mbp,0.0
+mbtps1,0.0
+mcat,0.0
+mefv,0.0
+melanoma,0.0
+metformin,0.0
+methimazole,1.0
+methylprednisolone,0.0
+mknk1,0.0
+mllt10,1.0
+mmp1,0.0
+mmp9,0.0
+montelukast,0.0
+mpo,0.0
+muscular diseases,0.0
+mvk,0.0
+myc,0.0
+mycophenolate mofetil,0.0
+myd88,0.0
+myeloproliferative disorders,0.0
+mylk,0.0
+myo1e,0.0
+myoc,0.0
+nadolol,0.0
+nars,0.0
+ncam1,0.0
+ndufab1,0.0
+nebivolol,0.0
+neoplasms,0.0
+neoplasms neuroepithelial,0.0
+nephrosis,0.05
+neurobehavioral manifestations,1.0
+neurotoxicity syndromes,0.0
+nf1,0.0
+nfkb1,0.0
+nfkb2,0.0
+nifedipine,0.0
+nipbl,0.0
+nitric oxide,0.0
+nitroprusside,0.0
+nlrp3,0.0
+nop2,0.0
+norepinephrine,0.0
+nos1,0.0
+nos3,0.0
+nr0b1,0.0
+nr0b2,0.0
+nr3c1,0.0
+nr3c2,0.0
+nrg1,0.0
+ocrl,0.0
+orciprenaline,0.0
+osteoarthritis,0.0
+oxct1,0.0
+p2ry2,0.0
+p4ha1,0.0
+pain,0.0
+parkinsonian disorders,1.0
+pax2,0.0
+paxip1,0.0
+pc,0.3333333333333333
+pcna,0.0
+pde4b,0.0
+pde6c,0.0
+pdgfa,0.0
+pdhx,0.0
+pemphigus,0.0
+pentoxifylline,0.0
+peroxisomal disorders,0.0
+pex10,0.0
+pex26,0.0
+pex6,0.0
+pex7,0.0
+pgf,0.0
+pgm1,0.0
+phenelzine,0.0
+phenylbutazone,0.0
+phyh,0.0
+physostigmine,0.3157894736842105
+pick1,0.0
+pik3ca,0.0
+pin1,0.0
+pkd2,0.0
+pla2g4a,0.0
+pla2g7,0.0
+plcd1,0.0
+plce1,1.0
+plg,0.0
+pneumonia,0.5
+pomc,0.0
+porcn,1.0
+ppara,0.0
+ppbp,0.0
+ppih,0.0
+ppp3cb,0.0
+pranlukast,0.0
+prednisone,0.0
+prkab2,0.0
+prkar1a,1.0
+prkca,0.07317073170731707
+prkch,0.0
+proc,0.0
+procyclidine,0.0
+progesterone,1.0
+propranolol,0.0
+propylthiouracil,1.0
+prss8,0.0
+prtn3,0.0
+psat1,0.0
+psmb9,0.0
+ptger1,0.0
+ptger4,0.0
+ptgs1,0.0
+ptgs2,0.0
+pth,0.0
+ptpn22,0.0
+ptprf,0.0
+pulmonary disease chronic obstructive,0.0
+rab3gap1,0.0
+rala,0.0
+ralbp1,0.0
+rara,0.0
+rasagiline,0.0
+rcvrn,0.0
+recql4,0.0
+ren,0.0
+renal tubular transport inborn errors,0.0
+respiratory hypersensitivity,0.0
+respiratory tract neoplasms,0.0
+restless legs syndrome,0.0
+retinal dystrophies,0.0
+retinoschisis,0.0
+rhoa,0.0
+ribavirin,0.0
+riboflavin,0.043478260869565216
+rifampicin,0.0
+ripk2,0.0
+rock1,0.0
+rosacea,0.0
+rosuvastatin,0.0
+rpl13,0.0
+rpl21,0.0
+rpl23,0.0
+rpl35a,0.0
+rpl37,0.0
+rps17,0.0
+rps24,0.0
+rps26,0.0
+rps6ka1,0.0
+rps6ka5,0.0
+rps6ka6,0.0
+rps7,0.0
+rrm1,0.0
+s100a7,0.0
+s1pr1,0.0
+s1pr2,0.0
+s1pr4,0.0
+s1pr5,0.0
+salbutamol,0.0
+salmeterol,0.0
+samd9,0.0
+saxagliptin,0.0
+schizophrenia,0.0
+scnn1b,0.0
+sdc1,0.0
+seizures,0.0
+selplg,0.0
+serpina3,0.0
+serpinb7,0.0
+serpinc1,0.0
+serpind1,0.0
+serpine1,1.0
+serpinf2,0.0
+sevoflurane,0.0
+sezary syndrome,0.0
+shmt1,0.0
+shock,0.0
+simvastatin,0.0
+sirt1,0.0
+slc10a1,0.0
+slc10a2,0.0
+slc15a1,0.0
+slc16a1,0.0
+slc17a5,0.0
+slc22a11,0.0
+slc22a3,0.0
+slc29a1,0.0
+slc29a3,0.0
+slc2a10,0.0
+slc36a2,0.0
+slc3a1,0.0
+slc7a1,0.0
+slco1a2,0.0
+slco1b1,0.0
+slco1c1,0.0
+slco2b1,0.0
+slco4a1,0.0
+smad2,0.0
+smad3,0.0
+smarca2,0.0
+smarce1,0.0
+smyd3,0.0
+spag1,0.0
+spectinomycin,0.0
+spg11,0.0
+sphk1,0.0
+sphk2,0.047619047619047616
+spink5,0.0
+spp1,0.0
+spta1,0.0
+sptlc1,0.0
+sptlc2,0.0
+sqstm1,0.0
+src,0.0
+ss18,0.0
+stat1,0.5
+stat2,0.0
+stat3,0.0
+stat4,0.0
+stat5b,0.0
+stmn1,0.0
+suclg1,0.0
+sulindac,0.0
+sult1a2,0.0
+suramin,0.0
+syk,0.0
+synj1,0.0
+syp,0.0
+tachycardia,0.0
+taf1,0.0
+tamoxifen,0.0
+tardbp,0.0
+tcl1a,0.0
+tdp 43 proteinopathies,0.0
+tenofovir,0.0
+tert,0.0
+testosterone,0.0
+tf,0.0
+tfpi,0.0
+tgfb1,0.0
+tgfbr1,0.0
+th,0.0
+thbs1,0.0
+theophylline,0.0
+thrombocytopenia,0.0
+tia1,0.0
+tlr4,0.0
+tlr6,0.0
+tnf,1.0
+tp53,0.0
+tpi1,0.0
+tpm3,0.0
+trex1,0.0
+trib2,0.0
+trimethadione,0.0
+ttc37,0.0
+tulp1,0.0
+txk,0.0
+ubc,0.0
+ucp2,0.0
+ugt2b15,0.0
+urethral diseases,0.0
+urination disorders,0.0
+uterine diseases,0.0
+van der woude syndrome,0.0
+vapb,0.0
+vdac2,0.0
+vdac3,0.0
+vdr,0.0
+ventricular fibrillation,0.0
+verapamil,0.0
+vhl,0.0
+vitamin c,0.0
+vps13a,0.0
+vwf,0.0
+wilms tumor,0.0
+wnt4,0.0
+xdh,0.0
+xerostomia,1.0
+xrcc1,0.0
+zafirlukast,0.0
+zoledronate,0.0

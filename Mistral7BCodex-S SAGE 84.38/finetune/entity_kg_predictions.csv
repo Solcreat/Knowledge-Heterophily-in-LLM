@@ -1,0 +1,2035 @@
+entity_label,predicted_kg_value,kg_value,split
+Leonhard Euler,-0.016522638,,none
+German,-0.0038611218,0.0,train
+Carl Djerassi,0.027585208,,none
+cancer,1.0046493,1.0,train
+Colombia,0.91326076,,none
+International Finance Corporation,0.14666238,,none
+Aleksey Nikolayevich Tolstoy,1.2463279,,none
+Russian,1.0209991,1.0,train
+Netherlands,1.0685109,,none
+Schengen Area,1.035121,1.0,train
+Henry Rollins,0.0020175502,,none
+human rights activist,0.6706707,,none
+Richard Wagner,0.16479853,,none
+theater director,-0.0074878484,,none
+Jaden Smith,0.042320773,,none
+actor,0.65818274,0.5,valid
+La Toya Jackson,0.0056568757,,none
+Jackie Jackson,0.11466697,,none
+John Cameron Mitchell,0.013295814,,none
+television actor,0.50346196,0.5,train
+Julian Klaczko,1.0028044,1.0,train
+historian,0.19108444,0.175,train
+Enrique Iglesias,0.8512697,,none
+Spanish,0.0030184016,0.0,train
+Taiwan,0.47429407,0.0,test
+Republic of the Congo,0.6480224,,none
+astronomer,-0.007877491,,none
+Richard Harris,-0.0020987466,,none
+singer-songwriter,0.8871366,0.875,train
+Adam Ant,0.016015835,,none
+stage actor,0.019362975,0.3333333333333333,test
+Weimar Republic,0.052096453,,none
+Europe,1.2958543,,none
+Jim Belushi,0.4716698,,none
+comedian,0.5156867,0.5,train
+Louis Armstrong,0.37594837,,none
+African Americans,0.80798876,0.8,train
+Dino Buzzati,0.015492827,,none
+journalist,0.0029471293,0.0,train
+Oprah Winfrey,0.66034585,,none
+United States of America,0.73129195,0.7222222222222222,train
+Woody Allen,0.1738245,,none
+jazz musician,1.0131367,1.0,train
+Dominican Republic,1.6324142,,none
+International Telecommunication Union,0.07693946,,none
+Wilhelm von Humboldt,0.0034180954,,none
+teacher,0.19572061,,none
+Alfred Einstein,0.065641046,,none
+Columbia University,0.51441085,0.0,valid
+Rick Wakeman,0.004069507,,none
+songwriter,0.5961011,0.8571428571428571,valid
+Heinrich Rudolf Hertz,0.6435383,,none
+Humboldt University of Berlin,0.9938688,1.0,train
+Belarus,1.029273,1.0,train
+Czech Republic,1.6852279,,none
+Richard Marx,0.117668405,0.0,test
+Chicago,-0.008247472,0.0,train
+Rabindranath Tagore,0.92617416,,none
+English,0.9384445,0.9230769230769232,train
+Central African Republic,1.21376,,none
+Sudan,1.4440416,,none
+Latvia,0.27140105,,none
+Wilhelm Grimm,0.1310917,0.0,valid
+librarian,0.012880832,0.0,train
+Carlos Fuentes,0.0016445592,,none
+writer,0.06450179,0.6428571428571429,valid
+Holly Near,0.626016,,none
+Roy Clark,0.5810418,,none
+North Korea,0.7377646,,none
+Guinea-Bissau,0.106609754,,none
+South Africa,1.2368585,,none
+Pakistan,1.0301968,1.0,train
+Uruguay,1.0330206,1.0,train
+William Dean Howells,0.012440056,,none
+Chris Martin,0.011366665,0.0,valid
+W. H. Auden,0.5634742,,none
+university teacher,0.19666807,,none
+Tinashe,0.34799957,,none
+dancer,0.012430154,0.0,train
+Tila Tequila,0.013947591,,none
+presenter,-0.0034260377,0.0,train
+Kurt Vonnegut,-0.008220106,,none
+Bertrand Russell,0.14721024,,none
+Percy Bysshe Shelley,0.21608463,,none
+Bobby Scott,-0.0015833825,,none
+pianist,0.17393994,0.1627906976744186,train
+Martin Buber,0.0016423985,,none
+Tristan Tzara,-0.003391154,,none
+diplomat,0.042283043,,none
+Georgia,0.91669834,,none
+Ghana,0.60052514,,none
+Henry Louis Gates,-0.0016236082,0.0,train
+will.i.am,0.5277715,,none
+film producer,0.004110031,0.0,train
+Equatorial Guinea,1.4612669,,none
+OHADA,0.08430904,,none
+Blaise Pascal,1.0115645,1.0,train
+physicist,0.034331158,,none
+George Tabori,-0.013894036,,none
+performing arts,0.099607736,,none
+Georg Forster,0.0027949587,0.0,train
+botanist,-0.018689685,0.0,train
+Henry Wadsworth Longfellow,0.5693766,0.5625,train
+Noam Chomsky,0.3321798,,none
+linguist,0.015350379,0.0,train
+Soulja Boy,-0.0051738396,,none
+J. Rodolfo Wilcock,-0.004173793,0.0,test
+novel,1.0098566,1.0,train
+Leonard Cohen,-0.007961415,,none
+Columbia Records,1.1773707,0.5,test
+Trey Parker,0.090788856,,none
+singer,0.8471554,0.8333333333333334,train
+Brian Molko,0.0064337477,,none
+vocalist,0.076838255,,none
+John de Lancie,-0.008454822,,none
+musician,1.0037104,1.0,train
+William Styron,0.39469337,,none
+James Joyce,0.0029704273,0.0,train
+Maureen Tucker,0.34161535,0.3333333333333333,train
+Milla Jovovich,0.21749783,,none
+Lonnie Liston Smith,0.0106307715,1.0,valid
+voice,0.19350332,0.3076923076923077,test
+Nigeria,0.45025158,,none
+International Bank for Reconstruction and Development,-0.056117736,,none
+Benedetto Croce,0.0034557953,0.0,valid
+Italy,0.52849555,0.5,train
+People's Republic of China,1.0910952,,none
+Indonesia,1.0369372,1.0,train
+Mike Myers,0.02804244,,none
+film director,0.0069369003,0.0,train
+Giorgio Gaber,0.51138,0.5,train
+Italian,0.3930164,0.3658536585365853,train
+John Muir,0.019331805,,none
+explorer,0.008352287,,none
+"John William Strutt, 3rd Baron Rayleigh",0.037283845,,none
+Bavarian Academy of Sciences and Humanities,0.0021991208,,none
+Sweden,0.645526,,none
+Australia,0.656223,1.0,test
+Penny Marshall,0.026659206,,none
+Ukraine,0.8772305,,none
+Azerbaijan,1.0206423,,none
+Slovenia,1.418443,0.0,test
+North Macedonia,1.1470155,,none
+Montenegro,0.48146668,,none
+Kosovo,0.9437016,,none
+Ice Cube,0.010568447,,none
+Académie Française,0.009014502,0.0,train
+French,1.0160573,1.0,train
+Bulgaria,1.0359173,1.0,train
+Mongolia,0.99179804,,none
+Alexey Vorobyov,0.6710719,,none
+Russia,1.0316421,1.0,train
+South Korea,0.55556345,,none
+United Kingdom,0.6851405,0.6666666666666666,train
+Bahrain,0.3730998,,none
+Michail Sholokhov,1.1171548,,none
+Isaac Hayes,0.19917947,,none
+voice actor,0.0025385395,0.0,train
+Benoit Mandelbrot,0.004312776,0.0,train
+National Academy of Sciences,-0.01906284,,none
+Little Richard,0.6434355,0.6363636363636364,train
+rhythm and blues,0.1981827,1.0,valid
+Nauru,0.16361403,,none
+Manfred Eigen,0.043280378,,none
+American Academy of Arts and Sciences,-0.029943287,0.3333333333333333,test
+Thomas Young,0.24791226,,none
+anthropologist,0.0061070696,,none
+Canada,1.1710411,0.6666666666666666,valid
+Grenada,0.7089465,,none
+autobiographer,0.0036963746,0.0,train
+Saul Bellow,0.01629588,,none
+Joseph Conrad,0.053901657,,none
+European Payments Union,0.18514761,,none
+Austria,0.77205884,,none
+Germany,0.09840882,,none
+Andorra,0.89195466,,none
+European Union,0.56241816,,none
+Morocco,1.8138572,,none
+UNESCO,1.019943,1.0,train
+Fritz Haber,0.41030377,,none
+myocardial infarction,0.5014462,0.5,train
+Ben Stiller,0.6402221,,none
+screenwriter,0.024979997,0.0,test
+Nicaragua,0.06693115,,none
+North America,1.3523244,,none
+Bangladesh,0.51180154,,none
+African Union – United Nations Hybrid Operation in Darfur,0.8413733,,none
+Laos,1.2597978,,none
+Samuel Johnson,-0.02167157,0.0,valid
+Ava Gardner,0.26977643,,none
+model,-0.007395871,0.0,train
+Malaysia,0.564679,,none
+Namibia,0.11465826,,none
+Dennis Gabor,-0.0040382966,,none
+Royal Society,0.6090455,,none
+Nick Jonas,0.03615526,,none
+Miley Cyrus,0.3483644,,none
+Greece,1.0389397,1.0,train
+Larry David,0.018517438,,none
+Bhimrao Ramji Ambedkar,0.0040835664,0.0,train
+France,1.0194767,1.0,train
+G20,1.3659657,,none
+Lithuania,1.0279814,1.0,train
+J. Robert Oppenheimer,0.080521956,,none
+University of Cambridge,0.18769675,,none
+Faith Evans,0.62076765,,none
+contemporary R&B,1.2038242,1.0,valid
+Tom Wolfe,0.02799474,,none
+Charles Dickens,1.0080272,1.0,train
+Aram Khachaturian,0.40416396,,none
+classical music,0.69226164,,none
+Croatia,0.72107637,,none
+Turkey,1.0268548,1.0,train
+United Arab Emirates,0.45669994,,none
+Saudi Arabia,1.1752266,,none
+Ulrich von Wilamowitz-Moellendorff,0.0029636994,0.0,train
+politician,0.22415274,0.2195121951219512,train
+Senegal,0.015648685,0.0,train
+John Stuart Mill,0.006643109,0.0,train
+English people,1.1654543,0.0,test
+Libya,1.277909,,none
+Burkina Faso,1.2436098,,none
+World Trade Organization,-0.101678826,1.0,test
+Veniamin Smekhov,0.61208755,,none
+Costa Rica,0.0646833,,none
+Brigitte Bardot,-0.015596174,,none
+Felix Mendelssohn,0.20084995,,none
+Ashkenazi Jews,0.0028126538,0.0,train
+Woody Guthrie,0.7607066,,none
+harmonica,0.30479604,,none
+Madonna,0.6828374,,none
+musical composition,0.26227704,0.25,train
+Peter Debye,-0.0016833171,0.0,train
+Cornell University,0.011850774,0.0,train
+Mexico,0.44535094,,none
+Jada Pinkett Smith,0.04168834,,none
+rock music,1.0112293,1.0,train
+Luis Alberto Spinetta,0.016048089,,none
+psychedelic rock,0.5559586,,none
+Big Sean,0.055385195,,none
+hip hop music,1.0005633,0.6666666666666666,test
+Massimo Bontempelli,0.43736476,0.0,valid
+Rome,1.0240186,1.0,train
+David Foster,0.006751187,0.0,train
+Carole King,-0.004898943,,none
+composer,0.057767235,0.3333333333333333,valid
+Argentina,0.84225595,,none
+Organisation for the Prohibition of Chemical Weapons,-0.004846394,1.0,test
+Missy Elliott,0.15680525,,none
+film actor,0.72623086,0.7272727272727273,train
+Holy See,0.54269683,,none
+Kurt Cobain,0.92391276,,none
+diarist,-0.0016148165,0.0,train
+Babyface,-0.0006373599,,none
+Island Records,0.09401679,,none
+Chile,0.32883173,,none
+International Centre for Settlement of Investment Disputes,0.21873021,,none
+Günter Grass,0.104886964,,none
+essayist,0.0054469258,0.0,train
+Christoph Wilhelm Hufeland,-0.0124579,,none
+Russian Academy of Sciences,0.0090123415,,none
+Ireland,0.6507242,,none
+Kyrgyzstan,0.7618234,,none
+Maldives,0.5001817,,none
+Henry Kissinger,-0.010506533,,none
+André Malraux,1.0180502,1.0,train
+Egypt,1.7518554,,none
+Yeshayahu Leibowitz,-0.01075203,,none
+chemist,0.03161586,0.0,test
+Rainer Werner Fassbinder,0.21963534,,none
+Munich,0.027916323,,none
+Switzerland,1.1732558,0.0,test
+Rob Zombie,0.03343562,,none
+Busta Rhymes,-0.0037393495,,none
+Republic Records,0.004539676,0.0,train
+Tamer Hosny,-0.003648363,,none
+Margaret Atwood,1.5591487,,none
+Fyodor Dostoyevsky,0.7479867,,none
+Yevgeny Zamyatin,0.71730196,,none
+Ilya Ehrenburg,0.10039317,,none
+novelist,0.5021079,0.5,train
+Justin Timberlake,0.16607094,,none
+pop music,0.42522314,0.4285714285714285,test
+Jorge Amado,0.9307046,0.0,test
+Joaquim Maria Machado de Assis,0.01609908,,none
+Syd Barrett,0.01739484,,none
+Billy Crystal,0.19337416,,none
+Rwanda,1.1063219,,none
+Hungary,1.0362496,1.0,train
+Nepal,0.3669939,,none
+Harold Bloom,0.0038701445,,none
+Yale University,0.11258703,,none
+Eduard Suess,1.2588526,,none
+Peter Tork,-0.0120386705,0.0,train
+banjo,-0.0027755275,,none
+Charles Aznavour,0.34993368,,none
+Group on Earth Observations,-0.053291373,1.0,test
+Kelly Clarkson,0.3568805,,none
+François-René de Chateaubriand,0.47755325,0.0,valid
+Karl Mannheim,1.0167696,1.0,train
+London,0.30724055,1.0,test
+Maxim Gorki,-0.0030413792,,none
+Republic of Cyprus,1.4189945,,none
+Poland,0.8043978,0.775,train
+Gerald Wilson,0.06634909,,none
+Los Angeles,1.0146797,1.0,train
+Howard Zinn,0.2106806,1.0,valid
+Paraguay,0.64046025,,none
+Iran,1.139031,,none
+Friedrich von Raumer,1.013873,1.0,train
+Jewish people,0.28809088,0.5,valid
+Henry David Thoreau,0.1709072,,none
+Harry Chapin,0.014368806,,none
+Allen Ginsberg,1.4695538,,none
+television producer,0.06697801,0.0,valid
+Estonia,-0.001185067,,none
+India,1.3035797,,none
+Australia Group,-0.07185637,,none
+Andrea Bocelli,0.18876138,0.0,test
+Universal Music Group,-0.0030702427,0.0,train
+Aleksandr Solzhenitsyn,0.5862245,0.0,valid
+Ric Ocasek,0.2581055,,none
+Jay Chou,0.020844564,,none
+Interscope Records,0.18762475,,none
+Andriy Danylko,-0.014857642,,none
+Jessica Simpson,-0.004449211,,none
+Bolivia,1.2469755,,none
+Liechtenstein,0.25990978,,none
+Timbaland,1.7020551,,none
+alternative rock,-0.01357054,,none
+Eurocontrol,1.0230451,,none
+James Lighthill,0.0026368871,,none
+Malta,0.5837159,,none
+Commonwealth of Nations,0.8533522,,none
+Mali,1.2836741,,none
+United Nations,0.6819457,,none
+Wang Leehom,0.0060467348,,none
+Jewel,0.6747816,0.6666666666666666,train
+Michael Bublé,-0.011347003,,none
+Valery Meladze,0.39885375,,none
+Robert Musil,0.005331166,0.0,train
+author,0.41040367,0.75,test
+Frank Zappa,0.041622736,,none
+Eugen Rosenstock-Huessy,0.5075238,0.5,train
+sociologist,0.34745342,0.3333333333333333,train
+Malawi,0.9476724,,none
+Interpol,0.0068413764,,none
+Liv Ullmann,0.077235,,none
+South Sudan,1.0233904,,none
+François Guizot,0.825668,,none
+Royal Netherlands Academy of Arts and Sciences,-0.032371044,,none
+Niger,0.9533888,,none
+Organisation internationale de la Francophonie,1.099046,,none
+Anatoly Lunacharsky,0.021214478,,none
+Academy of Sciences of the USSR,0.013243269,,none
+Sidney Poitier,0.009600811,,none
+Papua New Guinea,0.83938575,,none
+Belgium,0.6035588,,none
+International Energy Agency,0.37949595,,none
+Serbia,1.0406357,1.0,train
+Sri Lanka,1.7304977,,none
+Ingeborg Bachmann,0.07288613,,none
+philosopher,1.0124592,1.0,train
+André 3000,0.72884333,0.7333333333333333,train
+Serge Gainsbourg,0.019116655,,none
+film score composer,0.017643128,,none
+Augustin-Louis Cauchy,0.3381675,,none
+Fergie,0.051150672,,none
+RCA Records,1.0197017,1.0,train
+Academia Europaea,0.016370963,,none
+Jean-Paul Sartre,0.26313975,0.5,test
+Paris,0.61789954,0.6,train
+Ecuador,0.8411871,,none
+Mary Shelley,0.45283195,,none
+science fiction writer,0.51635104,0.5,train
+James Hetfield,0.02529629,,none
+Algeria,1.7932874,,none
+Eswatini,0.34798753,,none
+Kazakhstan,0.9172294,,none
+Gene Autry,0.5433302,,none
+radio personality,0.38554886,,none
+University College London,0.18803596,,none
+Holly Johnson,0.20804605,,none
+bass guitar,0.00680881,0.0,train
+Arthur Miller,-0.013992421,,none
+New York City,0.04168297,1.0,test
+Jimmy Buffett,0.10126863,,none
+Akiko Yano,0.17162079,0.0,test
+Norway,0.5033883,,none
+European Space Agency,0.011350192,0.0,train
+Gabriel Marcel,1.0145551,1.0,train
+Friedrich Nietzsche,0.39162457,,none
+entrepreneur,0.03227473,,none
+Gloria Estefan,1.009543,1.0,train
+Japan,0.07816934,,none
+Salvador de Madariaga,0.008039273,1.0,valid
+École Polytechnique,-0.005594738,,none
+George Harrison,0.3719896,,none
+Vietnam,0.8753169,,none
+Denmark,1.0326271,1.0,train
+Reprise Records,-0.0064444616,0.0,train
+Jan Rubes,0.0049718246,,none
+Czechoslovakia,1.0221047,1.0,train
+essay,0.634698,,none
+Neil Young,0.21087009,,none
+record producer,0.28007922,0.25,valid
+Luxembourg,0.6559727,,none
+Organisation for Economic Cooperation and Development,-0.054269843,,none
+Marlene Dietrich,0.20156261,,none
+Jim Morrison,0.003022857,0.0,train
+director,-0.025606804,,none
+Taylor Swift,0.0049210563,0.0,train
+guitar,0.6333972,0.625,train
+Zemfira,0.0049289092,0.0,train
+State of Palestine,1.0111835,,none
+Billy Joel,0.010842573,,none
+Miguel de Unamuno,-0.0015325472,0.0,train
+Dido,0.00049126893,0.0,train
+Arista,0.21933976,0.0,valid
+Harry Nilsson,-0.0073809996,,none
+Spain,1.0355605,1.0,train
+Palau,-0.04652775,,none
+Connie Francis,0.2556326,,none
+Georges Cuvier,0.0042763203,0.0,train
+German Academy of Sciences Leopoldina,0.0062433705,,none
+Patti Smith,0.019130908,,none
+Bill Haley,0.36134595,,none
+Russell Brand,0.21523297,,none
+French Academy of Sciences,-0.031850778,,none
+Angola,0.2830429,,none
+Africa,1.7483652,,none
+Julia Volkova,0.4202546,,none
+pop rock,0.098649316,,none
+Sofia Kovalevskaya,0.5239383,,none
+pneumonia,0.762771,0.5,test
+Saint Lucia,0.4854524,,none
+Norman Wisdom,-0.0041152313,,none
+businessperson,-0.0003132522,0.0,train
+Erika Mann,0.033125766,,none
+Klaus Mann,-0.0043157116,,none
+Kenny Rogers,0.367564,,none
+Capitol Records,1.0091655,1.0,train
+Israel,1.0255584,1.0,train
+Ronald Reagan,0.7511501,,none
+University of Göttingen,0.2968941,,none
+Gottfried Wilhelm Leibniz,0.3408101,0.3333333333333333,train
+University of Jena,0.42340076,0.0,valid
+Trinidad and Tobago,0.18455876,,none
+Carl Friedrich von Weizsäcker,0.49776036,,none
+T. S. Eliot,1.0075731,,none
+Anglicanism,0.5480296,,none
+Stendhal,0.35894147,,none
+John Dos Passos,0.00907363,,none
+American Academy of Arts and Letters,-0.017440252,0.0,valid
+Franz Kafka,0.66165733,,none
+Cher,-0.017537355,,none
+Syria,1.9240624,,none
+Shel Silverstein,0.24993896,,none
+Marilyn Manson,0.6126603,,none
+hard rock,0.010542385,,none
+Madagascar,0.8126245,,none
+Cambodia,0.91341996,,none
+Geffen Records,0.1389314,0.0,valid
+Gene Simmons,0.009748295,,none
+Raven-Symoné,0.23853895,,none
+atheism,0.5123799,0.5,train
+Bryan Ferry,-0.012204595,,none
+Glen Campbell,0.042823136,,none
+folk rock,0.025359303,0.0,valid
+Vienna,0.65341645,,none
+Phil Collins,1.0034564,1.0,train
+guitarist,0.3035025,0.1666666666666666,valid
+Igor Stravinsky,0.38789347,,none
+Vladimir Lenin,1.0110105,1.0,train
+Ernst Troeltsch,1.0056485,1.0,train
+Afghanistan,0.90375173,,none
+Romania,0.9920927,1.0,valid
+James Franco,-0.014084563,,none
+New York University,0.04108464,,none
+Maya Angelou,0.34425554,,none
+Alberto Manguel,0.16872586,0.0,valid
+Maria Callas,0.22269052,,none
+Juilliard School,-0.0120462105,,none
+Katerina Graham,-0.0021362677,,none
+Melanie Brown,0.0050126985,,none
+Ralf Dahrendorf,1.0082802,1.0,train
+Iceland,0.5127273,,none
+Charlie Rich,0.0018273145,0.0,train
+piano,0.50588083,0.5,train
+Art Garfunkel,0.056862067,,none
+Atco Records,0.41739768,,none
+Melissa Auf der Maur,-0.0063844994,,none
+Fiji,0.19835311,,none
+Ray Charles,0.0046932027,0.0,train
+Vanuatu,0.24442333,,none
+Miranda Cosgrove,0.6244625,,none
+Iraq,0.9007497,,none
+Cuba,0.78545594,,none
+Jerry Reed,0.011738509,,none
+Catholicism,0.0060020387,0.0,train
+Richard Sennett,0.51041627,0.5,train
+Johnny Hallyday,1.0099338,1.0,train
+recording artist,1.0173012,1.0,train
+Sierra Leone,0.32571113,,none
+African Union,0.65825766,,none
+Oscar Wilde,0.74158955,,none
+L. Frank Baum,-0.0023906678,,none
+Uzeyir Hajibeyov,0.6894653,,none
+Islam,0.0016678199,0.0,train
+short story,1.0272735,,none
+Cyndi Lauper,0.4267134,,none
+Virginia Woolf,1.005283,1.0,train
+Katharine McPhee,0.13317844,,none
+Norman Mailer,0.003851004,0.0,train
+George Eliot,0.5632156,,none
+Communist Party of the Soviet Union,0.021330465,,none
+Bud Spencer,0.0037668496,,none
+Portugal,0.3875596,,none
+Nena,0.093509585,,none
+Bob Dylan,1.4782847,,none
+Jemaine Clement,0.0002355203,,none
+Melchior de Vogüé,-0.007367417,,none
+Arthur Schopenhauer,0.24194741,1.0,test
+Hamburg,0.029791746,,none
+Vanessa Hudgens,0.015475884,,none
+dance music,0.20980841,,none
+Gabriel García Márquez,0.12229112,,none
+Paula Abdul,0.6883969,,none
+Virgin Records,1.1505703,,none
+Amerie,0.027280673,,none
+Yoko Ono,0.49760824,,none
+Polydor Records,0.042702414,,none
+Linda Ronstadt,0.114609346,,none
+Ľudovít Štúr,0.0021398142,0.0,train
+Polish,0.74713427,,none
+Jacob Grimm,0.13461563,0.0,valid
+translator,-0.008202039,0.0,train
+Lincean Academy,0.0044714734,0.0,train
+Sheryl Crow,0.52321357,,none
+Heidelberg University,0.028757222,,none
+David Cross,0.012996148,,none
+Todd Rundgren,0.50625855,0.5,train
+Tajikistan,0.35340798,,none
+Universal Postal Union,0.0018794164,,none
+Teena Marie,0.052042425,,none
+Ferdinand von Richthofen,0.66968167,,none
+Berlin,0.5977644,1.0,test
+Chris Cornell,0.0024569929,,none
+Marietta Shaginyan,0.8210769,,none
+poet,0.2609701,0.25,train
+Hermann Burmeister,0.21301597,,none
+Duke Ellington,-0.002274178,,none
+lung cancer,1.544576,0.0,test
+Asian Development Bank,-0.07692426,,none
+Berry Gordy,0.89388835,,none
+Aaron Copland,0.3614707,,none
+George Soros,0.0068201944,,none
+Budapest,0.9268446,,none
+Rick Rubin,0.036471065,,none
+Epic,0.0014141798,0.0,train
+Botswana,0.63277453,,none
+Athanasius Kircher,0.9681388,,none
+Holy Roman Empire,1.06623,0.0,valid
+Mary J. Blige,0.68823004,,none
+Stanisław Lem,1.0150244,1.0,train
+philosophy,0.67147565,0.6666666666666666,train
+Korney Chukovsky,0.50197375,,none
+Truman Capote,0.11656812,,none
+J. R. R. Tolkien,0.75854695,1.0,valid
+Christa Wolf,0.17009972,,none
+Kenya,0.64919275,,none
+Saint Petersburg,1.0089974,1.0,train
+Marshall Islands,-0.13053796,,none
+"""African, Caribbean and Pacific Group of States""",0.8220864,,none
+Eric Burdon,-0.0034590736,1.0,test
+Geoffrey Ingram Taylor,0.006972261,,none
+Royal Swedish Academy of Sciences,0.013805985,0.0,train
+Charles Rosen,0.19576025,,none
+Mozambique,0.7411369,,none
+Brazil,0.121872224,,none
+Angela Merkel,0.04492309,,none
+Jaan Kaplinski,0.019494176,,none
+Eric Idle,0.0050485656,,none
+Thomas Henry Huxley,0.11952034,,none
+United Kingdom of Great Britain and Ireland,0.06295278,,none
+Philippines,1.033525,1.0,train
+Djibouti,-0.06392556,,none
+Benjamin Franklin,0.019371174,0.0,train
+economist,-0.010952778,0.5,valid
+John Hartford,0.754153,,none
+Vanessa Carlton,0.008990154,,none
+A&M Records,0.6960848,,none
+Philip Roth,0.2492131,,none
+Lauryn Hill,0.27617756,,none
+A. R. Rahman,1.0049745,1.0,train
+electronic music,1.0110795,,none
+Herbert Grönemeyer,0.6830657,,none
+EMI,0.197981,1.0,test
+Barthold Georg Niebuhr,0.0033295825,,none
+Wilhelm Wundt,0.018753052,,none
+Bahamas,0.58052295,,none
+Tom Hanks,0.3200911,,none
+Theodosius Dobzhansky,0.78515476,,none
+Cliff Richard,0.005236767,0.0,train
+Organization of American States,0.28518444,,none
+Barbra Streisand,0.2339139,,none
+Roger Penrose,0.08520243,,none
+Hispanic America,1.2138897,,none
+Gaspard Monge,0.06476974,,none
+Royal Prussian Academy of Sciences,-0.016688302,,none
+Zhores Alfyorov,0.0021916106,0.0,train
+Mark Wahlberg,0.10690731,,none
+Ben Moody,0.017494787,,none
+James Maslow,-0.0061517134,,none
+John Updike,0.2878128,,none
+Joe Walsh,0.4060145,0.4285714285714285,train
+Ivan Andreyevich Krylov,1.2535645,,none
+Simon Sechter,0.0013762042,,none
+Roger Waters,0.033492148,,none
+Nashville,0.0019125938,0.0,train
+Geddy Lee,0.33048698,,none
+Wolfgang Amadeus Mozart,1.0128497,1.0,train
+music pedagogue,0.1743944,,none
+Democratic Republic of the Congo,0.6011076,,none
+Claude Lévi-Strauss,0.50645936,1.0,valid
+Georg Wilhelm Friedrich Hegel,0.42963123,1.0,valid
+Ernst Mach,-0.010436647,,none
+professor,0.67638093,0.6666666666666666,train
+Gabon,1.2886313,,none
+Organisation of Islamic Cooperation,0.34808487,,none
+Ricky Martin,0.22710833,,none
+Yevgeny Yevtushenko,0.53391045,,none
+prosaist,1.0126773,1.0,train
+Nikolai Gogol,0.48630697,,none
+Al Jolson,-0.0071116015,,none
+Russian Empire,0.8421887,1.0,test
+Che Guevara,0.7439947,,none
+Valeriya Novodvorskaya,0.704888,0.0,valid
+Severo Ochoa,0.10764009,,none
+Céline Dion,1.4116756,,none
+Catholic Church,1.013276,1.0,train
+Mikhail Vassilyevich Lomonosov,0.013749205,,none
+Saint Petersburg Academy of Sciences,-0.0031753108,0.0,train
+Thomas Hobbes,0.0056758,0.0,train
+International Development Association,0.014492407,0.0,train
+Charles Bukowski,0.23837087,1.0,test
+Ezra Pound,0.113369316,,none
+Royal Society of Literature,0.41240004,,none
+Alyson Michalka,0.3343444,,none
+Philip Glass,0.7800206,,none
+Spike Lee,0.047356457,,none
+T-Bone Walker,0.050357424,,none
+Brunei,-0.010739841,,none
+Adam Lambert,0.012005359,,none
+Seamus Heaney,0.9185462,,none
+Harvard University,0.5143574,0.5,train
+Jean-Antoine-Nicolas de Caritat de Condorcet,0.0051126033,0.0,train
+Ludwig Geiger,0.20924297,,none
+biographer,-0.029079922,,none
+Suzi Quatro,0.08189653,,none
+Jeff Bridges,-0.0005411431,,none
+photographer,0.016014848,,none
+jazz,0.42066303,0.3333333333333333,test
+Edward Sabine,0.0038743243,,none
+Great Britain,0.63314736,,none
+Ernst Mayr,0.08115975,,none
+Adriano Celentano,0.34311253,0.3333333333333333,train
+Multilateral Investment Guarantee Agency,0.1410138,,none
+Romain Rolland,0.053367577,,none
+50 Cent,0.023312867,,none
+Augusto Righi,-0.00989946,,none
+Accademia Nazionale delle Scienze detta dei XL,0.068543024,,none
+Buckminster Fuller,0.05859112,,none
+Nicki Minaj,0.37934494,,none
+Eritrea,1.1992869,,none
+Burton Cummings,0.010380816,0.0,test
+Debbie Reynolds,0.19427249,,none
+Nikita Mikhalkov,0.3970331,,none
+Selma Lagerlöf,0.49801105,,none
+stroke,0.7390008,,none
+Isaac Asimov,0.028613027,,none
+Marguerite Duras,-0.008187465,,none
+George Henschel,1.006941,1.0,train
+pedagogue,0.026657946,,none
+Slovakia,1.06121,,none
+Kingsley Amis,0.023686867,,none
+literary critic,-0.004009925,0.0,train
+blues,0.37017617,0.0,test
+James Bryant Conant,0.009198211,,none
+Olivier Messiaen,0.0046621338,0.0,train
+organ,0.017304417,0.0,train
+Clint Eastwood,0.014058255,,none
+John Lydon,0.07640023,,none
+Sara Bareilles,-0.00075957924,0.0,train
+"""University of California, Los Angeles""",0.2123554,,none
+Albertus Magnus,0.41960227,0.4117647058823529,train
+music theorist,-0.0012050346,0.0,train
+Zimbabwe,0.5898708,,none
+Joseph Fourier,0.009626694,0.0,train
+archaeologist,-0.002768986,,none
+Janet Jackson,0.33939147,,none
+zoologist,-0.035626262,,none
+Paul McCartney,0.44098786,0.5,valid
+agnosticism,0.2733634,,none
+David Bowie,0.20844904,0.0,valid
+experimental rock,-0.0013635159,0.0,train
+Mort Shuman,0.012497768,,none
+Dima Bilan,0.15280534,,none
+Venezuela,0.806808,,none
+Simone de Beauvoir,0.270296,,none
+Yegor Letov,0.005031422,0.0,train
+Pavel Jozef Šafárik,1.0007036,1.0,train
+Gustav Kirchhoff,0.65291595,,none
+Alejandro Jodorowsky,0.13850367,,none
+Édouard René de Laboulaye,0.0027224645,0.0,train
+Steven Seagal,0.0015033111,,none
+D. H. Lawrence,0.433531,0.4375,valid
+Henry Louis Le Châtelier,-0.0068684295,,none
+Vanessa Williams,0.23135784,,none
+Brad Pitt,0.31328687,,none
+Stephen Spender,0.016035464,,none
+Deutsche Akademie für Sprache und Dichtung,0.019680131,,none
+Avery Brooks,0.0011951402,,none
+Gordon Parks,0.011137135,,none
+J. K. Rowling,0.47262937,,none
+Sakis Rouvas,0.011392631,,none
+Hugh Laurie,0.008476041,,none
+Heinrich Brunner,-0.002227895,0.0,train
+Lil' Kim,0.56575775,,none
+Mandy Moore,0.017429866,,none
+Denis Johnson,-0.0016069934,,none
+Howard Hughes,0.14175248,,none
+Republican Party,0.00082166493,0.0,train
+Buckethead,-0.00556913,,none
+synthesizer,0.026174456,,none
+Mary Pickford,-0.02904836,,none
+Portuguese Empire,1.2448472,,none
+Asia,1.6985487,,none
+Tionne Watkins,0.008068636,,none
+Boris Vian,0.72484183,,none
+Tina Turner,1.7513099,,none
+Eldar Ryazanov,0.28066117,,none
+Vince Gill,-0.005806498,,none
+Philip Pullman,-0.005700305,0.0,train
+children's writer,0.013459794,0.0,train
+Leon Trotsky,-0.0005306378,0.0,train
+military personnel,0.47614965,,none
+Jared Leto,0.5696725,,none
+Archibald Hill,0.51691645,,none
+African Development Bank,0.17454037,,none
+Arthur C. Clarke,0.718107,,none
+Chinghiz Aitmatov,0.10697064,,none
+Michel Legrand,-0.00341364,,none
+Camillo Golgi,0.012713224,1.0,test
+Göttingen Academy of Sciences,0.0112449415,0.0,train
+Walter Scott,0.21188721,,none
+Angie Stone,0.8809007,,none
+Gambia,0.7019661,,none
+François Arago,0.10800892,,none
+Macy Gray,0.48745313,,none
+Andrey Korotayev,1.0088758,1.0,train
+Hugo Grotius,-0.0019772798,0.0,train
+Joss Whedon,0.0042368695,,none
+Keri Hilson,-0.0073101744,,none
+Kiely Williams,-0.0008527711,,none
+Judy Garland,1.1732968,,none
+Vitamin C,0.6807308,,none
+Otto Schmidt,0.6320956,,none
+Robert Penn Warren,1.0232621,,none
+Celeste Buckingham,0.004376225,,none
+soul music,0.50796145,0.5,train
+Doc Watson,0.02429837,,none
+Johann Wolfgang von Goethe,0.0016932487,0.0,train
+Bob Seger,0.0038382933,0.0,train
+Helge Schneider,-0.0015132055,0.0,train
+Gary Becker,0.003923878,0.0,train
+Jean-Baptiste Biot,0.024130315,,none
+Ulf Ekberg,0.0052562505,,none
+George Steiner,0.011076167,,none
+Siméon Denis Poisson,0.1407372,0.0,valid
+Anthony Burgess,0.056178443,,none
+Rickie Lee Jones,0.1702925,,none
+Ruslana,0.67456234,0.0,valid
+Mos Def,0.026230741,,none
+Sebastian Haffner,-0.002163455,,none
+Xavier Cugat,0.18396325,,none
+June Carter Cash,0.3080447,,none
+Donovan,0.63269323,,none
+Burundi,1.0606351,,none
+Finland,-0.002138719,,none
+"George Porter, Baron Porter of Luddenham",0.017589115,,none
+Béla Bartók,-0.024153851,,none
+musicologist,0.002650641,0.0,train
+Janel Parrish,0.95943487,,none
+Rebbie Jackson,-0.010174602,,none
+Randy Jackson,-0.012214862,,none
+Jimmy Fallon,0.17442659,,none
+television presenter,0.0078943,0.0,train
+Konstantin Eduardovich Tsiolkovskii,1.0511503,,none
+mathematician,0.43038002,,none
+Andrei Tarkovsky,0.03604101,,none
+Moscow,0.7026501,,none
+Anastacia,0.26581737,,none
+dance-pop,0.0020328537,,none
+Kingdom of the Netherlands,1.2423507,,none
+R. Kelly,0.7482238,,none
+Jive,-0.006622158,,none
+Milan Kundera,0.01906766,,none
+Herman Melville,-0.0046614334,,none
+Albert Lortzing,-0.012508817,,none
+Mark Twain,1.143085,,none
+Toni Morrison,0.0063270926,,none
+Robert Frost,2.0534263,,none
+Honoré de Balzac,0.00841064,,none
+French people,1.0184116,1.0,train
+Meat Loaf,0.013174869,,none
+Motown,0.74002373,,none
+George Carlin,0.92878985,,none
+producer,-0.0445432,0.0,valid
+Ursula K. Le Guin,0.5991226,0.5925925925925926,train
+Winston Churchill,0.5147961,0.5,train
+Jean-Baptiste Dumas,0.020535983,,none
+Meaghan Jette Martin,0.008384809,,none
+Moby,0.012962211,,none
+disc jockey,0.45813668,,none
+M.I.A.,1.0127975,1.0,train
+rapper,1.0161799,1.0,train
+Pierre Boulez,0.22341847,,none
+Solomon Islands,0.18355665,,none
+Sun Ra,0.5393616,,none
+bandleader,-0.004769884,,none
+Max Brod,0.04693241,,none
+Prague,1.0579889,,none
+Jean Le Rond d'Alembert,0.106904745,,none
+mathematics,0.06961354,,none
+Pat Boone,0.03152512,0.0,test
+Parlophone,1.0098596,1.0,train
+Ed Sheeran,0.04890822,,none
+Victor Ambartsumian,-0.007941686,0.0,train
+Clive Barker,0.018132035,,none
+artist,0.5969238,,none
+Wassily Kandinsky,0.23486239,,none
+Henri Poincaré,0.07951382,,none
+Miguel de Cervantes,0.021213476,,none
+Alan Stivell,1.0127257,1.0,train
+Sheldon Lee Glashow,0.23639321,,none
+scientist,-0.007713698,,none
+György Lukács,-0.0011171177,0.0,train
+USSR Union of Writers,0.1861153,,none
+Renato Carosone,0.49982384,0.5,train
+International Hydrographic Organization,0.006604992,,none
+Peru,0.49178517,,none
+Immanuel Kant,0.0002675429,0.0,train
+Kingdom of Prussia,0.74871707,0.0,test
+Mary-Kate Olsen,0.011488609,,none
+fashion designer,0.4823162,,none
+George Santayana,0.33484194,,none
+Phi Beta Kappa Society,0.50362563,0.5,train
+Jean Gaston Darboux,-0.0064790696,,none
+Leonard Nimoy,0.23384178,,none
+Carl Peter Thunberg,0.070586674,,none
+Nelly Furtado,0.98873764,,none
+contemporary folk music,0.26580387,,none
+Richard Dawkins,0.48688763,,none
+Ludwig Wittgenstein,0.004068181,,none
+playwright,-0.0020234138,0.0,train
+Monica,0.36211702,,none
+Garth Brooks,0.6838478,,none
+Rudyard Kipling,0.07469087,,none
+Sidney Sheldon,0.015419222,,none
+Jason Newsted,0.0567249,0.0,valid
+traditional heavy metal,0.19842383,,none
+Bavarian Academy of Fine Arts,-0.022006445,0.0,train
+Crispin Glover,0.009363256,,none
+Jamie Foxx,0.19685216,,none
+Heinrich Heine,0.35915387,,none
+Lord Byron,1.0172651,1.0,train
+Graham Greene,0.16733769,,none
+Guatemala,0.5157608,,none
+Myanmar,0.1338491,,none
+Rob Reiner,0.024188615,,none
+Albrecht von Haller,0.705174,0.0,valid
+Angélique Kidjo,0.007066421,,none
+choreographer,0.004684545,,none
+Daniel Lanois,0.117856674,,none
+Josiah Willard Gibbs,0.0071413964,,none
+Seychelles,0.093006074,,none
+Alliance of Small Island States,0.063158065,,none
+Bosnia and Herzegovina,1.903989,,none
+England,0.46707356,,none
+Wilhelm Ostwald,-0.004954271,,none
+keyboard instrument,0.504974,,none
+Bhutan,0.98548067,,none
+Leo Tolstoy,1.626583,1.0,test
+Brigitte Fontaine,0.4028758,,none
+Hebrew,0.2632158,,none
+Jason Mraz,0.4682423,,none
+Atlantic Records,1.0092654,1.0,train
+Pierre-Simon Laplace,0.12876816,,none
+Joseph Priestley,0.0020179227,0.0,train
+Theodore von Kármán,0.008283608,,none
+Warner Bros.,1.0147777,1.0,train
+Ellie Goulding,0.010460522,0.0,train
+multi-instrumentalist,0.3675436,,none
+Hu Shih,0.011118069,0.0,valid
+Academy of Arts of the GDR,0.01265369,,none
+Jamaica,0.23188525,,none
+John Turturro,-0.0054356605,0.0,train
+Mark Salling,0.005627282,,none
+Rodion Shchedrin,0.045709036,,none
+Hannah Arendt,0.33967853,0.3333333333333333,train
+Nora Ephron,0.32265732,,none
+Lenny Kravitz,0.51145643,0.5,train
+Bill Cosby,0.14389956,,none
+Anton Bruckner,0.17592554,,none
+Austrian Empire,0.75599146,,none
+saxophone,0.7157241,,none
+Levon Helm,0.017127614,,none
+drum kit,0.00085513294,,none
+Mickey Rooney,0.5244545,,none
+Yvonne De Carlo,0.011159766,0.4,test
+Laurie Anderson,0.18004796,,none
+Czesław Miłosz,1.1193163,,none
+David Hasselhoff,0.003117524,,none
+Lutheranism,0.6062777,,none
+Alanis Morissette,-0.002969429,,none
+Hungarian,0.65387726,,none
+Jerry Lewis,0.31266588,,none
+Seth MacFarlane,0.026308995,,none
+Irene Cara,0.5347268,,none
+Elfriede Jelinek,0.004548542,,none
+Guinea,0.3860579,,none
+John Travolta,0.22278264,,none
+Gilbert Bécaud,0.27884102,,none
+Mike Shinoda,-0.004330188,,none
+Mohandas Karamchand Gandhi,0.09541969,,none
+jurist,0.2124306,,none
+Harold Pinter,-0.0013451353,,none
+Prosper Mérimée,0.013944201,0.0,train
+William S. Burroughs,0.021029573,,none
+Carrie Fisher,0.24827087,,none
+Thailand,0.7141243,,none
+Erykah Badu,0.0019534081,,none
+Yemen,1.4985387,,none
+Ivan Turgenev,1.0565495,,none
+Nikolai Fomenko,0.36398494,,none
+Sergey Kuryokhin,0.8918755,,none
+Afrika Bambaataa,0.453495,,none
+Yoram Kaniuk,0.009137653,,none
+painter,0.005603403,0.0,train
+peace activist,0.700717,,none
+Mercury Records,0.6609276,1.0,valid
+Jim Messina,0.0025401637,,none
+engineer,0.023698062,,none
+tuberculosis,0.5099924,0.5,train
+Hermann Usener,-0.014755994,,none
+German Empire,0.033858113,,none
+Lisa Loeb,0.014374528,,none
+Eddie Money,0.00067990273,,none
+Zooey Deschanel,0.038089506,,none
+Urbain Le Verrier,0.0004381612,,none
+Zora Neale Hurston,0.032076582,,none
+Katy Perry,0.5880971,,none
+synth-pop,0.0011556745,0.0,train
+Hector Berlioz,-0.003723301,0.0,train
+Andy Williams,0.5296693,,none
+Bret Michaels,-0.004943125,,none
+Count Basie,-0.0037226006,1.0,test
+David Hume,0.5036754,0.5,train
+Theodore Roosevelt,1.0113249,1.0,train
+"Washington, D.C.",0.40721378,,none
+Evelyn Waugh,0.45479256,,none
+Kid Rock,0.011767436,,none
+banjoist,-0.008125983,,none
+Benjamin Britten,0.011964135,0.0,train
+heart failure,1.0072255,1.0,train
+Hungarian Academy of Sciences,-0.031024419,,none
+Ivan Yefremov,0.3003751,,none
+Uganda,0.6723931,,none
+Friedrich Carl von Savigny,0.76029205,0.0,valid
+Robin Gibb,0.029337734,,none
+opera,1.0170039,1.0,train
+Zambia,0.87850666,,none
+Léo Ferré,0.023786671,,none
+El Salvador,0.6293872,,none
+Yuri Vizbor,0.7067325,,none
+Julieta Venegas,-0.013855986,,none
+Harald Weinrich,-0.0057751015,0.0,train
+Collège de France,0.031708855,0.0,test
+Julio Cortázar,0.75126386,,none
+Cape Verde,0.2964296,,none
+Joseph Liouville,-0.0028054863,,none
+Soviet Union,0.004155107,0.0,train
+Charlie Chaplin,0.4964431,,none
+Lloyd Price,0.08874113,,none
+Jan Josef Liefers,-0.0022000894,,none
+Steve Martin,0.005179353,,none
+Carly Simon,0.8132229,,none
+Alexander Ivanovich Herzen,0.8407451,,none
+David Mitchell,0.016175926,,none
+Vladimir Nabokov,0.7616504,,none
+Irving Berlin,0.4305616,,none
+Bulat Okudzhava,0.7473621,,none
+John Frederick William Herschel,-0.029266767,,none
+American Philosophical Society,0.59093827,,none
+Anatoly Krupnov,0.61544865,0.0,test
+Henrik Steffens,-0.008666277,,none
+Natalie Portman,0.72003007,,none
+LeToya Luckett,0.05036778,,none
+Montparnasse Cemetery,0.45993,,none
+Organization for Security and Co-operation in Europe,0.08766228,,none
+Carrie Underwood,0.25011024,,none
+Karl Marx,0.6501109,0.6410256410256411,train
+Kevin Jonas,-0.0016892925,,none
+Mauritania,0.4420195,,none
+Wolfgang Schadewaldt,0.0012198165,,none
+Mary Wollstonecraft,0.0031432956,0.0,train
+The Edge,0.014969796,,none
+Chad,1.1632049,,none
+Nikolay Basov,-0.004041791,0.0,train
+Adam Sandler,-0.008093931,0.0,train
+Hans Christian Ørsted,0.011522558,,none
+Don Rickles,0.006682761,,none
+Ginger Rogers,0.111982,,none
+Amy Lee,0.6855144,,none
+Paul Reiser,0.009733573,,none
+David Byrne,0.013385154,,none
+mandolinist,-0.01598715,0.0,test
+Mikhail Zadornov,0.7543848,,none
+Myles Kennedy,-0.0047667995,,none
+Boston,0.07332617,,none
+Charlotte Church,0.1283013,,none
+Charles Mingus Jr.,0.5974572,,none
+Alexander Pushkin,0.18688688,,none
+poetry,0.5112965,0.5,train
+powest,0.057027455,,none
+Billie Holiday,1.5924567,,none
+Stanislao Cannizzaro,0.0022732466,0.0,train
+André Gide,0.35828066,0.3529411764705882,train
+Darren Criss,0.6142431,,none
+Mauritius,0.89715755,,none
+Usher,0.0023604184,,none
+Comoros,-0.18045402,,none
+Nat King Cole,0.65784717,0.65,train
+Natalie Cole,0.5037666,0.5,train
+Jérôme Lalande,0.0042400733,,none
+Raymond Aron,0.34539017,0.5,test
+Camille Saint-Saëns,0.17860231,,none
+symphony,0.27646327,,none
+Southern African Development Community,0.591439,,none
+Jack Black,-0.00037156045,0.0,train
+Democratic Party,-0.00014289469,0.0,test
+Angelina Jolie,-0.014487013,,none
+Asia-Pacific Economic Cooperation,0.26858842,,none
+Solange Knowles,0.21933693,,none
+Kanye West,0.94755256,,none
+Frédéric Chopin,0.023550369,,none
+Alexis de Tocqueville,-0.009298354,0.0,train
+Lionel Richie,0.3405913,,none
+Sven Hedin,0.0029479563,0.0,train
+Roger Daltrey,0.064703494,,none
+Somalia,0.7743403,,none
+Fritz Lang,0.87229574,,none
+Glukoza,0.33833522,,none
+Lebanon,2.028992,,none
+Satyajit Ray,0.011991926,,none
+Dmitri Kabalevsky,1.1801225,,none
+Joss Stone,-0.003284432,,none
+Morgan Freeman,0.007040702,,none
+Kyle Gass,0.029781885,,none
+character actor,-0.0030295625,0.0,train
+Dennis Hopper,0.009828165,,none
+Thomas Paine,-0.0046674907,,none
+American English,1.0138475,,none
+Barbara Mandrell,0.010622125,,none
+Saint Vincent and the Grenadines,0.024721786,,none
+Alexander Rybak,0.7162826,,none
+Taraneh Javanbakht,0.075934924,,none
+Konrad Lorenz,0.5367523,,none
+Amiri Baraka,0.12544987,,none
+Nino Rota,0.011810891,1.0,test
+Tunisia,1.2634245,,none
+Kylie Minogue,0.13900489,,none
+Ricky Gervais,0.28965616,,none
+Victoria Beckham,0.6459801,,none
+Bing Crosby,0.5805851,,none
+Shakira,0.11108236,1.0,test
+Steve Allen,-0.005687386,,none
+Randy Travis,-0.008462898,,none
+country music,0.8915095,0.3333333333333333,valid
+George Sand,0.034498945,,none
+Jolin Tsai,0.034215793,,none
+Pier Paolo Pasolini,-0.0020390525,,none
+Michael Jackson,-0.002730772,0.0,train
+Václav Havel,1.0295748,1.0,train
+Max Weber,0.5094684,0.5,train
+lawyer,0.34532273,,none
+Randy Newman,0.0049521998,,none
+Peter Lorre,-0.005242504,,none
+Barry Gibb,0.25633675,,none
+Peter Kropotkin,1.0101708,1.0,train
+Albania,0.5571884,,none
+Yehuda Amichai,-0.003347136,,none
+W.E.B. Du Bois,1.0094106,1.0,train
+Samuel P. Huntington,0.20863423,1.0,valid
+Gabriel Lamé,0.0005408302,,none
+biologist,-0.02120725,,none
+Liza Minnelli,0.55782586,,none
+Doris Lessing,0.65273196,,none
+Alice Cooper,0.92198753,,none
+Anton Chekhov,0.9565866,,none
+literary realism,0.52237266,1.0,valid
+Joan Jett,1.5970193,,none
+Pedro II of Brazil,0.10116406,0.0,valid
+Svetlana Surganova,1.0111892,1.0,train
+rock and roll,0.46971983,0.4583333333333333,train
+Academy of Useful Science,0.0066274554,,none
+Harry Connick Jr.,0.22734445,,none
+Alphonse Daudet,0.6318597,,none
+Cambridge,0.060328834,,none
+Missile Technology Control Regime,0.81840813,,none
+Fredric Jameson,0.50971806,0.5,train
+Bertolt Brecht,0.29473612,,none
+Billy Bob Thornton,-0.012186028,,none
+Jean-Luc Godard,-0.014958061,,none
+Leipzig University,0.017032005,,none
+Richard Wright,0.15242209,,none
+Yukio Mishima,-0.006574914,,none
+Richard Feynman,0.08450803,,none
+renal insufficiency,0.88740426,,none
+Guyana,0.9366609,,none
+Ilya Oleynikov,0.7480036,,none
+Alan Arkin,0.014507316,,none
+Brooklyn,0.004459627,0.0,train
+Ignaz Moscheles,0.15707627,,none
+Joyce Carol Oates,0.008979939,1.0,valid
+Sammy Davis Jr.,0.5919738,,none
+J. M. Coetzee,0.016742751,,none
+Vladimir Mayakovsky,0.2799907,,none
+Keren Ann,-0.002737157,,none
+Tony Visconti,-0.004452303,,none
+Asia Argento,1.0146579,1.0,train
+Karel Čapek,1.1698068,,none
+Panama,0.553319,,none
+Alla Pugacheva,1.1365333,,none
+Warner Bros. Records,1.0083251,1.0,train
+Nyusha,0.027031943,,none
+John Locke,0.22784862,,none
+Paul Krugman,0.23033717,,none
+Swizz Beatz,0.74822986,,none
+Colbie Caillat,0.5279818,,none
+Dorothy L. Sayers,0.60825455,0.0,valid
+Dianna Agron,0.55579275,,none
+Vladimir Prelog,0.28601176,,none
+Günther Anders,0.69188046,,none
+Mircea Eliade,-0.0035125837,0.0,train
+Heinrich Wilhelm Olbers,-0.0035533607,,none
+Singapore,0.35306337,,none
+Claudio Magris,0.23185056,,none
+David Ogden Stiers,0.049532715,,none
+Whoopi Goldberg,-0.012566261,,none
+Taylor Momsen,0.0024066418,,none
+Phil Harris,0.0007889569,,none
+violin,0.7719161,0.0,test
+20th century,0.7612429,1.0,valid
+Søren Kierkegaard,1.0102557,1.0,train
+Joseph Heller,0.02680958,,none
+Michelle Williams,0.4677828,,none
+Frank Sinatra,0.02901262,,none
+Haiti,0.34929657,,none
+Peter Gay,-0.022449844,,none
+Ivan Illich,0.22034094,,none
+Portuguese,0.17353785,,none
+Lionel Hampton,0.17647026,1.0,valid
+Detroit,-0.029381044,,none
+Lesotho,0.5138116,,none
+Ivory Coast,0.9044801,,none
+Joan Baez,1.1872672,,none
+Barbados,0.8440589,,none
+William Butler Yeats,0.17349449,,none
+Marvin Gaye,1.0081037,1.0,train
+Bobby Darin,0.07797073,,none
+Jules Verne,-0.02069711,,none
+Christopher Lee,0.24943286,0.0,valid
+Kate Voegele,0.3205663,,none
+Nicolae Iorga,0.039381385,,none
+Adolf Butenandt,0.058904197,,none
+physics,0.023644984,,none
+Paul Jozef Crutzen,0.5702775,,none
+Drake,0.47224408,,none
+Harold Lloyd,0.0182985,,none
+Drake Bell,-0.012826048,,none
+Arab League,0.6012335,,none
+Lea Salonga,0.023831747,,none
+new wave,0.14645344,,none
+Billy Dee Williams,0.22801176,,none
+Elvis Presley,1.4631033,,none
+Emma Goldman,1.0221975,1.0,train
+Toronto,0.60412014,,none
+David Crosby,0.038703747,,none
+Melanie C,0.3285136,,none
+Luciano Berio,0.0010986105,,none
+Kingdom of Italy,1.0185001,1.0,train
+Elektra,0.07253459,,none
+Theodor W. Adorno,0.4382624,0.6666666666666666,valid
+Emmanuel Swedenborg,0.33642805,,none
+Togo,0.04775635,,none
+Ronny Cox,0.07083425,,none
+Gilles Deleuze,1.6714588,1.0,test
+University of Paris (1896-1968),-0.0014602169,0.0,train
+Common,0.5574092,0.4,test
+East Timor,0.7654929,,none
+Peter Drucker,-0.017217904,,none
+Wallace Shawn,0.03642304,,none
+Roy Orbison,0.004799463,,none
+West Africa,1.1002096,,none
+David Clayton-Thomas,0.02094213,,none
+Ivan Goncharov,0.56382984,0.5555555555555556,train
+Buffy Sainte-Marie,0.34247386,,none
+Edmund White,0.23878175,,none
+Jan Evangelista Purkyně,0.9547193,,none
+Austria-Hungary,0.5578393,,none
+Dietrich Fischer-Dieskau,-0.0030370057,,none
+Vince Vaughn,0.8317546,,none
+Patrice Chéreau,0.016934201,,none
+Shannon Leto,0.67996514,,none
+Albert Szent-Györgyi,0.741698,,none
+Albert Camus,0.45468843,,none
+University of Bonn,0.009673886,0.0,train
+Robin Thicke,0.08784577,,none
+Alicia Keys,0.009272456,0.0,train
+Tamara Bunke,5.7771802e-05,,none
+Donny Hathaway,0.014923513,,none
+David A. Stewart,0.10477486,,none
+Paul Dirac,-0.016695105,,none
+David Hemmings,0.00078096986,,none
+Douglas Fairbanks,0.26114383,,none
+Karel Jaromír Erben,0.002671726,0.0,train
+Movement Coordination Centre Europe,0.24200112,0.0,valid
+Jann Arden,0.008152761,,none
+Will Smith,0.18272576,,none
+St. Vincent,0.38421714,,none
+Michael Penn,-0.0152808055,,none
+Arthur Conan Doyle,0.0046519637,0.0,train
+Princeton University,0.0013131872,,none
+Johann Christian Poggendorff,0.6863693,,none
+Galina Vishnevskaya,0.95853263,,none
+Samoa,0.22028047,,none
+"""Weird Al"" Yankovic",0.04035162,,none
+accordion,0.040497467,,none
+Albert Einstein,0.0047648847,0.0,train
+Shaquille O'Neal,0.411448,,none
+Kuwait,0.76174384,,none
+Honduras,0.61644125,,none
+Max Reger,-0.0008246377,0.0,train
+Ethiopia,1.2234695,,none
+Joe Jonas,0.24848852,,none
+Sonny Bono,0.055436023,,none
+University of Chicago,0.08070144,,none
+Ernest Renan,0.2792672,,none
+Suriname,0.7100353,,none
+Konstantin Fedin,0.3962634,,none
+Seth Rogen,0.482277,0.4736842105263157,train
+Hong Kong,0.21606278,,none
+Milva,0.40614048,0.4,train
+Jay-Z,0.06317635,,none
+George Martin,0.26784915,,none
+Paulo Coelho,0.0066027343,,none
+Jorge Luis Borges,0.07305625,0.5,test
+Joni Mitchell,0.23421937,,none
+Dannii Minogue,0.115470864,,none
+Julian Lennon,1.0094901,,none
+Dalida,0.00856027,,none
+Roger Miller,-0.018583916,0.0,train
+Bret Easton Ellis,0.3920823,,none
+short story writer,0.5015136,,none
+Belize,0.41903645,,none
+Sergey Mikhalkov,0.012052804,,none
+Christina Milian,0.018479414,,none
+Leopold von Ranke,0.021797016,,none
+A. A. Milne,-0.0048546195,,none
+Ani Lorak,-0.00720156,,none
+Joseph Louis Gay-Lussac,0.8362603,,none
+Method Man,0.6464913,,none
+Tupac Shakur,0.27769053,,none
+Andrei Konchalovsky,0.53546613,,none
+percussion instrument,0.45970958,0.4482758620689655,train
+Fred Hoyle,-0.008375399,,none
+Heinrich Wilhelm Gottfried von Waldeyer-Hartz,0.48670202,,none
+Academy of Sciences of Turin,-0.0016240999,0.0,train
+Ashanti,0.1915611,,none
+Regina Spektor,0.0008709058,0.0,train
+Peter Buck,-0.028429158,,none
+Susan Sontag,0.22620198,,none
+Charles Lyell,0.013043746,,none
+Henri Becquerel,0.009891048,,none
+"Georges-Louis Leclerc, Comte de Buffon",0.005835496,,none
+James D. Watson,0.011997461,,none
+Jennifer Love Hewitt,0.031241544,,none
+Adam Levine,0.0022360608,0.0,valid
+Van McCoy,0.01100865,,none
+disco,0.00825379,0.0,train
+Lana Del Rey,0.4322123,,none
+Irène Joliot-Curie,0.008471921,0.0,train
+Giuseppe Ungaretti,1.0098646,1.0,train
+Joe Jackson,2.104044e-05,,none
+Bernard-Henri Lévy,0.16271017,,none
+Willie Nelson,0.08516722,,none
+New Zealand,0.25068355,,none
+philanthropist,0.80416614,0.0,test
+Euclides da Cunha,0.012710884,0.0,train
+Tim Rose,0.020213604,,none
+Leonardo da Vinci,0.61194813,,none
+Avril Lavigne,1.1457578,,none
+M. Pokora,0.018696204,,none
+John Mayer,0.013940141,,none
+C. S. Lewis,1.172939,,none
+Per Olov Enquist,0.01982287,,none
+Judaism,0.2719369,0.5,valid
+Edgar Allan Poe,0.30926484,,none
+Lisa Lopes,0.009343758,,none
+Charlotte Gainsbourg,-0.023098178,,none
+Ralph Waldo Emerson,0.056446392,,none
+Jason Derulo,0.02943796,,none
+Beatriz Luengo,-0.0037630275,,none
+Lemmy Kilmister,0.01039201,1.0,test
+Germans,-0.015322246,0.0,valid
+Sarah McLachlan,0.012414031,,none
+Courtney Love,0.12533137,,none
+Gladys Knight,0.026606716,,none
+lyricist,0.65023017,,none
+Janelle Monáe,0.080600806,,none
+Paul G. Allen,-0.002632834,,none
+Gackt,0.00842718,,none
+Selena Gomez,-0.014940105,,none
+Ringo Starr,0.6179805,1.0,test
+Hilary Duff,0.47066224,,none
+Latin,1.0112829,1.0,train
+Camille Jordan,0.024675611,,none
+Lance Bass,0.56095576,,none
+Ben Elton,0.09152794,,none
+Jean-Jacques Rousseau,0.5254602,,none
+Vladimir Vysotsky,0.78723705,,none
+Boris Grebenshchikov,0.6286491,,none
+opinion journalist,0.025044616,0.0,test
+David Brewster,0.013946079,,none
+Miguel,0.008634247,,none
+São Tomé and Príncipe,0.33995098,,none
+Philip Warren Anderson,0.42526618,,none
+Romanticism,0.80580616,0.0,test
+John Denver,0.021742381,,none
+Falco,0.7119572,,none
+Walter Benjamin,0.50845116,0.5,train
+librettist,0.107810214,,none
+John Keats,0.49923497,1.0,valid
+physician,0.54184663,,none
+Sony Music,0.7279397,,none
+Bob Mould,0.034581322,,none
+Uzbekistan,1.0490973,,none
+Jaroslav Vrchlický,0.51792914,,none
+Montesquieu,7.312745e-05,0.0,train
+Alexander von Humboldt,0.06334331,,none
+Eminem,-0.00084882975,0.0,train
+Thomas Anders,0.5028513,,none
+Chris Brown,0.1989874,,none
+Daniel Johnston,0.008347355,,none
+Elie Wiesel,0.06567471,,none
+Manhattan,0.013354301,,none
+Qatar,1.169445,,none
+Arab Fund for Economic and Social Development,0.50912154,,none
+indie pop,0.0046864375,0.0,train
+Walt Disney Records,0.9771643,,none
+Jack London,0.62365466,,none
+William Herschel,0.008322388,,none
+John Lennon,0.7230245,1.0,test
+Anna Akhmatova,0.2652555,,none
+Bob Hope,0.29979077,,none
+Moldova,0.726478,,none
+Nick Cannon,0.3205643,,none
+television director,-0.0040708706,0.0,train
+Ike Turner,0.9908004,,none
+Demi Lovato,0.016029075,,none
+Diana Arbenina,0.9429617,,none
+Ne-Yo,0.012951694,,none
+Antigua and Barbuda,0.44088158,,none
+Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,0.5709539,,none
+Lianne La Havas,0.20338604,,none
+Augustine of Hippo,0.4408886,,none
+George Frideric Handel,0.005240448,0.0,train
+Tex Ritter,0.0076221824,,none
+Omar Sharif,0.17736234,,none
+Western,0.008761726,0.0,train
+Osip Mandelstam,-0.00029879063,0.0,train
+Condoleezza Rice,0.40143788,,none
+Peggy Lee,0.83916044,,none
+Visa Waiver Program,0.004688047,0.0,train
+Julio Iglesias,0.007861398,0.0,train
+Steven Weinberg,0.0058599934,,none
+Mark Ronson,1.0033855,1.0,train
+Joseph E. Stiglitz,0.17112637,,none
+Carl Orff,-0.0038639307,,none
+Dominica,0.5115565,,none
+Josephine Baker,0.010319557,,none
+Tim Rice-Oxley,0.004165709,,none
+Vatican City,1.0279055,1.0,train
+conductor,0.036929615,,none
+Nick Cave,0.018389128,,none
+RuPaul,0.06229368,,none
+Donald Trump,0.74976647,,none
+Tanzania,0.7326326,,none
+John Ruskin,0.010298371,0.0,train
+Santa Monica,0.028672516,1.0,test
+Mario Praz,0.0312365,,none
+Federated States of Micronesia,-0.078214936,,none
+Gretchen Wilson,0.63193595,,none
+Ray Bradbury,0.1790132,,none
+science fiction,1.0141144,1.0,train
+Monaco,0.22559625,,none
+Stephen Fry,0.002289705,,none
+Nuclear Suppliers Group,-0.14149496,,none
+John Ciardi,0.052318826,,none
+Ayn Rand,0.49964967,,none
+Dave Matthews,0.010578409,,none
+Jackson Browne,0.0004254505,0.0,train
+Zoolander,0.18290138,,none
+Max Frisch,-0.010515414,0.0,valid
+Erich Kästner,0.7948245,,none
+Dmitry Medvedev,0.5394381,,none
+Saint Petersburg State University,0.4273805,,none
+Neil Tennant,0.03826754,,none
+Friedrich Wilhelm Joseph Schelling,0.009247892,,none
+Oman,0.9839755,,none
+Natasha Shneider,0.07043632,,none
+John Desmond Bernal,0.00069033355,0.0,valid
+Diana Ross,0.70529443,,none
+Snoop Dogg,0.4584261,,none
+Donald Glover,0.08524915,,none
+Jean-Victor Poncelet,0.0018543005,0.0,train
+John Cassavetes,0.035050295,,none
+August Ludwig von Schlözer,1.0109719,1.0,train
+keyboardist,-0.0066559687,,none
+Robert McNamara,0.19197717,,none
+Sergei Korolev,1.1129442,,none
+Kirsten Dunst,-0.0012070462,,none
+Tito Jackson,-0.016035743,,none
+Jerry Garcia,0.008997515,,none
+Robert Schumann,0.029583186,,none
+theoretical physicist,0.015221342,,none
+Robbie Robertson,0.027404606,,none
+Armenia,0.8266125,,none
+Arabic,1.1750463,,none
+Chris Rea,0.006307669,,none
+Leon Battista Alberti,0.06996688,1.0,test
+Al Franken,0.44143432,1.0,test
+Alice Walker,0.38320327,,none
+Rudolf Virchow,0.13465604,,none
+Ayọ,0.3334211,,none
+Moritz von Jacobi,0.035975724,,none
+Avicii,0.77998954,,none
+Khloé Kardashian,0.4622407,,none
+Justin Bieber,0.5993038,,none
+Jordan,0.16224591,,none
+Mark Linkous,0.007177435,0.0,test
+James Clerk Maxwell,-0.038143143,,none
+Decca,-9.444356e-05,0.0,train
+Tracy Chapman,0.31036732,,none
+Friedrich Schiller,0.005642198,0.0,train
+Sarah Silverman,0.10830791,,none
+San Marino,0.4449134,,none
+Gore Vidal,0.019037597,,none
+Wernher von Braun,-0.0149977505,,none
+Plato,0.8868141,1.0,valid
+Charlton Heston,0.008226812,0.25,test
+Idina Menzel,0.0047506914,,none
+Nikolay Semyonov,0.8149873,,none
+German Academy of Sciences at Berlin,-0.005026683,,none
+Curtis Mayfield,0.013534315,,none
+Lara Fabian,0.008804418,0.0,train
+Milton Friedman,0.583437,,none
+Jimi Hendrix,0.5950191,,none
+Damon Albarn,0.5721669,,none
+George Orwell,0.5638313,,none
+James Brown,0.5009811,,none
+Chuck Berry,1.0049554,1.0,train
+Brian Wilson,0.16603546,,none
+Daniel Handler,0.0016764477,,none
+John Cale,0.5040826,0.5,train
+György Ligeti,0.01825216,,none
+Miles Davis,0.21880606,,none
+Petula Clark,0.2027559,,none
+Rita Lee,0.6499651,0.0,test
+executive producer,-0.0073050037,0.0,train
+Ian McEwan,1.0451654,,none
+Benin,0.35133654,,none
+Jean Yanne,0.0010876283,,none
+Sarah Brightman,0.0039266422,0.0,train
+Dudley Moore,0.012782663,,none
+Elmer Bernstein,0.01095926,,none
+Felix Klein,-0.000764437,,none
+Kwame Anthony Appiah,0.32660234,,none
+Paul Simon,-0.013268702,,none
+soft rock,-0.0066745654,,none
+k.d. lang,1.3355632,,none
+Mikhail Lermontov,0.07428257,,none
+Fritz Leiber Junior,0.011395734,,none
+Lena Horne,0.21025044,,none
+Lauren Bacall,0.042664528,,none
+Prince,0.42449498,0.5,test
+Sid Caesar,0.09533325,,none
+Emma Bunton,0.57255256,,none
+Oceania,0.7336526,,none
+Marcellin Berthelot,0.002019845,,none
+Abraham Gotthelf Kästner,0.01915216,,none
+Mel Brooks,0.49856985,,none
+William Blake,-0.0066483095,,none
+Santiago Ramón y Cajal,0.0032998845,,none
+Lisa Marie Presley,1.1598018,,none
+Wolfhart Pannenberg,0.051479734,,none
+Lil Mama,0.02419262,,none
+Serbian Academy of Sciences and Arts,-0.027132027,,none
+Nicole Scherzinger,0.07082224,,none
+NATO,0.3051723,,none
+Sabrina Bryan,0.07240963,,none
+Ilya Ilf,0.20501935,,none
+Liberia,1.1606898,,none
+Selena,0.178024,,none
+prose,0.15017328,1.0,test
+Vladimir Solovyov,0.8068447,,none
+Franco Battiato,0.4485367,,none
+Friedrich Engels,0.51559526,0.5,train
+Herbie Hancock,0.56124675,,none
+Rudolf Christoph Eucken,-0.011717565,,none
+Leó Szilárd,0.37824202,,none
+Brian May,0.59065986,,none
+Hollywood Records,1.3725189,,none
+David Walliams,0.014350932,,none
+August Wilhelm Schlegel,1.1190695,,none
+Felipe Colombo,0.16750464,,none
+Alexz Johnson,0.025245566,,none
+Gotthold Ephraim Lessing,0.00097347796,0.0,train
+funk,-0.0007240549,0.0,train
+Turkmenistan,0.6253205,,none
+Andrey Gubin,0.35638684,,none
+Judd Apatow,1.0057364,1.0,train
+Konstantin Simonov,0.596316,,none
+Aaliyah,0.88860524,,none
+James Cameron,0.2097964,,none
+Simon Newcomb,-0.003104329,,none
+Mark Oliver Everett,0.010540336,,none
+Mae West,-0.056302436,,none
+Vince Neil,-0.0025597587,,none
+Mika,-0.0055848286,0.0,train
+Jordin Sparks,0.0072680563,,none
+Lewis Carroll,0.124601915,,none
+Richard Francis Burton,0.004146591,,none
+Kevin Spacey,0.011070181,,none
+Council of Europe,1.0254233,1.0,train
+Franz Liszt,0.66115546,,none
+Henri Bergson,0.5957759,0.5925925925925926,train
+Peter Ustinov,-0.011491977,,none
+Franz Miklosich,0.008436181,0.0,train
+Mick Ronson,0.42033052,,none
+Umberto Eco,-0.004937969,0.0,train
+Sandy,0.01313702,,none
+Yehudi Menuhin,0.0026369393,0.0,valid
+Caribbean Development Bank,-0.077098794,,none
+Kinky Friedman,0.009693198,,none
+G. K. Chesterton,0.57994115,,none
+Austrian Academy of Sciences,0.004874252,,none
+Whitney Houston,0.6102811,,none
+George Ellery Hale,0.003896296,,none
+Dmitri Shostakovich,0.6809825,,none
+Latin America,1.6063876,,none
+Joe Dassin,0.21225315,,none
+Tonga,0.1878455,,none
+AJ Michalka,0.0035226494,,none
+Danny Glover,0.056924198,,none
+Julian Barnes,-0.004846677,,none
+Ernest Hemingway,0.48096836,,none
+geographer,0.026991058,0.0,test
+Cat Stevens,-0.0031028613,,none
+Alexander Alexandrovich Fadeyev,0.20397365,,none
+Amanda Palmer,0.05138111,,none
+Neil Gaiman,0.01685356,,none
+Mikhail Bulgakov,0.9093269,,none
+Noël Coward,0.02123662,,none
+Saint Kitts and Nevis,-0.044525094,,none
+Oleg Skripka,0.0045765415,0.0,train
+Big Boi,0.0032754317,,none
+opera singer,1.0169276,1.0,train
+Britney Spears,1.3345182,,none
+satire,0.5901422,,none
+Brandy Norwood,0.2330145,,none
+chemistry,0.043544218,,none
+Joan Rivers,0.36028934,,none
+Ève Curie,0.35684755,,none
+music critic,0.094923526,,none
+Paul Valéry,-0.0471315,,none
+Trent Reznor,-0.0005433187,,none
+Hans Mayer,-0.005398996,,none
+Tatyana Tolstaya,0.23773238,,none
+Mstislav Keldysh,0.4789341,,none
+Royal Society of Edinburgh,0.18146172,,none
+Ani DiFranco,-0.003077574,,none
+Ray Davies,0.063411154,,none
+progressive rock,0.36989778,,none
+Oswald Heer,0.029190034,,none
+Ludwig Maximilian University of Munich,0.015075963,,none
+Romain Gary,0.6430061,,none
+Barry Manilow,0.002354212,,none
+Ernst Curtius,1.010601,1.0,train
+Victor Hugo,-0.015562214,,none
+Jacques Brel,0.14128011,,none
+Middle East,1.7064301,,none
+Ian McLagan,1.0033841,1.0,train
+Richard Stallman,0.008851841,,none
+John von Neumann,0.06292986,,none
+John Milton,0.15255697,,none
+Debby Ryan,0.021659087,,none
+Léon Theremin,0.65344507,,none
+Lowell George,0.028997913,,none
+Marlon Jackson,-0.008645207,,none
+Bridgit Mendler,0.0008750856,,none
+Paul Anka,0.8715348,,none
+"William Thomson, 1st Baron Kelvin",-0.00052883476,0.0,train
+Heinrich Schliemann,0.71139055,0.0,test
+Swedish,0.7610693,,none
+Steven Van Zandt,0.007319726,,none
+Ludacris,0.0046947226,,none
+Dolly Parton,1.1808078,,none
+Atlanta,1.011081,1.0,train
+Michael Nesmith,0.006736882,,none
+Master P,0.030440956,,none
+AFRISTAT,1.328416,,none
+Thomas Carlyle,-0.009621166,0.0,train
+Liberace,0.015645124,,none
+Aimee Mann,0.11028756,,none
+Ariana Grande,0.33935693,,none
+Cameroon,0.81912553,,none
+Jacques Rivette,0.32323474,,none
+Donny Osmond,0.0181822,,none
+non-fiction writer,0.52637804,,none
+Kid Cudi,0.26712072,,none
+art rock,0.0034281537,0.0,train
+Gotthelf Fischer von Waldheim,0.005135745,0.0,test
+H. P. Lovecraft,0.16065595,,none
+inventor,0.7549139,,none
+Karlheinz Stockhausen,0.11586805,,none
+MC Hammer,-0.0015961602,,none
+Ricky Nelson,0.041461043,,none
+MCA Records,0.0018757954,0.0,train
+Frank Wedekind,0.17233247,,none
+Avicenna,1.7468485,,none
+Steve Carell,0.4046801,0.4,train
+Michel Houellebecq,-0.009807326,,none
+Sting,0.00453189,,none
+heavy metal,0.007741593,,none
+Charles Baudelaire,-0.04913594,,none
+Russians,0.5442449,0.0,valid
+Nas,0.06650672,,none
+Fred Astaire,-0.009259053,,none
+Van Morrison,0.006221749,,none
+"""University of California, Berkeley""",0.309161,,none
+Julie Driscoll,0.35802585,,none
+David Attenborough,0.010050803,,none
+China Anne McClain,0.6719731,,none
+Emilie Autumn,0.009212039,,none
+Zbigniew Herbert,0.5317567,,none
+"Academy of Arts, Berlin",0.015459213,,none
+Willow Smith,0.030220691,,none
+Iggy Pop,0.012897119,0.0,train
+Felix Philipp Kanitz,-0.021369107,,none
+Ján Kollár,0.48166817,,none
+Erwin Raisz,0.42381555,,none
+Vincent Gallo,-0.0034318864,,none
+Carlo Rubbia,-0.005167678,0.0,train
+German Democratic Republic,0.04556945,,none
+Spike Milligan,0.46284145,,none
+Mick Jagger,0.8606488,1.0,test
+Amr Diab,0.026383057,,none
+Vitas,0.045472562,,none
+Edward Said,0.020418644,,none
+Treaty on Open Skies,0.060764648,,none
+Henry James,0.00097415596,,none
+Herman Francis Mark,-0.006588362,,none
+Charles Babbage,0.037342202,,none
+Elizabeth II,1.6278533,,none
+James Blake,-0.004475914,,none
+Lena Meyer-Landrut,0.0061037764,,none
+Jodie Foster,0.006755002,,none
+Heinrich Böll,0.081946686,,none
+theologian,0.96273863,1.0,valid
+Toni Braxton,-0.0023716614,0.0,train
+Tara Strong,0.13879822,,none
+T.I.,0.27023423,,none
+Karl Lachmann,0.046170086,,none
+Leon Russell,0.59425145,0.5882352941176471,train
+Arab Monetary Fund,0.4836011,,none
+Eugène Ionesco,0.1561504,,none
+John Paul II,0.9769779,,none
+Shania Twain,0.45254853,,none
+Sam Cooke,-0.010032333,0.0,test
+Czech,1.0497992,,none
+David Lindley,0.051550616,,none
+Gustavo Cerati,0.005799979,,none
+Tori Amos,0.21494871,,none
+Priscilla Presley,1.3168284,,none
+Cass Elliot,0.006048061,,none
+"Tyler, the Creator",0.0151445195,,none
+Bruce Springsteen,0.0030529946,0.0,train
+Salman Rushdie,0.008191071,,none
+Brad Delson,0.01913748,,none
+Shen Kuo,0.0097946,,none
+geologist,-0.010223657,,none
+Georg Christoph Lichtenberg,0.3907671,,none
+Joumana Haddad,0.00089304894,0.0,valid
+Giovanni Schiaparelli,0.4700756,,none
+Andrew Ridgeley,0.19266069,,none
+astronomy,0.008808486,,none
+Vladimir Obruchev,0.6643937,,none
+Renaud,0.0015732497,,none
+Wiz Khalifa,0.07422602,,none
+Vitaly Ginzburg,0.2784784,,none
+Stephen Jay Gould,0.011475638,0.0,train
+Jack White,-0.00093420595,,none
+film editor,0.0054851696,,none
+Nelly,1.0134635,,none
+David Lynch,0.015202634,,none
+Colm Tóibín,0.02233728,1.0,test
+Robert De Niro,-0.0030657127,,none
+Leipzig,-0.005471416,,none
+E. T. A. Hoffmann,0.29041597,,none
+Mihajlo Pupin,-0.009312414,,none
+Guy de Maupassant,0.29940903,,none
+Jeff Goldblum,0.5914558,,none
+Debbie Harry,0.5438117,,none
+James Blunt,0.039089,,none
+Christopher Hitchens,0.11116562,,none
+Charles Wheatstone,0.08017638,,none
+Ludwig Prandtl,0.81091535,,none
+John Cage,-0.009073682,,none
+Henri Victor Regnault,-0.013360783,,none
+Lev Gumilyov,0.22697484,,none
+Hulk Hogan,0.020196833,,none
+Corbin Bleu,-0.014210753,,none
+play,0.07913851,,none
+blogger,0.0023254901,,none
+Enzo Jannacci,1.009954,1.0,train
+Connie Smith,0.41025445,,none
+Beverly Hills,0.003289096,0.0,train
+blues rock,0.31117547,,none
+Lars Onsager,0.020134073,,none
+Janis Joplin,0.0020411387,,none
+Mario Vargas Llosa,-0.01406724,,none
+Pierre-Joseph Proudhon,0.5162604,0.5,train
+Italo Calvino,0.37025386,,none
+Dmitry Glukhovsky,0.79258186,,none
+Telly Savalas,0.467965,,none
+František Palacký,-0.012077048,,none
+Zoë Kravitz,0.07558177,,none
+Karl Popper,0.0085837245,0.0,train
+Bill Monroe,0.6600659,,none
+Antonin Artaud,0.12147669,,none
+Brendon Urie,0.0051015317,,none
+Martin Sheen,0.021505795,,none
+Wole Soyinka,-0.0075872913,,none
+Sky Ferreira,0.0070375204,,none
+Sean Combs,0.0076299533,,none
+Valentin Kataev,0.056470174,,none
+Michael Cera,0.0073161945,,none
+Ed Harris,0.0044426396,,none
+Robert Louis Stevenson,0.24831355,,none
+Nikolay Ogarev,0.26563624,,none
+Violetta Villas,0.31937677,,none
+Janis Ian,0.460586,0.45,train
+Masiela Lusha,0.0056142285,,none
+Ivan Urgant,0.34785706,,none
+Ralph Ellison,0.16891813,,none
+Gene Kelly,0.1179936,,none
+Pyotr Ilyich Tchaikovsky,0.95338297,,none
+Theo van Gogh,0.011619933,,none
+Guglielmo Marconi,0.0506866,,none
+Amos Oz,0.04366223,,none
+Hyde,0.02009112,,none
+Max Born,0.0061235353,,none
+Ivor Novello,0.373542,,none
+Wilhelm Blaschke,0.68506676,,none
+Fiona Apple,-0.00157509,,none
+Vladislav Krapivin,0.9665315,,none
+Zdeněk Nejedlý,0.18323101,,none
+Lou Reed,0.21610948,,none
+Mýa,0.021277353,,none
+Thomas Jefferson,0.01563929,,none
+Edvard Radzinsky,1.6026558,,none
+Samuel R. Delany,0.15047553,,none
+Adolf Erik Nordenskiöld,0.80015856,,none
+San Francisco,0.023179375,,none
+William Morris,0.3635933,,none
+Alexander Bogdanov,0.2989881,0.0,valid
+Alexander Emanuel Agassiz,0.8651855,,none
+Jean Cocteau,0.2636227,,none
+Allan Sherman,0.08478092,,none
+Octavio Paz,0.6890565,,none
+Gustav Landauer,0.01150915,,none
+Mikhail Bakunin,1.0124791,1.0,train
+Arnold Schwarzenegger,0.11993804,1.0,valid
+Lucio Dalla,0.0051975176,,none
+Graham Parker,0.005103521,,none
+Bobby Brown,0.93864197,,none
+Dee Dee Bridgewater,0.013026249,,none
+Mylène Farmer,0.011429526,,none
+Billy Connolly,0.012354672,,none
+Charlie Wilson,0.00422439,,none
+mandolin,0.0039083064,0.0,train
+John Maynard Keynes,-0.0026290938,0.0,train
+gospel music,0.5840136,0.0,test
+Johnny Cash,0.0025602207,0.0,train
+Karl Valentin,0.28556737,,none
+Billy Preston,1.0105524,1.0,train
+Rihanna,1.0504278,,none
+Jennifer Hudson,0.012344442,,none
+poet lawyer,0.006624803,,none
+Ray Lankester,-0.010381997,,none
+J. J. Abrams,0.395446,,none
+Gloria Trevi,0.82353055,,none
+Deryck Whibley,0.7069229,,none
+Alsou,-0.0029461458,,none
+Jacques Derrida,1.0054694,1.0,train
+Manu Chao,0.0032875612,,none
+Etta James,0.0007850081,0.0,train
+William Faulkner,-0.010495469,,none
+Tina Arena,0.020270132,,none
+Kevin Costner,-0.005723521,,none
+Yasmina Reza,0.007857047,,none
+Theodor Mommsen,0.0057223067,0.0,train
+Eastern Orthodox Church,0.64037955,,none
+Vladimir Putin,0.73982966,,none
+Antoine César Becquerel,-0.022117086,,none
+Ciara,0.108464435,,none
+traditional pop music,0.31373557,,none
+Rita Levi-Montalcini,-0.006451376,0.0,train
+Pontifical Academy of Sciences,0.15374678,,none
+Jô Soares,0.0010932311,0.0,train
+Goldie Hawn,0.019084595,,none
+Hayley Williams,0.30315572,,none
+Paul Auster,0.0025565699,,none
+Isaac Bashevis Singer,0.21796972,,none
+Valery Leontiev,0.014881905,,none
+Kate Bush,0.025277846,,none
+Sticky Fingaz,-0.0023223087,,none
+Mick Wingert,0.28086975,,none
+Warner Music Group,0.0082997605,0.0,train
+Neil Diamond,0.03090489,,none
+Viggo Mortensen,0.043801267,,none
+Hanns Eisler,0.0033133551,,none
+Waylon Jennings,0.38070086,,none
+Harry Shearer,-2.6002526e-05,,none
+Stephen Hawking,-0.002011463,,none
+University of Vienna,0.57503057,,none
+Arab Bank for Economic Development in Africa,0.038073897,,none
+Neil Patrick Harris,0.0109053105,,none
+John Legend,0.16570982,,none
+"Sir George Stokes, 1st Baronet",0.011647321,0.0,valid
+Sergey Lazarev,1.0677323,,none
+Edmund Wilson,0.5085243,0.5,train
+Arnold Schoenberg,0.21626237,,none
+Paul Langevin,0.0107502155,,none
+RZA,0.8089026,,none
+Golo Mann,-0.009275131,,none
+Darius Milhaud,0.31916806,,none
+Slavoj Žižek,0.2766768,0.5,test
+Cree Summer,0.01863528,,none
+Joseph Brodsky,0.43170717,0.4210526315789473,train
+Haruki Murakami,0.264345,,none
+naturalist,0.0025753304,,none
+Tomáš Garrigue Masaryk,0.011769913,0.0,train
+The Compleat Beatles,-0.0003483221,0.0,train
+Christianity,0.37326875,0.0,valid
+John Farnham,0.014657736,0.0,train
+Walt Disney,0.9244571,,none
+Samuel Beckett,-0.012117811,,none
+Ralph Vaughan Williams,0.06166018,,none
+political scientist,0.5230459,,none
+Kiribati,-0.0779352,,none
+Lea Michele,0.7511541,,none
+Martie Maguire,0.064327925,,none
+Ernst Chladni,0.8539957,,none
+Stephen King,1.0607935,,none
+Elizabeth Bishop,0.13146403,,none
+Jonathan Swift,0.029023774,,none
+"Alexander R. Todd, Baron Todd",0.4443041,,none
+Frédéric Joliot-Curie,-0.02116143,,none
+Jill Scott,0.019444354,,none
+Julie Delpy,0.22173363,,none
+Andy Griffith,0.014446281,,none
+Joe Cocker,0.015647396,0.0,train
+Émile Zola,0.2216171,,none
+West Germany,-0.019588478,,none
+André-Marie Ampère,0.37378433,,none
+John Kenneth Galbraith,-0.022318639,,none
+Andrey Vyshinsky,1.4226763,,none
+Marcel Proust,0.02729538,,none
+William Shatner,0.18044452,,none
+Dante Alighieri,1.0171211,1.0,train
+Michel de Montaigne,0.22827202,,none
+Fazil Iskander,0.23711142,,none
+Nicholas Marr,0.3862312,,none
+Ross Bagdasarian Sr.,-0.015109442,,none
+Sacha Baron Cohen,-0.005505532,,none
+Nino Manfredi,0.20594135,,none
+John Bardeen,0.0059302375,,none
+Yul Brynner,0.31633618,,none
+Jean Renoir,0.10327396,,none
+Yuri Shevchuk,0.7809212,,none
+Chord Overstreet,0.027288038,,none
+Dean Martin,0.010410331,,none
+Beth Hart,0.022065304,,none
+Lion Feuchtwanger,0.01011885,,none
+Redman,0.10153395,,none
+Don DeLillo,0.00028353184,,none
+Slash,0.008143589,,none
+Michael Mann,-0.010898173,,none
+Steven Tyler,0.06564422,,none
+Société Philomathique de Paris,0.5865046,,none
+Donald Knuth,0.41117454,,none
+Alfred Schnittke,0.77289945,,none
+Éric Rohmer,0.16725829,,none
+Johann Christoph Gottsched,0.002347529,,none
+Paul Hindemith,0.062002584,,none
+Debbie Gibson,0.24596405,,none
+GoonRock,0.0018656701,,none
+Gordon Lightfoot,0.0016680285,,none
+Jan Hammer,0.6971564,,none
+Jerry Lee Lewis,0.9488251,,none
+Marc Connelly,-0.0039454475,,none
+Russian Soviet Federative Socialist Republic,0.20121479,,none
+Jacobus Henricus van 't Hoff,-0.008051142,,none
+Lori Lieberman,0.088175304,,none
+Kelly Rowland,0.948385,,none
+Kenneth Burke,0.008653499,0.0,train
+William H. Macy,0.4178388,,none
+Alexis Korner,0.022077106,,none
+Jon Bon Jovi,-0.0024335682,0.0,train
+Keith Richards,1.01657,1.0,train
+American Jews,0.23377386,,none
+Peter Handke,-0.0063484684,,none
+Thomas Mann,0.018649545,,none
+Akon,0.3618776,0.3529411764705882,train
+Bette Midler,-0.009911448,,none
+Def Jam Recordings,-0.0122073665,,none
+Queen Latifah,0.038129967,,none
+Père Lachaise Cemetery,0.49965733,,none
+August Schleicher,0.7188832,,none
+Jennette McCurdy,0.18074301,,none
+Friedrich Schlegel,0.571118,,none
+John Cleese,0.0029363558,,none
+Lucy Liu,0.004260622,,none
+Hannes Alfvén,0.065179005,,none
+Saul Williams,-0.0006691441,,none
+Leszek Kołakowski,0.34418777,0.3333333333333333,train
+Tuvalu,-0.07216447,,none
+Christina Aguilera,0.49113727,,none
+Paris Hilton,1.1275983,,none
+European Southern Observatory,0.3697468,,none
+Anna Karina,0.023417808,,none
+Mariah Carey,-0.0020988584,,none
+Dr. Dre,0.29134724,,none
+Stacie Orrico,0.10691468,,none
+Sean Lennon,0.24394047,,none
+ABC Records,0.5469854,0.0,valid
+Vladimir Turchinsky,0.55721474,,none
+Sergei Gerasimov,0.11247939,,none
+Dave Mustaine,0.01488784,,none
+Bo Burnham,0.006488584,,none
+Nazi Germany,-0.0149244,,none
+Harald Lesch,0.010127794,,none
+Lily Allen,0.5083311,0.5,train
+Bella Thorne,0.025848329,,none
+David Mamet,0.15722814,,none
+Hugo Huppert,-8.247793e-06,0.0,train
+Nahum Sokolow,-0.007287331,,none
+Eleanor Roosevelt,1.300589,,none
+Stefan Zweig,0.72729135,0.0,test
+Al-Biruni,1.0159556,1.0,train
+Eduard Limonov,1.011831,1.0,train
+Ted Nugent,0.09272469,,none
+CeeLo Green,0.7447724,0.7333333333333333,train
+Ingrid Michaelson,0.32934195,,none
+Anatole Abragam,0.5225744,,none
+Yoshiki,0.0038599,,none
+East Africa,1.4245547,,none
+Ingmar Bergman,-0.02301512,,none
+Novodevichy Cemetery,0.05985464,,none
+Göttingen,0.20744923,,none
+Julian Fellowes,0.026131283,,none
+Tyrese Gibson,0.017151393,,none
+Hayley Kiyoko,0.48058128,,none
+Joseph-Louis Lagrange,0.23662701,,none
+James Taylor,-0.06560054,,none
+Leo Strauss,0.35787135,,none
+Roman Jakobson,0.0008953437,0.0,train
+Joe Satriani,0.008372195,0.0,train
+street artist,0.029220559,,none
+Sean Penn,0.088565335,,none
+Laura Marano,0.020750199,,none
+Yo-Yo Ma,0.011835501,,none
+Raymond Scott,-0.009891361,,none
+Gaspard de Prony,0.0023101568,,none
+Ludvig Holberg,0.0015918389,0.0,train
+"Clarence ""Gatemouth"" Brown",0.091402434,0.0,valid
+University of Oxford,-0.0073710606,,none
+Walker Percy,0.53221154,,none
+Carl Sagan,0.278458,,none
+Jonathan Winters,0.07336206,,none
+Robin Williams,0.12745525,,none
+Ivan Franko,-0.0019635707,0.0,train
+Gavriil Troyepolsky,0.47108632,,none
+Bruce Willis,0.036458332,,none
+Ryan Tedder,0.016113922,,none
+Theodor Nöldeke,-0.010928333,,none
+Ayumi Hamasaki,0.12511554,,none
+Thomas Aquinas,0.509418,0.5,train
+Kris Kristofferson,0.012725245,,none
+Fredro Starr,0.00057599694,,none
+Anthony Kiedis,0.7200792,,none
+"Robert Downey, Jr.",0.066963665,,none
+Galileo Galilei,1.0075412,1.0,train
+Leonid Leonov,1.0030022,,none
+bipolar disorder,0.44893485,,none
+Woodrow Wilson,0.6954293,,none
+Robert Graves,-0.03205485,,none
+Douglas Adams,0.08000946,,none
+Kurt Weill,0.027753085,,none
+Mel Gibson,0.042692684,,none
