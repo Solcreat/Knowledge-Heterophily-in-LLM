@@ -211,7 +211,7 @@ python -c "from huggingface_hub import snapshot_download; snapshot_download(repo
 ### GNN training - GPR-GNN trained on anchor entity scores; predicts scores for all unlabeled by the model entities.
 ### Ignorance-guided selection - Selects the least knowledgeable entities with the most connections.
 ### Fine-tuning - `UnslothTrainer` runs on the combined anchor + selected triplet set
-### Evaluation - Once the model is fine-tuned, it is being queried on a test set from the graph + anchor prompts. From here we gain knowledge score!
+### Evaluation - Once the model is fine-tuned, it is being queried on a test set from the graph without fine-tuned triplets. From here we gain knowledge score!
 ---
 # Configuration
 
