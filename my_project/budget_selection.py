@@ -5,14 +5,12 @@ Two functions:
 
   select_anchor_triplets(...)
       Entity-centric, degree-stratified sampling for the 20% anchor set.
-      Improvement over original: round-robin across degree bins so the GNN
+      Round-robin across degree bins so the GNN
       trains on a diverse neighborhood signal (not just high-degree hubs).
 
   select_ignorance_guided(...)
-      Implements the pseudocode greedy budget allocation.
-      Improvement over pseudocode: the CASE-B fallback candidate pool still
-      excludes explicitly-excluded triplets (anchors), so they can never be
-      accidentally re-queued.
+      the candidate pool still excludes explicitly-excluded triplets
+      (anchors), so they can never be accidentally re-queued.
 """
 
 from __future__ import annotations

@@ -1,7 +1,7 @@
 """
 finetune.py
 -----------
-Part 2: Fine-tune the LLM on anchor (20%) + ignorance-selected (80%) triplets.
+Fine-tune the LLM on ignorance-selected triplets.
 
 Pipeline
 --------
